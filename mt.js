@@ -266,7 +266,7 @@ MT.util = function () {
     commentsTotalPages = Math.ceil(totalComments / commentsPerPage);
     pageNum = 1;
     
-    loadingIcon = "<img title='Loading...' src='http://goodlookslikethis.com/assets/images/indicator.white.gif' alt='Loading' />";
+    loadingIcon = "<img title='Loading...' src='/assets/images/indicator.white.gif' alt='Loading' />";
     
     commentContentDiv = M.getEl("comments-content");
     topNav = M.getEl("top-comment-nav");
@@ -441,7 +441,7 @@ MT.util = function () {
         .join('-')
         .replace(/[^a-zA-Z0-9-]/g, '');
     jsonUrl  = [
-        "http://goodlookslikethis.com/mt/mt-comments.cgi?__mode=comment_listing&direction=",
+        "/mt/mt-comments.cgi?__mode=comment_listing&direction=",
         direction,
         "&entry_id=",
         entryID,
@@ -654,7 +654,7 @@ function mtFetchUser(cb) {
         var u = mtGetUser();
         var script = document.createElement('script');
         var ts = new Date().getTime();
-        script.src = 'http://goodlookslikethis.com/mt/mt-comments.cgi?__mode=userinfo&blog_id=45&jsonp=' + cb + '&ts=' + ts + '&sid=' + u.sid;
+        script.src = '/mt/mt-comments.cgi?__mode=userinfo&blog_id=45&jsonp=' + cb + '&ts=' + ts + '&sid=' + u.sid;
         (document.getElementsByTagName('head'))[0].appendChild(script);
     }
 }
@@ -664,7 +664,7 @@ function mtVerifySession(cb) {
     var script = document.createElement('script');
     var ts = new Date().getTime();
     var u = mtGetUser();
-    script.src = 'http://goodlookslikethis.com/mt/mt-comments.cgi?__mode=verify_session&blog_id=45&jsonp=' + cb + '&ts=' + ts + '&sid=' + u.sid;
+    script.src = '/mt/mt-comments.cgi?__mode=verify_session&blog_id=45&jsonp=' + cb + '&ts=' + ts + '&sid=' + u.sid;
     (document.getElementsByTagName('head'))[0].appendChild(script);
 }
 
@@ -794,7 +794,7 @@ mtAttachEvent('usersignin', mtUserOnLoad);
 function mtSignIn() {
     var doc_url = document.URL;
     doc_url = doc_url.replace(/#.+/, '');
-    var url = 'http://goodlookslikethis.com/mt/mt-comments.cgi?__mode=login&blog_id=45';
+    var url = '/mt/mt-comments.cgi?__mode=login&blog_id=45';
     if (is_preview) {
         if ( document['comments_form'] ) {
             var entry_id = document['comments_form'].entry_id.value;
@@ -839,7 +839,7 @@ function mtSignOut(entry_id) {
     mtClearUser();
     var doc_url = document.URL;
     doc_url = doc_url.replace(/#.+/, '');
-    var url = 'http://goodlookslikethis.com/mt/mt-comments.cgi?__mode=handle_sign_in&static=0&logout=1&blog_id=45';
+    var url = '/mt/mt-comments.cgi?__mode=handle_sign_in&static=0&logout=1&blog_id=45';
     if (is_preview) {
         if ( document['comments_form'] ) {
             var entry_id = document['comments_form'].entry_id.value;
@@ -885,7 +885,7 @@ function mtShowGreeting() {
         } else {
             var user_link;
             if ( u.is_author ) {
-                user_link = '<a href="http://goodlookslikethis.com/mt/mt-comments.cgi?__mode=edit_profile&blog_id=45&return_url=' + encodeURIComponent( location.href );
+                user_link = '<a href="/mt/mt-comments.cgi?__mode=edit_profile&blog_id=45&return_url=' + encodeURIComponent( location.href );
                 user_link += '">' + u.name + '</a>';
             } else {
                 // registered user, but not a user with posting rights
@@ -1130,14 +1130,14 @@ window.onload = mtInit;
 function mtLoggedIn(ott) {
     var script = document.createElement('script');
     var ts = new Date().getTime();
-    script.src = 'http://goodlookslikethis.com/mt/mt-comments.cgi?__mode=userinfo&jsonp=mtSaveUserInfo&ott=' + ott;
+    script.src = '/mt/mt-comments.cgi?__mode=userinfo&jsonp=mtSaveUserInfo&ott=' + ott;
     (document.getElementsByTagName('head'))[0].appendChild(script);
 }
 
 function mtRefreshUserInfo(sid) {
     var script = document.createElement('script');
     var ts = new Date().getTime();
-    script.src = 'http://goodlookslikethis.com/mt/mt-comments.cgi?__mode=userinfo&jsonp=mtSaveUserInfo&sid=' + sid;
+    script.src = '/mt/mt-comments.cgi?__mode=userinfo&jsonp=mtSaveUserInfo&sid=' + sid;
     (document.getElementsByTagName('head'))[0].appendChild(script);
 }
 

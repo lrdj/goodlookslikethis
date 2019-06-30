@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Good looks like this</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/" />
-    <link rel="self" type="application/atom+xml" href="http://goodlookslikethis.com/atom.xml" />
+    <link rel="alternate" type="text/html" href="/" />
+    <link rel="self" type="application/atom+xml" href="/atom.xml" />
     <id>tag:goodlookslikethis.com,2014-04-16:/45</id>
     <updated>2017-02-18T10:57:04Z</updated>
     <subtitle>Some of Dug&apos;s more interesting design work things</subtitle>
@@ -10,7 +10,7 @@
 
 <entry>
     <title>Carpetright customer satisfaction survey</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/carpetright-customer-satisfaction-survey.html" />
+    <link rel="alternate" type="text/html" href="/carpetright-customer-satisfaction-survey.html" />
     <id>tag:goodlookslikethis.com,2017://45.12592</id>
 
     <published>2017-02-18T10:41:11Z</published>
@@ -19,7 +19,7 @@
     <summary> The biggest challenge of CSAT survey handling is how to create a question/answer flow that allows the customer to describe the problem while ensuring this data is correctly stored and acted on. I just had a hickup in a...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
     <category term="carpetright" label="Carpetright" scheme="http://www.sixapart.com/ns/types#tag" />
@@ -32,8 +32,8 @@
     <category term="servicedesign" label="Service Design" scheme="http://www.sixapart.com/ns/types#tag" />
     <category term="systemsthinking" label="Systems thinking" scheme="http://www.sixapart.com/ns/types#tag" />
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
-        <![CDATA[<p><img src="http://goodlookslikethis.com/assets_c/2017/02/carpetright-interior-thumb-580xauto-1702.jpg" alt="We hope you're enjoying your new Flooring. Here's another thing to be happy about. By simply completing our quick survey you could win yourself £500 Carpetright vouchers, or the value of your recent order!" /></p>
+    <content type="html" xml:lang="en-us" xml:base="/">
+        <![CDATA[<p><img src="/assets_c/2017/02/carpetright-interior-thumb-580xauto-1702.jpg" alt="We hope you're enjoying your new Flooring. Here's another thing to be happy about. By simply completing our quick survey you could win yourself £500 Carpetright vouchers, or the value of your recent order!" /></p>
 
 <p>The biggest challenge of CSAT survey handling is how to create a question/answer flow that allows the customer to describe the problem while ensuring this data is correctly stored and acted on.</p>
 
@@ -69,7 +69,7 @@
 
 <entry>
     <title>Content strategy template</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/content-strategy-template.html" />
+    <link rel="alternate" type="text/html" href="/content-strategy-template.html" />
     <id>tag:goodlookslikethis.com,2016://45.12590</id>
 
     <published>2016-05-20T10:23:12Z</published>
@@ -78,14 +78,14 @@
     <summary> Love this graphic from a talk by Meghan Casey at &#8216;Digimarcon Canada&#8217; A lot of my clients and workshop attendees tell me that they don&#8217;t have a clear idea of what they hope to accomplish with their content. Or...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
-        <![CDATA[<p><img alt="Customers don't have a clear idea of what they hope to accomplish with their content. Or if they do have a clear idea, it's not written down." src="http://goodlookslikethis.com/assets_c/2016/05/core-content-strategy-statement-template_filled-600x250-thumb-580xauto-1686.jpg" width="580" height="241" /></p>
+    <content type="html" xml:lang="en-us" xml:base="/">
+        <![CDATA[<p><img alt="Customers don't have a clear idea of what they hope to accomplish with their content. Or if they do have a clear idea, it's not written down." src="/assets_c/2016/05/core-content-strategy-statement-template_filled-600x250-thumb-580xauto-1686.jpg" width="580" height="241" /></p>
 
 <p>Love this graphic from a talk by Meghan Casey at <a href="http://digimarconcanada.ca/keep-your-content-on-strategy-with-this-single-statement-templates/" title="Check out the conference site">&#8216;Digimarcon Canada&#8217;</a></p>
 
@@ -101,7 +101,7 @@
 
 <entry>
     <title>Thoughts on static site builders and continuous deployment</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/thoughts-on-static-site-builders-and-continuous-deployment.html" />
+    <link rel="alternate" type="text/html" href="/thoughts-on-static-site-builders-and-continuous-deployment.html" />
     <id>tag:goodlookslikethis.com,2016://45.12589</id>
 
     <published>2016-03-15T08:56:40Z</published>
@@ -110,13 +110,13 @@
     <summary>I&#8217;ve been working with some developers recently and decided to evaluate a website production workflow built around Jekyll, a static site generator (I&#8217;ve been interested in these for a while, not least because this site is generated and hosted using...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+    <content type="html" xml:lang="en-us" xml:base="/">
         <![CDATA[<p>I&#8217;ve been working with some developers recently and decided to evaluate a website production workflow built around <a href="https://jekyllrb.com/" title="Jekyll website">Jekyll</a>, a static site generator (I&#8217;ve been interested in these for a while, not least because this site is generated and hosted using Movable Type, the daddy of static site generators.</p>
 
 <blockquote>
@@ -209,7 +209,7 @@ Improved customer satisfaction
 
 <entry>
     <title>Being a better agency (accountability and engagement)</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/accountability-v-engagement.html" />
+    <link rel="alternate" type="text/html" href="/accountability-v-engagement.html" />
     <id>tag:goodlookslikethis.com,2015://45.12400</id>
 
     <published>2015-11-12T11:11:44Z</published>
@@ -218,16 +218,16 @@ Improved customer satisfaction
     <summary>So a friend of mine recently gave me a book on mathematics which has got me thinking about stuff in new ways. Early on in the book the author introduces the impact of linear relationships on how we reach conclusions...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+    <content type="html" xml:lang="en-us" xml:base="/">
         <![CDATA[<p>So a friend of mine recently gave me <a href="http://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535" title="The book on Amazon">a book on mathematics</a> which has got me thinking about stuff in new ways. Early on in the book the author introduces the impact of linear relationships on how we reach conclusions about the rights and wrongs of situations.</p>
 
-<p><a href="http://goodlookslikethis.com/i/acc-eng.png"><img alt="Accountability and engagement in non-linear relationship" src="http://goodlookslikethis.com/assets_c/2015/11/acc-eng-thumb-580xauto-1683.png" width="580" height="312"  style="" /></a></p>
+<p><a href="/i/acc-eng.png"><img alt="Accountability and engagement in non-linear relationship" src="/assets_c/2015/11/acc-eng-thumb-580xauto-1683.png" width="580" height="312"  style="" /></a></p>
 
 <p>So here&#8217;s a thought: Agencies increasingly understand that accountability is important in winning and retaining customers. Linear reasoning would say that if a little accountability produced good results, then more accountability would produce even better results. This is the &#8220;more is better&#8221; way of thinking.</p>
 
@@ -247,7 +247,7 @@ Improved customer satisfaction
 
 <entry>
     <title>Question at work: Where are you at with wearables?</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/question-this-morning-where-are-you-at-with-wearables.html" />
+    <link rel="alternate" type="text/html" href="/question-this-morning-where-are-you-at-with-wearables.html" />
     <id>tag:goodlookslikethis.com,2015://45.12399</id>
 
     <published>2015-03-20T11:53:15Z</published>
@@ -256,13 +256,13 @@ Improved customer satisfaction
     <summary>Well... good question:-) I think it might be worth pulling the problem apart a little bit. What do we mean by wearables? If I could chip my 13-year-old daughter I possibly would. This would make her body part of the...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+    <content type="html" xml:lang="en-us" xml:base="/">
         <![CDATA[<p>Well... good question:-)</p>
 
 <p>I think it might be worth pulling the problem apart a little bit. What do we mean by wearables?</p>
@@ -271,7 +271,7 @@ Improved customer satisfaction
 
 <p>Same thing applies to other devices that are either permanently online or can trigger a beacon. I backed Tile and bought a card https://www.thetileapp.com and it's pretty cool. I've got a few attached to things I carry around in my laptop bag.</p>
 
-<p><img alt="Tileapp" src="http://goodlookslikethis.com/i/tileapp.jpg" width="580" height="357"  style="" /></p>
+<p><img alt="Tileapp" src="/i/tileapp.jpg" width="580" height="357"  style="" /></p>
 
 <p>Does that make my presentation clicker a wearable? I guess not but you can see how these things fit into a wider ecosystem of connected stuff related to a given human.</p>
 
@@ -281,7 +281,7 @@ Improved customer satisfaction
 
 <p>I used to wear a watch made out of Zirconium Oxide with a bullet-proof Sapphire glass. The face was made out of sandwiches of almost radioactive material handled by a team of 35 specialists in Florence and the one I wore was only made in 1000 units.</p>
 
-<p><img alt="pam292-camera-case.jpg" src="http://goodlookslikethis.com/i/pam292-camera-case.jpg" width="580" height="246"  style="" /></p>
+<p><img alt="pam292-camera-case.jpg" src="/i/pam292-camera-case.jpg" width="580" height="246"  style="" /></p>
 
 <p>I recognised this kind of language in the Apple announcement. The use of the word "complication" for example which I'm pretty sure 90% of iPhone buyers had never heard used in the context of a clock, the details of the straps and even the impossibly rare materials priced at "Haute Horlogerie" prices. </p>
 
@@ -291,7 +291,7 @@ Improved customer satisfaction
 
 <p>That said, Swiss Watch company Mondaine has launched a smart watch (http://www.mondaine.com/files/mondaine_helvetica_no_1_smart_...) which is a traditional automatic mechanism in a traditional steel case but with fitness sensors included and an integration with Android phones. A few others including Tag introduced smart watches at http://www.baselworld.com this year.</p>
 
-<p><a href="https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises"><img alt="pebble-time-metaphor.jpg" src="http://goodlookslikethis.com/i/pebble-time-metaphor.jpg" width="580" height="353"  style="" /></a></p>
+<p><a href="https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises"><img alt="pebble-time-metaphor.jpg" src="/i/pebble-time-metaphor.jpg" width="580" height="353"  style="" /></a></p>
 
 <p>I recently backed <a href="https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises">a Kickstarter project</a> called Pebble and am counting the minutes until I get my fabulous steel smartwatch. </p>
 
@@ -308,7 +308,7 @@ Improved customer satisfaction
 
 <entry>
     <title>How not to personalise</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/how-not-to-personalise.html" />
+    <link rel="alternate" type="text/html" href="/how-not-to-personalise.html" />
     <id>tag:goodlookslikethis.com,2015://45.12398</id>
 
     <published>2015-01-05T12:52:43Z</published>
@@ -317,13 +317,13 @@ Improved customer satisfaction
     <summary>I had to pop this one in here. I know it&apos;s pedantic and errors can happen to anybody but this guy actually tried to sell his personalisation expertise with this note... Hi Dug, I came across your profile as we...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+    <content type="html" xml:lang="en-us" xml:base="/">
         <![CDATA[<p>I had to pop this one in here. I know it's pedantic and errors can happen to anybody but this guy actually tried to sell his personalisation expertise with this note...</p>
 
 <blockquote><p>Hi Dug, </p>
@@ -344,7 +344,7 @@ Picard</p></blockquote>
 
 <entry>
     <title>User adoption formula</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/adoption.html" />
+    <link rel="alternate" type="text/html" href="/adoption.html" />
     <id>tag:donkeyontheedge.com,2012:/work//21.11158</id>
 
     <published>2014-07-13T09:00:00Z</published>
@@ -353,7 +353,7 @@ Picard</p></blockquote>
     <summary>Folk have been asking me about this since I mentioned it in the BCS talk I did a few weeks ago. Just to be clear, &quot;adoption&quot; is the service creator&apos;s objective. For an ecommerce retailer it could be conversion or...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
@@ -364,10 +364,10 @@ Picard</p></blockquote>
     <category term="value" label="value" scheme="http://www.sixapart.com/ns/types#tag" />
     <category term="valueexchange" label="value exchange" scheme="http://www.sixapart.com/ns/types#tag" />
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+    <content type="html" xml:lang="en-us" xml:base="/">
         <![CDATA[<p>Folk have been asking me about this since I mentioned it in the <span class="caps">BCS </span>talk I did a few weeks ago. Just to be clear, "adoption" is the service creator's objective. For an ecommerce retailer it could be conversion or loading a basket or even agreeing to opt-in to something. For an enterprise customer adoption means the change will be painless because the user base is getting exactly what they felt they needed. For a marketing customer adoption will mean opening emails, setting a "like" flag, clicking on a banner or signing up for a sponsored download etc.</p>
 
-<p><img alt="adoption formula" src="http://goodlookslikethis.com/i/aeav.png" width="580" height="132" style="padding:1em 0 1em 0;" /></p>
+<p><img alt="adoption formula" src="/i/aeav.png" width="580" height="132" style="padding:1em 0 1em 0;" /></p>
 
 <p>Different types of objective but similar framework (original post below).</p>
 
@@ -392,7 +392,7 @@ Picard</p></blockquote>
 
 <entry>
     <title>Mission statements</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/mission-statements.html" />
+    <link rel="alternate" type="text/html" href="/mission-statements.html" />
     <id>tag:goodlookslikethis.com,2013://45.12375</id>
 
     <published>2013-12-04T23:12:48Z</published>
@@ -401,13 +401,13 @@ Picard</p></blockquote>
     <summary>It&apos;s hard to work somewhere when you don&apos;t feel a strong sense of purpose. Equally, it gets you drunk with hope and belief to work somewhere the mission is clear and strong. I&apos;ve been researching statements of purpose from senior...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+    <content type="html" xml:lang="en-us" xml:base="/">
         <![CDATA[<p>It's hard to work somewhere when you don't feel a strong sense of purpose. Equally, it gets you drunk with hope and belief to work somewhere the mission is clear and strong.</p>
 
 <p>I've been researching statements of purpose from senior digital folk and came across this one from <span class="caps">WPP</span>:</p>
@@ -428,7 +428,7 @@ to do so with profit</p></blockquote>
 
 <entry>
     <title>Somebody else is running your help desk</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/somebody-else-is-running-your-help-desk.html" />
+    <link rel="alternate" type="text/html" href="/somebody-else-is-running-your-help-desk.html" />
     <id>tag:donkeyontheedge.com,2012:/work//21.11157</id>
 
     <published>2012-02-07T11:07:55Z</published>
@@ -437,13 +437,13 @@ to do so with profit</p></blockquote>
     <summary>Oh yes:-) I can now complain in different ways - video, audio, blog, forum, microblog, and on any number of third party sites - Twitter, YouTube, AudioBoo, Plebble, ComplaintCommunity, Facebook, and there is even a complaint aggregator - Amplicate. Social...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+    <content type="html" xml:lang="en-us" xml:base="/">
         <![CDATA[<p>Oh yes:-)</p>
 
 <blockquote><p> I can now complain in different ways - video, audio, blog, forum, microblog, and on any number of third party sites - Twitter, YouTube, AudioBoo, Plebble, ComplaintCommunity, Facebook, and there is even a complaint aggregator - Amplicate.</p>
@@ -457,7 +457,7 @@ to do so with profit</p></blockquote>
 
 <entry>
     <title>Customer Experience Management</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/CEM2012.html" />
+    <link rel="alternate" type="text/html" href="/CEM2012.html" />
     <id>tag:donkeyontheedge.com,2012:/work//21.11155</id>
 
     <published>2012-01-24T12:36:50Z</published>
@@ -466,7 +466,7 @@ to do so with profit</p></blockquote>
     <summary> Hi, if you&apos;re here it might be because you&apos;ve just had a chat with Dug at CEM and pointed your device at the QR on my badge. Really looking forward to the panel this afternoon. particularly looking forward to...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
@@ -479,8 +479,8 @@ to do so with profit</p></blockquote>
     <category term="management" label="management" scheme="http://www.sixapart.com/ns/types#tag" />
     <category term="userexperience" label="user experience" scheme="http://www.sixapart.com/ns/types#tag" />
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
-        <![CDATA[<p><img alt="qr-sm.png" src="http://goodlookslikethis.com/i/qr-sm.png" /></p>
+    <content type="html" xml:lang="en-us" xml:base="/">
+        <![CDATA[<p><img alt="qr-sm.png" src="/i/qr-sm.png" /></p>
 
 <p>Hi, if you're here it might be because you've just had a chat with Dug at <a href="http://www.customerexperienceevent.com/"><span class="caps">CEM</span></a> and pointed your device at the QR on my badge.</p>
 
@@ -495,7 +495,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
 
 <entry>
     <title>Things that give ecommerce retailers nightmares?</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/etail-nightmares.html" />
+    <link rel="alternate" type="text/html" href="/etail-nightmares.html" />
     <id>tag:donkeyontheedge.com,2011:/work//21.11140</id>
 
     <published>2011-06-04T13:39:39Z</published>
@@ -504,7 +504,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
     <summary>I was speaking to some consultants recently and we got to talking about empathy and what makes a great ecommerce consultant. I believe empathy has to be one of the most important qualities of a good consultancy (or indeed of...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
@@ -517,7 +517,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
     <category term="multichannelretail" label="multi-channel retail" scheme="http://www.sixapart.com/ns/types#tag" />
     <category term="solutions" label="solutions" scheme="http://www.sixapart.com/ns/types#tag" />
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+    <content type="html" xml:lang="en-us" xml:base="/">
         <![CDATA[<p>I was speaking to some consultants recently and we got to talking about empathy and what makes a great ecommerce consultant.</p>
 
 <p>I believe empathy has to be one of the most important qualities of a good consultancy (or indeed of a quality senior manager with a virtual team in a matrix organisation). In some ways it's almost more important than some other core skills in that it's more likely to place the consultant's recommendations firmly under the customer's pain point.</p>
@@ -586,7 +586,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
 
 <entry>
     <title>Should I commission more strategy work from agencies?</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/is-strategy-worth-the-cash.html" />
+    <link rel="alternate" type="text/html" href="/is-strategy-worth-the-cash.html" />
     <id>tag:donkeyontheedge.com,2011:/work//21.11141</id>
 
     <published>2011-06-03T14:39:52Z</published>
@@ -595,7 +595,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
     <summary> Last year I commissioned agency strategy work to the tune of a little under a million pounds. With the advantage of hindsight, I have to ask myself, &quot;are agencies who produce experience strategy really worth the money?&quot; The first...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
@@ -606,7 +606,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
     <category term="multichannelretail" label="multi-channel retail" scheme="http://www.sixapart.com/ns/types#tag" />
     <category term="strategy" label="strategy" scheme="http://www.sixapart.com/ns/types#tag" />
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+    <content type="html" xml:lang="en-us" xml:base="/">
         <![CDATA[<p><img alt="Should I spend more money on strategy" src="http://donkeyontheedge.com/images/strategy_fit.png" width="580" height="334"  style="" /></p>
 
 <p>Last year I commissioned agency strategy work to the tune of a little under a million pounds. With the advantage of hindsight, I have to ask myself, "are agencies who produce experience strategy really worth the money?"</p>
@@ -644,7 +644,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
 
 <entry>
     <title>Fix your bill with your thumb</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/fix-your-bill-with-your-thumb.html" />
+    <link rel="alternate" type="text/html" href="/fix-your-bill-with-your-thumb.html" />
     <id>tag:goodlookslikethis.com,2012://45.12376</id>
 
     <published>2011-05-10T09:49:36Z</published>
@@ -653,7 +653,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
     <summary> The insight here was customers were forever getting bills they didn&apos;t expect and they didn&apos;t like the BT model of having to purchase an extra package to save money. In our proposed concept, the bill is visualised in a...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Recent work" scheme="http://www.sixapart.com/ns/types#category" />
@@ -664,10 +664,10 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
     <category term="mobile" label="mobile" scheme="http://www.sixapart.com/ns/types#tag" />
     <category term="selfcare" label="self-care" scheme="http://www.sixapart.com/ns/types#tag" />
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
-        <![CDATA[<p><a href="http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-1621.html" onclick="window.open('http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-1621.html','popup','width=1500,height=1000,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-thumb-580xauto-1621.png" width="580" height="386" alt="bill-fixer.png"  style="" /></a></p>
+    <content type="html" xml:lang="en-us" xml:base="/">
+        <![CDATA[<p><a href="/assets_c/2014/03/bill-fixer-1621.html" onclick="window.open('/assets_c/2014/03/bill-fixer-1621.html','popup','width=1500,height=1000,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/assets_c/2014/03/bill-fixer-thumb-580xauto-1621.png" width="580" height="386" alt="bill-fixer.png"  style="" /></a></p>
 
-<p><a href="http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-roughs-1623.html" onclick="window.open('http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-roughs-1623.html','popup','width=1497,height=1125,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-roughs-thumb-580xauto-1623.png" width="580" height="435" alt="bill-fixer-roughs.png"  style="" /></a></p>
+<p><a href="/assets_c/2014/03/bill-fixer-roughs-1623.html" onclick="window.open('/assets_c/2014/03/bill-fixer-roughs-1623.html','popup','width=1497,height=1125,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/assets_c/2014/03/bill-fixer-roughs-thumb-580xauto-1623.png" width="580" height="435" alt="bill-fixer-roughs.png"  style="" /></a></p>
 
 <p>The insight here was customers were forever getting bills they didn't expect and they didn't like the BT model of having to purchase an extra package to save money. </p>
 
@@ -678,7 +678,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
 
 <entry>
     <title>Forty Hall Estate Wineries </title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/forty-hall-estate-bacchus-2013.html" />
+    <link rel="alternate" type="text/html" href="/forty-hall-estate-bacchus-2013.html" />
     <id>tag:donkeyontheedge.com,2011:/work//21.11124</id>
 
     <published>2011-04-06T22:51:49Z</published>
@@ -687,7 +687,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
     <summary>Nicki is working on the branding for a new wine grown in Enfield, North London (yes, really). You&apos;ll have to wait a few years to get some in your glass, but the service design is making headway. We&apos;ve built a...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Recent work" scheme="http://www.sixapart.com/ns/types#category" />
@@ -700,20 +700,20 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
     <category term="qrcode" label="qr code" scheme="http://www.sixapart.com/ns/types#tag" />
     <category term="servicedesign" label="service design" scheme="http://www.sixapart.com/ns/types#tag" />
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+    <content type="html" xml:lang="en-us" xml:base="/">
         <![CDATA[<p>Nicki is working on the branding for a new wine grown in Enfield, North London (yes, really). You'll have to wait a few years to get some in your glass, but the service design is making headway.</p>
 
-<p><a href="http://goodlookslikethis.com/assets_c/2014/03/FHV-brand-moodboard-1615.html" onclick="window.open('http://goodlookslikethis.com/assets_c/2014/03/FHV-brand-moodboard-1615.html','popup','width=1509,height=977,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://goodlookslikethis.com/assets_c/2014/03/FHV-brand-moodboard-thumb-580xauto-1615.png" width="580" height="375" alt="FHV-brand-moodboard.png"  style="padding:1em 0 2em 0;" /></a></p>
+<p><a href="/assets_c/2014/03/FHV-brand-moodboard-1615.html" onclick="window.open('/assets_c/2014/03/FHV-brand-moodboard-1615.html','popup','width=1509,height=977,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/assets_c/2014/03/FHV-brand-moodboard-thumb-580xauto-1615.png" width="580" height="375" alt="FHV-brand-moodboard.png"  style="padding:1em 0 2em 0;" /></a></p>
 
 <p>We've built a lovely responsive site that reinforces the key brand values of "community", "brave" and "quality" to the vineyard's three primary audiences: English wine business, mental health charities, soil association.</p>
 
-<p><a href="http://goodlookslikethis.com/assets_c/2014/03/FHV_responsive_design-1618.html" onclick="window.open('http://goodlookslikethis.com/assets_c/2014/03/FHV_responsive_design-1618.html','popup','width=934,height=448,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://goodlookslikethis.com/assets_c/2014/03/FHV_responsive_design-thumb-580xauto-1618.png" width="580" height="278" alt="FHV_responsive_design.png"  style="padding:1em 0 2em 0;" /></a></p>
+<p><a href="/assets_c/2014/03/FHV_responsive_design-1618.html" onclick="window.open('/assets_c/2014/03/FHV_responsive_design-1618.html','popup','width=934,height=448,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/assets_c/2014/03/FHV_responsive_design-thumb-580xauto-1618.png" width="580" height="278" alt="FHV_responsive_design.png"  style="padding:1em 0 2em 0;" /></a></p>
 
 <p>Since launching, donations are up 250% and the vineyard managers are tracking their web and social performance with the tools we installed:-)</p>
 
 <p>Nicki is looking at how the prospective customers will experience the brand across time and across multiple touchpoints (we've just tested the awesome <a href="http://www.i-nigma.com/i-nigmahp.html">i-nigma</a> qrcode reader on the iPhone and it automatically goes from scan to website, very nice).</p>
 
-<p><a href="http://goodlookslikethis.com/assets_c/2011/04/bacchus_B-1571.html" onclick="window.open('http://goodlookslikethis.com/assets_c/2011/04/bacchus_B-1571.html','popup','width=2592,height=1936,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://goodlookslikethis.com/assets_c/2011/04/bacchus_B-thumb-580xauto-1571.jpg" width="580" height="433" alt="bacchus_B.jpg"  style="" /></a></p>
+<p><a href="/assets_c/2011/04/bacchus_B-1571.html" onclick="window.open('/assets_c/2011/04/bacchus_B-1571.html','popup','width=2592,height=1936,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/assets_c/2011/04/bacchus_B-thumb-580xauto-1571.jpg" width="580" height="433" alt="bacchus_B.jpg"  style="" /></a></p>
 
 <p>It's great to be working with a real 'maker' brand. Satisfying gig and I may even get a case of wine out of it:-)</p>]]>
         
@@ -722,7 +722,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
 
 <entry>
     <title>Global Service Jam</title>
-    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/global-service-jam-2011.html" />
+    <link rel="alternate" type="text/html" href="/global-service-jam-2011.html" />
     <id>tag:donkeyontheedge.com,2011:/work//21.11049</id>
 
     <published>2011-03-14T11:45:31Z</published>
@@ -731,7 +731,7 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
     <summary> I just spent the weekend in Leeds jamming with some very interesting folk. We were challenged to develop a service prototype in 48 hours under the overall theme of &quot;(super)heroes&quot;. We chose to work in the problem space around...</summary>
     <author>
         <name>Dug Falby</name>
-        <uri>http://goodlookslikethis.com</uri>
+        <uri></uri>
     </author>
     
         <category term="Recent work" scheme="http://www.sixapart.com/ns/types#category" />
@@ -743,14 +743,14 @@ and if you really want to get serious you can use <a href="http://uk.linkedin.co
     <category term="mentalmodels" label="mental models" scheme="http://www.sixapart.com/ns/types#tag" />
     <category term="servicedesign" label="service design" scheme="http://www.sixapart.com/ns/types#tag" />
     
-    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+    <content type="html" xml:lang="en-us" xml:base="/">
         <![CDATA[<p>
 I just spent the weekend in Leeds jamming with some very interesting folk. 
 We were challenged to develop a service prototype in 48 hours under the overall 
 theme of "(super)heroes". We chose to work in the problem space around youth 
 and crime.</p>
 <p>
-<a href="http://goodlookslikethis.com/i/problem.jpg"><img alt="Crime and punishment stakeholders" src="http://goodlookslikethis.com/assets_c/2011/03/problem-thumb-580xauto-1566.jpg" width="580" height="265" /></a></p>
+<a href="/i/problem.jpg"><img alt="Crime and punishment stakeholders" src="/assets_c/2011/03/problem-thumb-580xauto-1566.jpg" width="580" height="265" /></a></p>
 <p>
 We brainstormed and eventually tried a mental model</p>
 <p>
@@ -761,14 +761,14 @@ mentor and institutions that can't usefully communicate the difference between r
 and wrong. The service we came up with was a space where young people could experiment 
 with alternative behaviour in the safety of the virtual world.</p>
 <p>
-<img alt="Lisa is 14 and wants to have fun but is learning to help others and do the right thing" src="http://goodlookslikethis.com/assets_c/2011/03/lisa_superhero-thumb-580x129-1596.png" width="580" height="129" /></p>
+<img alt="Lisa is 14 and wants to have fun but is learning to help others and do the right thing" src="/assets_c/2011/03/lisa_superhero-thumb-580x129-1596.png" width="580" height="129" /></p>
 <p>
 To evidence the service we built a scenario around Lisa who is 14 and wants to have fun 
 but is learning to help others and do the right thing. Here's the mini-blueprint of the 
 service.</p>
 <p>
-<a href="http://goodlookslikethis.com/i/miniblueprint.jpg"><img alt="Mini-blueprint of 
-the &quot;Do the Right Thing&quot; service" src="http://goodlookslikethis.com/assets_c/2011/03/miniblueprint-thumb-580x701-1597.jpg" width="580" height="701" /></a></p>
+<a href="/i/miniblueprint.jpg"><img alt="Mini-blueprint of 
+the &quot;Do the Right Thing&quot; service" src="/assets_c/2011/03/miniblueprint-thumb-580x701-1597.jpg" width="580" height="701" /></a></p>
 <p>
 You can <a href="/i/miniblueprint.pdf">grab the pdf</a> if 
 you want to look at the detail. We worked under a Creative Commons license and the details 
