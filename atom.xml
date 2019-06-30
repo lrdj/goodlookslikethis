@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Good looks like this</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/" />
+    <link rel="self" type="application/atom+xml" href="http://goodlookslikethis.com/atom.xml" />
+    <id>tag:goodlookslikethis.com,2014-04-16:/45</id>
+    <updated>2017-02-18T10:57:04Z</updated>
+    <subtitle>Some of Dug&apos;s more interesting design work things</subtitle>
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type 6.0.3</generator>
+
+<entry>
+    <title>Carpetright customer satisfaction survey</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/carpetright-customer-satisfaction-survey.html" />
+    <id>tag:goodlookslikethis.com,2017://45.12592</id>
+
+    <published>2017-02-18T10:41:11Z</published>
+    <updated>2017-02-18T10:57:04Z</updated>
+
+    <summary> The biggest challenge of CSAT survey handling is how to create a question/answer flow that allows the customer to describe the problem while ensuring this data is correctly stored and acted on. I just had a hickup in a...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+    <category term="carpetright" label="Carpetright" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="customerexperience" label="Customer experience" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="delivery" label="delivery" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="ecommerce" label="ecommerce" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="emergentproperties" label="Emergent properties" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="homeimprovement" label="Home improvement" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="service" label="service" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="servicedesign" label="Service Design" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="systemsthinking" label="Systems thinking" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p><img src="http://goodlookslikethis.com/assets_c/2017/02/carpetright-interior-thumb-580xauto-1702.jpg" alt="We hope you're enjoying your new Flooring. Here's another thing to be happy about. By simply completing our quick survey you could win yourself £500 Carpetright vouchers, or the value of your recent order!" /></p>
+
+<p>The biggest challenge of CSAT survey handling is how to create a question/answer flow that allows the customer to describe the problem while ensuring this data is correctly stored and acted on.</p>
+
+<p>I just had a hickup in a shopping experience and filled in Carpetright's CSAT + NPS survey (not sure what <a href="http://www.bain.com/publications/articles/introducing-the-net-promoter-system-loyalty-insights.aspx">Bain</a> would make of that, the mix of the two ways of measuring?).</p>
+
+<p>As usual, the questions are written in such a way as to make it difficult to report the actual problem (poorly orchestrated service components) but luckily the survey included a catch-all text input which I used:</p>
+
+<blockquote>
+  <p>I love the carpet, it's very clever (suggests sisal at a fraction of the cost and with greater cleaning ability)</p>
+
+<p>But as ever, your NPS survey is structured in a such a way as to prevent the sharing of the actual problem. The issue is one of service design, in other words how all the parts of your service fit together to ensure a satisfied customer.</p>
+
+<p>The problem with my delivery is I now have two very heavy doors sitting off their hinges in a room upstairs.</p>
+
+<p>The surveyor (who appeared to do a very thorough job) should have flagged this to me (that the lack of underlay would mean a risk that doors might not have enough clearance) so that I could have arranged a chippie on site. Or, the delivery team (two strong men with tools), having already sweated the removal of the doors, could have quite easily trimmed or rasped the clearance off the bottom of the doors.</p>
+
+<p>Either way, this was not handled well as a service. You need to avoid the scenario OR you need to brief installers on the proper handling similar scenarios.</p>
+
+<p>I now have to get a carpenter to sort this out at my expense:-(</p>
+</blockquote>
+
+<p>It's a challenge, the problem might have been caused by the driver's actions (ie straightforwardly incorrect behaviour) or it might have been that the driver did everything by the book but the book didn't include instructions for what to do in a given situation, say what to do about the other driver from a different company delivering at the same time, or how to factor in the rain/snow weather and so on.</p>
+
+<p>How to capture that data in a format that supports making the data actionable? </p>
+
+<p>To borrow from KM systems, the data needs to be seen as accurate and be findable. In the context of CSAT, how does this feedback get played back to the right stakeholders in the business?</p>
+
+<p>I would argue there are some great CRM/CX consultants out there but could it be time for businesses to start sensing the emerging properties caused by the design of their systems? I think it is, and this means a requirement for in-house service design:-)</p>
+]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Content strategy template</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/content-strategy-template.html" />
+    <id>tag:goodlookslikethis.com,2016://45.12590</id>
+
+    <published>2016-05-20T10:23:12Z</published>
+    <updated>2016-05-20T10:37:48Z</updated>
+
+    <summary> Love this graphic from a talk by Meghan Casey at &#8216;Digimarcon Canada&#8217; A lot of my clients and workshop attendees tell me that they don&#8217;t have a clear idea of what they hope to accomplish with their content. Or...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p><img alt="Customers don't have a clear idea of what they hope to accomplish with their content. Or if they do have a clear idea, it's not written down." src="http://goodlookslikethis.com/assets_c/2016/05/core-content-strategy-statement-template_filled-600x250-thumb-580xauto-1686.jpg" width="580" height="241" /></p>
+
+<p>Love this graphic from a talk by Meghan Casey at <a href="http://digimarconcanada.ca/keep-your-content-on-strategy-with-this-single-statement-templates/" title="Check out the conference site">&#8216;Digimarcon Canada&#8217;</a></p>
+
+<blockquote>
+  <p>A lot of my clients and workshop attendees tell me that they don&#8217;t have a clear idea of what they hope to accomplish with their content. Or if they do have a clear idea, it&#8217;s not written down. Sound familiar?</p>
+</blockquote>
+
+<p>Really elegant way of focusing team efforts around content marketing initiatives. Not having <em>a clear idea</em> is about not exploring the problem methodically enough which is always a great place to start:-)</p>
+]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Thoughts on static site builders and continuous deployment</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/thoughts-on-static-site-builders-and-continuous-deployment.html" />
+    <id>tag:goodlookslikethis.com,2016://45.12589</id>
+
+    <published>2016-03-15T08:56:40Z</published>
+    <updated>2016-03-17T18:16:28Z</updated>
+
+    <summary>I&#8217;ve been working with some developers recently and decided to evaluate a website production workflow built around Jekyll, a static site generator (I&#8217;ve been interested in these for a while, not least because this site is generated and hosted using...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p>I&#8217;ve been working with some developers recently and decided to evaluate a website production workflow built around <a href="https://jekyllrb.com/" title="Jekyll website">Jekyll</a>, a static site generator (I&#8217;ve been interested in these for a while, not least because this site is generated and hosted using Movable Type, the daddy of static site generators.</p>
+
+<blockquote>
+  <p>We&#8217;re launching our new website before it&#8217;s ready.
+But Dug, there are bits that don&#8217;t work; there are pages missing and also some weird copy?!? What&#8217;s up with that?</p>
+
+<blockquote>
+  <p>Well yes, you&#8217;re right, there are.</p>
+</blockquote>
+
+<p></blockquote></p>
+
+<p>The rough edges will evaporate over the next few weeks as our teams rapidly iterate from our first minimum viable product (MVP) release through our subsequent rapid iterations.</p>
+
+<p>This isn&#8217;t random, it&#8217;s a choice we&#8217;ve made. How often do you have the chance to rethink your website and in the process run a live-ammunition test of the principles you&#8217;ve been suggesting your customers live by? Well, not everyday but this time we&#8217;re grabbing the opportunity and jumping in at the deep end.</p>
+
+<p>We want to practise what we preach, eat our dog-food and keep our possibilities as real as we can.</p>
+
+<h2>So what has this meant in detail?</h2>
+
+<p>Well, as is fitting for cross-silo digital thinking, the decisions we made to organise the design and production teams and the decisions we made about application architecture and design were all intertwined and taken by a connected group of experts. We decided we didn&#8217;t want to break just the traditional technology/design silo but also the geography one as well. For this project we wanted round-the-clock connectivity between our associates working in remote locations and our two studio-based teams in Edinburgh and London.</p>
+
+<p>We decided to go for it and experiment with technology.</p>
+
+<h2>Collaborating in the digital workplace</h2>
+
+<p>For this project we are collaborating using a network of services that connect each designer&#8217;s laptop to a distributed version control system. The copywriting and development environment is compiled on each machine and connects to the central hub. We are using an always-on Slack channel to ensure feedback is rapid and everyone stays up-to-date with project developments. We are experimenting with using Github as the digital asset manager (DAM) to handle both graphics, content and code version control. Documentation and training on the new platform is also being handled using Slack.</p>
+
+<ul>
+<li>Team collaboration around assets and content was managed on Github which allowed painless version control</li>
+<li>Code was managed on Github with seamless localhost working using the Ruby environment and Foreman </li>
+<li>Deployment happens automatically so communication between design and development teams focused more on creativity and quality and less on support and action requests</li>
+<li>Designers in all locations shared the same spec of local build so connectivity was not required at all times to continue working</li>
+</ul>
+
+<h2>What we feel is going well</h2>
+
+<ul>
+<li>The teams have successfully adopted new tools</li>
+<li>Great use of Slack allowed consistent chatter, design reviews and easy debugging</li>
+<li>Great use of GitHub allowed collaborative development, issue tracking and version control</li>
+<li>Rapid development, deployment, feedback, iteration loop</li>
+<li>Jekyll and templating</li>
+<li>Local development environment was reproducible with very few hiccups</li>
+<li>The team managed to ship the mvp release on time</li>
+</ul>
+
+<h2>Continuous deployment</h2>
+
+<p>We defined our MVP as delivering one clear message and it does.</p>
+
+<p>Also, from kick-off to DNS migration took 10 days, not bad for a corporate website. Even better when you consider release 1.5 is due in a few days and r2 will ship shortly after that. With every release we&#8217;ll improve the quality and clarity of the copy; make the imagery stronger and better positioned, fix bugs and add missing content.</p>
+
+<!--
+
+We're experimenting in real-time with a static site generator (what's a static site generator you ask? https://davidwalsh.name/introduction-static-site-generators) built into a continuous deployment environment. Our dev team has set this environment up:
+
+* Code created and managed on Github
+* Service hosted on Github pages
+* Foreman used to run localhost environment versions
+* Sass for CSS componentisation
+* Markdown used as text interpreter
+* Static site build using Jekyll with automatic rebuild on edit commit
+* Page environment variables stored in Yaml front matter
+* Templating logic coded in Liquid
+* The environment is configured so that when edits are committed to the production branch, the build is triggered automatically and the live website is updated. The system isn't perfect yet, but the speed and performance implications of static pages combined with the benefits of continual deployment make this a potentially disruptive platform approach.
+
+To quote from wikipedia continual deployment brings numerous benefits to customers:
+
+Accelerated time to market: continuous deployment lets an organisation deliver the business value inherent in new software releases to customers more quickly 
+Building the right product: frequent releases let the application development teams obtain user feedback more quickly
+Improved productivity and efficiency: significant time savings for developers, testers, operations engineers, etc. through automation
+Reliable releases: the risks associated with a release have significantly decreased, and the release process has become more reliable
+Improved product quality: the number of open bugs and production incidents has decreased significantly
+Improved customer satisfaction
+
+-->
+
+<p>To be clear, we&#8217;ve not lost our marbles.</p>
+
+<p>We understand our customers need lovely reliable tools like Sitecore and AEM to drive their experiences but these agile and lean approaches are an area of digital technology that is quickly evolving and becoming ever more flexible and efficient. We want to make sure we live the experiences we ask our customers to live. We want to help customers benefit from our knowledge and experience in these new approaches.</p>
+
+<p>To be honest, it&#8217;s a little scary working in public this way but you just can&#8217;t buy the energising effect it has on our team and we want to share that energy with our customers.</p>
+
+<p>Onwards to the next iteration:-)</p>
+]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Being a better agency (accountability and engagement)</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/accountability-v-engagement.html" />
+    <id>tag:goodlookslikethis.com,2015://45.12400</id>
+
+    <published>2015-11-12T11:11:44Z</published>
+    <updated>2015-11-12T18:39:40Z</updated>
+
+    <summary>So a friend of mine recently gave me a book on mathematics which has got me thinking about stuff in new ways. Early on in the book the author introduces the impact of linear relationships on how we reach conclusions...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p>So a friend of mine recently gave me <a href="http://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535" title="The book on Amazon">a book on mathematics</a> which has got me thinking about stuff in new ways. Early on in the book the author introduces the impact of linear relationships on how we reach conclusions about the rights and wrongs of situations.</p>
+
+<p><a href="http://goodlookslikethis.com/i/acc-eng.png"><img alt="Accountability and engagement in non-linear relationship" src="http://goodlookslikethis.com/assets_c/2015/11/acc-eng-thumb-580xauto-1683.png" width="580" height="312"  style="" /></a></p>
+
+<p>So here&#8217;s a thought: Agencies increasingly understand that accountability is important in winning and retaining customers. Linear reasoning would say that if a little accountability produced good results, then more accountability would produce even better results. This is the &#8220;more is better&#8221; way of thinking.</p>
+
+<p>Now what happens if you map employee engagement to agency accountability? Imagine a studio at the early stages of a relationship. Leadership is trying to introduce new processes and ways of working that are going to increase customer satisfaction and help grow the business. Everyone is involved, working and learning together and trying to do a good job. My guess is this would help grow enagement.</p>
+
+<p>The question I had was would employee engagement and agency accountability map in a linear way? If the effort and team-work to start increasing accountability brings about a positive-feeling leading to greater designer engagement then would further accountability initiatives lead to even greater engagement?</p>
+
+<p>My guess is the reality is closer to the curve plotted in the chart above. At a certain point, the extra effort, speed and transparency would begin to grate. As designers, we would begin to feel like the magic and specialness of what we do was being pushed to the side. Eventually, as the environment became more strict, life would begin to feel like a sausage machine. Not what we signed-up for.</p>
+
+<p>But this is just a thought, I could be wrong:-) </p>
+
+<p>Have you experienced a strong design culture that survived growth challenges like this?</p>
+]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Question at work: Where are you at with wearables?</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/question-this-morning-where-are-you-at-with-wearables.html" />
+    <id>tag:goodlookslikethis.com,2015://45.12399</id>
+
+    <published>2015-03-20T11:53:15Z</published>
+    <updated>2015-03-20T13:09:35Z</updated>
+
+    <summary>Well... good question:-) I think it might be worth pulling the problem apart a little bit. What do we mean by wearables? If I could chip my 13-year-old daughter I possibly would. This would make her body part of the...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p>Well... good question:-)</p>
+
+<p>I think it might be worth pulling the problem apart a little bit. What do we mean by wearables?</p>
+
+<p>If I could chip my 13-year-old daughter I possibly would. This would make her body part of the cloud and the chip a sort of wearable.</p>
+
+<p>Same thing applies to other devices that are either permanently online or can trigger a beacon. I backed Tile and bought a card https://www.thetileapp.com and it's pretty cool. I've got a few attached to things I carry around in my laptop bag.</p>
+
+<p><img alt="Tileapp" src="http://goodlookslikethis.com/i/tileapp.jpg" width="580" height="357"  style="" /></p>
+
+<p>Does that make my presentation clicker a wearable? I guess not but you can see how these things fit into a wider ecosystem of connected stuff related to a given human.</p>
+
+<p>In terms of actual "wrist" wearables like Apple Watch, I think we have to look at things like Nike Fuel and Fitbit in a different category. </p>
+
+<p>Apple watch is different, from the moment they first talked about it you could tell they were entering the world of "Haute Horlogerie". </p>
+
+<p>I used to wear a watch made out of Zirconium Oxide with a bullet-proof Sapphire glass. The face was made out of sandwiches of almost radioactive material handled by a team of 35 specialists in Florence and the one I wore was only made in 1000 units.</p>
+
+<p><img alt="pam292-camera-case.jpg" src="http://goodlookslikethis.com/i/pam292-camera-case.jpg" width="580" height="246"  style="" /></p>
+
+<p>I recognised this kind of language in the Apple announcement. The use of the word "complication" for example which I'm pretty sure 90% of iPhone buyers had never heard used in the context of a clock, the details of the straps and even the impossibly rare materials priced at "Haute Horlogerie" prices. </p>
+
+<blockquote><p>The picture would be made complete if the "Edition" watch was impossible to find, only available from tiny boutiques known only to a few cognoscenti...</p></blockquote>
+
+<p>I think the Apple Watch is interesting because it is disrupting a market that I'm guessing really didn't see this coming.</p>
+
+<p>That said, Swiss Watch company Mondaine has launched a smart watch (http://www.mondaine.com/files/mondaine_helvetica_no_1_smart_...) which is a traditional automatic mechanism in a traditional steel case but with fitness sensors included and an integration with Android phones. A few others including Tag introduced smart watches at http://www.baselworld.com this year.</p>
+
+<p><a href="https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises"><img alt="pebble-time-metaphor.jpg" src="http://goodlookslikethis.com/i/pebble-time-metaphor.jpg" width="580" height="353"  style="" /></a></p>
+
+<p>I recently backed <a href="https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises">a Kickstarter project</a> called Pebble and am counting the minutes until I get my fabulous steel smartwatch. </p>
+
+<p>The Pebble is different. It's more focused than the Apple watch and from a user experience point of view is designed from a more holistic, service design perspective. </p>
+
+<p>For example, the clock face of the Pebble is designed to be used in darkness and light. After all, what's the point of a smartwatch that you can't read in sunlight? Its face isn't a screen but Kindle-like "digital paper" display readable even in bright sunshine. As a result of this approach, the battery life is much much longer than Apple Watch's.</p>
+
+<p>Pebble also introduces a new interaction metaphor. Apple Watch has a groovy winder but as far as I can tell, the screen interactions seem very similar to what you're used to on a phone. Pebble on the other hand has re-visited the entire interface to follow a "time" metaphor. Everything you do on the Pebble fits into a timeline concept, where am I now? what is the future? the past etc.</p>
+
+<p>I think these devices all look awesome and I want them now, but the ones I find most satisfying from a design perspective are the ones that explore the areas closest to the human (so Apple, try a little harder and how about a menstrual cycle calculator in your fitness app? No? Oops I forgot, not so many women on the design team) looking at the full journey of what we are all trying to achieve every day.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>How not to personalise</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/how-not-to-personalise.html" />
+    <id>tag:goodlookslikethis.com,2015://45.12398</id>
+
+    <published>2015-01-05T12:52:43Z</published>
+    <updated>2015-01-05T13:21:38Z</updated>
+
+    <summary>I had to pop this one in here. I know it&apos;s pedantic and errors can happen to anybody but this guy actually tried to sell his personalisation expertise with this note... Hi Dug, I came across your profile as we...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p>I had to pop this one in here. I know it's pedantic and errors can happen to anybody but this guy actually tried to sell his personalisation expertise with this note...</p>
+
+<blockquote><p>Hi Dug, </p>
+
+<p>I came across your profile as we are both connected to <span style="color:blue;">[COMMON <span class="caps">FIRST LEVEL CONNECTION</span>]</span> and I thought I would introduce myself. My name is Picard and I work for Inversaly; and I am a Cross Device and media Personalisation Specialist. </p>
+
+<p>It's a simple &amp; powerful idea - Individually personalised media. </p>
+
+<p>If you would like to see any case studies on how our platform can drive <span class="caps">ROI, </span>or any part of the above for <span style="color:blue;">[COMPANY <span class="caps">NAME</span>]</span> please let me know and I would be happy to share them. </p>
+
+<p>Thanks, <br />
+Picard</p></blockquote>
+
+<p>Here's hoping all of us at &lt;$companyName$&gt; do well in &lt;$currentYear$&gt;;-)</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>User adoption formula</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/adoption.html" />
+    <id>tag:donkeyontheedge.com,2012:/work//21.11158</id>
+
+    <published>2014-07-13T09:00:00Z</published>
+    <updated>2015-01-18T04:00:11Z</updated>
+
+    <summary>Folk have been asking me about this since I mentioned it in the BCS talk I did a few weeks ago. Just to be clear, &quot;adoption&quot; is the service creator&apos;s objective. For an ecommerce retailer it could be conversion or...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="design" label="design" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="experience" label="experience" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="servicedesign" label="service design" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="value" label="value" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="valueexchange" label="value exchange" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p>Folk have been asking me about this since I mentioned it in the <span class="caps">BCS </span>talk I did a few weeks ago. Just to be clear, "adoption" is the service creator's objective. For an ecommerce retailer it could be conversion or loading a basket or even agreeing to opt-in to something. For an enterprise customer adoption means the change will be painless because the user base is getting exactly what they felt they needed. For a marketing customer adoption will mean opening emails, setting a "like" flag, clicking on a banner or signing up for a sponsored download etc.</p>
+
+<p><img alt="adoption formula" src="http://goodlookslikethis.com/i/aeav.png" width="580" height="132" style="padding:1em 0 1em 0;" /></p>
+
+<p>Different types of objective but similar framework (original post below).</p>
+
+<p>Have just received a brief from a prospect who wants to increase user adoption. Nothing unusual with that, expect that the wording of the request got me thinking. The request states that the solution is <em>greater usability</em>. In other words, that the level of adoption of a service is directly proportionate to its degree of usability.</p>
+
+<p>I had to stop and think a bit. At first that makes sense, particularly if the current version of the service is really terrible.</p>
+
+<p>But I think usability is the wrong measure. By modelling what the business wants to build into the service and aligning that with what the end users are trying to get out of it an increase in adoption is very likely.</p>
+
+<p>Still, experience is more than alignment. We could get the service exactly right but if a roughly similar service has nicer music or offers free child-care we're likely to go with that alternative.</p>
+
+<p>So it's a balance of alignment and value (in financial terms; emotional; physical; in terms of meaning and self-actualisation etc).</p>
+
+<p>So not being a maths guy, does that make the formula:</p>
+
+<p><strong>adoption = alignment x value over context</strong></p>
+
+<p>What do you think?</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Mission statements</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/mission-statements.html" />
+    <id>tag:goodlookslikethis.com,2013://45.12375</id>
+
+    <published>2013-12-04T23:12:48Z</published>
+    <updated>2014-07-13T09:02:03Z</updated>
+
+    <summary>It&apos;s hard to work somewhere when you don&apos;t feel a strong sense of purpose. Equally, it gets you drunk with hope and belief to work somewhere the mission is clear and strong. I&apos;ve been researching statements of purpose from senior...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p>It's hard to work somewhere when you don't feel a strong sense of purpose. Equally, it gets you drunk with hope and belief to work somewhere the mission is clear and strong.</p>
+
+<p>I've been researching statements of purpose from senior digital folk and came across this one from <span class="caps">WPP</span>:</p>
+
+<blockquote><p>To develop and manage talent; <br />
+to apply that talent, throughout the world, for the benefit of clients; <br />
+to do so in partnership; <br />
+to do so with profit</p></blockquote>
+
+<p>Not sure about the way it scans but put another way, if Martin Sorrel's network of companies didn't exist there would be less developed and well-managed talent in the world. While I don't see empirical evidence of that it's a strong statement and one I can get behind:-)</p>
+
+<p>Incidentally, I had the pleasure of meeting Mr Sorrel in the ballroom of the Pierre on <span class="caps">E61</span>st in Manhattan when he announced his takeover of my employer's parent company (JWT) to the assembled troops. I've had a thing ever since and actually ended up in the UK because <span class="caps">IBM </span>didn't think they should keep their business with us after the merger.</p>
+
+<p>But that's another story...</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Somebody else is running your help desk</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/somebody-else-is-running-your-help-desk.html" />
+    <id>tag:donkeyontheedge.com,2012:/work//21.11157</id>
+
+    <published>2012-02-07T11:07:55Z</published>
+    <updated>2013-04-03T21:41:32Z</updated>
+
+    <summary>Oh yes:-) I can now complain in different ways - video, audio, blog, forum, microblog, and on any number of third party sites - Twitter, YouTube, AudioBoo, Plebble, ComplaintCommunity, Facebook, and there is even a complaint aggregator - Amplicate. Social...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p>Oh yes:-)</p>
+
+<blockquote><p> I can now complain in different ways - video, audio, blog, forum, microblog, and on any number of third party sites - Twitter, YouTube, AudioBoo, Plebble, ComplaintCommunity, Facebook, and there is even a complaint aggregator - Amplicate.</p>
+
+<p>Social media has given all of us the tools of engagement, enabling us to be far more inventive, novel and vocal in expressing our displeasure when a company has simply got it wrong.</p></blockquote>
+
+<p>Really well put. <a href="http://www.mycustomer.com/topic/customer-experience/customer-service-20/104882">All change: The four trends reshaping customer service</a></p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Customer Experience Management</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/CEM2012.html" />
+    <id>tag:donkeyontheedge.com,2012:/work//21.11155</id>
+
+    <published>2012-01-24T12:36:50Z</published>
+    <updated>2016-11-30T15:55:42Z</updated>
+
+    <summary> Hi, if you&apos;re here it might be because you&apos;ve just had a chat with Dug at CEM and pointed your device at the QR on my badge. Really looking forward to the panel this afternoon. particularly looking forward to...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="cem" label="cem" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="customerexperience" label="customer experience" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="cxm" label="cxm" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="design" label="design" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="experience" label="experience" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="management" label="management" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="userexperience" label="user experience" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p><img alt="qr-sm.png" src="http://goodlookslikethis.com/i/qr-sm.png" /></p>
+
+<p>Hi, if you're here it might be because you've just had a chat with Dug at <a href="http://www.customerexperienceevent.com/"><span class="caps">CEM</span></a> and pointed your device at the QR on my badge.</p>
+
+<p>Really looking forward to the panel this afternoon. particularly looking forward to hearing from GiffGaff's Claire Kavanagh:-)</p>
+
+<p>If you want to keep in touch, you can visit <a href="http://about.me/dug/">about.me/dug</a><br />
+or even read <a href="http://twitter.com/dug/">twitter.com/dug</a><br />
+and if you really want to get serious you can use <a href="http://uk.linkedin.com/in/goodlookslikethis">linkedin</a></p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Things that give ecommerce retailers nightmares?</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/etail-nightmares.html" />
+    <id>tag:donkeyontheedge.com,2011:/work//21.11140</id>
+
+    <published>2011-06-04T13:39:39Z</published>
+    <updated>2015-01-18T04:01:24Z</updated>
+
+    <summary>I was speaking to some consultants recently and we got to talking about empathy and what makes a great ecommerce consultant. I believe empathy has to be one of the most important qualities of a good consultancy (or indeed of...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="channeloptimisation" label="channel optimisation" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="consultancy" label="consultancy" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="ecommerce" label="ecommerce" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="etail" label="etail" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mcn" label="mcn" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="multichannelretail" label="multi-channel retail" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="solutions" label="solutions" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p>I was speaking to some consultants recently and we got to talking about empathy and what makes a great ecommerce consultant.</p>
+
+<p>I believe empathy has to be one of the most important qualities of a good consultancy (or indeed of a quality senior manager with a virtual team in a matrix organisation). In some ways it's almost more important than some other core skills in that it's more likely to place the consultant's recommendations firmly under the customer's pain point.</p>
+
+<p>Multi-channel retailers have questions and need some love and tenderness. Ideally, you should feel their pain. They have a bunch of things that keep them up at night and empathising with these will make for a better ecommerce experience consultant. </p>
+
+<p>Here's a rough list (transcribed unformatted from my moleskine) of my favourite nightmares: </p>
+
+<ul>
+<li>Do I need analytics, retargeting, algorithmic recommendations, satisfaction survey tools? </li>
+<li>Single customer view (oh yes... one of those would be nice)</li>
+<li>Why does enterprise software cost so ridiculously much? (For the cost of a year's license for entry-level analytics I could hire three engineers?!?)</li>
+<li>Marketing and communication, how much cash should I be giving Google? How can my trading team and my online marketing team work more closely together?</li>
+<li>How do traditional insight teams (big database, big budget, slow staging) fit in the same plan as front-end analitics-driven teams (rapid staging, lower cost)?</li>
+<li>How do I manage the difference in staging speed of different business silos (Experience team leading client-side but with the threat that my front-end is making promises to customer that my back-end can't deliver).</li>
+<li>Platform issues: Where do I start!?! Performance, governance, maintenance, reliability, (in)flexibility, scalability</li>
+<li>What data can I trust? How can I manage my progress?</li>
+<li>Generally, how to I measure and manage the impact on my customer experience of:<ul>
+<li>Range extension (marketplace, <span class="caps">OEM, </span>etc)</li>
+<li><span class="caps">SKU </span>availability (allocation online/offline etc)</li>
+<li>Delivery (number of men, suppliers, boxing and packaging issues)</li>
+<li>Product information and imagery, access to exciting rich media etc</li>
+<li>Selling and fulfilling across the channels (multichannel retail suffering!)</li>
+<li>Social content</li>
+<li><span class="caps">EPOS </span>disasters, why is it so hard to simply give the customer his pound coin back and why does he have to give his postcode?</li>
+<li>Content management, why is it so hard to add, to change content?</li>
+</ul>
+</li>
+<li>Times are tough, how do I plan the amortisation of my improvements and "burn rate" for new initiatives?</li>
+<li>How do I calculate the risk and plan the scheduling of the potential rewards?</li>
+<li>Call centre costs and governance</li>
+<li>Uniqueness (satisfying the promise of "unique experiences") - many/most platforms assume <span class="caps">SKU </span>interchangability, how do I create unique experiences when ecommerce platforms increasingly follow similar design patterns?</li>
+<li>Should I be focusing on <span class="caps">GETTING THE BASICS RIGHT </span>or do I need to go get some new optimising technology?</li>
+<li>What? Another javascript tag? Why does every vendor tell me it's easy-peasey to integrate their service, I just need to add a javascript tag? How in heaven's name am I supposed to manage the performance impact?</li>
+<li>If I can't have bespoke channels, can I have bespoke categories (yes I can!)</li>
+</ul>
+
+<p>So yeah, quite a list:-) </p>
+
+<p>I'm guessing there's a lot more, but even with this rough first draft, I can see some broad areas where a consultant might want to focus attention:</p>
+
+<h2>Start with the "Digital Map"</h2>
+
+<p>Where do we need to be in the mid-to-long term and what do we need to get there? Most businesses maintain a voice-of-the-customer report and maintain a "Customer Plan" these days. The Digital Map builds on those learnings and supports those commitments but with a focus on the elements that directly influence ecommerce performance.  </p>
+
+<h2>What can I do today?</h2>
+
+<p>While we work on a digital map we also need to think about YoY reporting and getting results as quickly as possible. A lot of the nightmares above can be at least addressed at this stage.</p>
+
+<h2>Making stuff that works better, like a better online store</h2>
+
+<p>A lot of the above touch on good old fashioned design and build. The consultant needs to be able to deliver a quantifiably better ecommerce website building on the customer's platform investment.</p>
+
+<h2>Deeper fixes underpinning the online experience</h2>
+
+<p>It's unlikely you're going to let me edit the Cobol that structures your mainframe's performance but somewhere between the ubiquitous <span class="caps">SAP </span>rollout-that-never-happens and cryogenic defrosting of top programmers active in 1979 there lies a wide scope of systems analysis and solutions analysis and architecture. You're going to want to offer those services too.</p>
+
+<h2>If you can't measure it you can't...</h2>
+
+<p>Ecommerce managers are some of the most accountable folk around. When your basket is dropping and your MI is a mess its easy to find your bonus under threat. These guys needs top-notch help with people, processes and performance measurement.</p>
+
+<p>So lots to consider when choosing a consultant then:-)</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Should I commission more strategy work from agencies?</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/is-strategy-worth-the-cash.html" />
+    <id>tag:donkeyontheedge.com,2011:/work//21.11141</id>
+
+    <published>2011-06-03T14:39:52Z</published>
+    <updated>2016-05-19T10:30:47Z</updated>
+
+    <summary> Last year I commissioned agency strategy work to the tune of a little under a million pounds. With the advantage of hindsight, I have to ask myself, &quot;are agencies who produce experience strategy really worth the money?&quot; The first...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Consultancy" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="consultancy" label="consultancy" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="ecommerce" label="ecommerce" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="etail" label="etail" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="multichannelretail" label="multi-channel retail" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="strategy" label="strategy" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p><img alt="Should I spend more money on strategy" src="http://donkeyontheedge.com/images/strategy_fit.png" width="580" height="334"  style="" /></p>
+
+<p>Last year I commissioned agency strategy work to the tune of a little under a million pounds. With the advantage of hindsight, I have to ask myself, "are agencies who produce experience strategy really worth the money?"</p>
+
+<p>The first of the two strategy pieces was run by a really smart guy at a great agency but ultimately, the work they produced had little or no impact on our business. It didn't inform our decision-making nor did it transform any of our research and insights into actionable recommendations. Basically, and no offence to the bright folk who wrote the strategy documents, their work ended up as a couple of big fat Powerpoints on the S: drive. Those docs were briefly consulted then largely forgotten.</p>
+
+<p>The second strategy piece cost twice as much as the first but achieved little more. The brief was to help us accelerate our performance improvements and we went to a leading consultancy in the hopes they would have significant positive impact on our company (or at least our trading performance).</p>
+
+<p>Where the first project likely suffered from poor access to stakeholders, this second one involved a large team of folk in dark suits who made it their business to go as deep as they could and get the information they needed from the right stakeholders.</p>
+
+<p>At first the results seemed encouraging, the team produced a number of documents with amazing facts and figures. Using what I must assume is voodoo and pixie dust, they were able to attach precise performance metrics to general user experience improvements (both UI and UX) and those percentages of 'uplift' (a new word I learned last year) were extremely useful in writing budgets and of course going to the board for cash.</p>
+
+<p>To be fair, the key objective of this second consultancy piece was to generate supporting evidence such that the executive committee could approve a very large budget. Serious people and serious money, so I perfectly understand the need for large documents filled with precise facts and supporting appendices ("the details are all in the appendix" is another favourite bit of consultant-speak I learned last year).</p>
+
+<p>Unfortunately, this strategy also had a fatal flaw. Because it was created top down, with no deeper or longer-term stakeholder engagement, it only took a small change of weather at the top for the budgets to be cut and the whole programme to be shelved.</p>
+
+<p>Now if you ask me, that's a lot of cash (and a lot of time) spent for not a lot of positive outcome. I'm actually looking at my own strategic thinking so I'm not (just) having a bitch and a moan. I am genuinely curious to get a feel for the sustainability of the customer experience strategy industry and learn from the mistakes I made last year so next time this happens we'll get a better result.</p>
+
+<p>Items 1, 2 and 4 in the diagram above make up what you might call the "strategy context" of the brief. I reckon this is where the first agency came a cropper. Specifically, we didn't tell them absolutely everything about the business and they had to make assumptions as to our likely performance. Their analysis was actually pretty clever but we hadn't completely gelled our vision, values and purpose. This meant fragmented results and there was no way our organisational delivery was going to be able to cope with the agency recommendations.</p>
+
+<p>I guess there's a lesson here. If your customer hasn't nailed vision/values nor indeed sufficiently clarified objectives, don't go into strategic analysis. Maybe the brave thing to do is say "we love working with you but let's revisit this in six months when your brand team has had a chance to clarify where you stand" (or words to that effect).</p>
+
+<p>If strategic context was the downfall of the first project, team process was the problem with the second. The consultants were able to get a reasonably good fix on the strategic context (the brand had gelled more since the first team) but they worked to a time-frame that didn't permit the embedding of the "organisational delivery" of their proposed strategy. Simply put, they didn't get deep buy-in across layers of management.</p>
+
+<p>I'm not sure what the answer is here but I'm guessing when one budgets one's headcount on a strategy project, perhaps it would be worth spending a little extra on getting people on the ground to build deeper commitment to one's strategy (could this compliment the usual idea of providing a deck as 'armament' for a director to then socialise in the business?)</p>
+
+<p>Finally, I wonder how much work went into tailoring the work to a client-side audience.&nbsp;I found large parts of both agencies presentations and documentation to be very opaque. You can be as clever as you like but if you don't stimulate your stakeholders to action you're not really having any impact. Something to think about...</p>
+
+<p>There are a hundred other lessons to learn here as well but I'm concerned with those that directly impact the client/agency relationship when dealing with strategy development.</p>
+
+<p>Are you Director of Customer Experience Strategy in an agency? Comments on a post-card please:-)</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Fix your bill with your thumb</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/fix-your-bill-with-your-thumb.html" />
+    <id>tag:goodlookslikethis.com,2012://45.12376</id>
+
+    <published>2011-05-10T09:49:36Z</published>
+    <updated>2015-01-18T04:07:11Z</updated>
+
+    <summary> The insight here was customers were forever getting bills they didn&apos;t expect and they didn&apos;t like the BT model of having to purchase an extra package to save money. In our proposed concept, the bill is visualised in a...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Recent work" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="billing" label="billing" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="customerexperience" label="customer experience" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="ecss" label="ecss" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mobile" label="mobile" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="selfcare" label="self-care" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p><a href="http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-1621.html" onclick="window.open('http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-1621.html','popup','width=1500,height=1000,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-thumb-580xauto-1621.png" width="580" height="386" alt="bill-fixer.png"  style="" /></a></p>
+
+<p><a href="http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-roughs-1623.html" onclick="window.open('http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-roughs-1623.html','popup','width=1497,height=1125,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://goodlookslikethis.com/assets_c/2014/03/bill-fixer-roughs-thumb-580xauto-1623.png" width="580" height="435" alt="bill-fixer-roughs.png"  style="" /></a></p>
+
+<p>The insight here was customers were forever getting bills they didn't expect and they didn't like the BT model of having to purchase an extra package to save money. </p>
+
+<p>In our proposed concept, the bill is visualised in a two-way feedback system which allows the problem to be fixed by dragging the circle with a gesture and the appropriate back-office adjustments (change of package, supplement etc.) happen in the background.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Forty Hall Estate Wineries </title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/forty-hall-estate-bacchus-2013.html" />
+    <id>tag:donkeyontheedge.com,2011:/work//21.11124</id>
+
+    <published>2011-04-06T22:51:49Z</published>
+    <updated>2016-11-30T16:18:38Z</updated>
+
+    <summary>Nicki is working on the branding for a new wine grown in Enfield, North London (yes, really). You&apos;ll have to wait a few years to get some in your glass, but the service design is making headway. We&apos;ve built a...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Recent work" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="barcode" label="barcode" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="graphicdesign" label="graphic design" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="marketing" label="marketing" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mobile" label="mobile" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="nfc" label="nfc" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="qrcode" label="qr code" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="servicedesign" label="service design" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p>Nicki is working on the branding for a new wine grown in Enfield, North London (yes, really). You'll have to wait a few years to get some in your glass, but the service design is making headway.</p>
+
+<p><a href="http://goodlookslikethis.com/assets_c/2014/03/FHV-brand-moodboard-1615.html" onclick="window.open('http://goodlookslikethis.com/assets_c/2014/03/FHV-brand-moodboard-1615.html','popup','width=1509,height=977,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://goodlookslikethis.com/assets_c/2014/03/FHV-brand-moodboard-thumb-580xauto-1615.png" width="580" height="375" alt="FHV-brand-moodboard.png"  style="padding:1em 0 2em 0;" /></a></p>
+
+<p>We've built a lovely responsive site that reinforces the key brand values of "community", "brave" and "quality" to the vineyard's three primary audiences: English wine business, mental health charities, soil association.</p>
+
+<p><a href="http://goodlookslikethis.com/assets_c/2014/03/FHV_responsive_design-1618.html" onclick="window.open('http://goodlookslikethis.com/assets_c/2014/03/FHV_responsive_design-1618.html','popup','width=934,height=448,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://goodlookslikethis.com/assets_c/2014/03/FHV_responsive_design-thumb-580xauto-1618.png" width="580" height="278" alt="FHV_responsive_design.png"  style="padding:1em 0 2em 0;" /></a></p>
+
+<p>Since launching, donations are up 250% and the vineyard managers are tracking their web and social performance with the tools we installed:-)</p>
+
+<p>Nicki is looking at how the prospective customers will experience the brand across time and across multiple touchpoints (we've just tested the awesome <a href="http://www.i-nigma.com/i-nigmahp.html">i-nigma</a> qrcode reader on the iPhone and it automatically goes from scan to website, very nice).</p>
+
+<p><a href="http://goodlookslikethis.com/assets_c/2011/04/bacchus_B-1571.html" onclick="window.open('http://goodlookslikethis.com/assets_c/2011/04/bacchus_B-1571.html','popup','width=2592,height=1936,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://goodlookslikethis.com/assets_c/2011/04/bacchus_B-thumb-580xauto-1571.jpg" width="580" height="433" alt="bacchus_B.jpg"  style="" /></a></p>
+
+<p>It's great to be working with a real 'maker' brand. Satisfying gig and I may even get a case of wine out of it:-)</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Global Service Jam</title>
+    <link rel="alternate" type="text/html" href="http://goodlookslikethis.com/global-service-jam-2011.html" />
+    <id>tag:donkeyontheedge.com,2011:/work//21.11049</id>
+
+    <published>2011-03-14T11:45:31Z</published>
+    <updated>2016-11-30T16:19:24Z</updated>
+
+    <summary> I just spent the weekend in Leeds jamming with some very interesting folk. We were challenged to develop a service prototype in 48 hours under the overall theme of &quot;(super)heroes&quot;. We chose to work in the problem space around...</summary>
+    <author>
+        <name>Dug Falby</name>
+        <uri>http://goodlookslikethis.com</uri>
+    </author>
+    
+        <category term="Recent work" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="gsj11" label="#gsj11" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="gsjleeds" label="#gsjleeds" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="blueprinting" label="blueprinting" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="customerjourneys" label="customer journeys" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mentalmodels" label="mental models" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="servicedesign" label="service design" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en-us" xml:base="http://goodlookslikethis.com/">
+        <![CDATA[<p>
+I just spent the weekend in Leeds jamming with some very interesting folk. 
+We were challenged to develop a service prototype in 48 hours under the overall 
+theme of "(super)heroes". We chose to work in the problem space around youth 
+and crime.</p>
+<p>
+<a href="http://goodlookslikethis.com/i/problem.jpg"><img alt="Crime and punishment stakeholders" src="http://goodlookslikethis.com/assets_c/2011/03/problem-thumb-580xauto-1566.jpg" width="580" height="265" /></a></p>
+<p>
+We brainstormed and eventually tried a mental model</p>
+<p>
+<img alt="The mental model inspired by Indi Young's work" src="/i/mental_model_small.jpg" width="480" height="454" /></p>
+<p>
+The model surfaced an opportunity space between the child who "wants to be free" and the 
+mentor and institutions that can't usefully communicate the difference between right 
+and wrong. The service we came up with was a space where young people could experiment 
+with alternative behaviour in the safety of the virtual world.</p>
+<p>
+<img alt="Lisa is 14 and wants to have fun but is learning to help others and do the right thing" src="http://goodlookslikethis.com/assets_c/2011/03/lisa_superhero-thumb-580x129-1596.png" width="580" height="129" /></p>
+<p>
+To evidence the service we built a scenario around Lisa who is 14 and wants to have fun 
+but is learning to help others and do the right thing. Here's the mini-blueprint of the 
+service.</p>
+<p>
+<a href="http://goodlookslikethis.com/i/miniblueprint.jpg"><img alt="Mini-blueprint of 
+the &quot;Do the Right Thing&quot; service" src="http://goodlookslikethis.com/assets_c/2011/03/miniblueprint-thumb-580x701-1597.jpg" width="580" height="701" /></a></p>
+<p>
+You can <a href="/i/miniblueprint.pdf">grab the pdf</a> if 
+you want to look at the detail. We worked under a Creative Commons license and the details 
+of <em>Do the Right Thing</em> (and many other astonishing projects) are <a 
+href="http://planet.globalservicejam.org/content/do-right-thing">online</a> and do 
+check out the other projects as teams around the planet put in the equivalent of 
+50,000 man/hours over the course of the weekend:-)</p>
+]]>
+        
+    </content>
+</entry>
+
+</feed>
