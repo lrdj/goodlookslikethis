@@ -27,3 +27,7 @@ i:nth-child(2) {
     padding-top:10px;
 }
 
+/* tech-debt introduced as part of move off MT6 to Jekyll */
+
+p.asset-footer-tags { display: none; }
+
