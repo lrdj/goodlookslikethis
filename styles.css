@@ -29,5 +29,5 @@ i:nth-child(2) {
 
 /* tech-debt introduced as part of move off MT6 to Jekyll */
 
-div.widget-tag-cloud, p.asset-footer-tags { display: none; }
+div.widget-archive-monthly, div.widget-tag-cloud, p.asset-footer-tags { display: none; }
 
