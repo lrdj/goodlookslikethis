@@ -1,0 +1,42 @@
+
+<div class="comments-open" id="comments-open">
+  <h2 class="comments-open-header">Leave a comment</h2>
+
+<div class="comments-open-content">
+  <div id="comment-greeting"></div>
+  <form method="post" action="/" name="comments_form" id="comments-form">
+    <div id="comments-open-data">
+      <div id="comment-form-name">
+        <label for="comment-author">Name</label>
+        <input id="comment-author" name="author" size="30" value="" />
+      </div>
+      <div id="comment-form-email">
+        <label for="comment-email">Email Address</label>
+        <input id="comment-email" name="email" size="30" value="" />
+      </div>
+      <div id="comment-form-url">
+        <label for="comment-url">URL</label>
+        <input id="comment-url" name="url" size="30" value="" />
+      </div>
+      <div id="comment-form-remember-me">
+        <input type="checkbox" id="comment-bake-cookie" name="bakecookie" value="1" accesskey="r" />
+        <label for="comment-bake-cookie">Remember personal info?</label>
+      </div>
+    </div>
+    <div id="comment-form-reply" style="display:none">
+      <input type="checkbox" id="comment-reply" name="comment_reply" value="" />
+      <label for="comment-reply" id="comment-reply-label"></label>
+    </div>
+    <div id="comments-open-text">
+      <label for="comment-text">Comments (You may use HTML tags for style)</label>
+      <textarea id="comment-text" name="text" rows="15" cols="50"></textarea>
+    </div>
+    <div id="comments-open-captcha"></div>
+    <div id="comments-open-footer">
+      <input type="submit" accesskey="v" name="preview_button" id="comment-preview" value="Preview" />
+      <input type="submit" accesskey="s" name="post" id="comment-submit" value="Submit" />
+    </div>
+  </form>
+</div>
+
+</div>

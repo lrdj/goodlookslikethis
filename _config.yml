@@ -1,11 +1,12 @@
 # Site Settings
-locale                   : "en-GB"
-title                    : "Good looks like this"
-description              : "An independent product"
-name                     : "Dug Falby"
-email                    : dug@goodlookslikethis.com
-subject                  : "Contact from Good Looks Like This website"
-baseurl                  : "" # /GLLT_01 the subpath of your site, e.g. /blog
-url                      : "" # the base hostname & protocol for your site, e.g. http://example.com
+locale         : "en-GB"
+title          : "Good looks like this"
+description    : "An independent product"
+name           : "Dug Falby"
+email          : dug@goodlookslikethis.com
+subject        : "Contact from Good Looks Like This website"
+baseurl        : "" # /GLLT_01 the subpath of your site, e.g. /blog
+url            : "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink      : /:year/:month/:title:output_ext
 
 
