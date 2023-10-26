@@ -25,7 +25,9 @@ My client in Barcelona was scaling up and chasing their "C" round of funding. Th
 
 As part of this setup, the leadership was 100% focused on growth, especially as measured in ARR. At this stage the original magic of the product was still alive at the company, but the new leaders recruited a c-suite, a cadre of VPs etc. with the intention of becoming a big-boy company, winning round three of funding, and eventually going for IPO.
 
-In the midst of this, a CPO was hired and they recruited a full-fat, a-list team to drive the product to the next level. Unfortunately, the product organisation was in many ways dysfunctional.
+In the midst of this, a CPO was hired and they recruited a full-fat, a-list team to drive the product to the next level. I was part of that team.
+
+Unfortunately, the product organisation was in many ways dysfunctional.
 
 ### The problem 
 

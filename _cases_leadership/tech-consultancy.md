@@ -1,6 +1,6 @@
 ---
 layout: 2023/case
-title: "Building a practice inside the world's largest consulting firm"
+title: "Building a design practice inside the world's largest consulting firm"
 
 subtitle: >
   I was asked: Can you give us an example where you’ve helped an organisation to increase their design maturity? Sure, I was asked to join an enterprise technology consulting firm which at the time had some digital marketing experience, but little or no maturity in operationalising design thinking at scale.
