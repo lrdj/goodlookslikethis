@@ -1,0 +1,12 @@
+
+<h1 id="headTitle">
+    {{ site.data.constants.[page.theme].title }}
+</h1>
+<p id="siteSubtitle">{{ site.data.constants.[page.theme].subtitle }}</p>
+
+<nav id="casesNav">
+    {% for item in site.data.constants %}
+        <a href="/cases/{{ item[1].slug }}/" class="button">{{ item[1].title }}</a>
+    {% endfor %}
+</nav>
+

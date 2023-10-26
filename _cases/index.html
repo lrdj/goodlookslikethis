@@ -1,0 +1,33 @@
+---
+layout: default
+title: "Dug Falby - Case studies grouped by area of interest"
+subtitle: > 
+    Case studies <em>by nature of engagement.</em>
+bodyclass: "cases"
+---
+
+<main>
+    <section class="wrapper">
+
+        <h1 id="headTitle">
+            {{ page.subtitle }}
+        </h1>
+
+        <!-- p id="siteSubtitle">{{ site.description }}</p -->
+
+
+      <ul class="article-list index-block">
+        {% for item in site.data.constants %}
+        <li>
+          <article>
+            <h2>
+            <a href="/cases/{{ item[1].slug }}/">{{ item[1].title }}</a></h2>
+            <p>{{ item[1].subtitle }}</p>
+          </article>
+        </li>
+        {% endfor %}
+      </ul>
+
+    </section>
+</main>
+

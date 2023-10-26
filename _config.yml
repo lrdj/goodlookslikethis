@@ -1,12 +1,59 @@
-# Site Settings
-locale         : "en-GB"
-title          : "Good looks like this"
-description    : "An independent product"
-name           : "Dug Falby"
-email          : dug@goodlookslikethis.com
-subject        : "Contact from Good Looks Like This website"
-baseurl        : "" # /GLLT_01 the subpath of your site, e.g. /blog
-url            : "" # the base hostname & protocol for your site, e.g. http://example.com
-permalink      : /:year/:month/:title:output_ext
+title: Good looks like this
+email: dug@goodlookslikethis.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Some of Dug's slightly more interesting design things.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+github_username:  lrdj
+linkedin_username: goodlookslikethis
+mastodon_link: "https://mastodon.social/@donkeyontheedge"
+mastodon_uname: "@donkeyontheedge"
+twitter_username: dug
+rss:  feed.xml
+linkedinRecoms: https://www.linkedin.com/in/goodlookslikethis/details/recommendations?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABPv2gBe1Ikb3ReDs6c-k6m5ULq2SpMDVU&tabIndex=0&detailScreenTabIndex=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B75oVVHW0Q0Sp9SX8lnNMxQ%3D%3D
+
+# Build settings
+# theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+paginate: 9
+paginate_path: "/articles/p:num/"
+
+blogIndexSubtitles: true
+
+# set link structure for blog posts
+
+defaults:
+  - scope:
+      type: "posts"
+    values:
+      permalink: /:title.html
+
+
+# case footer links
+case_footer_P_image: /i/address-book-metaphor.png
+case_footer_N_image: /i/BM-report-C.png
+
+collections:
+  cases:
+    output: true
+    permalink: /cases/:name
+  cases_leadership:
+    output: true
+    permalink: /cases/leadership/:name
+  cases_sdingov:
+    output: true
+    permalink: /cases/sdingov/:name
+  cases_strategy:
+    output: true
+    permalink: /cases/strategy/:name
+  cases_practitioner:
+    output: true
+    permalink: /cases/practitioner/:name
+  cases_remote:
+    output: true
+    permalink: /cases/remote/:name
 

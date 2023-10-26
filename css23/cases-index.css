@@ -1,0 +1,56 @@
+
+/*
+Styles to display the enhanced cases index with clipped video loops etc.
+*/
+
+body {background: #f5f5f5;}
+
+.wrapper.full {
+padding:0 var(--wrapper-side-small) 0 var(--wrapper-side-small);
+}
+
+.case-list figure {
+padding: 0;
+margin: 0;
+width:100%;
+height:100%;
+background: #eef;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.Zcase-list .grid-item {
+border: 1px solid red;
+width: 40%;
+} 
+
+.case-list li {
+display: grid;
+grid-template-columns: repeat(2, 1fr); /* 2 items per row */        
+border: 0px solid yellow;
+/* min-height:360px; */    
+height: 100vh;
+}
+
+.case-list article {
+padding: 2em 6em 3em 4em; /* Space inside each item */
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: 'gilroy-extrabold';
+/* font-family: nevis; */
+font-weight: bold;
+letter-spacing: 0px;
+line-height: 1.1em;
+margin-bottom: 20px;
+}
+
+.case-fame h2 {
+font-size: 4.6vw;
+color: #af9568;
+transition: color 0.1s ease-in-out, background 0.1s ease-in-out;
+}

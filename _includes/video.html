@@ -1,0 +1,8 @@
+    <video loop="" autoplay="" muted="" playsinline="" class="brand-video" preload="">
+{%- if include.type == "index" -%}
+      <source src="{{ site.url }}{{ case.index_video }}" type="video/mp4">
+{%- else -%}
+      <source src="{{ site.url }}{{ case.hero_video }}" type="video/mp4">
+{%- endif -%}
+    </video>
+

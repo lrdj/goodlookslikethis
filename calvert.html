@@ -1,0 +1,59 @@
+---
+layout: default
+bodyclass: cases
+---
+
+{%- if site.posts.size > 0 -%}
+
+<main>
+    <section class="wrapper">
+        <ul class="article-list index-block">
+
+
+            {% for post in paginator.posts %}
+            <li>
+                <article class="grid-item post">
+                    <!-- if blogpost -->
+                    <p class="info-author"><span>Posted by <a href="#">{{ post.author }}</a></span></p>
+                    <!-- endif -->
+
+                    <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+
+                    {%- if site.blogIndexSubtitles == true -%}
+                    <p style="margin-bottom:0.5em;">{{ post.subtitle | truncatewords: 42 }}</p>
+                    {%- endif -%}
+
+                    <!-- if blogpost -->
+                    <p class="info-others">
+                        <span id="postPubDate">{{ post.date | date: "%d/%m/%Y" }}</span>
+                        <span id="postCategories">
+                        {%- if post.category -%}
+                          In&nbsp; 
+                          {%- for category in post.category -%}
+                            <a href="#" rel="category tag">{{ category }}</a>
+                            {%- unless forloop.last -%}, {% endunless -%}
+                          {%- endfor -%}
+                        {%- endif -%}
+                        </span>
+                        <span id="postComments"><i>(comments disabled)</i></span>
+                    </p>
+                    <!-- endif -->
+
+                    <!-- if page.indeximage -->
+                    <div class="post-image-wrap">
+                        <div style="background: url({{- post.featured_image -}}) center center no-repeat;background-size: cover;" class="post-image"></div>
+                    </div>
+                    <!-- endif -->
+                </article>
+            </li>
+            {%- endfor -%}
+        </ul>
+    </section>
+
+    <!-- index pagination -->
+   {% include 2023/paginator-nextprev.html %}
+
+</main>
+
+{%- endif -%}
+

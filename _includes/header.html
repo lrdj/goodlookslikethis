@@ -1,8 +1,43 @@
-    <div id="header">
-      <div id="header-inner">
-        <div id="header-content">
-          <div id="header-name"><a href="/" accesskey="1">Good looks like this</a></div>
-          <div id="header-description">Some of Dug's more interesting CX design things</div>
-        </div>
+
+<div id="logo"><a href="{{ site.url }}"><h1><img src="{{- site.url -}}/images/logo.svg" alt="dug" style="width: 60px;"></h1></a></div>
+
+<div id="menu-wrapper">
+  <div id="menu-controller">
+    <div id="menu-icon">
+      <div id="menu-icon-stack">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <div id="menu-icon-close">
+        <span></span>
+        <span></span>
       </div>
     </div>
+  </div>
+  <div id="menu-content">
+    {%- include nav.html -%}
+    <div id="contact-info">
+      <p>
+        London, The Midlands, and Scotland<br>
+        UK-Wide<br>
+      </p>
+      <p><a href="#">07549172692</a></p>
+      <p><a href="mailto:dug@goodlookslikethis.com" title="business email">dug@goodlookslikethis.com</a></p>
+    </div>
+    <div id="socials">
+      <ul>
+        <li><a href="https://twitter.com/dug"><i class='fa fa-twitter'></i></a></li>
+        <li><a href="https://www.linkedin.com/in/goodlookslikethis"><i class='fa fa-linkedin'></i></a></li>
+        <li><a href="https://github.com/lrdj"><i class='fa fa-github'></i></a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="bg-primary" class=""></div>
+</div>
+
+<div id="white-bar">
+</div>
+
+
+

@@ -1,0 +1,195 @@
+
+/* Fonts and basic element styling */
+
+/*  
+SYSTEM-UI stacks: 
+
+Didone
+font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+
+Industrial
+font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
+
+Old style
+font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+*/
+
+@font-face {
+  font-family: 'gilroy-extrabold';
+  src: url('/fonts/gilroy/gilroy-extrabold-webfont.woff2') format('woff2'),
+       url('/fonts/gilroy/gilroy-extrabold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'source sans pro';
+  src: url('/fonts/source-sans/sourcesanspro-bold-webfont.woff2') format('woff2'),
+       url('/fonts/source-sans/sourcesanspro-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'montserrat';
+  src: url('/fonts/Montserrat/Montserrat-Light.ttf') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+body {
+  font-family: system-ui, sans-serif;
+  font-weight: 200;
+  font-size: large;
+  }
+
+h1,h2,h3,h4,h5,h6 { font-weight: 700; }
+
+h2,h3,h4,h5,h6 { margin:1em 0 0 0; line-height: 1.3em;}
+
+.emphasisBlock { margin:1.5em 0 0.5em 0; width:66%; }
+
+h1#headTitle {
+  font-size: 3.5em;
+  font-weight: normal;
+  line-height: 1.1em;
+/*  margin: 1em 0 1em 0; */
+  margin: 1em 0 0 0;
+  font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+  }
+
+#siteSubtitle { fxont-weight: bolder; font-size: x-large; margin:0.25em 0 1.5em 0; wxidth: 66%; }
+
+.df-width-one-third {width: 33%;}
+.df-width-two-thirds {width: 66%;}
+.df-width-one-quarter {width: 25%;}
+.df-width-one-half {width: 50%;}
+
+/*
+.df-centre {text-align: center;}
+.df-right {text-align: right;}
+*/
+
+p { margin: 0.25em 0 1em 0;line-height: 1.5em; }
+ul { margin-top: 0.25em; }
+th, td, li { line-height: 1.5em; }
+
+sup {vertical-align: super; line-height: 0; font-size: x-small;font-weight: bold;}
+
+
+hr { border: none; background: transparent;border-top: 2px solid var(--mc-lightblue); margin:2em 0 2em 0; }
+
+/* navigation and links */
+
+#casesNav {}
+
+a {
+  color: var(--haud-darkgold);
+  transition: color 0.1s ease-in-out, background 0.1s ease-in-out; }
+
+a:hover {
+  color: #000; }
+
+.button {
+    color: var(--but-brdr-col);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: small;
+    font-weight: bold;
+    background-color: #fff;
+    display: inline-block;
+    line-height: 1;
+    padding:0.5em 1em 0.5em 1em;
+    margin: 0 0.5em 0.5em 0;
+    border: 2px solid var(--but-brdr-col);
+    transition: background-color 0.25s ease-out, color 0.25s ease-out;
+}
+
+#postPagination .button {
+    color: var(--haud-darkgold);
+    font-size: medium;
+    border: none;
+}
+
+.back {
+  display: inline-block;
+  font-size: x-small;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin:1.25em 0 0.5em 0;"
+}
+
+
+/* article index page contents */
+
+.article-list article h2,
+.article-list article h2 a,
+.article-list article p {
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+.info-author {
+  font-style: italic;
+}
+
+.excerptSubtitle {
+  font-size: medium;
+}
+
+.info-author, .info-others {
+  font-size: small;
+}
+
+.article-list article h2 {
+    font-size: 1.75em;
+    font-weight: 800;
+}
+
+.excerptSubtitle {
+  margin-bottom:0.5em;
+}
+
+
+/* HMRC-style timeline lists */
+
+.roleTimeline {
+    border-left:5px solid #1d70b8;
+    margin: 0 0 30px 0;
+    padding-left:0;
+}
+.roleTimelineEvent {
+    list-style: none;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    position: relative;
+    margin:0 0 0.5em 0;
+}
+/*
+.roleTimelineEvent ul {
+    padding-bottom:100px;
+}
+*/
+.roleTimelineEvent li {
+    list-style-type: disc;
+}
+.eventTitle::before {
+    background-color: #1d70b8;
+    content: "";
+    height: 5px;
+    left: 0;position: absolute;
+    top: .5em;width: 7px;
+}
+
+
+
+
+/*
+#siteFooterSlug {
+    font-size: smaller;
+}
+*/
+
+

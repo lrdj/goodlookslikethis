@@ -1,0 +1,13 @@
+    <svg width="1000" height="563" viewBox="0 0 1000 563" class="svg-graphic">
+      <defs>
+        <mask id="case-{%- cycle "1", "2", "3", "4", "5" -%}-mask" x="0" y="0" width="1000" height="563">
+          <rect x="0" y="0" width="1000" height="563" fill="#fff"></rect>
+          <polygon points="726.6,558 598.6,558 837.4,1 965.4,1 "/>
+          <polygon points="586.6,558 458.6,558 697.4,1 825.4,1 "/>
+          <polygon points="446.6,558 318.6,558 557.4,1 685.4,1 "/>
+          <polygon points="307.6,558 179.6,558 418.4,1 546.4,1 "/>
+          <polygon points="166,558 38,558 276.9,1 404.9,1 "/>
+        </mask>
+      </defs>
+      <rect x="0" y="0" width="1000" height="563"></rect>
+    </svg>

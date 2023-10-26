@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{%- if site.posts.size > 0 -%}
+
+<main>
+    <section class="wrapper">
+        <ul class="article-list index-block">
+            {%- for post in site.posts -%}
+            <li>
+                <article class="grid-item post">
+                    <!-- if blogpost -->
+                    <p class="info-author"><span>Posted by <a href="#">{{ post.author }}</a></span></p>
+                    <!-- endif -->
+
+                    <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+
+                    {%- if site.blogIndexSubtitles == true -%}
+                    <p style="margin-bottom:0.5em;">{{ post.subtitle | truncatewords: 42 }}</p>
+                    {%- endif -%}
+
+                    <!-- if blogpost -->
+                    <p class="info-others">
+                        <span>{{ post.date | date: "%d/%m/%Y" }}</span>
+                        <span>{%- if post.category -%}In <a href="#" rel="category tag">{{ post.category }}</a>{%- endif -%}</span>
+                        <span><a href="#"><i>Comments disabled</i></a></span>
+                    </p>
+                    <!-- endif -->
+
+                    <!-- if page.indeximage -->
+                    <div class="post-image-wrap">
+                        <div style="background: url({{- post.featured_image -}}) center center no-repeat;background-size: cover;" class="post-image"></div>
+                    </div>
+                    <!-- endif -->
+                </article>
+            </li>
+            {%- endfor -%}
+        </ul>
+    </section>
+</main>
+
+{%- endif -%}
+

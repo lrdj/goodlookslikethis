@@ -1,0 +1,10 @@
+
+<nav id="postPagination" class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="load-more button">Back</a> <!-- load-more button styled -->
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="load-more button">Load more</a>
+  {% endif %}
+</nav>
+

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Learn</title>
+</head>
+
+<body class="">
+
+<style type="text/css">
+
+.post-desc {
+  position: relative;
+  z-index: 1;
+}
+
+.post-image-wrap {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  border:5px dashed darkred;
+}
+
+.post-image {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transform: scale(1.05);
+  transition: all 0.5s ease;
+}
+
+.post-image-2 {
+  background: url('/i/vision-workshops/workshop-team.jpg') center center no-repeat;
+  background-size: cover;
+}
+
+.post.featured h3 {
+  font-size: 3.5vw;
+}
+
+.post.featured  {
+  min-height: 400px;
+  height: auto;
+  padding-right: 150px;
+}
+
+.post:hover, .post.featured  {
+  color: #fff;
+  background: #af9568;
+}
+
+.post:hover .info-author, .post.featured .info-author {
+  color: #fff;
+}
+
+.post:hover a, .post.featured a {
+  color: #fff;
+}
+
+.post:hover a.button, .post.featured a.button {
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.post:hover a.button:hover, .post.featured a.button:hover {
+  color: #af9568;
+  background: #fff;
+}
+
+.post:hover .post-image, .post.featured .post-image {
+  opacity: 0.9;
+  filter: grayscale(1);
+  mix-blend-mode: multiply;
+  transform: scale(1);
+}
+
+body.single .post {
+  color: #fff;
+  background: #af9568;
+  height: auto;
+  padding-top: 150px;
+  padding: 150px 0 100px;
+}
+
+body.single .post .post-image  {
+  opacity: 0.9;
+  filter: grayscale(1);
+  mix-blend-mode: multiply;
+  transform: scale(1);
+}
+
+body.single .post a, body.single .post .info-author {
+  color: #fff;
+}
+
+#relcontainer { border:10px solid purple; position:relative; }
+
+#in, #mid, #out {
+margin:0;padding:2em;
+position:absolute;
+width: 280px;
+height: 140px;
+background-color: #af9568;
+}
+
+#out {border: 5px solid yellow;top:40px; left:40px;}
+#mid {border: 5px solid red;top:40px; left:40px;}
+#in1, #in2 {border: 5px solid #fff;top:0; left:300px;height: 250px;}
+
+
+img.testA  {
+  position: absolute;top:0;left:0;
+  width: 300px;
+  opacity: 0.9;
+  filter: grayscale(1);
+  mix-blend-mode: multiply;
+  transform: scale(1);
+  /* z-index: -1; */
+}
+
+h2, p { font-family: sans-serif; }
+h2 { font-size: 3.5vw; }
+  
+
+
+</style>
+
+
+<div id="relcontainer">
+  <div class="post">
+    <div class="post-desc">
+      <h2>First words</h2>
+      <p>More words go here.</p>
+    </div>
+
+    <div class="post-image-wrap">
+      <div class="post-image post-image-2"></div>
+    </div>
+  </div>
+</div>
+
+
+
+</body>
+</html>
+
+
+
+

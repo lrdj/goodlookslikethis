@@ -1,0 +1,130 @@
+
+/*
+Styles to display the articles index in 2 cols etc
+*/
+
+
+li { background: #fff; }
+
+.article-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 1.5em 0 0 0;
+}
+
+body.cases .article-list {
+    margin: 1em 0 0 0;
+}
+
+.article-list { /* all the posts in index format */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 items per row */
+    border-right: 1px solid #e0e0e0;
+    border-top: 1px solid #e0e0e0;
+    /* overflow: auto; */
+}
+
+.article-list li {
+    margin: 0;
+    border-bottom: 1px solid #e0e0e0;
+    border-left: 1px solid #e0e0e0;
+}
+
+.article-list.index-block li:first-child {
+    grid-column: span 2; /* Make it span two columns */
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+    .article-list {
+        grid-template-columns: 1fr; /* 1 item per row on mobile */
+    }
+    .article-list.index-block li:first-child {
+        grid-column: span 1;
+    }
+}
+
+
+/*
+Styles to create the image overlays in index items with backround on hover etc.
+*/
+
+.article-list article {
+    position: relative;
+    padding: 1em 1em 2em 2.5em; /* Space inside each item */
+/*
+    width: 50%;
+    height: 200px;
+*/
+    border: 0px solid red;
+    background-color: #fff;
+    transition: background-color 0.5s ease;
+    overflow: hidden;
+}
+
+.article-list.index-block li:first-child article {
+    padding: 2em 0.75em 4em 2.5em; /* More space for first */
+}
+
+/*
+.article-list li:hover {
+    background-color: #af9568;
+}
+*/
+
+.article-list article:hover {
+    background-color: #af9568;
+}
+
+.article-list article h2,
+.article-list article p {
+    position: relative;
+    z-index: 2;
+}
+
+.article-list article h2 {
+    color: #af9568;
+}
+
+.article-list article p {
+    color: #000;
+}
+
+.article-list article:hover h2,
+.article-list article:hover a,
+.article-list article:hover p {
+    color: #fff;
+}
+
+/*
+.article-list article:hover h2 a {
+    text-decoration: underline;
+}
+*/
+
+.article-list figure::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    opacity: 0;
+    filter: grayscale(1);
+    mix-blend-mode: multiply;
+    transform: scale(1.05);
+    transition: all 0.5s ease;
+    z-index: 1;
+    background-image: var(--bg-image);
+}
+
+.article-list article:hover figure::before {
+    opacity: 0.8;
+    transform: scale(1);
+}
+
+
+
+
+

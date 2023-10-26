@@ -1,0 +1,63 @@
+
+<!-- build a list of links to the items in the collection of case index files -->
+
+<script type="text/javascript">{% for caseindex in site.case_indices %}
+var {{ caseindex.title | slugify | remove: "-"}} = [{%- assign cases = site.pages | where_exp: "case", "case.portfolio contains caseindex.title" -%}
+{%- for case in cases -%}
+    {
+      "title": "{{ case.title }}",
+      "url": "{{ case.url }}"
+    }
+    {%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}
+];
+{% endfor %}
+
+
+// Pull latest index visit
+var refpage = localStorage.getItem('lastTheme');
+
+
+// use refpage to extract array contents
+var themePages = window[refpage];
+
+
+// figure out what the index of the current page is in the theme array
+var currentpage = '{{ page.title }}';
+for (i = 0; i < themePages.length; i++) {
+  if (themePages[i].title == currentpage) {
+   // document.write('<h2>Length = ' + themePages.length + '  Index = ' + i + '</h2>');
+   currentindex = i;
+  }
+}
+
+
+// build prev and next links in the theme array
+if (themePages[currentindex-1]) { var prevObj = themePages[currentindex-1] } else { var prevObj = themePages[currentindex] } ;
+if (themePages[currentindex+1]) { var nextObj = themePages[currentindex+1] } else { var nextObj = themePages[currentindex] } ;
+
+if (prevObj.title) { var prevTitle = prevObj.title };
+if (prevObj.url) { var prevURL = prevObj.url };
+if (nextObj.title) { var nextTitle = nextObj.title };
+if (nextObj.url) { var nextURL = nextObj.url };
+
+if (themePages[currentindex].title != prevTitle) { 
+  var prevCard = '<a href="' + prevURL + '"><span style="font-size:medium;">&lt; prev case</span><br>' + prevTitle + '</a>' 
+} else { var prevCard = '(that\'s it)' };
+if (themePages[currentindex].title != nextTitle) { 
+  var nextCard = '<a href="' + nextURL + '"><span style="font-size:medium;">next case &gt;</span><br>' + nextTitle + '</a>' 
+} else { var nextCard = '(that was the last one)' };
+
+var testoutput = prevCard + '&nbsp;&nbsp;&nbsp;&nbsp;' + nextCard;
+
+// document.getElementById("arsediv").innerHTML = testoutput;
+document.getElementById("prevH3").innerHTML = prevCard;
+document.getElementById("nextH3").innerHTML = nextCard;
+
+
+
+// console.log(variables);
+
+</script>
+
+
+

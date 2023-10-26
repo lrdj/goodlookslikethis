@@ -1,0 +1,26 @@
+portfolio_themesA:
+  service_design:
+    title: "Service design practice"
+    subtitle: "Work where outcomes generated relied on my service design capabilities, methods and experiences"
+  ux_design:
+    title: "Service design practice"
+    subtitle: "UX projects where I converted insights into great product experiences"
+  leading_design:
+    title: "Leading design"
+    subtitle: "Case studies illustrating my embedding and growing design into organisations"
+  remote_teams:
+    title: "Influencing, Leading and delivering remotely"
+    subtitle: "Projects from 2020 where I modified my practise to deliver results for customers working remotely"
+portfolio_themesB:
+  service_design:
+    title: "Service design practice"
+    subtitle: "Work where outcomes generated relied on my service design capabilities, methods and experiences"
+  ux_design:
+    title: "Service design practice"
+    subtitle: "UX projects where I converted insights into great product experiences"
+  leading_design:
+    title: "Leading design"
+    subtitle: "Case studies illustrating my embedding and growing design into organisations"
+  remote_teams:
+    title: "Influencing, Leading and delivering remotely"
+    subtitle: "Projects from 2020 where I modified my practise to deliver results for customers working remotely"

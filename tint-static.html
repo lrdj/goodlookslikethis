@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en"  class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <title>Good looks like this&nbsp;&mdash;&nbsp;Dug Falby's work blog. Good looks like this.</title>    
+    <link rel="stylesheet" type="text/css" href="/css23/grid.css">
+    <link rel="stylesheet" type="text/css" href="/css23/typography.css">
+    <link rel="stylesheet" type="text/css" href="/css23/posts-index.css">
+    <style type="text/css">
+
+
+.article-list li {
+    position: relative;
+    background: transparent;
+}
+
+.article-list li a { text-decoration: none; }
+.article-list li:first-child h2 { font-size: 2em;}
+
+figure.underlay {
+    position: absolute;
+    left: 0; top: 0;
+    margin: 0; padding: 0;
+    width: 100%; height: 100%;
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1;
+    opacity: 0;  /* set initial opacity to 0 */
+    transform: scale(1.05);
+/*  transition: opacity 0.4s;  */
+    transition: all 0.5s ease;
+
+}
+
+figure.underlay::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(175, 149, 104, 0.9);
+}
+
+/* When the li is hovered over, reveal the background */
+.article-list li:hover figure.underlay,
+.article-list li:first-child figure.underlay { 
+
+    opacity: 1;
+
+  opacity: 0.9;
+  filter: grayscale(1);
+  mix-blend-mode: multiply;
+  transform: scale(1);
+
+}
+
+.article-list article.post:hover { bxxackground: #af9568; }
+
+.article-list article.post:hover,
+.article-list article.post:hover h3,
+.article-list article.post:hover a,
+.article-list article.post:hover p { color: #fff; }
+
+
+
+    </style>
+  </head>
+<body class="">
+<header>
+    <a href="/" id="identity">
+        <img src="/i/headernav/dug-logo-smaller.svg" alt="dug (company logo)">
+        <img src="/i/headernav/gltt.svg" alt="Good looks like this." id="glttBanner">
+    </a>
+    <nav id="headernavLinks">
+        <a href="/"><img src="/i/headernav/nav-blog-box.svg" alt="go to blog pages"></a>
+        <a href="/cases/"><img src="/i/headernav/nav-cases-box.svg" alt="go to case studies"></a>
+    </nav>
+</header>
+<nav class="first"><!-- ok this is nasty but navigation elements like a drop-down could be in here --></nav>
+
+<main>
+    <section class="wrapper">
+
+        <h1 id="headTitle">
+            Some of Dug's <em>slightly</em> more interesting design things&hellip;
+        </h1>
+
+
+        <ul class="article-list index-block">
+
+            <li>
+                <article class="grid-item post">
+                    <h2><a href="/business%20design/innovation/org%20design/organisational%20culture/transformation/2021/03/16/Vision-canvas-workshop-tool.html">The Vision Canvas</a></h2><p style="margin-bottom:0.5em;">Should I build a vision canvas with my stakeholders?</p><!-- if blogpost -->
+                    <p class="info-others">
+                        <span class="postPubDate">16/03/2021</span>
+                        <span class="postCategories">In&nbsp;<a href="#" rel="category tag">business design</a>, <a href="#" rel="category tag">innovation</a>, <a href="#" rel="category tag">org design</a>, <a href="#" rel="category tag">organisational culture</a>, <a href="#" rel="category tag">transformation</a></span>
+                        <span class="postComments"><i>(comments disabled)</i></span>
+                    </p>
+
+                    
+                    <figure class="underlay" style="background-image: url('/i/vision-workshops/workshop-team.jpg');"></figure>
+
+                </article>
+            </li>
+
+
+            <li>
+                <article class="grid-item post">
+                    <h2><a href="/in%20things%20dug%20cares%20about/2021/03/04/what-did-i-learn-last-year.html">What did I learn in 2020?</a></h2><p style="margin-bottom:0.5em;"></p><!-- if blogpost -->
+                    <p class="info-others">
+                        <span class="postPubDate">04/03/2021</span>
+                        <span class="postCategories"></span>
+                        <span class="postComments"><i>(comments disabled)</i></span>
+                    </p>
+                    
+                    <figure class="underlay" style="background-image: url('/i/BM-report-B.png');"></figure>
+                    
+                </article>
+            </li>
+
+
+            <li>
+                <article class="grid-item post">
+                    <h2><a href="/service%20design/cx/2021/02/10/carpetright-customer-satisfaction-survey.html">Carpetright Customer Satisfaction Survey</a></h2><p style="margin-bottom:0.5em;">Here's another thing to be happy about. By simply completing our quick survey you could win yourself £500 Carpetright vouchers, or the value of your recent order!</p><!-- if blogpost -->
+                    <p class="info-others">
+                        <span class="postPubDate">10/02/2021</span>
+                        <span class="postCategories">In&nbsp;<a href="#" rel="category tag">Service design</a>, <a href="#" rel="category tag">CX</a></span>
+                        <span class="postComments"><i>(comments disabled)</i></span>
+                    </p>
+
+                    
+                    <figure class="underlay" style="background-image: url('/i/service.jpg');"></figure>
+
+                </article>
+            </li>
+        </ul>
+
+        </section>
+        <nav id="postPagination" class="pagination">
+            <a href="/articles/p2/" class="load-more button">Load more</a>  
+        </nav>
+    </main>
+        
+    <footer class="wrapper">
+        <span id="siteFooterSlug">Good looks like this.<br>Materials copyright ©<script>document.write(new Date().getFullYear())</script>.</span>
+        <!-- create a UL of class="social-media-list" -->
+        <ul class="social-media-list"><li><a href="https://github.com/lrdj"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">lrdj</span></a></li><li><a href="https://www.linkedin.com/in/goodlookslikethis"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">goodlookslikethis</span></a></li><li><a href="https://mastodon.social/@donkeyontheedge"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#mastodon"></use></svg> <span class="username">@donkeyontheedge</span></a></li><li><a href="/feed.xml"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#rss"></use></svg> <span>feed.xml</span></a></li><li><a href="https://www.twitter.com/dug"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">dug</span></a></li></ul>
+    </footer>
+
+  </body>
+</html>

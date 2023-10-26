@@ -1,0 +1,86 @@
+---
+layout: default
+---
+
+<style type="text/css">
+  figure {
+    width: 100%;
+    margin:1em 0 0 0;padding:0;
+    border:0px solid red;
+  }
+  figure img {
+    display: block;
+    width: 100%;
+  }
+  figcaption {
+    display: block;
+    margin: 0;
+    padding: 1em;
+    color: #333;
+    background: #E5E4E2;
+    font-size: small;
+    text-transfxorm: uppercase;
+    font-weighxt: bold;
+  }
+</style>
+
+<main>
+
+    <section class="wrapper">
+
+      <figure>
+        {%- if page.target -%}<a href="{{- page.target -}}">{%- endif -%}<img src="{{ page.hero_image }}">{%- if page.target -%}</a>{%- endif -%}
+        {%- if page.hero_image_alt -%}<figcaption>{{ page.hero_image_alt }}</figcaption>{%- endif -%}
+      </figure>
+
+          <article class="post" style="width:66%;">
+
+              <h1 id="headTitle">{{ page.title }}</h1>
+
+              <p class="post-intro" style="font-size: 1.33em;">
+              {{ page.intro }}
+              </p>
+
+              {{ content }}
+
+              <!-- if blogpost -->
+              <p class="info-others">
+                  <span id="postPubDate">{{ post.date | date: "%d/%m/%Y" }}</span>
+                  <span id="postCategories">
+
+              {% if post %}
+                {% assign categories = post.categories %}
+              {% else %}
+                {% assign categories = page.categories %}
+              {% endif %}
+              In&nbsp; 
+              {% for category in categories %}
+              <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+              {% unless forloop.last %}&nbsp;{% endunless %}
+              {% endfor %}
+
+                  </span>
+
+                  <span class="tags" style="font-weight: bold;">
+                  {% if post %}{% assign tags = post.tags %}{% else %}{% assign tags = page.tags %}{% endif %}
+                  Tags: {% for tag in tags %}{{ tag }}{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}
+                  </span>
+
+                  <span id="postComments"><i>(comments disabled)</i></span>
+              </p>
+              <!-- endif -->
+
+              <!-- if page.indeximage -->
+              <div class="post-image-wrap">
+                  <div style="background: url({{- post.featured_image -}}) center center no-repeat;background-size: cover;" class="post-image"></div>
+              </div>
+              <!-- endif -->
+          </article>
+  
+    </section>
+
+    <!-- move between posts -->
+    {%- include 2023/next-prev.html -%}
+
+</main>
+

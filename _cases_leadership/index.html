@@ -1,0 +1,218 @@
+---
+layout: default
+theme: "designLeadership"
+parent: "cases_leadership"
+
+themes:
+  - designLeadership
+  - sdInGov
+  - strategy
+  - serviceDesign
+  - remoteTeams
+
+bodyclass: "cases"
+
+---
+
+<style type="text/css">
+  .two-thirds h2, .two-thirds p { width: 66%; }  
+</style>
+
+<main>
+    <section class="wrapper t2wo-thirds">
+<!-- include 2023/cases-header-submenu.html -->
+
+<h1 id="headTitle">
+    Design leadership
+</h1>
+
+<p style="padding-top:0.5em;">
+I was recently interviewed about my leadership. I thought the questions were helpful, and writing the answers helped me reflect on my practice. I've included some of them here as a starter-for-ten for customers wanting to know more about what I do. I'll add the questions not listed here to a blog post for further discussion.</p>
+
+
+{% if page.path contains "_cases_leadership/" %}
+    <style type="text/css">
+        #callOut { float: right; width: 33%; margin:0 0 1.5em 1.5em; padding:0; font-size: small; }
+        #callOut h3 { margin:0; padding: 0.7em 1.5em 0.7em 1.5em; color: #666; background-color: var(--mc-lightblue); font-size: x-small; border-bottom:4px solid white; text-transform: uppercase; font-weight: bold; }
+        #callOut ul {
+            list-style-type: none;
+            padding: 0;margin: 0; }
+        #callOut li { background-color: var(--mc-lightgray); padding: 0.6em 1em 0.6em 1em; margin:0; border-bottom:1px solid white; }
+        #callOut li a { color:#000; text-decoration: none;}
+    </style>
+    <aside id="callOut">
+        <h3>Good things happening with teams</h3>
+        <ul>
+        {% for role in site.data.roles %}
+            <li><a href="#{{- role.idx -}}">&#x2192; {{ role.anon }}</a></li>
+            <!-- role.anon | truncate: 30 -->
+        {% endfor %}
+        </ul>
+    </aside>
+{% endif %}
+
+
+<h2 class="emphasisBlock">
+Q: What are five things that matter?</h2>
+
+<p>
+  Good teams have principles, and good businesses have purpose. What are the things you carry with you as you grow across engagements? What do you try and develop in design teams?</p>
+
+<h3>1. Do it together</h3>
+<p>
+  Foster collaboration in the studio and with other disciplines beyond. Individual culture and identity do matter, but assholes scale, and egos can get in the way of growth. If design is on a journey, we're going to go further by valuing the energy of our collective learning and output.</p>
+
+<h3>2. Keep learning</h3>
+<p>
+  Learning is both one of the most important, and one of the most forgotten elements of leading design. I've been privileged to work with some amazing design minds over the years and all of them have been teachers. From Klee and Breuer's work at the Bauhaus, to Zeldman and Fried's public writings, to Lou Downe's work at GDS, the greats have always laid down pedagogical frameworks that have trained and inspired generations of designers after them.</p>
+<p>
+  We can't all be Jony Ive, but we can all try and frame our leadership in ways that promote our businesses becoming the learning organisations they need to be.</p>
+
+<h3>3. Commit to your passion</h3>
+<p>
+  A team member once phrased this as "design like you give a shit". He described the importance of caring deeply about one's work, that true innovation and excellence in design can only emerge when designers are genuinely passionate and committed. As leaders we need to create spaces that allow and reward that commitment.</p>
+
+<h3>4. Challenge the frame, find the problem</h3>
+<p>
+  Your team's job is literally to find the right problem to solve.</p>
+<p>
+  When you're a designer in a large team, maybe in-house at a large household name company, it can seem like much is set and things just are the way they are. This is especially true in regulated environments like financial services and public sector.</p>
+<p>
+  You need to challenge that. Every single day. Ask questions. Ask why. Get to the bottom of the problem. When asked by a reporter "what are the limits of design" Charles Eames responded: "what are the limits of problems?"</p>
+
+<h3>5. Build your culture</h3>
+<p>
+  Design is human agency. Your team needs to believe they are accountable before they can lead work that changes the business or even changes the world a little bit. Building a culture of accountability falls in your lap as leader. There are many techniques and frameworks you can build on but at the core, if your people aren't embracing accountability they'll never be able to open the door that will let them lead the change.</p>
+
+<h2 class="emphasisBlock">
+  Q: What are the scale and scope of the teams that you’ve grown and managed? What are some of the challenges you faced?</h2>
+
+<p>
+Such a great question:-)</p>
+
+<p>
+I had never thought about it in a structured way, so I sat down and considered my experiences with teams in a bit more detail. I've framed the refection in terms of what my teams where able to achieve for the business. Where I've gone deeper, there is a link to a short case study.</p>
+
+<style type="text/css">
+
+dt { 
+  width:100%; 
+  border:1px solid var(--haud-darkgold);
+  margin-top:4em;
+}
+
+dt h3 { 
+  width:70%;
+  margin:0;
+  padding:0.75em 1em 0.75em 1em;
+  text-transform: uppercase;
+}
+
+.roleDescriptionLink { 
+  align-self: center;
+  width:30%;
+  margin:0;
+  padding:0;
+  font-size: small;
+}
+
+.caseLink { 
+  display: block; 
+  padding:0;margin:0.5em 0 0 0;
+  font-weight: bold; 
+  text-transform: uppercase; 
+}
+
+ul.starList {
+  list-style-type: none;
+  padding:0;
+  margin:0;
+}
+
+ul.actionsList {
+  list-style-type: square;
+  border:0px solid red; 
+  background-image: url(/i/goldArrow.svg);
+  background-repeat: no-repeat; 
+  background-position: center right;
+  background-size: 5%;
+  padding:1em 3.5em 1em 1em;"
+}
+
+.teamImpactsLI { padding-left:2em; }
+
+ul.teamImpactsList {
+  list-style-type: square;
+  border:0px solid red; 
+  padding:1em 2em 1em 1em;"
+}
+
+dt, dd {display: flex;}
+
+.starList {
+  display: flex;
+  width: 100%; /* Ensuring the UL takes up the full width of the DD. */
+  padding: 0; /* Resetting any default padding */
+  list-style-type: none; /* Removing the default bullet points */
+}
+
+.starList > li:first-child {
+  flex: 0 0 45%; /* This means: don't grow, don't shrink, stay at 30% width */
+}
+
+.starList > li:last-child {
+  flex: 1; /* This means: take up the remaining space */
+}
+
+.starList li li {
+  font-size: 90%;
+}
+
+</style>
+
+<dl id="leadershipRoles">
+  {% for role in site.data.roles %}
+    <dt id="{{- role.idx -}}">
+      <h3>{{- role.idx -}}. {{ role.anon }}</h3>
+      <p class="roleDescriptionLink">
+        {{ role.myRole }} /<br> 
+        {{ role.orgDescription }}
+        {% if role.uri != "" %}
+          <br>
+          <a href="/cases/leadership/{{ role.uri }}" class="caseLink">Read case</a>
+        {% endif %}
+      </p>
+    </dt>
+    <dd>
+      <ul class="starList">
+      <li>
+        <h3 style="color:#af9568;">Actions</h3>
+        <ul class="actionsList">
+          {% for action in role.myActions %}
+            <li>{{ action }}</li>
+          {% endfor %}
+        </ul>
+      </li>
+      <li class="teamImpactsLI">
+        <h3 style="color:#af9568;">What impact did my team have?</h3>
+        <ul class="teamImpactsList">
+          {% for impact in role.teamImpact %}
+            <li>{{ impact }}</li>
+          {% endfor %}
+        </ul>
+      </li>
+      </ul>
+    </dd>
+  {% endfor %}
+</dl>
+
+
+<h2 class="emphasisBlock">
+  Want to talk about some of this?</h2>
+
+<p>
+You could email Dug at <a href="dug@goodlookslikethis.com">dug@goodlookslikethis.com</a></p>
+  
+    </section>
+</main>
+

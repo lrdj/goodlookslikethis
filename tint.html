@@ -1,0 +1,57 @@
+---
+layout: page
+title: "CSS tint test"
+author: dug
+---
+
+
+<style type="text/css">
+      
+    #Zoltan article.Klingon {
+        position: relative;
+        width: 300px;
+        height: 150px;
+        background-size: cover;
+        background-position: center;
+        overflow: hidden;
+        color: black;
+        border:1px solid green;
+    }
+
+#Zoltan article.Klingon:hover::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url('/i/cases/currys/dixons_api.jpg');
+    background-size: cover;
+    background-position: center;
+    z-index: 1;
+}
+
+#Zoltan article.Klingon:hover::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(173, 216, 230, 0.5); /* semi-transparent light blue */
+    mix-blend-mode: overlay;
+    z-index: 2;
+}
+
+</style>
+
+
+<ul id="Zoltan">
+  <li><article class="Klingon">Foo lorem ipsum story A content</article></li>
+  <li><article class="Klingon">Foo lorem ipsum story B content</article></li>
+  <li><article class="Klingon">Foo lorem ipsum story C content</article></li>
+</ul>
+
+<img src="/i/cases/currys/dixons_api.jpg">
+
+

@@ -1,0 +1,65 @@
+---
+layout: default
+title: "Dug Falby's work blog. Good looks like this."
+subtitle: > 
+    Some of Dug's <em>slightly</em> more interesting design things&hellip;
+---
+
+<main>
+    <section class="wrapper">
+
+        <h1 id="headTitle">
+            {{ page.subtitle }}
+        </h1>
+
+        <!-- p id="siteSubtitle">{{ site.description }}</p -->
+        
+        <ul class="article-list index-block">
+            {%- if site.posts.size > 0 -%}
+            {% for post in paginator.posts %}
+            <li>
+                <article class="grid-item post">
+                    <!-- if blogpost -->
+                    <p class="info-author"><span>Posted by <a href="#">{{ post.author }}</a></span></p>
+                    <!-- endif -->
+
+                    <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+
+                    {%- if site.blogIndexSubtitles == true -%}
+                    <p style="margin-bottom:0.5em;">{{ post.subtitle | truncatewords: 42 }}</p>
+                    {%- endif -%}
+
+                    <!-- if blogpost -->
+                    <p class="info-others">
+                        <span id="postPubDate">{{ post.date | date: "%d/%m/%Y" }}</span>
+                        <span id="postCategories">
+                        {%- if post.category -%}
+                          In&nbsp; 
+                          {%- for category in post.category -%}
+                            <a href="#" rel="category tag">{{ category }}</a>
+                            {%- unless forloop.last -%}, {% endunless -%}
+                          {%- endfor -%}
+                        {%- endif -%}
+                        </span>
+                        <span id="postComments"><i>(comments disabled)</i></span>
+                    </p>
+                    <!-- endif -->
+
+                    <!-- if page.indeximage -->
+                    <div class="post-image-wrap">
+                        <div style="background: url({{- post.featured_image -}}) center center no-repeat;background-size: cover;" class="post-image"></div>
+                    </div>
+                    <!-- endif -->
+                </article>
+            </li>
+            {%- endfor -%}
+            {%- endif -%}
+        </ul>
+    </section>
+
+    <!-- index pagination -->
+   {% include 2023/paginator-nextprev.html %}
+
+</main>
+
+

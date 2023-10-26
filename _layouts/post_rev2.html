@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="full grey"></div>
+<div class="full no-top overlap-top">
+
+  <div class="post">
+      <div class="row">
+          <div class="large-8 large-centered columns">
+              <div class="post-desc">
+                <p class="info-author">
+                  <span>
+                    Posted by
+                    <a href="#">{{ page.author }}</a>&nbsp;&nbsp;
+                    <b>{% if page.previous.url %}<a href="{{page.previous.url}}" title="{{page.previous.title}}">&laquo; prev</a>&nbsp;|&nbsp;{% endif %}<a href="{{site.url}}">post index</a>{% if page.next.url %}&nbsp;|&nbsp;<a href="{{page.next.url}}" title="{{page.next.title}}">next &raquo;</a>{% endif %}</b>
+                  </span>
+                </p>
+                <h2>{{ page.title | escape }}</h2>
+                <p class="info-others">
+                  <span>{{ page.date }}</span>
+                  {% if page.category %}
+                  <span>
+                    In {{ page.category | join: ', ' }}
+                  </span>
+                  {% endif %}
+                </p>
+              </div>
+          </div>
+      </div>
+
+      <div class="post-image-wrap">
+        <div class="post-image" style="background: url({{- page.featured_image -}}) center center no-repeat;background-size: cover;"></div>
+      </div>
+
+  </div>
+
+  <div class="post-content">
+
+    <div class="four spacing"></div>
+    <div class="row">
+        <div class="large-8 large-centered columns">
+
+          <p class="post-intro">
+          {{ page.intro }}
+          </p>
+
+          {{ content }}
+
+          <div class="tags" style="font-weight: bold;">
+              {% if post %}{% assign tags = post.tags %}{% else %}{% assign tags = page.tags %}{% endif %}
+              Tags: {% for tag in tags %}{{ tag }}{% unless forloop.last %},&nbsp;{% endunless %}{% endfor %}
+          </div>
+
+
+        </div>
+    </div>
+  </div>
+
+
+</div>
+
+
+{%- include next-prev.html -%}
+
+

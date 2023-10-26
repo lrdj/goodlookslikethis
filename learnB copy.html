@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hover Effect</title>
+    <style type="text/css">
+        article {
+            position: relative;
+            padding: 2em;
+            width: 50%;
+            height: 200px;
+            border: 1px solid #666;
+            background-color: #fff;
+            transition: background-color 0.5s ease;
+            overflow: hidden; /* Ensure zoomed image doesn't overflow */
+        }
+
+        article h2, article p {
+            position: relative;
+            z-index: 2;
+        }
+
+        article h2 {
+            color: #af9568;
+        }
+
+        article p {
+            color: #000;
+        }
+
+        article:hover h2, article:hover p {
+            color: #fff;
+        }
+
+        figure::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-size: cover;
+            /* background-position: center; */
+            opacity: 0.1;
+            filter: grayscale(1);
+            mix-blend-mode: multiply;
+            transform: scale(1.05);
+            transition: all 0.5s ease;
+            z-index: 1;
+        }
+
+        article:hover figure::before {
+            opacity: 0.8;
+            transform: scale(1);
+        }
+
+        article:hover {
+            background-color: #af9568;
+            transition: all 0.5s ease;
+        }
+
+    </style>
+</head>
+
+<body>
+    <!-- 010 -->
+    <article>
+        <h2>Article one</h2>
+        <p>Content text goes here.</p>
+        <style type="text/css">figure::before {background-image: url('/i/vision-workshops/workshop-team.jpg');}</style>
+        <figure></figure>
+    </article>
+
+    <article>
+        <h2>Article two</h2>
+        <p>Content text goes here.</p>
+        <style type="text/css">figure::before {background-image: url('/i/aligned.jpg');}</style>
+        <figure></figure>
+    </article>
+</body>
+
+</html>

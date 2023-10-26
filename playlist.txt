@@ -1,0 +1,268 @@
+GPCR Sarfari
+
+Project 
+Create a new web-based front end experience for GPCR Sarfari, an integrated chemogenomics workbench focused on GPCRs. The system incorporates and links GPCR sequence, structure, compounds and screening data. The purpose of the redesign was to bring together a number of remote services and package the product prior to a parent company merger. The product is now maintained by the European Molecular Biology Laboratory.
+
+Role
+Independent design consultant. This is an early project and is shown here as an example of an experience consultant delivering the whole product lifecycle hands-on. It also shows that competent UX practitioners do not need to specialise in a vertical to create successful experiences. With no prior scientific knowledge I interviewed and workshopped with chemogeneticists and made sense of their complex subject matter and processes. I have done the same in financial services and agribusiness for example.
+
+Activities
+Lead stakeholder workshops
+User needs analysis
+Lead co-design workshops
+User testing
+Sketching
+UI Visual design
+Front end coding
+
+
+Orange online backup
+
+Project
+Based in Orange Group Services, I managed a budget to launch new services and improve existing ones. Online backup was one of many services managed and launched under his leadership. The purpose of the project was to apply Orange brand thinking and personality to a legacy java backup tool. The absolute core of the project was to identify what customers felt, cared about and understood about their backup needs. I identified the need for three parallel service configurations based on user type and the need to create a product language more aligned with customer needs and values. For example, I changed the way the service described what it did from "Cloud backup and restore" to simply "Protect me" and "Repair my files"
+
+Role
+Independent design consultant acting as design authority for Orange Group services. This project demonstrates the power of task and attitude-based segmentation in selling new experiences in a large, matrix managed organisation. While at France Telecom (Orange parent company) I worked entirely in French, leading workshops, directing, selling and supervising
+
+Activities
+Lead stakeholder workshops
+User needs analysis
+Segmentation and personas
+User testing
+Art direction
+
+
+Orange B2B Office cloud
+
+Project
+A project to create a user interface toolkit for a European comms product for Orange and Mobistar business customers. The project was a joy to run, a real testament to what a small team running Agile methodologies can do even as part of a heavyweight organisation.
+
+I worked with a three-man team (in French), helping dev teams move from waterfall-based production methodology to a user-centred design process built on the Garrett elements of user experience.
+
+The end product was rolled out quickly to the two markets and has been a huge success. After the launch, learnings from this product development were fed back into the France Telecom consumer portal which now offers its customers best-in-class converged communications tools.
+
+Role
+Independent design consultant acting as design authority for Orange Group services. The challenge was to manage stakeholders and guarantee delivery excellence in three international locations. I Creative Directed a design team in Bristol, acted as product owner facing off to the business in Paris and covered quality control with the dev team in Sophia.
+
+Activities
+International management
+Lead stakeholder workshops
+User needs analysis
+User testing
+Supported creation of product backlog
+Wrote UAT test success criteria
+Creative direction
+CSS coding and rationalisation
+
+
+Fortis Life UK
+
+Project
+A City insurer needed to launch a large and very complex multichannel transactional service, but a lack of UX research and process was threatening delivery. I recruited designers and established Agile UX processes. I led a an extensive discovery phase, interviewing potential stakeholders and users and analysing context-of-use by shadowing call-center operators and testing prototypes. Working closely with the managing director, I converted the Fortis brand values into interactions and established functional branding through the use of interation principles.
+
+Strategic design research resulted in a product that was not only game-changing but overtook its nearest competitor in its first three months of operation. Success metrics include:
+
+¥ Scored 9.5 out of 10 in "Which" magasine, their highest rating ever
+¥ Big efficiency gains and 60% immediate decisions (ie without call-centre intervention)
+¥ First year customer satisfaction survey showed 97.5% customer satisfaction
+¥ Revamped product experience rated F&TRC "eee" excellence rating (the highest industry rating)
+
+Role
+I was commissioned as an independednt contrator to set up a UX team, research the service and design the service as part of the Agile software development function
+
+Activities
+User research including interviews, live call-centre shadowing
+Stakeholder workshops
+Product backlog management
+User needs analysis
+Interaction design
+Prototyping
+Wireframe specification
+UAT acceptance criteria
+Creative direction
+
+
+BBC Advertising
+
+Project
+Create a unified portal for BBC Entreprises' non-UK ad sales. The core challenge of the project was defining an experience framework that would support the different global organisations under one banner. The single repository of sales support materials and presales support such as sales team details would allow global customers to experience a familiar "BBC" quality experience while finding all they expected from their local sales organisation.
+
+Role
+Independent design consultant. This project is a good example of digital brand activation, as the core values of "trust" and "quality" needed to be conveyed in every part of the experience and the choices made in the design were based on digital planning activities to understand the market forces in play. In particular, I was able to conduct "design the box" activities with senior marketing stakeholders which allowed me to pinpoint and communicate the key drivers and values.
+
+Activities
+Stakeholder workshops
+International interviews
+User needs analysis
+Mental modelling
+Design the box
+CMS strategy
+Wireframe specification
+
+
+Dixons innovation
+
+Project
+The Currys, Dixons and PCWorld websites were tired and underperfoming. The Dixons Group brand landscape was confusing and the company had no clearly defined experience strategy or clearly defined proposition in place. My primary KPI was to deliver a transformed ebusiness user experience on the three chain websites in time for Christmas 2010 peak trading. I did this successfully and at the same time established processes elsewhere in the business that are still on course today.
+
+I launched the websites on time and they are performing well. The brand relationship between the three businesses is now being comunicated clearly online.
+¥ Saved 450k on external agencies in Q12011
+¥ 18% savings in routed calls in Q42010
+¥ Continual improvement of customer satisfaction index
+¥ 7% uplift in sales with algorithmically-driven merchandising
+¥ I deployed an integrated analytics platform including Foresee Results, Site Catalyst and Test & Target
+
+Role
+I was recruited as part of a senior management team designed to turn the business around. In my role as Head of Customer Experience, I commissioned agencies, recruited and led analytics, UX, graphic design, content, social creation and social moderation teams
+
+Activities
+Budgetting and planning
+Creative direction
+Supplier management
+Market research
+Social strategy
+Team building
+
+
+Vodafone "Fix my bill" with my fingers
+
+Project
+Create a concept for Vodafone Group that the mobile operator could use to fuel its race to electronic self-care on the mobile platform and deploy to local markets. 
+
+The customer had already developed useful market and customer insights: A high percentage of call-centre volume globally was down to misunderstanding bill content, disagreeing with bill content or other billing query. Also, an important insight was that there was a spike in service requests during the first 90 days of the customer lifecycle.
+
+I was able to convert these customer insights into user needs and proposed experiences that solved these problems while reinforcing the core brand message of "power to you". 
+
+I proposed two ideas in the planning brief: 
+
+First, that just because everyone is using data visualisation doesn't mean that customers understand it. I got the team to work on defining the precise meaning conveyed by the graphics as components went from the "out of focus" to "focus" states in order to remove as much information as possible.
+
+Second, that people hate their mobile operator because they never pre-empt problems. Why should we make a fancy UI to describe a problem when we could use the same UI to fix the problem (as avoiding the problem in the first place wasn't realistic) in a way that hid the billing complexities from the customer and just let them know when things were OK.
+
+Role
+Experience lead setting the strategy, writing the brief, joining in sketching and guiding delivery
+
+Activities
+Creative direction
+Stakeholder workshops
+User needs analysis
+Research
+Interaction design
+Wireframe specification
+Prototyping
+
+
+Forty Hall brand and comms and social
+
+Project
+A rare opportunity to work closely with a customer right from the inception of their brand. Forty Hall Vineyard had a range of needs: a corporate identity, packaging and labels, a comms platform, a strategy to guide how best to use social touch points to increase donation revenue.
+Dug guided the Vineyard team though the process of distilling and expressing their values and vision. He led the creation of the Vineyard visual identity, analysed the customer's target markets and briefed community managers, designers and content writers. His team at Avanade built the responsive site and Dug ran training to bring the vineyard volunteers up to a level where they could effectively self support.
+
+Role
+Experience director owning the client relationship and leading strategy, writing the brief, joining in sketching and guiding delivery. Additionally, performed Apache configuration, coded CMS templates and ran training
+
+Activities
+Creative direction
+Stakeholder workshops
+Market research
+Social strategy
+Visual identity design
+Packaging design
+CMS Build
+Responsive website design
+
+
+An Roinn Coimirce S—isiala’ - fieldforce mobilisation
+
+Project
+This is an important project for me as it's the first time I defined, sold and delivered a new kind of UX consultancy engagement, agile UX innovation sprints. The challenge from the Irish Department for Social Protection was that the team of inspectors are all over sixty and therefore would not tolerate a digital transformation. The fear was not only would the team simply refuse to use any new services but even if they did, the cost and time to train the workforce would be prohibitive.
+
+Role
+Experience director. I framed the solution, defined our strategy and led the engagement. I engaged a team of two business analysts and three UX researchers and acted as a designer, shadowing workers, running interviews, creating workshop assets (including inventing new tools like "which one is true") participating in codesign and presenting our findings to the department's leadership.
+
+Activities
+Define approach
+Stakeholder management
+Shadowing (day in the life study)
+Validation and codesign workshops
+Creative direction (for finished UI)
+
+Innovation sprints
+
+By framing my intervention in rapid, 1 week sprints and using shadowing and codesign techniques, I was able to engage with the team and lead the production of new services that were easy to use and strongly supported by the inspector team. Customers are comforted by the frequent feedback and outputs as well as the continual planning checkpoints between sprints. Many customers feel this is a 'safer' way to engage in the design of larger, complex systems.
+
+Validation and codesign methodology
+
+As part of the innovation sprint concept's "validate" phase I created a new workshop tool, "which one is true". After synthesising the findings of shadowing into promising insights and assumptions, I wrote two opposing statements for each. I organised the inspectors into four-person teams and then each team argued which statement was more true. The end result was that the insights that fed into codesign were already approved by the users, meaning that the design ideas were based on observations they believed to be true and therefore they were more likely to adopt the services based on them.
+
+Codesign outputs
+
+Codesign outputs were mapped to insights using my "insight to experience" framework. I analysed the outputs and grouped elements of the proposed solutions into design patterns. The customer had expressed a need to know "what app should I build?" and understanding the potential for both high adoption and high re-use was helpful for them.
+
+
+Barclays pensions
+
+Project
+This is one of those projects where things went strangely (starting in the wrong place, most of the work was done at 3am) but ended up with fabulous results. The challenge from the client was how to promote the uptake by their customers' employees of company pensions. Our approach was to analyse the market and consumer base, identify the most useful insights and then turn those insights into proposed experiences that would deliver the required uptake. 
+
+Role
+Creative director leading the pitch. I worked with planners and researchers, created the concepts and their UX then briefed UI a Visual designer. I was running a young agency and pitching against a top-5 creative powerhouse so was super desperate to impress. On the day the client preferred our work. Happy team:-)
+
+Activities
+Lead pitch
+Define strategy
+Creative direction
+UX concepts and interaction design
+Present to client
+
+
+UK ISP and mobile service provider call-centre improvement 
+
+Project
+The client had invested heavily in a customised version of Microsoft's "customer care accelerator", a tool to show call-centre operators information from many sources in one place. 
+They were unhappy with the performance, the challenge from the customer was "why hasn't my investment in CCA reduced my team's average call-handling time?
+Any solution we designed would have to leverage the existing investment in dashboard software customisation and ensure scalability and a high level of adoption by operators.
+I had shadowed call-center operators many times before and alway found game-changing insights by simply listening in with my ears open. It was no different at this customer.
+
+Redesign the dashboard to replace show/hide behaviour with responsive behaviour. Find innovative ways to summarise business metrics in a single row of controls
+
+Role
+I consulted on the customer's digital application creation process, helping avoid recreating the same problem in future services. I suggested changes to their project governance so for example, BAs at this company had never challenged business stakeholder requirements.
+
+I acted as UX Architect, working onsite with the customer and leading discovery and ideation workshops. As had happened so many times before, my user research led to the discovery of a defining insight: It turned out that 80% of operators used the software in such a way as to hide the dashboard. In other words, no-one was even using the thing that the customer had already spent a large budget developing.
+
+I redesigned the dashboard tool to replace show/hide behaviour with responsive behaviour. 
+
+I proposed innovative ways to summarise business metrics in a single row of controls enabling better usability and flexibility.
+
+Activities
+Stakeholder management
+User research
+Contextual analysis
+Day in the life study Ð shadow call-centre operators
+UX concept
+Wireframe specification
+Art direction
+
+
+The Lecture List
+
+Project
+
+I launched the Lecture List in 2003 with 100k funding from NESTA, the National Endowment for Science, Technology and the Arts. At the time there was no listing of public lectures online so the site was breaking new ground. The site acts as a self-service entity allowing lecture organisers large and minuscule to post their events at no charge and in a format that guarantees them great SEO driven rankings. When funding ran out I developed a network of volunteers to manage the moderation queue and provide support to new posters.
+
+Role
+
+Independent design consultant and Director of Niminim, a non-profit limited company set up to create and manage the Lecture List service. I developed the publishing workflow including defining how best to structure the data, created scenarios and set up the search and information architecture (creating the nine "supercategories" to describe the sum of human knowledge was fun). This year I am relaunching the service with UI Visual designer Rieko Vining to introduce a dating service designed to help pay for hosting and maintenance.
+Activities
+
+Brand development
+Business modelling
+User needs analysis
+Information architecure
+Interaction concept
+Wireframe specification
+
+
+
+

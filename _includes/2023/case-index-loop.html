@@ -1,0 +1,25 @@
+    <ul class="article-list index-block">
+{% for case in site.[page.parent] %}
+  {% unless case.path contains "index.html" %}
+      <li>
+        <article class="grid-item post">
+{% if page.bodyclass == "casesLeadership" %}
+          <h3 class="casesLeadership">
+          <a href="{{ case.url | relative_url }}">{{ case.caseOrgName }}</a></h3>
+          <table class="casesLeadership">
+            <tr>
+              <td>{{ case.caseType }}</td>
+              <td>{{ case.caseAction }}</td>
+              <td>{{ case.caseImpact }}</td>
+            </tr>
+          </table>
+{% else %}
+          <h3>
+          <a href="{{ case.url | relative_url }}">{{ case.title }}</a></h3>
+          <p>{{ case.subtitle }}</p>
+{% endif %}
+        </article>
+      </li>
+  {% endunless %}
+{% endfor %}
+    </ul>

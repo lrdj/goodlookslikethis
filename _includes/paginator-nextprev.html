@@ -1,0 +1,7 @@
+
+
+<p class="centered-text">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}" class="load-more button styled">Back</a>&nbsp;&nbsp;&nbsp;&nbsp;{% endif %}  
+  {% if paginator.next_page %}<a href="{{ paginator.next_page_path }}" class="load-more button styled">Load More</a>{% endif %}
+</p>

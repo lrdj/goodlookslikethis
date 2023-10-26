@@ -1,0 +1,150 @@
+---
+layout: default
+title: Posts
+intropara: >
+  I normally learn something new with every engagement. Sometimes, these things seem like something I should write about...
+---
+
+<div class="full header grey" id="head-bg-h">
+  <div class="case-intro">
+    <div class="large-12 columns">
+      <div class="four spacing"></div>
+      {%- if page.title -%}<h2 class="head-title">{{ page.title }}</h2>{%- endif -%}
+    </div>
+    <div class="large-6 columns end">
+      {%- if page.intropara -%}<p class='case-text-big'>{{ page.intropara }}</p>{%- endif -%}
+    </div>
+  </div>
+</div>
+
+<div class="full no-top overlap-top">
+
+  <div class="large-12 columns">
+
+
+    {%- if site.posts.size > 0 -%}
+    <div class="posts">
+    {%- for post in site.posts -%}
+
+    {%- if forloop.index == 1 -%}
+
+      <div class="large-12 columns">
+        <div class="post featured">
+          <div class="post-desc">
+            <p class="info-author">
+              <span>
+                Posted by
+                <a href="#">{{ post.author }}</a>
+              </span>
+            </p>
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+
+            {%- if site.blogIndexSubtitles == true -%}
+              <p>{{ post.subtitle | truncatewords: 42 }}</p>
+            {%- endif -%}
+
+              <p class="info-others">
+              <span>{{ post.date | date: "%d/%m/%Y" }}</span>
+              <span>
+              {%- if post.category -%}In <a href="#" rel="category tag">{{ post.category }}</a>{%- endif -%}</span>
+              <span><a href="#"><i>Comments disabled</i></a></span>
+            </p>
+          </div>
+
+          <div class="post-image-wrap">
+            <div style="background: url({{- post.featured_image -}}) center center no-repeat;background-size: cover;" class="post-image"></div>
+          </div>
+        </div>
+      </div>
+
+    {%- else -%}
+
+      <div class="large-6 columns">
+        <div class="post">
+          <div class="post-desc">
+            <p class="info-author">
+              <span>
+                Posted by
+                <a href="#">{{ post.author }}</a>
+              </span>
+            </p>
+
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+
+            {%- if site.blogIndexSubtitles == true -%}
+              <p style="margin-bottom:0.5em;">{{ post.subtitle | truncatewords: 18 }}</p>
+            {%- endif -%}
+
+            <p class="info-others">
+              <span>{{ post.date | date: "%d/%m/%Y" }}</span>
+              <span>
+              {%- if post.category -%}In <a href="#" rel="category tag">{{ post.category }}</a>{%- endif -%}</span>
+              <span>
+              <a href="#"><i>Comments disabled</i></a></span>
+            </p>
+          </div>
+          <div class="post-image-wrap">
+            <div style="background: url({{- post.featured_image -}}) center center no-repeat;background-size: cover;" class="post-image"></div>
+          </div>
+        </div>
+      </div>
+
+
+    {%- endif -%}
+
+
+    {%- endfor -%}
+    </div>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    {%- endif -%}
+
+  </div>
+
+<!-- index pagination -->
+
+  <div class="large-12 columns">
+
+    <div class="four spacing"></div>
+    <p class="centered-text">
+      <a href="" class="load-more button styled">Load More</a>
+    </p>
+  </div>
+
+</div>
+
+
+this -->
+
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h7><a href="{{ post.url }}">{{ post.title }}</a></h7>
+  <div class="content">
+    {{ post.content | truncatewords: 10 }}
+  </div>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
+
+
+
+
+
+
+

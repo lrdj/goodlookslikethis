@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hover Effect</title>
+    <style type="text/css">
+        article {
+            position: relative;
+            padding: 2em;
+            width: 50%;
+            height: 200px;
+            border: 2px solid #fff;
+            background-color: #fff;
+            transition: background-color 0.5s ease;
+            overflow: hidden; /* Ensure zoomed image doesn't overflow */
+        }
+
+        article:hover {
+            background-color: #af9568;
+        }
+
+        article h2, article p {
+            font-family: sans-serif;
+            position: relative;
+            z-index: 2;
+        }
+
+        article h2 {
+            color: #af9568;
+            font-size: 3.5vw;
+            font-weight: 800;
+        }
+
+        article p {
+            color: #000;
+        }
+
+        article:hover h2, article:hover p {
+            color: #fff;
+        }
+
+        figure::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-size: cover;
+            /* background-position: center; */
+            opacity: 0.1;
+            filter: grayscale(1);
+            mix-blend-mode: multiply;
+            transform: scale(1.05);
+            transition: all 0.5s ease;
+            z-index: 1;
+            background-image: var(--bg-image);  /* <-- use the custom property here */
+        }
+
+        article:hover figure::before {
+            opacity: 0.8;
+            transform: scale(1);
+        }
+
+    </style>
+</head>
+
+<body>
+    <!-- 011 -->
+    <article>
+        <h2>Article one</h2>
+        <p>Content text goes here.</p>
+        <figure style="--bg-image: url('/i/vision-workshops/workshop-team.jpg');"></figure>  <!-- set inline style here -->
+    </article>
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/jANyM7h3JJKnGx?startSlide=1" width="597" height="486" frameborder="0"   marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px;   margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/goodlookslikethis/trueorfalse-workshop-stimulus" title=""True-or-false" workshop stimulus" target="_blank">"True-or-false" workshop stimulus</a></strong> from <strong><a href="https://www.slideshare.net/goodlookslikethis" target="_blank">Dug Falby</a></strong></div>
+
+
+    <article>
+        <h2>Article two</h2>
+        <p>Content text goes here.</p>
+        <figure style="--bg-image: url('/i/');"></figure>  <!-- set inline style here -->
+    </article>
+
+
+    <article>
+        <h2>Article 3</h2>
+        <p>Content text goes here.</p>
+        <figure style="--bg-image: url('/i/aligned.jpg');"></figure>  <!-- set inline style here -->
+    </article>
+</body>
+
+</html>

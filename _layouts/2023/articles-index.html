@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+
+    {%- if site.posts.size > 0 -%}
+
+    {%- for post in site.posts -%}
+
+{{ post.author }}
+
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+
+            {%- if site.blogIndexSubtitles == true -%}
+              <p>{{ post.subtitle | truncatewords: 42 }}</p>
+            {%- endif -%}
+
+{{ post.date | date: "%d/%m/%Y" }}
+
+              {%- if post.category -%}In <a href="#" rel="category tag">{{ post.category }}</a>{%- endif -%}</span>
+              <span><a href="#"><i>Comments disabled</i></a></span>
+
+            <div style="background: url({{- post.featured_image -}}) center center no-repeat;background-size: cover;" class="post-image"></div>
+
+    {%- endfor -%}
+
+
+
+{{ content }}
+
+    {%- endif -%}
+

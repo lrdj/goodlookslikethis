@@ -1,0 +1,57 @@
+<!-- build a list of links to the items in the collection of case index files -->
+
+<p id="arsediv">Empty.</p> 
+
+<script type="text/javascript">{% for caseindex in site.case_indices %}
+var {{ caseindex.title | slugify | remove: "-"}} = [{%- assign cases = site.pages | where_exp: "case", "case.portfolio contains caseindex.title" -%}
+{%- for case in cases -%}
+    {
+      "title": "{{ case.title }}",
+      "url": "{{ case.url }}"
+    }
+    {%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}
+];
+{% endfor %}
+
+// extract the name string from the end of the referrer path
+var href = document.referrer;
+const segments = new URL(href).pathname.split('/');
+const last = segments.pop() || segments.pop(); // Handle potential trailing slash
+var refpage = last
+
+// get the list of page variables
+var pagevariables = Object.keys(window);
+var text = "";
+var i;
+
+// is the referring url in the list of theme variables?
+for (i = 0; i < pagevariables.length; i++) {
+  if (pagevariables[i] == refpage) {
+   document.write('<p>You are viewing the <b>' + pagevariables[i] + '</b> theme.</p>');
+    // document.write(listofpages);
+  }
+}
+
+// figure out what the index of the current page is in the theme array
+
+var currentpage = '{{ page.title }}';
+
+for (i = 0; i < servicedesign.length; i++) {
+  if (servicedesign[i].title == currentpage) {
+   document.write('<p>This page is <b>' + currentpage + '</b></p>');
+   currentindex = i;
+  }
+}
+
+
+// build prev and next links in the thee array
+var testoutput = '<a href="' + servicedesign[currentindex-1].url + '">' + servicedesign[currentindex-1].title + '</a>' + '&nbsp;&nbsp;|&nbsp;&nbsp;<a href="' + servicedesign[currentindex+1].url + '">' + servicedesign[currentindex+1].title + '</a>';
+
+document.getElementById("arsediv").innerHTML = testoutput;
+
+// console.log(variables);
+
+</script>
+
+
+

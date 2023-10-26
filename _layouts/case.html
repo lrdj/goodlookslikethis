@@ -1,0 +1,99 @@
+---
+layout: default
+---
+
+<main>
+    <section class="wrapper">
+
+
+    <div class="full header no-bottom">
+      <div class="case-intro">
+        <div class="large-12 columns">
+          <h2 class="case-title">
+            {{ page.title }}
+          </h2>
+
+        </div>
+        <div class="large-7 columns">
+          <p class="case-text-big">
+            {{ page.subtitle }}
+          </p>
+        </div>
+        <div class="large-5 columns">
+        {%- if page.subtitle_video -%}
+        <video width="100%" loop="" autoplay="" muted="" playsinline="" preload="">
+          <source src="{{- page.subtitle_video -}}" type="video/mp4">
+        </video>
+        {%- else -%}
+          {%- if page.subtitle_image -%}
+          <p>
+            <img src="{{- page.subtitle_image -}}" style="width:100%;">
+          </p> 
+          {%- endif -%}
+        {%- endif -%}
+        </div>
+      </div>
+      <div class="large-9 columns">
+        <dl>
+          <dt>Context:</dt>
+          <dd>{{ page.situation }}<br>{{ page.task }}</dd>
+          <dt>Action:</dt>
+          <dd>{{ page.activity }}</dd>
+          <dt>Outcomes:</dt>
+          <dd>{{ page.result }}</dd>
+        </dl>
+      </div>
+    </div>
+
+    <div class="full no-bottom grey"> <!-- no-bottom -->
+      <div class="case-intro">
+
+        <div class="large-6 columns"></div>
+
+        <div class="large-8 columns">
+          <h2 class="case-title">Before</h2>
+          {{ page.before | markdownify }}
+        </div>
+
+        <div class="large-12 columns">
+          <h4 style="margin-top: 2em;">{{- page.hero_image_h4 -}}</h4>
+
+        {%- if page.hero_video -%}
+        <video width="100%" loop="" autoplay="" muted="" playsinline="" preload="">
+          <source src="{{- page.hero_video -}}" type="video/mp4">
+        </video>
+        {%- else -%}
+          {%- if page.hero_image -%}
+          <p>
+            <img src="{{- page.hero_image -}}" style="width:100%;">
+          </p> 
+          {%- endif -%}
+        {%- endif -%}
+
+          <p class="heroimagecaption">{{- page.hero_image_caption -}}</p>
+        </div>
+
+        <div class="large-10 columns">
+          <h2 class="case-title">After</h2>
+
+          {{ content }}
+
+        </div>
+
+      </div>
+    </div>
+
+
+{% include nextprev-case-footer.html %}
+
+{% include case_indices.html %}
+
+
+    </section>
+
+    <!-- move between posts -->
+    {%- include 2023/next-prev.html -%}
+
+</main>
+
+
