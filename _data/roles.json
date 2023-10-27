@@ -6,6 +6,8 @@
     "anon": "Grow a practice in a global tech consulting firm with low design maturity",
     "orgDescription": "Management consultancy",
     "myRole": "Digital Consulting Director",
+    "hands": "Hands off",
+    "scale": "Large team",
     "details": "Lead UK region of new consulting practice at global consulting firm. Immature design business when I joined. Built UK arm of global design organization",
     "myActions": [
       "Advocate for design. Over, and over, and over",
@@ -29,6 +31,8 @@
     "anon": "Re-energize digital teams as part of an exec turnaround team",
     "orgDescription": "High-street and ecommerce retailer",
     "myRole": "Head of Customer Experience",
+    "hands": "Hands off",
+    "scale": "Large team",
     "details": "Lead in-house teams and manage offshore dev team",
     "myActions": [
       "Give a broken team hope, a huge hug, and give them my 100% permission to question assumptions and kick ass",
@@ -49,6 +53,8 @@
     "anon": "Guiding an in-house design org towards greater strategic relevance",
     "orgDescription": "High-street bank",
     "myRole": "Service Design Lead",
+    "hands": "Player-coach",
+    "scale": "Small team",
     "details": "Lead delivery squad, in-house. Small team; share team members and effort across our division of the bank",
     "myActions": [
       "Build stakeholder relationships",
@@ -70,6 +76,8 @@
     "anon": "Improving a product organisation with business design leadership",
     "orgDescription": "Round \"C\" SaaS scale-up",
     "myRole": "Director of Service Design",
+    "hands": "Hands off",
+    "scale": "Dotted lines",
     "details": "Director with no team (1st designer / future team). Leveraged other teams to have impact. In position to consult for CPO.",
     "myActions": [
       "Collaborated with other directors to change behaviour and generate outcomes across the product org",
@@ -88,6 +96,8 @@
     "anon": "Setting up a design agency for growth as part of a global tech consultancy",
     "orgDescription": "Design agency in tech consult group",
     "myRole": "Executive leadership",
+    "hands": "Hands off",
+    "scale": "Mid-sized team",
     "details": "Studio executive at an Asian tech giant business unit. Part of leadership team of four execs reporting into MD",
     "myActions": [
       "Promote emotional safety and mastery of craft",
@@ -108,6 +118,8 @@
     "anon": "Helping a boutique consultancy find their misplaced mojo",
     "orgDescription": "Boutique design consultancy",
     "myRole": "Executive leadership",
+    "hands": "Hands off",
+    "scale": "Mid-sized team",
     "details": "Director in charge of consulting practice, which included UX, research, and service design across a team of 15 professionals",
     "myActions": [
       "Developed close partnership with MD to cover for founder on mat leave",
@@ -128,6 +140,8 @@
     "anon": "Structuring a design-led test-and-learn team at a mobile operator",
     "orgDescription": "Group HQ and R&D units of a global mobile service provider",
     "myRole": "Team lead in charge of innovation",
+    "hands": "Player-coach",
+    "scale": "Small team",
     "details": "Led a small in-house team, supplemented by external agencies and dev teams and closely coordinated with Group R&D",
     "myActions": [
       "Advocate for design",

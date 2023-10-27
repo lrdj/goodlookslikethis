@@ -113,7 +113,7 @@ Base styles for template - WIP
 
 .post:hover, .post.featured {
   color: #fff;
-  background: #af9568; }
+  background: var(--haud-darkgold); }
 
 .post:hover .info-author, .post.featured .info-author {
   color: #fff; }
@@ -137,7 +137,7 @@ Base styles for template - WIP
 
 body.single .post {
   color: #fff;
-  background: #af9568;
+  background: var(--haud-darkgold);
   height: auto;
   padding-top: 150px;
   padding: 150px 0 100px; }
@@ -243,7 +243,7 @@ nav.wrapper a.next i {
   color: #000; }
 
 nav.wrapper a:hover i, nav.wrapper a:hover span {
-  color: #af9568; }
+  color: var(--haud-darkgold); }
 
 .posts.archive .post {
   padding: 40px 40px 20px; }
@@ -255,14 +255,14 @@ nav.wrapper a:hover i, nav.wrapper a:hover span {
   background: none; }
 
 .posts.archive .post:hover {
-  color: #af9568;
+  color: var(--haud-darkgold);
   background: none; }
 
 .posts.archive .post:hover .info-author {
-  color: #af9568; }
+  color: var(--haud-darkgold); }
 
 .posts.archive .post:hover a {
-  color: #af9568; }
+  color: var(--haud-darkgold); }
 
 .posts.tag-archive .post {
   padding: 40px 40px 20px; }
@@ -274,14 +274,14 @@ nav.wrapper a:hover i, nav.wrapper a:hover span {
   background: none; }
 
 .posts.tag-archive .post:hover {
-  color: #af9568;
+  color: var(--haud-darkgold);
   background: none; }
 
 .posts.tag-archive .post:hover .info-author {
-  color: #af9568; }
+  color: var(--haud-darkgold); }
 
 .posts.tag-archive .post:hover a {
-  color: #af9568; }
+  color: var(--haud-darkgold); }
 
 .posts.category-archive .post {
   padding: 40px 40px 20px; }
@@ -293,14 +293,14 @@ nav.wrapper a:hover i, nav.wrapper a:hover span {
   background: none; }
 
 .posts.category-archive .post:hover {
-  color: #af9568;
+  color: var(--haud-darkgold);
   background: none; }
 
 .posts.category-archive .post:hover .info-author {
-  color: #af9568; }
+  color: var(--haud-darkgold); }
 
 .posts.category-archive .post:hover a {
-  color: #af9568; }
+  color: var(--haud-darkgold); }
 
 /* end of post */
 

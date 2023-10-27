@@ -51,6 +51,6 @@ margin-bottom: 20px;
 
 .case-fame h2 {
 font-size: 4.6vw;
-color: #af9568;
+color: var(--haud-darkgold);
 transition: color 0.1s ease-in-out, background 0.1s ease-in-out;
 }

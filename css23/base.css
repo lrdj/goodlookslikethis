@@ -8,7 +8,7 @@ h3 { font-size: 30px; }
 h2.white { color: #fff; }
 p { margin-bottom: 30px; line-height: 1.5em; }
 
-a { text-decoration:none; color: #af9568; transition: color 0.1s ease-in-out, background 0.1s ease-in-out; }
+a { text-decoration:none; color: var(--haud-darkgold); transition: color 0.1s ease-in-out, background 0.1s ease-in-out; }
 a:hover { color: #000; }
 a.load-more { font-size: 24px; font-weight: bold; }
 
@@ -23,7 +23,7 @@ hr { max-width: 100%; border-bottom: 1px solid #00e1b6; }
 
 a.button.boxed.black::before { content: ""; display: block; width: 15px; height: 2px; background: #000; position: absolute; left: 25px; top: 20px; transition: left 0.2s ease; }
 .button.boxed.black:hover::before { background: #fff; left: 28px; }
-.button.styled { padding: 10px 0; background: none; z-index: 1; transition: background-size .4s ease, color 0.3s ease; background-position: center 80%; background-size: 0 25%; background-repeat: no-repeat; color: #af9568; background-image: linear-gradient(to bottom, transparent 62%, #000 0); }
+.button.styled { padding: 10px 0; background: none; z-index: 1; transition: background-size .4s ease, color 0.3s ease; background-position: center 80%; background-size: 0 25%; background-repeat: no-repeat; color: var(--haud-darkgold); background-image: linear-gradient(to bottom, transparent 62%, #000 0); }
 .button.styled:hover { background-size: 100% 25%; color: #000; }
 
 #case-1-button .button.styled { color: #dc4f84; background-image: linear-gradient(to bottom, transparent 62%, #dc4f84 0); }

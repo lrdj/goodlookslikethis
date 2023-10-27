@@ -15,7 +15,7 @@ Base styles for template - WIP
     --mc-lightblue: #BFD6E9;
     --haud-darkgold: #af9568;
     --but-brdr-col: #0b0c0c;
-    --but-brdr-col-hover: #af9568;
+    --but-brdr-col-hover: var(--haud-darkgold);
 }
 
 /*  headerbanner  */
@@ -65,7 +65,8 @@ nav.first {
     } 
 }
 
-/* to make smaller header images? 
+/* 
+to make smaller header images? 
 @media (max-width: 768px) {
   #logo {
     margin-top: var(--wrapper-side-small);
@@ -171,9 +172,6 @@ blockquote {
   border-left: 4px solid #E5E4E2;
 }
 
-div {border:0px solid red;}
-
-
 .heroimagecaption {
   width: 66%;
   font-size: x-small;
@@ -193,9 +191,3 @@ div {border:0px solid red;}
 .footnotes {
   font-size: small;
 }
-
-.tight {
-  padding: 0;
-  margin: 0;
-}
-

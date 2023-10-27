@@ -15,12 +15,134 @@ bodyclass: "cases"
 ---
 
 <style type="text/css">
-  .two-thirds h2, .two-thirds p { width: 66%; }  
+
+/* apply these to section tags */
+  .two-thirds h2, .two-thirds p { width: 66%; }
+
+/* unique styles for the LT page call-out */
+  #leadershipIndex .callOut { float: right; width: 33%; margin:0 0 1.5em 1.5em; padding:0; font-size: small; }
+  #leadershipIndex .callOut h3 { margin:0; padding: 0.7em 1.5em 0.7em 1.5em; color: #666; background-color: var(--mc-lightblue); font-size: x-small; border-bottom:4px solid white; text-transform: uppercase; font-weight: bold; }
+  #leadershipIndex .callOut ul {
+      list-style-type: none;
+      padding: 0;margin: 0; }
+  #leadershipIndex .callOut li { background-color: var(--mc-lightgray); padding: 0.6em 1em 0.6em 1em; margin:0; border-bottom:1px solid white; }
+  #leadershipIndex .callOut li a { color:#000; text-decoration: none;}
+
+/* LT comparison box / list */
+
+  dt { 
+    width:100%; 
+    border:1px solid var(--haud-darkgold);
+    margin-top:4em;
+  }
+
+  dt h3 { 
+    width:65%;
+    margin:0;
+    padding:0.75em 1em 0.75em 1em;
+    text-transform: uppercase;
+  }
+
+  .roleDescriptionLink { 
+    align-self: center;
+    width:30%;
+    margin:0;
+    padding:0;
+    font-size: small;
+  }
+
+  .caseLink { 
+    display: block; 
+    padding:0;margin:0.5em 0 0 0;
+    font-weight: bold; 
+    text-transform: uppercase; 
+  }
+
+  ul.starList {
+    list-style-type: none;
+    padding:0;
+    margin:0;
+  }
+
+  ul.actionsList {
+    list-style-type: square;
+    border:0px solid red; 
+    background-image: url(/i/goldArrow.svg);
+    background-repeat: no-repeat; 
+    background-position: center right;
+    background-size: 5%;
+    padding:1em 3.5em 1em 1em;"
+  }
+
+/* make these mobile break point */
+  ul.actionsList {
+    list-style-type: square;
+    border:0px solid red; 
+    background-image: url(/i/goldArrowDown.svg);
+    background-repeat: no-repeat; 
+    background-position: center bottom;
+    background-size: 40%;
+    padding:1em 1em 2em 1em;"
+  }
+/* end mobile break point */
+
+  ul.teamImpactsList {
+    list-style-type: square;
+    border:0px solid red; 
+    padding:1em 2em 1em 1em;"
+  }
+
+  dt, dd {display: flex;}
+
+  .starList {
+    display: flex;
+    width: 100%; /* Ensuring the UL takes up the full width of the DD. */
+    padding: 0; /* Resetting any default padding */
+    list-style-type: none; /* Removing the default bullet points */
+  }
+
+  .starList > li:first-child {
+    flex: 0 0 45%; /* This means: don't grow, don't shrink, stay at 30% width */
+  }
+
+  .starList > li:last-child {
+    flex: 1; /* This means: take up the remaining space */
+  }
+
+  .teamImpactsLI { padding-left:2em; }
+
+/* make these mobile break point */
+  dt, dd {display: block; margin:0; padding:0;}
+  .starList {
+    display: block;
+    width: 100%; /* Ensuring the UL takes full width of single column */
+  }
+  .starList > li:first-child { flex: none; display: block; /* No flex on mobile */ }
+  .starList > li:last-child { flex: none; display: block; /* No flex on mobile */ }
+  .teamImpactsLI { padding-left:0; }
+  dt, dd { width:auto;padding:0.5em; }
+  dt h3 { 
+    width:auto;
+    margin:0;
+    padding:16px;
+    text-transform: uppercase;
+  }
+  .roleDescriptionLink { 
+    align-self: normal;
+    width:auto;
+    padding:16px;
+  }
+/* end mobile break point */
+
+  .starList li li {
+    font-size: 90%;
+  }
+
 </style>
 
-<main>
-    <section class="wrapper t2wo-thirds">
-<!-- include 2023/cases-header-submenu.html -->
+<!-- the leadership index page has exception styles so declared ID -->
+<main id="leadershipIndex" class="wrapper">
+    <section>
 
 <h1 id="headTitle">
     Design leadership
@@ -31,24 +153,15 @@ I was recently interviewed about my leadership. I thought the questions were hel
 
 
 {% if page.path contains "_cases_leadership/" %}
-    <style type="text/css">
-        #callOut { float: right; width: 33%; margin:0 0 1.5em 1.5em; padding:0; font-size: small; }
-        #callOut h3 { margin:0; padding: 0.7em 1.5em 0.7em 1.5em; color: #666; background-color: var(--mc-lightblue); font-size: x-small; border-bottom:4px solid white; text-transform: uppercase; font-weight: bold; }
-        #callOut ul {
-            list-style-type: none;
-            padding: 0;margin: 0; }
-        #callOut li { background-color: var(--mc-lightgray); padding: 0.6em 1em 0.6em 1em; margin:0; border-bottom:1px solid white; }
-        #callOut li a { color:#000; text-decoration: none;}
-    </style>
-    <aside id="callOut">
-        <h3>Good things happening with teams</h3>
-        <ul>
-        {% for role in site.data.roles %}
-            <li><a href="#{{- role.idx -}}">&#x2192; {{ role.anon }}</a></li>
-            <!-- role.anon | truncate: 30 -->
-        {% endfor %}
-        </ul>
-    </aside>
+<aside id="callOut">
+  <h3>Good things happening with teams</h3>
+  <ul>
+  {% for role in site.data.roles %}
+      <li><a href="#{{- role.idx -}}">&#x2192; {{ role.anon }}</a></li>
+      <!-- role.anon | truncate: 30 -->
+  {% endfor %}
+  </ul>
+</aside>
 {% endif %}
 
 
@@ -93,90 +206,13 @@ Such a great question:-)</p>
 <p>
 I had never thought about it in a structured way, so I sat down and considered my experiences with teams in a bit more detail. I've framed the refection in terms of what my teams where able to achieve for the business. Where I've gone deeper, there is a link to a short case study.</p>
 
-<style type="text/css">
-
-dt { 
-  width:100%; 
-  border:1px solid var(--haud-darkgold);
-  margin-top:4em;
-}
-
-dt h3 { 
-  width:65%;
-  margin:0;
-  padding:0.75em 1em 0.75em 1em;
-  text-transform: uppercase;
-}
-
-.roleDescriptionLink { 
-  align-self: center;
-  width:30%;
-  margin:0;
-  padding:0;
-  font-size: small;
-}
-
-.caseLink { 
-  display: block; 
-  padding:0;margin:0.5em 0 0 0;
-  font-weight: bold; 
-  text-transform: uppercase; 
-}
-
-ul.starList {
-  list-style-type: none;
-  padding:0;
-  margin:0;
-}
-
-ul.actionsList {
-  list-style-type: square;
-  border:0px solid red; 
-  background-image: url(/i/goldArrow.svg);
-  background-repeat: no-repeat; 
-  background-position: center right;
-  background-size: 5%;
-  padding:1em 3.5em 1em 1em;"
-}
-
-.teamImpactsLI { padding-left:2em; }
-
-ul.teamImpactsList {
-  list-style-type: square;
-  border:0px solid red; 
-  padding:1em 2em 1em 1em;"
-}
-
-dt, dd {display: flex;}
-
-.starList {
-  display: flex;
-  width: 100%; /* Ensuring the UL takes up the full width of the DD. */
-  padding: 0; /* Resetting any default padding */
-  list-style-type: none; /* Removing the default bullet points */
-}
-
-.starList > li:first-child {
-  flex: 0 0 45%; /* This means: don't grow, don't shrink, stay at 30% width */
-}
-
-.starList > li:last-child {
-  flex: 1; /* This means: take up the remaining space */
-}
-
-.starList li li {
-  font-size: 90%;
-}
-
-</style>
-
 <dl id="leadershipRoles">
   {% for role in site.data.roles %}
     <dt id="{{- role.idx -}}">
       <h3>{{- role.idx -}}. {{ role.anon }}</h3>
       <p class="roleDescriptionLink">
-        {{ role.myRole }} /<br> 
-        {{ role.orgDescription }}
+        {{ role.myRole }} ({{ role.hands }})<br> 
+        {{ role.scale }}&nbsp;at&nbsp;{{ role.orgDescription | downcase }}
         {% if role.uri != "" %}
           <br>
           <a href="/cases/leadership/{{ role.uri }}" class="caseLink">Read case</a>
@@ -186,7 +222,7 @@ dt, dd {display: flex;}
     <dd>
       <ul class="starList">
       <li>
-        <h3 style="color:#af9568;">Actions</h3>
+        <h3 style="color:var(--haud-darkgold);">Actions</h3>
         <ul class="actionsList">
           {% for action in role.myActions %}
             <li>{{ action }}</li>
@@ -194,7 +230,7 @@ dt, dd {display: flex;}
         </ul>
       </li>
       <li class="teamImpactsLI">
-        <h3 style="color:#af9568;">What impact did my team have?</h3>
+        <h3 style="color:var(--haud-darkgold);">What impact did my team have?</h3>
         <ul class="teamImpactsList">
           {% for impact in role.teamImpact %}
             <li>{{ impact }}</li>

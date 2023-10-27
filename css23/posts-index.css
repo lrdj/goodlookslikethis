@@ -68,12 +68,12 @@ Styles to create the image overlays in index items with backround on hover etc.
 
 /*
 .article-list li:hover {
-    background-color: #af9568;
+    background-color: var(--haud-darkgold);
 }
 */
 
 .article-list article:hover {
-    background-color: #af9568;
+    background-color: var(--haud-darkgold);
 }
 
 .article-list article h2,
@@ -83,7 +83,7 @@ Styles to create the image overlays in index items with backround on hover etc.
 }
 
 .article-list article h2 {
-    color: #af9568;
+    color: var(--haud-darkgold);
 }
 
 .article-list article p {
