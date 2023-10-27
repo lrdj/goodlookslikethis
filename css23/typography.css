@@ -66,12 +66,18 @@ h1#headTitle {
 }
 
 
-
-
 #siteSubtitle { fxont-weight: bolder; font-size: x-large; margin:0.25em 0 1.5em 0; wxidth: 66%; }
 
 .df-width-one-third {width: 33%;}
-.df-width-two-thirds {width: 66%;}
+
+/* Defualt mobile */
+.df-width-two-thirds h2, .df-width-two-thirds p {width: auto;}
+/* Desktop */
+@media (min-width: 769px) {
+  .df-width-two-thirds h2, .df-width-two-thirds p {width: 66%;}
+}
+
+
 .df-width-one-quarter {width: 25%;}
 .df-width-one-half {width: 50%;}
 

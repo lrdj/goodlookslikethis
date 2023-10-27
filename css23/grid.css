@@ -197,6 +197,32 @@ footer.wrapper hr {
 }
 
 
+/* figures used in post layout */
+
+figure {
+    width: 100%;
+    margin:1em 0 0 0;padding:0;
+    border:0px solid red;
+}
+figure img {
+    display: block;
+    width: 100%;
+}
+figcaption {
+    display: block;
+    margin: 0;
+    padding: 1em;
+    color: #333;
+    background: #E5E4E2;
+    font-size: small;
+    text-transfxorm: uppercase;
+    font-weighxt: bold;
+}
+
+
+
+
+
 /* Dug hacks - can we delete these? */
 
 .gallery2 {padding:0;width: 100%;margin-bottom: 1em;}
