@@ -30,6 +30,7 @@ header {
     padding: 0 var(--wrapper-side-small);
 }
 
+#glttBanner {display:none;}
 /* Desktop */
 @media (min-width: 769px) {
     header {
@@ -50,7 +51,6 @@ header {
 
 /* mobile (default) */
 #identity img:first-child { height: 42px; margin: 0 1em 0 0;}
-#glttBanner {display:none;}
 
 /* case buttons */
 #headernavLinks { padding: 0.5em 0 0.5em 0; }

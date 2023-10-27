@@ -70,13 +70,13 @@ h1#headTitle {
 
 .df-width-one-third {width: 33%;}
 
-/* Defualt mobile */
+/* Default mobile */
+.df-width-two-thirds p.post-intro {width: auto;font-size: 1.33em;}
 .df-width-two-thirds h2, .df-width-two-thirds p {width: auto;}
 /* Desktop */
 @media (min-width: 769px) {
   .df-width-two-thirds h2, .df-width-two-thirds p {width: 66%;}
 }
-
 
 .df-width-one-quarter {width: 25%;}
 .df-width-one-half {width: 50%;}
