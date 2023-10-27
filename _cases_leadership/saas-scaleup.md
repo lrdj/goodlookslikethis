@@ -7,16 +7,16 @@ subtitle: >
 
 index_image: "/i/cases/jctf/whats-wrong.jpg"
 hero_image: "/i/cases/jctf/strategy-workshops.jpg"
-hero_image_alt: "5-day strategy workshops with a SAAS's CPO team"
+hero_image_alt: "5-day leadership workshops with a SAAS's CPO team"
 
 tags: 
+  - leadership
   - strategy
   - workshops
   - SAAS
   - user research
   - scaleup
   - IPO
-
 ---
 
 ### Executive summary 
@@ -34,6 +34,8 @@ Unfortunately, the product organisation was in many ways dysfunctional.
 The product team had a heavy reliance on internal viewpoints and features were launched with significant fanfare internally, but missed the mark with customers, leading to low adoption rates and increasing churn.
 
 The product, engineering, sales, and marketing teams operated in silos, with minimal collaboration and understanding of each other’s goals and challenges. Product roadmaps were created without thorough technical feasibility assessment, causing delay, and inconsistencies in delivery.
+
+![](/i/cases/jctf/product-org-map.png)
 
 **Underlying Dysfunctions:**
 - Lack of a unified vision and clear, communicated strategy across departments.

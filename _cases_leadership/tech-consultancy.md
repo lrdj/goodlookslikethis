@@ -15,6 +15,7 @@ hero_image_alt: >
   Developing a creative practice inside a huge, high-accountability business means design people learning business design and being happy speaking go-to-market, margins, and business cases. Once you've done that, everybody wins and design gets to thrive:-)
 
 tags: 
+  - leadership
   - teambuilding
   - strategy
   - consulting
@@ -22,7 +23,6 @@ tags:
   - design
   - inhouse
   - technology
-
 ---
 
 ## The challenge

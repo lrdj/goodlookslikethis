@@ -17,6 +17,7 @@ inline_images:
   - /i/cases/currys/getsat.jpg
 
 tags: 
+  - leadership
   - strategy
   - ecommerce
   - culture
