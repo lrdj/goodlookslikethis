@@ -51,13 +51,22 @@ h2,h3,h4,h5,h6 { margin:1em 0 0 0; line-height: 1.3em;}
 .emphasisBlock { margin:1.5em 0 0.5em 0; width:66%; }
 
 h1#headTitle {
-  font-size: 3.5em;
+  font-size: 2em;
   font-weight: normal;
   line-height: 1.1em;
-/*  margin: 1em 0 1em 0; */
   margin: 1em 0 0 0;
   font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+}
+
+/* Desktop */
+@media (min-width: 769px) {
+  h1#headTitle {
+  font-size: 3.5em;
   }
+}
+
+
+
 
 #siteSubtitle { fxont-weight: bolder; font-size: x-large; margin:0.25em 0 1.5em 0; wxidth: 66%; }
 
