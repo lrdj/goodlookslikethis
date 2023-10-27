@@ -50,6 +50,7 @@ h2,h3,h4,h5,h6 { margin:1em 0 0 0; line-height: 1.3em;}
 
 .emphasisBlock { margin:1.5em 0 0.5em 0; width:66%; }
 
+/* Default mobile */
 h1#headTitle {
   font-size: 2em;
   font-weight: normal;
@@ -57,7 +58,6 @@ h1#headTitle {
   margin: 1em 0 0 0;
   font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
-
 /* Desktop */
 @media (min-width: 769px) {
   h1#headTitle {
@@ -73,26 +73,31 @@ h1#headTitle {
 /* Default mobile */
 .df-width-two-thirds p.post-intro {width: auto;font-size: 1.33em;}
 .df-width-two-thirds h2, .df-width-two-thirds p {width: auto;}
+blockquote {
+  padding: 0 0 0 1rem;
+  margin: 0;
+  font-size: 125%;
+  border-left: 4px solid #E5E4E2;
+}
 /* Desktop */
 @media (min-width: 769px) {
   .df-width-two-thirds h2, .df-width-two-thirds p {width: 66%;}
+  blockquote {
+    padding: 0.25rem 0 0 1.5rem;
+    margin: 0 2em 0 2em;
+    font-size: 133%;
+    border-left: 4px solid #E5E4E2;
+  }
 }
 
 .df-width-one-quarter {width: 25%;}
 .df-width-one-half {width: 50%;}
 
-/*
-.df-centre {text-align: center;}
-.df-right {text-align: right;}
-*/
-
 p { margin: 0.25em 0 1em 0;line-height: 1.5em; }
+
 ul { margin-top: 0.25em; }
 th, td, li { line-height: 1.5em; }
-
 sup {vertical-align: super; line-height: 0; font-size: x-small;font-weight: bold;}
-
-
 hr { border: none; background: transparent;border-top: 2px solid var(--mc-lightblue); margin:2em 0 2em 0; }
 
 /* navigation and links */

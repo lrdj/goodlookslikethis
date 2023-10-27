@@ -232,13 +232,6 @@ figcaption {
 .gallery3 {padding:0;width: 100%;margin-bottom: 1em;}
 .gallery3 img {padding:0;margin: 0 1px 1px 0;width: 32%;}
 
-
-blockquote {
-  padding: 0.5rem 0 0.5rem 1.5rem;
-  font-size: 133%;
-  border-left: 4px solid #E5E4E2;
-}
-
 .heroimagecaption {
   width: 66%;
   font-size: x-small;
