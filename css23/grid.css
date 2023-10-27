@@ -8,7 +8,7 @@ Base styles for template - WIP
     --wrapper-max-width: 1200px;
     --wrapper-side-full: 16.5%;
 /*  --wrapper-side-small: 16dp; */
-    --wrapper-side-small: 0.75em;
+    --wrapper-side-small: 1em;
 
 /*  colour variables  */
     --mc-lightgray: #eaeaea;
@@ -21,21 +21,36 @@ Base styles for template - WIP
 /*  headerbanner  */
 
 header {
-    width: 68%;
+    width: auto;
     height: 62px;
     background-color: var(--mc-lightgray);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 var(--wrapper-side-full);
+    padding: 0 var(--wrapper-side-small);
 }
 
+/* Desktop */
+@media (min-width: 769px) {
+    header {
+        width: auto;
+        height: 62px;
+        background-color: var(--mc-lightgray);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 var(--wrapper-side-full);
+    }
+    /* dug logo and title position */
+    #identity img:first-child { height: 42px; margin: 0 1em 0 0;}
+    #glttBanner {height: 20px;padding-left:4%;}
+}
 /* full width */
 #identity, #headernavLinks { display: flex; align-items: center; }
 
-/* dug logo and title position */
+/* mobile (default) */
 #identity img:first-child { height: 42px; margin: 0 1em 0 0;}
-#glttBanner {height: 20px;padding-left:4%;}
+#glttBanner {display:none;}
 
 /* case buttons */
 #headernavLinks { padding: 0.5em 0 0.5em 0; }
@@ -52,7 +67,7 @@ main img { width:100%; }
 nav.first {
     border-top:8px solid var(--mc-lightblue);
     padding:0;
-    margin:0 var(--wrapper-side-full) 0 var(--wrapper-side-full);
+    margin:0 var(--wrapper-side-small) 0 var(--wrapper-side-small);
 }
 
 /* Default */
@@ -64,6 +79,11 @@ nav.first {
     .wrapper {
         padding:0 var(--wrapper-side-full) 0 var(--wrapper-side-full);
     } 
+    nav.first {
+        border-top:8px solid var(--mc-lightblue);
+        padding:0;
+        margin:0 var(--wrapper-side-full) 0 var(--wrapper-side-full);
+    }
 }
 
 
