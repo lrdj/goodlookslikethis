@@ -34,10 +34,9 @@ My team successfully relaunched the ecommerce platform, leading to enhancements 
 
 ## Role
 
-I was recruited in year two of a four-year transformation programme to join a senior management
-team designed to turn the ecommerce part of the business around. In my role as Head of Customer
-Experience, I commissioned agencies, recruited and led analytics, UX, graphic design, content, social
-creation and social moderation teams.
+![](/i/book/dixons-c.jpg)
+
+I was recruited in year two of a four-year transformation programme to join a senior management team designed to turn the ecommerce part of the business around. In my role as Head of Customer Experience, I commissioned agencies, recruited and led analytics, UX, graphic design, content, social creation and social moderation teams.
 
 ### Leadership tasks
 
@@ -51,6 +50,8 @@ creation and social moderation teams.
 ### Team and Culture Rehabilitation:
 
 I set about fostering a resilient and progressive culture among the 35 professionals split across three teams. I had to overcome some initial resistance from a segment of the team, but I eventually gained commitment from all hands to start climbing the accountability ladder.
+
+![](/i/book/dixons-a.jpg)
 
 I inherited very strong leads who had been undervalued and prevented from really delivering. 
 
@@ -69,6 +70,8 @@ With my core delivery structure in place, I worked to build bridges with other s
  - Continual improvement of customer satisfaction index
  - 7% uplift in sales with algorithmically-driven merchandising
  - I deployed an integrated analytics platform including Foresee Results, Site Catalyst and Adobe Test & Target
+
+![](/i/book/dixons-b.jpg)
 
 ## Feedback?
 

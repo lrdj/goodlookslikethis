@@ -1,6 +1,6 @@
 ---
 layout: 2023/case
-title: "Strategy workshops for a Barcelona-based SaaS"
+title: "Leadership workshops for a Barcelona-based SaaS"
 
 subtitle: >
   There are times when organisations get all the right people in all the right places but the right outcomes don't quite surface.
@@ -46,9 +46,9 @@ Essentially, the leadership could sense that while the culture created by the fo
 
 ### What did I do?
 
-I was tasked with creating a user experience strategy that would provide the structure to allow teams to leverage their user-centred design skills and deliver the performance uplift required by the business.
+As Director of Service Design, I was tasked with creating a plan that would provide the structure to allow teams to leverage their user-centred design skills and deliver the performance uplift required by the business.
 
-After building a map of how the different teams aligned (or didn't) and developing an understanding of how the inputs and outputs passed between the different groups with what outcomes, I set up short strategic design sprints with each team and created a series of blueprints for how the organisation could succeed.
+After commissioning a map of how the different teams aligned (or didn't) and developing an understanding of how the inputs and outputs passed between the different groups with what outcomes, I set up short strategic design sprints with each team and created a series of blueprints for how the organisation could succeed.
 
 The first team I worked with was the design research unit. Over the course of five, intensive days, I took them through my transformation process:
 
