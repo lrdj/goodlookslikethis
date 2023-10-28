@@ -71,7 +71,7 @@ nav.first {
     margin:0 var(--wrapper-side-small) 0 var(--wrapper-side-small);
 }
 
-/* Default */
+/* Default mobile */
 .wrapper {
     padding:0 var(--wrapper-side-small) 0 var(--wrapper-side-small);
 }
@@ -198,6 +198,19 @@ footer.wrapper hr {
 }
 
 
+/* Default mobile */
+.heroimagecaption {
+  width: auto;
+  font-size: x-small;
+  font-weight: bold;
+  margin: 0.5em 0 0 0;
+}
+/* Desktop */
+@media (min-width: 769px) {
+    .heroimagecaption { width: 66%; }
+}
+
+
 /* figures used in post layout */
 
 figure {
@@ -223,7 +236,6 @@ figcaption {
 
 
 
-
 /* Dug hacks - can we delete these? */
 
 .gallery2 {padding:0;width: 100%;margin-bottom: 1em;}
@@ -231,13 +243,6 @@ figcaption {
 
 .gallery3 {padding:0;width: 100%;margin-bottom: 1em;}
 .gallery3 img {padding:0;margin: 0 1px 1px 0;width: 32%;}
-
-.heroimagecaption {
-  width: 66%;
-  font-size: x-small;
-  font-weight: bold;
-  margin: 0.5em 0 0 0;
-}
 
 .imagecaption {
   width: 100%;

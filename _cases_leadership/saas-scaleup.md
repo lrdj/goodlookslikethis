@@ -8,6 +8,8 @@ subtitle: >
 index_image: "/i/cases/jctf/whats-wrong.jpg"
 hero_image: "/i/cases/jctf/strategy-workshops.jpg"
 hero_image_alt: "5-day leadership workshops with a SAAS's CPO team"
+hero_image_caption: >
+  With the right guidance, teams were able build out their own processes and ways of improving their delivery. Collaborating at the grass-roots level enabled practitoners to bridge silos.
 
 tags: 
   - leadership
@@ -17,6 +19,8 @@ tags:
   - user research
   - scaleup
   - IPO
+
+bXXXodyclass: cases
 ---
 
 ### Executive summary 

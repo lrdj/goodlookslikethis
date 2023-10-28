@@ -48,6 +48,17 @@ h1,h2,h3,h4,h5,h6 { font-weight: 700; }
 
 h2,h3,h4,h5,h6 { margin:1em 0 0 0; line-height: 1.3em;}
 
+/* Default mobile */
+.article-list h2,
+.article-list h3 { margin-top:0.5em; }
+.article-list h2 { margin-top:0.5em; font-size: 1.25em; font-weight: 800; }
+/* Desktop */
+@media (min-width: 769px) {
+  .article-list h2,
+  .article-list h3 { margin-top:1em; }
+  .article-list h2 { font-size: 1.5em; }
+}
+
 .emphasisBlock { margin:1.5em 0 0.5em 0; width:66%; }
 
 /* Default mobile */
@@ -61,7 +72,7 @@ h1#headTitle {
 /* Desktop */
 @media (min-width: 769px) {
   h1#headTitle {
-  font-size: 3.5em;
+  font-size: 3em;
   }
 }
 
@@ -161,11 +172,6 @@ a:hover {
 
 .info-author, .info-others {
   font-size: small;
-}
-
-.article-list article h2 {
-    font-size: 1.75em;
-    font-weight: 800;
 }
 
 .excerptSubtitle {

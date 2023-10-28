@@ -23,6 +23,8 @@ tags:
   - design
   - inhouse
   - technology
+
+bXXXodyclass: cases
 ---
 
 ## The challenge
