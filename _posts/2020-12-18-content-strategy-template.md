@@ -1,9 +1,17 @@
 ---
 layout: 2023/post
 title: "Content strategy template"
-subtitle: "Customers don't have a clear idea of what they hope to accomplish with their content. Or if they do have a clear idea, it's not written down."
-hero_image_alt: "No alt content yet"
+subtitle: >
+  Customers don't have a clear idea of what they hope to accomplish with their content. Or if they do have a clear idea, it's not written down.
+
+hero_image_alt: >
+  Customers don't have a clear idea of what they hope to accomplish with their content. Or if they do have a clear idea, it's not written down.
+
 hero_image: /i/content-strategy.png
+
+categories:
+  - User research
+  - Transformation
 
 tags:
  - Strategy

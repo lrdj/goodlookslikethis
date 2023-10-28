@@ -4,6 +4,11 @@ title: "Should I commission more strategy work from agencies?"
 subtitle: "Is strategy worth the cash?"
 # hero_image_alt: "No alt content yet"
 hero_image: /i/strategy_fit_sq.png
+
+categories:
+  - Strategy
+  - Transformation
+  
 tags:
  - Strategy
  - Vision
@@ -32,7 +37,7 @@ Unfortunately, this strategy also had a fatal flaw. Because it was created top d
 
 Now if you ask me, that's a lot of cash (and a lot of time) spent for not a lot of positive outcome. I'm actually looking at my own strategic thinking so I'm not (just) having a bitch and a moan. I am genuinely curious to get a feel for the sustainability of the customer experience strategy industry and learn from the mistakes I made last year so next time this happens we'll get a better result.
 
-![Should I spend more money on strategy](http://donkeyontheedge.com/images/strategy_fit.png)
+![Should I spend more money on strategy](/i/strategy_fit.svg)
 
 Items 1, 2 and 4 in the diagram above make up what you might call the "strategy context" of the brief. I reckon this is where the first agency came a cropper. 
 

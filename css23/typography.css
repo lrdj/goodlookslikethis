@@ -83,6 +83,7 @@ h1#headTitle {
 /* Default mobile */
 .df-width-two-thirds p.post-intro {width: auto;font-size: 1.33em;}
 .df-width-two-thirds h2, .df-width-two-thirds p {width: auto;}
+article.df-width-two-thirds ul {width: auto;}
 blockquote {
   padding: 0 0 0 1rem;
   margin: 0;
@@ -92,6 +93,7 @@ blockquote {
 /* Desktop */
 @media (min-width: 769px) {
   .df-width-two-thirds h2, .df-width-two-thirds p {width: 66%;}
+  article.df-width-two-thirds ul {width: 66%;}
   blockquote {
     padding: 0.25rem 0 0 1.5rem;
     margin: 0 2em 0 2em;
