@@ -76,7 +76,6 @@ h1#headTitle {
   }
 }
 
-
 #siteSubtitle { fxont-weight: bolder; font-size: x-large; margin:0.25em 0 1.5em 0; wxidth: 66%; }
 
 .df-width-one-third {width: 33%;}
@@ -110,6 +109,17 @@ ul { margin-top: 0.25em; }
 th, td, li { line-height: 1.5em; }
 sup {vertical-align: super; line-height: 0; font-size: x-small;font-weight: bold;}
 hr { border: none; background: transparent;border-top: 2px solid var(--mc-lightblue); margin:2em 0 2em 0; }
+
+/* callout tag boxes on strategy pages */
+#callOut { padding:0; font-weight: bold; font-size: x-small; text-transform: uppercase; }
+#callOut h3 { margin:0; padding: 0.7em 1.5em 0.7em 1.5em; color: #666; background-color: var(--mc-lightblue); font-size: x-small; border-bottom:4px solid white; }
+#callOut ul { list-style-type: none;padding: 0;margin: 0; }
+#callOut li { background-color: var(--mc-lightgray); padding: 0.6em 1em 0.6em 1em; margin:0; border-bottom:1px solid white;}    
+/* Desktop */
+@media (min-width: 769px) {
+  #callOut { float: right; width: auto; margin:0 0 0 1.5em; }
+}
+
 
 /* navigation and links */
 
@@ -210,12 +220,6 @@ a:hover {
 }
 
 
-
-
-/*
-#siteFooterSlug {
-    font-size: smaller;
-}
-*/
-
+/* footer */
+#siteFooterSlug { font-size: smaller; }
 

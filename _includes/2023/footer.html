@@ -1,10 +1,9 @@
 
-<footer class="wrapper">
-
 {% if page.bodyclass != "cases" and page.bodyclass != "blogIndex" %}
-    <hr>
+    <hr id="siteFooterDivider">
 {% endif %}
 
+<footer class="wrapper">
     <span id="siteFooterSlug">{{ site.title }}.<br>Materials copyright ©<script>document.write(new Date().getFullYear())</script>.</span>
     <!-- create a UL of class="social-media-list" -->
     {% include 2023/social.html %}

@@ -2,7 +2,7 @@
 layout: 2023/case
 title: "Currys - the British high street's first api"
 subtitle: "A strategy to grow engagement with a developer community centred around home decorating. The Currys api allowed hackers to load Currys stock directly into CAD-type applications"
-description: "This project, the was delivered as part of John Browett's turnaround transformation plan for the Currys business"  
+description: "This project was delivered as part of John Browett's turnaround transformation plan for the Currys business"  
 
 
 index_image: "/i/cases/currys/dixons_social.jpg"
@@ -10,11 +10,9 @@ hero_image: "/i/cases/currys/dixons_api.jpg"
 hero_image_alt: "Intel developer competition CTA"
 
 inline_images:
-  - /i/cases/currys/dixons_api.jpg"
   - /i/cases/currys/dixons_api.jpg
   - /i/cases/currys/dixons_social.jpg
   - /i/cases/currys/getsat.jpg
-
 
 tags:
   - affiliates

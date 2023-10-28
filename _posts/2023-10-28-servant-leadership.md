@@ -2,14 +2,16 @@
 layout: 2023/post
 title: "What kind of leader are you?"
 
-subtitle: "Should I build a vision canvas with my stakeholders? Getting everyone aligned on vision and purpose is a foundation for successful transformation"
+subtitle: >
+  Oddly, I've never considered this explicitly. Growing into leadership roles I instinctively built on the experiences created by my own heros and mentors, but I hadn't stopped to consider the detail of why they did it.
 
 hero_image: /i/cocteau.jpg
+
 hero_image_alt: >
-  Panoramic fresco mural reminiscent of early 20th-century art, with an emphasis on airy, almost monochromatic designs and delicate broken line work. The scene portrays a pilgrim's journey in a minimalist style. The pilgrim, depicted as a simple outlined figure, walks along a path that winds through the landscape. Ethereal trees, drawn with graceful and sparse lines, dot the background. Alongside the path, subtle symbols of introspection and enlightenment, like floating orbs and ancient manuscripts, are illustrated with elegant, broken lines:-)
+  Once you start reflecting on types of leadership you start exploring your relationship to purpose. Finding that meaningful purpose is a journey we're all on, and it should be our job to help:-)
 
 intro: >
-  "I'm being asked to provide structured commentary on what kind of leader I am. This isn't something I had ever planned on doing as the basis of service design is to be helpful by showing thing that cannot normally be seen. It always followed for me that a leader, or leadership itself, was simply to be even more helpful."
+  "I'm being asked to provide structured commentary on what kind of leader I am. This isn't something I had ever planned on doing, as the basis of service design is to be helpful by making visible what cannot be seen. It always followed for me that a leader, or leadership itself, was simply to work towards being even more helpful."
 
 categories:
   - Leadership
@@ -28,7 +30,7 @@ tags:
 
 So I've been a fan of Edgar Schein ever since I had to read ["Humble Enquiry"](https://g.co/kgs/S6pzBt) as part of a training course at work. Through the miracle of the internet I've also somehow landed on [Robert K. Greenleaf's wikipedia page](https://en.wikipedia.org/wiki/Robert_K._Greenleaf).
 
-I think if you could put them on either side of a full tea-pot supported with quality biscuits (could they be doing that up there right now?), you would hear some interesting reflections on how leaders have a responsibility to help others:-)
+I think if you could put the two thinkers on either side of a full tea-pot supported with quality biscuits (could they be doing that up there right now?), you would hear some interesting reflections on how leaders have a responsibility to help others:-)
 
 Both thinkers have delved deeply into the realms of organisational leadership, culture, and change, emphasising the importance of values, ethicals, and interpersonal dynamics.
 
@@ -84,8 +86,8 @@ Because we all know the best way to get an idea across is to tell a story, here'
 > was in fact the titular head of the Order, its guiding spirit, 
 > a great and noble leader...
 
-Finally, since I'm using Wikiedia's service and copying their materials I'd like to suggest you join me in donating to their service.
+Finally, since I'm using Wikipedia's service and copying their materials I'd like to suggest you join me in donating to their service.
 
-[ Wikipedia is not for sale: an important update from Jimmy Wales](https://en.wikipedia.org/wiki/Main_Page)
+[Wikipedia is not for sale: an important update from Jimmy Wales](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=GB&uselang=en&utm_medium=donatewiki_page&utm_source=Ways_to_Give&utm_campaign=donate_now_btn)
 
 Thanks:-)
