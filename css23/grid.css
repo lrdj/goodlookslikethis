@@ -233,8 +233,12 @@ figcaption {
     font-weighxt: bold;
 }
 
-
-
+.imagecaption {
+  font-size: small;
+  border-left:1px solid var(--mc-lightblue);
+  margin: 0.25em 0 1.5em 0;
+  padding:0 0 0 10px;
+}
 
 /* Dug hacks - can we delete these? */
 
@@ -244,15 +248,5 @@ figcaption {
 .gallery3 {padding:0;width: 100%;margin-bottom: 1em;}
 .gallery3 img {padding:0;margin: 0 1px 1px 0;width: 32%;}
 
-.imagecaption {
-  width: 100%;
-  float: right;
-  text-align: left;
-  font-size: x-small;
-  font-weight: bold;
-  margin: -20px 0 3em 0;
-}
+.footnotes { font-size: small; }
 
-.footnotes {
-  font-size: small;
-}

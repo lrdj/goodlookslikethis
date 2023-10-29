@@ -2,13 +2,13 @@
 layout: 2023/post
 title: "Should I commission more strategy work from agencies?"
 subtitle: "Is strategy worth the cash?"
-# hero_image_alt: "No alt content yet"
 hero_image: /i/strategy_fit_sq.png
+hero_image_alt: "There’s a lesson here. If your customer hasn’t nailed vision/values nor indeed sufficiently clarified objectives, don’t go into strategic analysis..."
 
 categories:
   - Strategy
   - Transformation
-  
+
 tags:
  - Strategy
  - Vision
@@ -19,7 +19,8 @@ intro: >
   Last year I commissioned agency strategy work to the tune of a little under a million pounds. With the advantage of hindsight, I have to ask myself
 
 ---
-> are agencies who produce experience strategy really worth the money?
+
+> Are agencies who produce experience strategy really worth the money?
 
 The first of the two strategy pieces was run by a really smart guy at a great agency but ultimately, the work they produced had little or no impact on our business. 
 

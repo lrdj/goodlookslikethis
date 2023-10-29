@@ -33,11 +33,11 @@ In the midst of this, a CPO was hired and they recruited a full-fat, a-list team
 
 Unfortunately, the product organisation was in many ways dysfunctional.
 
+![](/i/cases/jctf/prod-CPO-map.png)
+
 ### The problem 
 
 The product team had a heavy reliance on internal viewpoints and features were launched with significant fanfare internally, but missed the mark with customers, leading to low adoption rates and increasing churn.
-
-![](/i/cases/jctf/product-org-map.png)
 
 The product, engineering, sales, and marketing teams operated in silos, with minimal collaboration and understanding of each other’s goals and challenges. Product roadmaps were created without thorough technical feasibility assessment, causing delay, and inconsistencies in delivery.
 

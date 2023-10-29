@@ -30,7 +30,7 @@ I was recently interviewed about my leadership. I thought the questions were hel
   <h3>My experiences helping teams:</h3>
   <ul>
   {% for role in site.data.roles %}
-      <li><a href="#{{- role.idx -}}">&#x2192; {{ role.anon }}</a></li>
+      <li><a href="#{{- role.idx -}}">&#x2192; {{ role.anon }}</a>&nbsp;{%- if role.uri != "" -%}<a href="/cases/leadership/{{ role.uri }}"><img src="/i/case.svg" alt="Read case" style="width:12px;vertical-align: baseline;"></a>{%- endif -%}</li>
       <!-- role.anon | truncate: 30 -->
   {% endfor %}
   </ul>
