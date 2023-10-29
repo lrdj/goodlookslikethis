@@ -233,6 +233,29 @@ figcaption {
     font-weighxt: bold;
 }
 
+.questionBlock {
+    width: auto;
+    list-style: none;
+    font-size: smaller;
+    border-left:1px solid var(--mc-lightblue);
+    margin: 0.25em 0 1.5em 0;
+    padding:0 0 0 1em;
+}
+
+.questionBlock li {
+    margin: 0 0 0.5em 0;
+    padding:0;
+}
+/* Desktop */
+@media (min-width: 769px) {
+    .questionBlock {
+        width: 66%;
+        margin: 0.25em 0 1.5em 0;
+        padding:0 0 0 1em;
+    }
+}
+
+
 .imagecaption {
   font-size: small;
   border-left:1px solid var(--mc-lightblue);
