@@ -8,6 +8,7 @@ subtitle: >
 index_image: "/i/cases/lip/LIP_relationships_Venn_diagram.png"
 hero_image: "/i/cases/lip/lip-tube-map.jpg"
 hero_image_alt: "Service design process showing organisational silos expressed as tube lines."
+hero_image_caption: "Service design process showing organisational silos expressed as tube lines."
 
 tags: 
   - gov.uk
