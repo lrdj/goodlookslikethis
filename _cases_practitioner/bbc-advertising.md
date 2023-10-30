@@ -2,7 +2,7 @@
 layout: 2023/case
 title: "BBC Advertising user experience research"
 subtitle: >
-  How can provide a standardised global service when the culture of each market is very different and closing the deal means a very different type of conversation in Singapore from the one in Jordan...
+  How might we provide a standardised global service when the culture of each market is very different and closing the deal means a very different type of conversation in Singapore from the one in Jordan...
 
 index_image: "/i/cases/bbc/bbc-advertising.png"
 hero_image: "/i/cases/bbc/bbc-advertising.png"
