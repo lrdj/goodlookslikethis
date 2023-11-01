@@ -16,31 +16,10 @@ layout: default
     {% endif %}
 {% endfor %}
 
-{% assign collection_name = "cases_" | append: folder_slug %}
-{% assign eligible_pages = "" | split: "," %}
-
-{% for item in site[collection_name] %}
-  {% unless item.title == "Index" %}
-    {% assign page_data = item.url | append: "||" | append: item.title %}
-    {% assign eligible_pages = eligible_pages | push: page_data %}
-  {% endunless %}
-{% endfor %}
-
-{% assign currentIndex = -1 %}
-{% for i in (0..eligible_pages.size) %}
-  {% assign current_data = eligible_pages[i] | split: "||" %}
-  {% if current_data[0] == page.url %}
-    {% assign currentIndex = i %}
-  {% endif %}
-{% endfor %}
-
-{% assign previousIndex = currentIndex | minus: 1 %}
-{% assign nextIndex = currentIndex | plus: 1 %}
-
 <nav id="caseNavLoop">
     <a href="/cases/{{ folder_slug }}/" id="casesHome">&uarr; back to {{ folder_title }}</a>
-    {%- if previousIndex >= 0 -%}{% assign previous_data = eligible_pages[previousIndex] | split: "||" %}<a href="{{ previous_data[0] }}" id="casesPrevious" title="{{ previous_data[1] }}">&larr; Previous case</a>{%- endif -%}
-    {%- if nextIndex < eligible_pages.size -%}{% assign next_data = eligible_pages[nextIndex] | split: "||" %}<a href="{{ next_data[0] }}" id="casesNext" title="{{ next_data[1] }}">Next case &rarr;</a>{%- endif -%}
+    {% if page.previous.url %}<a href="{{page.previous.url}}" id="casesPrevious" title="{{page.previous.title}}">&larr; Previous case</a>{% endif %}
+    {% if page.next.url %}<a href="{{page.next.url}}" id="casesNext" title="{{page.next.title}}">Next case &rarr;</a>{% endif %}
 </nav>
 
 {% if page.hero_image %}
@@ -114,23 +93,6 @@ layout: default
 
     </section>
     <!-- move between posts -->
-        
-    <nav class='wrapper'>
-        <ul>
-            {%- if previousIndex >= 0 -%}
-            <li>
-              {% assign previous_data = eligible_pages[previousIndex] | split: "||" %}
-              <a href="{{ previous_data[0] }}">{{ previous_data[1] }}</a>
-            </li>
-            {%- endif -%}
-            {%- if nextIndex < eligible_pages.size -%}
-            <li>
-              {% assign next_data = eligible_pages[nextIndex] | split: "||" %}
-              <a href="{{ next_data[0] }}">{{ next_data[1] }}</a>
-            </li>
-            {%- endif -%}
-        </ul>
-    </nav>
-
+    {%- include 2023/next-prev.html -%}
 </main>
 

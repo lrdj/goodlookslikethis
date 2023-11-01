@@ -1,5 +1,6 @@
 ---
 layout: 2023/case
+date: 2023-10-9
 title: "Leadership workshops for a Barcelona-based SaaS"
 
 subtitle: >

@@ -1,5 +1,6 @@
 ---
 layout: 2023/case
+date: 2023-10-8
 title: "Guiding an in-house design org towards greater strategic relevance"
 
 subtitle: >

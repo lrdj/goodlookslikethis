@@ -1,5 +1,6 @@
 ---
 layout: 2023/case
+date: 2023-10-7
 title: "Transformative design leadership in turbulent times"
 
 subtitle: >

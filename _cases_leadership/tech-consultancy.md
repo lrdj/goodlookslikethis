@@ -1,5 +1,6 @@
 ---
 layout: 2023/case
+date: 2023-10-10
 title: "Building a design practice inside the world's largest consulting firm"
 
 subtitle: >

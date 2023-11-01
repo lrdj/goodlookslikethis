@@ -155,15 +155,21 @@ a:hover {
     border: none;
 }
 
-.back {
+/* prev / next navigation for cases */
+#caseNavLoop { width: 100%;padding:1em 0 0.25em 0; }
+#caseNavLoop a {
   display: inline-block;
-  font-size: x-small;
+  font-size: small;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
-  margin:1.25em 0 0.5em 0;"
 }
-
+#casesHome, #casesPrevious, #casesNext { display: block; text-align: left; }
+@media (min-width: 769px) {
+  #caseNavLoop { display: flex;align-items: center; }
+  #casesHome { flex-grow: 1; }
+  #casesPrevious { margin-left:1em;margin-right:1em; }
+}
 
 /* article index page contents */
 
