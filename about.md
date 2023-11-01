@@ -1,17 +1,12 @@
 ---
-layout: page
-
+layout: default
 title: "About Dug"
-
 tags:
  - "service design"
  - "business design"
  - "programme management"
-
 author: dug
-
 ---
-
 <main>
     <section class="wrapper">
       <dl id="bioCard">
