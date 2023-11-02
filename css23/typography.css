@@ -164,11 +164,11 @@ a:hover {
   text-transform: uppercase;
   font-weight: bold;
 }
+#casesPrevious { margin-right:1em; }
 #casesHome, #casesPrevious, #casesNext { display: block; text-align: left; }
 @media (min-width: 769px) {
   #caseNavLoop { display: flex;align-items: center; }
   #casesHome { flex-grow: 1; }
-  #casesPrevious { margin-left:1em;margin-right:1em; }
 }
 
 /* article index page contents */
