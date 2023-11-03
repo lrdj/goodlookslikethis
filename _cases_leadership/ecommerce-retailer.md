@@ -50,7 +50,7 @@ I was recruited in year two of a four-year transformation programme to join a se
  - Creative direction (internal & vendor teams)
  - Supplier management and negotiation
 
-### Team and Culture Rehabilitation:
+### Team and culture rehabilitation:
 
 I set about fostering a resilient and progressive culture among the 35 professionals split across three teams. I had to overcome some initial resistance from a segment of the team, but I eventually gained commitment from all hands to start climbing the accountability ladder.
 
