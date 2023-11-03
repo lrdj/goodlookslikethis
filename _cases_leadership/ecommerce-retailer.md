@@ -4,7 +4,7 @@ date: 2023-10-7
 title: "Transformative design leadership in turbulent times"
 
 subtitle: >
-  The Currys, Dixons and PCWorld websites were tired and underperfoming, part of a organisational backdrop of alarming financials (£5.4bn turnover with a scant margin under 3%). The Dixons Group brand landscape was confusing, and the company had no clearly defined experience strategy, nor clearly defined proposition in place. My role was to steer a fractured customer experience team amidst this organizational downturn, aiming for a revival in cultural, operational, and customer engagement performance.
+  The Currys, Dixons and PCWorld websites were tired and underperfoming, part of an organisational backdrop of alarming financials (£5.4bn turnover with a scant margin under 3%). The Dixons Group brand landscape was confusing, and the company had no clearly defined experience strategy, nor clearly defined proposition in place. My role was to steer a fractured customer experience team amidst this organizational downturn, aiming for a revival in cultural, operational, and customer engagement performance.
 
 index_image: "/i/cases/currys/dixons_api.jpg"
 hero_image: "/i/cases/currys/ecommerce-retailer.jpg"
