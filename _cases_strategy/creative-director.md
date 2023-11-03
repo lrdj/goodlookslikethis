@@ -4,7 +4,7 @@ date: 2023-10-9
 title: "Leading pitches, luxury brands in the Chinese market"
 
 subtitle: >
-  Question: How might we take a traditional European luxury brand with a decades-old narrative centred on the resonant imagery of Italy and the popular culture of decadent Mediterranean 1960s into a new market, leveraging the history, keepping the edge, but resonating with new buyers from a different cultural background?
+  Question: How might we take a traditional European luxury brand with a decades-old narrative centred on the resonant imagery of Italy and the popular culture of decadent Mediterranean 1960s into a new market, leveraging the history, keeping the edge, but resonating with new buyers from a different cultural background?
 
 index_image: "/i/cases/bulgari/bulgari-wall.jpg"
 hero_image: "/i/cases/bulgari/bulgari-wall.jpg"
