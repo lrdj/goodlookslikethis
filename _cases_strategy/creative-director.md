@@ -23,30 +23,39 @@ tags:
   - china
   - marketing
 
+noCallOut: "true"
+
 bXXXodyclass: cases
 ---
 
-### Executive summary 
+## Market context for the pitch: insight and background
 
-My clie While working at a consultancy, I had an opportunity to lead a pitch for nt in Barcelona was scaling up and s in many ways dysfunctional.
+The Bulgari brand has been taken in a some unexpected directions over the years. After the meltdown of 2008, they overhauled their North American business to move away from the fine art gems were know for, to focus on more 'affordable' accessories. 
 
-![](/i/cases/jctf/prod-CPO-map.png)
+> ...luxury is no longer about money;<br>the currency of knowledge is more powerful.
 
-### The problem 
+This may have not been a great move: Once one can afford anything – a jet, a six-figure watch, the walled spread on Anguilla – luxury transforms into something shaped by knowledge and access, not acquisition. Buying luxury is no longer about money; the currency of knowledge is more powerful. In other words, the driver of luxury markets is not price, ubiquity, inventory availability or distribution, yet that seemed to be their decision.
 
-The product team had a heavy reliance on i each other’s goals and challenges. Product roadmaps were created without thorough technical feasibility assessment, causing delay, and inconsistencies in deliverytheir delivery.
+In the decade since that decision, the push for authenticity, and the concept of knowledge worth paying for has certainly picked up steam. Greater interest in things from online review sites, to concierge services, has revealed this to be the case. Would Bulgari have been smarter to keep their exclusivity and do a better job of transmitting the knowledge?
 
-### What did I do?
-
-As Director of Service Design, I was tasked with creating a plan that would provide the structure to allow teams to leverage their user-centred design skills and deliver the performance uplift required by the business.
-blueprinting exercise that resulted in a series of documents that would support the creation of the team's improved offering
-
-### What was the impact?
-
-The results were compelling. The VP customer experience was able to orchestrate a change program which led to positive outcomes for the product 
+But today, the North American luxury consumer is no longer the target, and digital is enabling new engagement with younger audiences without a race to the bottom on position.
 
 
-It sounds like you're working on an innovative concept for marketing Bulgari in China, centered around the "Girl meets Gem" jewellery rental service. Let's break down the concepts you've provided and create visual material for your pitch:
+## How might the creative approach steer a classic story towards new places while still anchoring and building on the unique brand history and cultural equity?
+
+<figure><img alt="Anita and Marcello doing their thing in the Trevi fountain" src="/i/cases/bulgari/la-dolce-vita.jpg"><figcaption>During the flourishing Dolce Vita years of the 50's and 60's, Bvlgari definitively came to the attention of the world's elite. This was increased by the city's bustling cinematic traditions and by the American film industry beginning to produce movies and expensive epics in Rome dubbed “Hollywood on the Tiber”.</figcaption></figure>
+
+Legendary movies like Roman Holidays or La Dolce Vita made the Eternal City forever ingrained in the imagination as a magical place to visit at least once in your lifetime.
+At the same time, names such as Elizabeth Taylor, Audrey Hepburn, Ingrid Bergman, Grace Kelly, Anita Ekberg and many others discovered the Bvlgari shop in Via Condotti and engaged in a passionate affairs with Bvlgari jewels both on and off the screen.
+
+
+
+# Innovative concepts for marketing Bulgari in China
+
+
+## "Girl meets Gem" jewellery rental service
+
+We developed a number of concepts:
 
 1. **"Every child is raised as a gem"**:
    - **Image Description (Photo)**: A diverse group of young Chinese women, each adorned with a unique piece of Bulgari jewelry, standing confidently against a backdrop of supportive family members. The family members gaze at the women with pride and admiration.

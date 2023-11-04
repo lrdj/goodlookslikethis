@@ -71,7 +71,7 @@ layout: default
             {{ page.intro }}
             </p>
 
-{% if page.path contains "_strategy/" %}
+{% if page.path contains "_strategy/" and page.noCallOut != "true" %}
     <aside id="callOut">
         <h3>Themes / tags</h3>
         <ul>
