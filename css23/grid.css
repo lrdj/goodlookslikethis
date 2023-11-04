@@ -267,7 +267,7 @@ figcaption {
 
 /* Designit ppt bio card styles */
 
-#bioCard dt#portrait, #bioCard dd#aboutSection, #bioCard dd#skillsAndClients {display:block; border: none; margin:0;padding:0;}
+#bioCard dt#portrait, #bioCard dd#aboutSection, #bioCard dd#bioSkills, #bioCard dd#bioClients {display:block; border: none; margin:0;padding:0;}
 
 #bioCard #portrait img {
   filter: grayscale(100%) brightness(100%);
@@ -275,7 +275,7 @@ figcaption {
   object-fit: cover; 
 }
 #bioCard dd#aboutSection { font-size: medium; }
-#bioCard dd#skillsAndClients { font-size: small; }
+#bioCard dd#bioSkills, #bioCard dd#bioClients { font-size: small; }
 
 /* Desktop */
 @media (min-width: 769px) {
@@ -297,7 +297,7 @@ figcaption {
         flex-basis: 37.5%;
         padding:1rem 0.5em 1em 2em;
     }
-    #bioCard dd#skillsAndClients {
+    #bioCard dd#bioSkills, #bioCard dd#bioClients {
         flex-basis: 25%;
         margin-left: auto;
         padding:1.3rem 0.5em 1em 1em;

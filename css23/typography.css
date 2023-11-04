@@ -90,6 +90,13 @@ blockquote {
   font-size: 125%;
   border-left: 4px solid #E5E4E2;
 }
+q {
+  display:block;
+  padding: 0 0 0 1em;
+  margin: 0.75em 25% 2.5em 1em;
+  line-height: 150%;
+  border-left: 1px solid var(--haud-darkgold);
+}
 /* Desktop */
 @media (min-width: 769px) {
   .df-width-two-thirds h2, .df-width-two-thirds p {width: 66%;}

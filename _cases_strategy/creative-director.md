@@ -28,6 +28,15 @@ noCallOut: "true"
 bXXXodyclass: cases
 ---
 
+## Tim's concept
+
+Value chains are replacing brands are the most powerful weapon in the marketing arsenal.
+
+While still widely perceived as source of risk, value-chain transparency actually offers brand owners an opportunity to create new forms of value for customers at an emotional and ethical level—the level where brands have traditionally operated.
+
+In contrast to brands, the equity currently locked within value chains is real, testable and valuable to end-users. Learning to release this value is the key to sustainable competitive advantage.
+
+
 ## Market context for the pitch: insight and background
 
 The Bulgari brand has been taken in a some unexpected directions over the years. After the meltdown of 2008, they overhauled their North American business to move away from the fine art gems were know for, to focus on more 'affordable' accessories. 
