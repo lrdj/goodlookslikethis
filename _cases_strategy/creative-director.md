@@ -64,6 +64,13 @@ At the same time, names such as Elizabeth Taylor, Audrey Hepburn, Ingrid Bergman
 
 ## "Girl meets Gem" jewellery rental service
 
+
+<figure><img src="/i/cases/bulgari/Daily-life-all_adorned.png"><figcaption>During the flourishing Dolce Vita years of the 50's and 60's, Bvlgari definitively came to the attention of the world's elite. This was increased by the city's bustling cinematic traditions and by the American film industry beginning to produce movies and expensive epics in Rome dubbed “Hollywood on the Tiber”.</figcaption></figure>
+
+
+
+
+
 We developed a number of concepts:
 
 1. **"Every child is raised as a gem"**:
@@ -87,25 +94,60 @@ We developed a number of concepts:
    - **Image Description (Illustration)**: A compass with a Bulgari jewel at its center, pointing the way, symbolizing the gem therapist's role in guiding consumers through their jewelry choices.
 
 
-![](/i/cases/bulgari/Daily-life-all_adorned.png)
-![](/i/cases/bulgari/Gem-therapist.png)
-![](/i/cases/bulgari/Lavish-event-spotlight-woman.png)
-![](/i/cases/bulgari/Woman-pauses-in-front-of-store.png)
-![](/i/cases/bulgari/Young-girl-looks.png)
+<style>
+  .image-row {
+    display: flex; /* Activates Flexbox layout for the container */
+    flex-wrap: wrap; /* Allows items to wrap onto multiple lines if needed */
+    align-items: flex-start; /* Aligns items on the cross axis */
+    padding:10px; 
+    gap:10px; 
+    background-color: var(--mc-lightblue);"
+  }
+  .image-row img {
+    max-width: 49%; /* Makes image responsive */
+    height: auto; /* Maintains aspect ratio */
+  }
+</style>
+
+<div class="image-row">
+  <img src="/i/cases/bulgari/Young-girl-looks.png">
+  <img src="/i/cases/bulgari/Lavish-event-spotlight-woman.png">
+</div>
 
 
-1.“Every child is raised as a gem”. 
+<div class="image-row">
+  <img src="/i/cases/bulgari/Woman-pauses-in-front-of-store.png">
+  <img src="/i/cases/bulgari/Gem-therapist.png">
+</div>
+
+
+
+<div class="image-row">
+<figure><img src="/i/cases/bulgari/Woman-pauses-in-front-of-store.png"><figcaption>Young Chinese buy luxury goods to express this individuality and to show their social status - to stand out rather than fit in. Also taps into a wider element of this insight; that it is more important to be seen to be wealthy than to actually be wealthy.</figcaption></figure>
+<figure><img src="/i/cases/bulgari/Gem-therapist.png"><figcaption>A Gem therapist (a crucial part of the service which we have not yet fully detailed in the video due to time), goes beyond the notion of a personal shopper. The therapist will book in an hour consultation with a consumer, to understand their current values, goals, and what’s important to them across their year – as well as their calendar of events.</figcaption></figure>
+</div>
+
+
+
+## 1. “Every child is raised as a gem”. 
+
 - Every child has multiple adults pouring their aspirations and finances into them. Each child feels they are a unique individual. 
 - The ‘redefining femininity’ concept allows women to select (or even customise/create?) the jewel that they feel best expresses their individuality, their femininity. 
 - See also gem therapist (full description below), who provides a fully personalised Gem service for each individual according to their needs, values and calendar.
-2. Young Chinese buy luxury goods to express this individuality and to show their social status - to stand out rather than fit in.
-Also taps into a wider element of this insight; that it is more important to be seen to be wealthy than to actually be wealthy. 
+
+## 2. Young Chinese buy luxury goods to express this individuality and to show their social status - to stand out rather than fit in. Also taps into a wider element of this insight; that it is more important to be seen to be wealthy than to actually be wealthy. 
+
 - A jewellery rental service allows women to give the impression of wealth, by being seen wearing multiple different luxury jewels, or “never being seen wearing the same jewel twice’” 
-3. Young Chinese buy for the now rather than saving for tomorrow. “You make half of what you spend” 
+
+## 3. Young Chinese buy for the now rather than saving for tomorrow. “You make half of what you spend” 
+
 - A jewellery rental service allows consumers with smaller finances to tap into this sentiment and buy ‘in the moment’ to make them feel good. 
-4. For young Chinese, jewellery is no longer reserved for special occasions; it is a way to bring luxury to everyday moments. 
+
+## 4. For young Chinese, jewellery is no longer reserved for special occasions; it is a way to bring luxury to everyday moments. 
+
   - A jewellery rental service allows women to bring luxury to everyday moments, rather than saving for weddings etc, they are able to afford flashes of luxury when they feel like it. 
-5. Young Chinese are bombarded with choice. They want experts to understand their desires and help them make decisions when shopping. 
+
+## 5. Young Chinese are bombarded with choice. They want experts to understand their desires and help them make decisions when shopping. 
 
 A Gem therapist (a crucial part of the service which we have not yet fully detailed in the video due to time), goes beyond the notion of a personal shopper. The therapist will book in an hour consultation with a consumer, to understand their current values, goals, and what’s important to them across their year – as well as their calendar of events. They will then suggest or select jewels that help them express themselves or celebrate certain key moments in their year.
 
