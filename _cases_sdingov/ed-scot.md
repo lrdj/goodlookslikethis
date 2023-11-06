@@ -9,10 +9,10 @@ index_image: "/i/cases/edscot/crazy-8s.jpg"
 hero_image: "/i/cases/edscot/vision-sketch.jpg"
 
 hero_image_alt: >
-  The Vision: I imagined an Environment where PL programmes are created, distributed, measured and improved in such a way as to create positive feedback loops that help build long-lasting relationships and improve outcomes for practitioners in Scottish Education.
+  The Vision: I imagined an Environment where PL programmes are created, distributed, measured and improved in such a way as to create positive feedback loops.
 
 hero_image_caption: >
-  The Vision: I imagined an Environment where PL programmes are created, distributed, measured and improved in such a way as to create positive feedback loops that help build long-lasting relationships and improve outcomes for practitioners in Scottish Education.
+  The Vision: I imagined an Environment where PL programmes are created, distributed, measured and improved in such a way as to create positive feedback loops.
 
 tags: 
   - gov.uk
