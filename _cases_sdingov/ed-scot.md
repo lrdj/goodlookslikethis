@@ -9,17 +9,20 @@ index_image: "/i/cases/edscot/crazy-8s.jpg"
 hero_image: "/i/cases/edscot/vision-sketch.jpg"
 
 hero_image_alt: >
-  The Vision: I imagined an Environment where PL programmes are created, distributed, measured and improved in such a way as to create positive feedback loops.
+  The Vision: I imagined an environment where "Professional Learning" programmes were created, distributed, measured and improved, in such a way as to create positive feedback loops.
 
 hero_image_caption: >
-  The Vision: I imagined an Environment where PL programmes are created, distributed, measured and improved in such a way as to create positive feedback loops.
+  The Vision: I imagined an environment where "Professional Learning" programmes were created, distributed, measured and improved, in such a way as to create positive feedback loops.
 
 tags: 
+  - LMS
+  - learning management system
   - gov.uk
+  - remote work
+  - education
   - enterprise software
   - user research
   - service management
-  - OJEU procurement
 
 ---
 
