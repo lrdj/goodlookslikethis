@@ -35,9 +35,9 @@ in time for Christmas peak trading.
 
 My team successfully relaunched the ecommerce platform, leading to enhancements in basket sizes and purchase frequency. The team not only remained intact but thrived, with leads capitalizing on the empowerment and autonomy granted to them. I did this successfully and at the same time established processes elsewhere in the business that are still driving growth today.
 
-## Role
-
 ![](/i/book/dixons-c.jpg)
+
+## My role
 
 I was recruited in year two of a four-year transformation programme to join a senior management team designed to turn the ecommerce part of the business around. In my role as Head of Customer Experience, I commissioned agencies, recruited and led analytics, UX, graphic design, content, social creation and social moderation teams.
 
