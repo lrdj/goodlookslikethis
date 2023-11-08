@@ -5,7 +5,7 @@ subtitle: >
   Helping a UK mobile operator keep their customers happy and in control of their bills. Customers were forever getting bills they didn't expect and they didn't like the BT model of having to purchase an extra package to save money...
 
 
-index_image: /i/bill-fixer.png
+index_image: /i/bill-fixer.jpg
 hero_image: /i/cases/vodabill/vodafone-case.png
 
 hero_image_caption: >

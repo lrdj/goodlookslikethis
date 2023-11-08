@@ -4,8 +4,8 @@ title: "Getting a high-street bank ready for workplace pensions"
 subtitle: >
   Leveraging user research to generate concepts for a customer that challenged assumptions and reframed their approach to delivering on an FCA requirement.
 
-index_image: "/i/cases/barclays/pitch-deck.png"
-hero_image: "/i/cases/barclays/pitch-deck.png"
+index_image: "/i/cases/barclays/pitch-deck.jpg"
+hero_image: "/i/cases/barclays/pitch-deck.jpg"
 
 hero_image_caption: >
   Our pitch introduced the idea of the "social IFA", a concept born out of the insight that people no longer trusted banks. This solution made use of an advanced Sitecore personalisation solution.
