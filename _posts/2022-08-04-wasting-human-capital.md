@@ -2,9 +2,6 @@
 layout: 2023/post
 title: "Is there something about Design that means the waste of human capital is inevitable?"
 
-subtitle: >
-  So one thing I keep coming back to and never action is the thought of wasting human capital and what we should do with old ideas...
-
 hero_image: /i/human-capital-folon.jpg
 hero_image_alt: >
    Floraison, 1973. Watercolour by Jean-Michel Folon 
@@ -24,7 +21,7 @@ tags:
 author: dug
 
 intro: >
-  I may be exp
+  So one thing I keep coming back to and never action is the thought of wasting human capital and what we should do with old ideas...
 
 ---
 
@@ -34,9 +31,11 @@ I have many hard drives full of concepts and systems that I dreamed up in respon
 
 ## Here are three things that keep coming back to nudge me:
 
-1. Indi Young and her mental Models concept
+1. Indi Young and her [mental Models framework](https://ergomania-ux.medium.com/indi-young-mental-models-review-300120c4f735)
 (A lovely way of visualising where we might be leaving money on the table)
-2. Jesse James Garrett and his 'abstract to concrete' model of user experience
+2. Jesse James Garrett and his 'abstract to concrete' [model of user experience](https://www.codecademy.com/resources/docs/uiux/five-elements-of-ux-design)
 (and how it can help with stakeholder management)
-3. Prahalad and Ramaswamy's DART model
+3. Prahalad and Ramaswamy's [DART model](https://www.google.co.uk/books/edition/The_Future_of_Competition/ppSQDQAAQBAJ)
 (particularly relevant to designing experiences in a risk-averse environment)
+
+
