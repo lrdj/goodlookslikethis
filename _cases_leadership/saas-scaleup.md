@@ -34,7 +34,7 @@ In the midst of this, a CPO was hired and they recruited a full-fat, a-list team
 
 Unfortunately, the product organisation was in many ways dysfunctional.
 
-![](/i/cases/jctf/prod-CPO-map.png)
+![There are times when organisations get all the right people in all the right places but the right outcomes don't quite surface](/i/cases/jctf/prod-CPO-map.jpg)
 
 ### The problem 
 
