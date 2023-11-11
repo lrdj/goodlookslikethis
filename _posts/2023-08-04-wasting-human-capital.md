@@ -1,10 +1,10 @@
 ---
 layout: 2023/post
-title: "Is there something about Design that means the waste of human capital is inevitable?"
+title: "Is there something about our approach to Design that means the waste of human capital is inevitable?"
 
 hero_image: /i/human-capital-folon.jpg
 hero_image_alt: >
-   Floraison, 1973. Watercolour by Jean-Michel Folon 
+   Floraison, 1973. Watercolour by Jean-Michel Folon. Reproduced without permission.
 
 categories:
  - Transformation
