@@ -61,7 +61,7 @@ The project was characterised by loads of excitement but many untested assumptio
 - How to balance our proposition with 3rd sector partners and French State 
 
 
-## My design decisions through the Service Design process
+## Design decision: Research
 
 - Make site visits in Paris 
 - Run contextual inquiry: In-car shadowing and on-street interviews, panel workshop
@@ -73,6 +73,9 @@ My research uncovered important differences between leadership assumptions and o
 - decision-insight: The drivers do not have the pattern we thought they did
 - decision-insight: The cars and scooters used by the companies do not have the constraints we thought they did (battery types, ownership contracts etc.)
 - Assumptions mapping with cross-silo stakeholders
+
+
+## Design decision: Assumptions mapping
 
 ![The mapping exercise uncovered a number of important untested assumptions](/i/cases/renewables-e-mobility/assumptions-map.jpg)
 
