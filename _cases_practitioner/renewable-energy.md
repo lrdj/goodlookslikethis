@@ -89,12 +89,12 @@ The mapping exercise uncovered a number of important untested assumptions:
 
 ![The final output and result](/i/cases/renewables-e-mobility/outcome.jpg)
 
-I decided to recommend that the org pivot away from a retail-lead proposition which depended on charging gig-economy workers. They did with a pilot launch in Paris city centre and Roissy airport hub launched later that year.
+After synthesising findings, and sense-making with my colleagues, I decided to recommend that the org pivot away from a retail-lead proposition which depended on charging gig-economy workers. They did with a pilot launch in Paris city centre and Roissy airport hub launched later that year.
 
 
 ## Feedback?
 
-My client was kind enough to [give me some feedback]({{ site.linkedinRecoms }}):
+My client thought this work was helpful and [gave me some feedback]({{ site.linkedinRecoms }}):
 
 >
 > Dug worked on an innovation initiative in my team 
