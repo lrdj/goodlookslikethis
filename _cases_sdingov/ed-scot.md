@@ -56,7 +56,7 @@ I established a design-led approach where, over the course of eight weeks, our t
 - Identify enablers and technical architecture
 - Draft a set of principles to guide future design and development, aligned to the Scottish Government’s "Digital First" standards
 
-### What to do next
+### What next
 
 Recommendations for delivery
 - How to begin delivering change
