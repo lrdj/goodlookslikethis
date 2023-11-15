@@ -89,16 +89,25 @@ At a high level, insights included:
 
 ### Opportunities
 
-I surfaced opportunities in codesign workshops with stakeholders. I briefed workshop participants to bring sheets of paper and take photographs of their results with their phones. I cleaned up these graphics and added them to my Miro board.
+I surfaced opportunities in codesign workshops with stakeholders. 
+
+I facilitated these workshops via Skype and using Miro. I briefed workshop participants to bring sheets of paper and take photographs of their results with their phones. I cleaned up these graphics and added them to my Miro board.
 
 <figure>
   <img src="/i/cases/edscot/crazy-8s.jpg" alt="Crazy 8's by Participant P5" />
-  <figcaption>I led members of staff through ideation exercises as part of exploring their future vision.</figcaption>
+  <figcaption>I led staff members through ideation exercises as part of exploring their future vision. Here a participant has shared a photograph of their <em>Crazy 8's</em> exercise.</figcaption>
 </figure>
 
-In both the current state analysis, and future state vision phases, I facilitated stakeholder workshops via Skype and using Miro, to identify assumptions that should be challenged throughout the Discovery and to co-create solutions for current pain points.
+In the opportunities phase, I led teams of civil servants through ideation exercises. These included "Crazy 8s", a limbering up exercise that lets participants feel the permission to think freely. 
 
-The opportunities we uncovered centred on transforming the course creation lifecycle to:
+These were followed by a solution sketching session where each participant worked quietly to flesh out their idea. These where photographed by each participant and emailed to me.
+
+<figure>
+  <img src="/i/cases/edscot/sol-sketch.jpg" alt="Solution sketch by Participant P15" />
+  <figcaption>Here a participant has shared a cameraphone photograph of their <em>Solution sketch</em>. These are created under timed conditions in a remote workshop.</figcaption>
+</figure>
+
+The opportunities the cross-functional teams uncovered centred on transforming the course creation lifecycle to:
 - Increase effectiveness of educator learning and development
 - Nurture closer relationships with them
 - Improve the day-to-day experience of back-stage staff
