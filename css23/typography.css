@@ -12,7 +12,6 @@ font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus San
 
 Old style
 font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
-*/
 
 @font-face {
   font-family: 'gilroy-extrabold';
@@ -36,6 +35,8 @@ font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, ser
   font-weight: normal;
   font-style: normal;
 }
+
+*/
 
 
 body {
@@ -76,7 +77,10 @@ h1#headTitle {
   }
 }
 
-#siteSubtitle { fxont-weight: bolder; font-size: x-large; margin:0.25em 0 1.5em 0; wxidth: 66%; }
+#siteSubtitle {
+  font-size: 120%; 
+  margin:0.5em 0 1.5em 0;
+}
 
 .df-width-one-third {width: 33%;}
 
