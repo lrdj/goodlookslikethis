@@ -228,7 +228,8 @@ figcaption {
     margin: 0;
     padding: 1em;
     color: #333;
-    background: #E5E4E2;
+/*    background: #E5E4E2; */
+    background:var(--mc-lightgray);
     font-size: small;
     text-transfxorm: uppercase;
     font-weighxt: bold;
@@ -263,6 +264,16 @@ figcaption {
   margin: 0.25em 0 1.5em 0;
   padding:0 0 0 10px;
 }
+
+
+/* figures in case */
+
+article.case figure {
+    margin:1.25em 0 1.25em 0;
+    /* border:1px solid var(--mc-lightgray); */
+}
+
+
 
 
 /* Designit ppt bio card styles */

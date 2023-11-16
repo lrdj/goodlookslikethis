@@ -6,7 +6,7 @@ layout: default
 
     <section class="wrapper">
 
-      <figure>
+      <figure id="postHeroImage">
         {%- if page.target -%}<a href="{{- page.target -}}">{%- endif -%}<img src="{{ page.hero_image }}">{%- if page.target -%}</a>{%- endif -%}
         {%- if page.hero_image_alt -%}<figcaption>{{ page.hero_image_alt }}</figcaption>{%- endif -%}
       </figure>

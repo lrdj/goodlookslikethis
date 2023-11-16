@@ -43,22 +43,22 @@ I acted as an independent consultant, retained by a digital transformation agenc
 
 I established a design-led approach where, over the course of eight weeks, our team worked with our customer through the following three phases: 
 
-### Insights and opportunities
+_Insights and opportunities_
 
 - Identify core users and their key pain points
 - Review current state / as-is service
 - Create as-is user journeys and a service blueprint
 - Understand the technical architecture
 
-### Future vision
+_Future vision_
 
 - Express a clear vision of the potential future state / to-be service, leveraging uncovered improvement opportunities
 - Identify enablers and technical architecture
 - Draft a set of principles to guide future design and development, aligned to the Scottish Government’s "Digital First" standards
 
-### What next
+_What next_
 
-Recommendations for delivery
+- Recommendations for delivery
 - How to begin delivering change
 - Any teams required
 
