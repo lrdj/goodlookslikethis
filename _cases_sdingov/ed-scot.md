@@ -3,7 +3,7 @@ layout: 2023/case
 title: Education Scotland professional learning discovery
 
 subtitle: >
-  How might Education Scotland test their assumption that the transformation of their "Professional Learning" lifecycle offered significant opportunities to improve relationships with educators? This eight-week discovery project aimed to de-risk those assumptions and build a vision of a possible future for the agency's service to the teachers of Scotland.
+  Would transforming their "Professional Learning" lifecycle improve relationships with educators? This eight-week GDS-format discovery project aimed to de-risk those assumptions and surface unmet user needs.
 
 index_image: "/i/cases/edscot/crazy-8s.jpg"
 hero_image: "/i/cases/edscot/Story-4.jpg"
@@ -56,7 +56,7 @@ _Future vision_
 - Identify enablers and technical architecture
 - Draft a set of principles to guide future design and development, aligned to the Scottish Government’s "Digital First" standards
 
-_What next_
+_Identify next steps_
 
 - Recommendations for delivery
 - How to begin delivering change
@@ -141,7 +141,7 @@ This Future Vision assumed an enhancement to the agency's organisational purpose
 In order to achieve greater influence and impact, I framed the the future vision along three axes: Engagement, relevance, and quality.
 
 1.  Building engagement in the widest sense, with practitioners but also with colleagues and partners in the education environment
-2.  Ensuring we increase our level of relevance to our audience. When we communicate, we will do so with the intent of influencing a change, when we propose content, that content will be (if appropriate) personalised to audience.
+2.  Ensuring we increase our level of relevance to our audience. When we communicate, we will do so with the intent of influencing a change, when we propose content, that content will be (if appropriate) personalised to the audience.
 3.  To underpin this change we will improve the quality of our services. This will mean new ways of working, with faster, better feedback, and better processes and technology supporting our people. We will take a design-led approach ensuring that every new change to our services maps directly to our strategic aims
 
 ### The Vision
@@ -164,14 +164,14 @@ We will integrate performance data with a design-led approach, supported by our 
 
 ### What will that mean to humans working in this environment?
 
-I prepared four scenarios to illustrate the impact of this vision in a bit more detail. STORY 1 Tells the narrative of how shorter feedback loops and working more closely with practitioners helps Mary and Maureen:
+To land the vision with our customer, I created a series of four customer journeys that illustrate the impact of this future in a bit more detail. STORY 1 Tells the narrative of how shorter feedback loops and working more closely with practitioners helps Mary and Maureen:
 
 ![STORY 1 Tells the narrative of how shorter feedback loops and working more closely with practitioners helps Mary and Maureen](/i/cases/edscot/Story-1.jpg)
 
 
 ## What to do next: Recommended next steps
 
-The team and I identified how to develop the opportunities we identified. As a number of stakeholders were not available for consultation because of lockdown, the next steps included a further discovery phase to ensure we landed their user needs correctly.
+The team and I identified how to develop the opportunities we had surfaced. As a number of stakeholders were not available for consultation because of lockdown, the next steps included a further discovery phase to ensure we landed their user needs correctly.
 
 - Alpha candidate: Create a collaborative culture and environment
 - Discovery candidate: Improve the short-term feedback loop

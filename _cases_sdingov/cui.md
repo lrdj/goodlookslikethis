@@ -33,16 +33,7 @@ Read Ruth Drake's great blog post on [designing helpful chatbots](https://design
 
 ## Project outcomes
 
-The use of virtual assistants in the online services for the Covid support programmes – including the furlough and the Self-Employment Income Support Schemes – helped many users find what they were looking for when they would otherwise have resorted to phoning an HMRC helpline. This delivered the department an estimated £5m in “cost-avoidance” savings, McMann said.
+The use of virtual assistants in the online services for the Covid support programmes – including the furlough and the Self-Employment Income Support Schemes – helped many users find what they were looking for when they would otherwise have resorted to phoning an HMRC helpline. This delivered the department an estimated £5m in “cost-avoidance” savings.
 
-Such success helped to accelerate the use of the technology, according to the digital product chief, and the department has plans to expand the use of conversational UI to the HMRC app – where it will be deployed “imminently”, she said.
-
-“It will be the front door [where], instead of customers having to navigate and find information themselves, the ambition is, on the digital channels – particularly in the app… there will be a menu where you can self-serve, but you also have the option of just typing in what it is that you need, and we surface that,” McMann added.
-
-HMRC will also shortly undertake a pilot exercise – using Microsoft’s Nuance technology – to explore the use of generative AI in its use of chatbots.
-
-“We will look at how we can use that to better improve the customer experience by analysing the intents [to provide] better responses,” McMann said.
-
-
-
+Such success helped to accelerate the use of the technology, and the department has plans to expand the use of conversational UI to the HMRC app.
 

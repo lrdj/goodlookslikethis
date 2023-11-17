@@ -30,6 +30,6 @@ His instructions were pretty clear.
 
 Michel explained that the campaign was mature, and the models were A-list, and that everything was sorted, and all knew exactly what to do, so all I had to do was drink espresso with the client and not say anything.
 
-It was exciting. In the end I asked a few questions but it all came out well in the end:-)
+It was exciting. I may have asked a few questions, but it all came out well in the end:-)
 
 Man, that was a long time ago...
