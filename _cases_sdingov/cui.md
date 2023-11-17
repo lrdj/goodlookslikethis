@@ -1,6 +1,6 @@
 ---
 layout: 2023/case
-title: HMRC Conversational user interface (CUI)
+title: HMRC Conversational user interface (CUI) service assessment
 
 subtitle: >
   Demand for support from HMRC ebbs and flows with the movement of the financial year. The CUI assistant was designed to complement telephone and webchat support, helping customers self-serve by offering quick and queue-free answers to simple questions and providing much wanted 24-7 help with support during the pandemic.

@@ -1,6 +1,6 @@
 ---
 layout: 2023/case
-title: Cabinet Office data sharing service discovery
+title: Cabinet Office data sharing service discovery and service assessment
 
 subtitle: >
   Barriers to data sharing still exist across government. A lack of alignment between organisations in data sharing systems and processes resulted in different approaches to navigating the complexities of legal and ethical compliance. It's hard and it takes forever...
@@ -20,6 +20,7 @@ tags:
   - data
   - user research
   - service management
+  - service assessment
 
 ---
 
@@ -30,9 +31,19 @@ The customer believed this alignment could be improved with a “unified” way 
 A significant impediment to data sharing in government is that it is slow and difficult to establish a data sharing arrangement because of misalignments and inconsistencies in processes, governance and documentation between organisations.
 
 
+## Future vision
+
+I was tasked with exploring how this proposition of a cross-government service might work. 
+
+The service would would provide a single, agreed process to establish data sharing arrangements, guided workflow, ability to collaborate across organisational boundaries, standardised documentation, sign-off functionality and digital memorandums of understanding, in a secure and access-controlled web environment.
+
+The aspiration was that it would become quicker and easier to establish safe, responsible and legal data sharing arrangements, enabling the sharing of vital information to solve problems and deliver services at pace.
+
+
 ## The design: Purpose of prototype
 
-This build was created in order to test design speculations during an Alpha phase of service design.
+This build was created in order to test design speculations during an Alpha phase of service design. 
+
 The speculations were ideated after reviewing discovery phase outputs and performing initial rounds of user research in the current phase. The "what if" design speculations build on the central "How might we" user need which is:
 
 >
@@ -48,24 +59,9 @@ The prototype acts as stimulus for user research. It was designed to test the fo
 - "What if we created a space that would allow supplier and acquirer to collaborate and manage their documentation in one, secure, shared space? Specifically, would the benefits of an audit trail, centralised storage etc. outweigh the cost of complexity and the overhead of learning a new system?"
 
 
-
-## Future vision
-
-I was tasked with exploring how this proposition of a cross-government service might work. The service would would provide a single, agreed process to establish data sharing arrangements, guided workflow, ability to collaborate across organisational boundaries, standardised documentation, sign-off functionality and digital memorandums of understanding, in a secure and access-controlled web environment.
-
-The aspiration was that it would become quicker and easier to establish safe, responsible and legal data sharing arrangements, enabling the sharing of vital information to solve problems and deliver services at pace.
-
-
-The research is currently ongoing.
-
 ## Users and journey structure
 
-The flow is designed to test the actions of acquirers, suppliers, and subject matter experts, as they move from finding data, applying for a data share, negotiating the agreement, and supplying the data.
-The following diagram shows the data flows supported in the current version of the prototype:
+The flow is designed to test the actions of acquirers, suppliers, and subject matter experts, as they move from finding data, applying for a data share, negotiating the agreement, and supplying the data. The diagram above shows the data flows supported in the current version of the prototype.
 
-
-
-
-
-
+The research is currently ongoing.
 
