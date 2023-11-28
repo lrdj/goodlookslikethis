@@ -1,22 +1,22 @@
 ---
 layout: 2023/case
-title: Helping Historic Environment Scotland leadership with non-exec service consulting 
+title: Helping a regulatory agency optimise their workflow
 
 subtitle: >
-  The product owner leading the development and delivery of the new bespoke asset management system for the Properties in Care of Historic Environment Scotland (PICAMS), needed a hand validating her user-centred approach and agile delivery of internal systems. 
+  Leadership was set on storing their workflows on a new Microsoft Dynamics platform, but they had not mapped the journeys of the different colleagues in the organisation and were unaware of the challenges and opportunites created by their structure.
 
-index_image: "/i/cases/hes/hes-work-in-progress.jpg"
-hero_image: "/i/cases/hes/hes-work-in-progress.jpg"
+index_image: "/i/cases/landregulator/L1-all-notes.png"
+hero_image: "/i/cases/landregulator/L1-all-notes.png"
 
 hero_image_alt: >
-  Historic Environment Scotland is the lead public body established to investigate, care for and promote Scotland’s historic environment.
+  Workers at this regulator were divided into four main areas based on the nature of their interventions with citizens. It quickly became apparent that uncovering insights and opportunities would mean mapping the different divisions across the entire life-cycle of the regulated customer.
 
 hero_image_caption: >
-  Historic Environment Scotland is the lead public body established to investigate, care for and promote Scotland’s historic environment. 
+  Workers at this regulator were divided into four main areas based on the nature of their interventions with citizens. It quickly became apparent that uncovering insights and opportunities would mean mapping the different divisions across the entire life-cycle of the regulated customer.
 
 tags: 
-  - NED
-  - Scotland
+  - tube maps
+  - ethnography
   - consulting
   - gov.uk
   - scotgov
@@ -28,16 +28,6 @@ tags:
   - collaboration
 
 ---
-
-Over the last few years I have been working with [a group of peers](https://www.linkedin.com/company/80890637/admin/feed/posts/) to offer remote non-exec style consulting in research, strategy, and service design, to leaders who find themselves in a particular type of bind. Our service allows them to get the information they need to move forward where they might otherwise be constrained by procurement, policy, or budget.
-
-One such engagement happened at Historic Environment Scotland where leadership was delivering on a ministerial commitment to deliver [a programme](https://www.historicenvironment.scot/about-us/news/historic-environment-scotland-reveal-plan-to-manage-historic-assets/) of process and technology renewal that would allow the agency to deliver on its statutory commitments while scaling in response to technology challenges. The plan was described as:
-
->
-> A plan for the continued management, conservation and maintenance 
-> of over 600 buildings and monuments in Scotland
->
-
 
 ## The Challenge
 
@@ -55,6 +45,45 @@ Our work together focussed on some of her key issues:
 - Designs for the information architecture, and the front end of the new information management toolset where being produced by her developers. This was not an ideal situation, but pragmatically, she had needed to show progress, and this is what was possible
 - Integration of certain specific technical features into the front-end experience were presenting challenges. It was not clear to her that for all the dev effort involved, these features were necessary, or providing measurable value to end users
 - While this leader was both trained and experienced in agile delivery, she wanted a second opinion regarding her plan and the definition of her team's outputs
+
+
+![](/i/cases/landregulator/L1-all-notes.png
+
+![](/i/cases/landregulator/000-titleslide.png
+
+![](/i/cases/landregulator/010-co-design-intro-statement.png
+
+![](/i/cases/landregulator/020-from-this-to-this.png
+
+![](/i/cases/landregulator/030-team-UR-SD-BA.png
+
+![](/i/cases/landregulator/040-primary-research.png
+
+![](/i/cases/landregulator/050-notepad.png
+
+![](/i/cases/landregulator/055-whatsintheecosystem.png
+
+![](/i/cases/landregulator/060-probe-tubemap.png
+
+![](/i/cases/landregulator/070-ishikaya.png
+
+![](/i/cases/landregulator/080-HMW-DART.png
+
+![](/i/cases/landregulator/090-needs-matrix.png
+
+![](/i/cases/landregulator/100-opportunities.png
+
+![](/i/cases/landregulator/999-golden-circle.png
+
+![](/i/cases/landregulator/L1-all-notes.png
+
+![](/i/cases/landregulator/L1-all.png
+
+![](/i/cases/landregulator/sam-fleming.mov
+
+![](/i/cases/landregulator/tubemap.mov
+
+
 
 
 ## The outcomes
