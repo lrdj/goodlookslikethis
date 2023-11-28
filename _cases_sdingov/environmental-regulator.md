@@ -29,44 +29,45 @@ tags:
 
 ---
 
-## Introduction
 
-This case study highlights the significance of primary user research in service design, showcasing the effective use of a novel research tool in a project undertaken for a regulatory agency. The agency aimed to optimize its workflow by implementing a new system on Microsoft Dynamics, yet lacked insight into the varying experiences and challenges of its staff.
-
-## The Challenge
+## The challenge
 
 The agency's leadership focused on improving operational efficiency. The initial request involved mapping the processes of different business units and integrating them into Microsoft Dynamics for workflow management. However, this approach overlooked the nuances of the organization's structure and the potential challenges and opportunities it presented.
 
 
-## My Role
+## My role
 
 As an independent service design consultant, I collaborated with a team comprising two researchers, a policy owner, and a program manager. My role involved on-site work and conducting interviews with system users nationwide, following a structured discovery plan.
 
 
-## Process
+## Initial assessment
 
-Initial Assessment
-
-Upon joining the project, I spent time understanding the agency's ecosystem, identifying key stakeholders and actors, and comprehending their objectives. It soon became clear that a deeper dive into the user base was necessary. This involved:
+Once onboarded to the project, I spent time understanding the agency's ecosystem, identifying key stakeholders and actors, and comprehending their objectives. It soon became clear that a deeper dive into the user base was necessary. This involved:
 
 - Understanding the perspective of those being regulated
 - Gaining insights from managers and officers executing regulatory tasks
 - Mapping the complete flow of regulatory activities, from registration to enforcement.
 
 
-## Organizational Research
+## Organizational research
 
-To gather employee feedback on actual operational procedures, I created a large "tube-map" diagram of the organization's processes. This was displayed as a wall chart in various cafeterias, ensuring visibility to a significant portion of the workforce. Accompanying the chart were Sharpie pens, post-it notes, a bucket of chocolates, and sweets, with the incentive that providing feedback entitled employees to a treat. This approach yielded a wealth of annotated maps and candid comments, contrasting management's description of processes with the reality experienced by employees.
+To gather employee feedback on actual operational procedures, I created a large "tube-map" diagram of the organization's processes. This was displayed as a wall chart in cafeterias across the organisation's estate, ensuring visibility to a significant portion of the workforce. 
+
+Accompanying the chart were Sharpie pens, post-it notes, a bucket of chocolates, and sweeties, with the incentive that providing feedback entitled employees to a treat. 
+
+This approach yielded a wealth of annotated maps and candid comments, contrasting management's description of processes with the reality experienced by employees.
 
 
-## Analysis and Recommendations
+## Analysis and recommendations
 
-My team and I analyzed the collected data, leading to a report that challenged the initial brief of implementing Microsoft Dynamics. Instead, we suggested a structural review of the organization, focusing on the inefficiencies arising from the gaps between departments that, despite being independent, were functionally interdependent.
-Results
+My team and I analysed the collected data, leading to a report that challenged the initial brief of implementing Microsoft Dynamics. Instead, I suggested a structural review of the organization, focusing on the inefficiencies arising from the gaps between departments that, despite being independent, were functionally interdependent.
 
-The report initially puzzled our primary contact in the organization, as it contested the original plan. However, the robustness of the research findings made them hard to dispute. As the report circulated among the leadership team, it gained acceptance, and our contact received commendation for the insights brought to light.
 
-This case study underscores the importance of primary user research in service design, demonstrating how innovative research tools can reveal crucial insights that lead to more effective and efficient organizational strategies.
+## Results
+
+The report initially puzzled my primary contact in the organization, as it challenged the original plan. However, the robustness of the research findings made them hard to dispute. As the report circulated among the leadership team, it gained acceptance, and our contact received commendation for the insights brought to light.
+
+This case study underscores the importance of primary user research in service design, demonstrating how individual designers can create innovative research tools that can reveal unexpected insights leading to more effective and efficient organizational strategies.
 
 
 
