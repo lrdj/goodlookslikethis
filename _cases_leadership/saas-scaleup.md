@@ -28,7 +28,7 @@ bXXXodyclass: cases
 
 My client in Barcelona was scaling up and chasing their "C" round of funding. The founders had stepped aside, taking chairmanship and R&D roles after recruiting a senior industry person to fill the CEO role.
 
-As part of this setup, the leadership was 100% focused on growth, especially as measured in ARR. At this stage the original magic of the product was still alive at the company, but the new leaders recruited a c-suite, a cadre of VPs etc. with the intention of becoming a big-boy company, winning round three of funding, and eventually going for IPO.
+As part of this setup, the leadership was 100% focused on growth, especially as measured in ARR. At this stage the original magic of the product was still alive at the company, but the new leaders recruited a c-suite, a cadre of VPs etc. with the intention of becoming a 'big-boy' company, winning round three of funding, and eventually going for IPO.
 
 In the midst of this, a CPO was hired and they recruited a full-fat, a-list team to drive the product to the next level. I was part of that team.
 
@@ -57,7 +57,7 @@ As Director of Service Design, I was tasked with creating a plan that would prov
 
 After commissioning a map of how the different teams aligned (or didn't) and developing an understanding of how the inputs and outputs passed between the different groups with what outcomes, I set up short strategic design sprints with each team and created a series of blueprints for how the organisation could succeed.
 
-The first team I worked with was the design research unit. Over the course of five, intensive days, I took them through my transformation process:
+The first team I worked with was the design research unit. Over the course of three, intensive days, I took them through my process:
 
 **1. Setting foundations for creativity** 
 Awareness, warm-ups, creative and lateral thinking exercises, establishing emotional safety.
