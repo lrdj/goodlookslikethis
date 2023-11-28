@@ -1,6 +1,6 @@
 ---
 layout: 2023/case
-title: Helping a regulatory agency optimise their workflow
+title: Enhancing workflow efficiency in a regulatory agency
 
 subtitle: >
   Leadership was set on storing their workflows on a new Microsoft Dynamics platform, but they had not mapped the journeys of the different colleagues in the organisation and were unaware of the challenges and opportunites created by their structure.
@@ -29,59 +29,83 @@ tags:
 
 ---
 
+## Introduction
+
+This case study highlights the significance of primary user research in service design, showcasing the effective use of a novel research tool in a project undertaken for a regulatory agency. The agency aimed to optimize its workflow by implementing a new system on Microsoft Dynamics, yet lacked insight into the varying experiences and challenges of its staff.
+
 ## The Challenge
 
-A key part of delivering on that commitment included the development of the Properties in Care Asset Management System (PiCAMS), which was designed to provide a single live digital system to link, manage and access data from sites provided by a wide variety of surveys and tools governed by a number of new, or updated policies and processes.
-
-The digital leader coordinating that work found herself in a situation where things were moving increasingly fast, but she didn't feel she had enough information to feel comfortable her decisions where the best option.
+The agency's leadership focused on improving operational efficiency. The initial request involved mapping the processes of different business units and integrating them into Microsoft Dynamics for workflow management. However, this approach overlooked the nuances of the organization's structure and the potential challenges and opportunities it presented.
 
 
-## What I did
+## My Role
 
-I was retained directly by her as a consultant and spend a short amount of time working with this leader and her teams to assess the situation.
-
-Our work together focussed on some of her key issues:
-
-- Designs for the information architecture, and the front end of the new information management toolset where being produced by her developers. This was not an ideal situation, but pragmatically, she had needed to show progress, and this is what was possible
-- Integration of certain specific technical features into the front-end experience were presenting challenges. It was not clear to her that for all the dev effort involved, these features were necessary, or providing measurable value to end users
-- While this leader was both trained and experienced in agile delivery, she wanted a second opinion regarding her plan and the definition of her team's outputs
+As an independent service design consultant, I collaborated with a team comprising two researchers, a policy owner, and a program manager. My role involved on-site work and conducting interviews with system users nationwide, following a structured discovery plan.
 
 
-![](/i/cases/landregulator/L1-all-notes.png
+## Process
 
-![](/i/cases/landregulator/000-titleslide.png
+Initial Assessment
 
-![](/i/cases/landregulator/010-co-design-intro-statement.png
+Upon joining the project, I spent time understanding the agency's ecosystem, identifying key stakeholders and actors, and comprehending their objectives. It soon became clear that a deeper dive into the user base was necessary. This involved:
 
-![](/i/cases/landregulator/020-from-this-to-this.png
+- Understanding the perspective of those being regulated
+- Gaining insights from managers and officers executing regulatory tasks
+- Mapping the complete flow of regulatory activities, from registration to enforcement.
 
-![](/i/cases/landregulator/030-team-UR-SD-BA.png
 
-![](/i/cases/landregulator/040-primary-research.png
+## Organizational Research
 
-![](/i/cases/landregulator/050-notepad.png
+To gather employee feedback on actual operational procedures, I created a large "tube-map" diagram of the organization's processes. This was displayed as a wall chart in various cafeterias, ensuring visibility to a significant portion of the workforce. Accompanying the chart were Sharpie pens, post-it notes, a bucket of chocolates, and sweets, with the incentive that providing feedback entitled employees to a treat. This approach yielded a wealth of annotated maps and candid comments, contrasting management's description of processes with the reality experienced by employees.
 
-![](/i/cases/landregulator/055-whatsintheecosystem.png
 
-![](/i/cases/landregulator/060-probe-tubemap.png
+## Analysis and Recommendations
 
-![](/i/cases/landregulator/070-ishikaya.png
+My team and I analyzed the collected data, leading to a report that challenged the initial brief of implementing Microsoft Dynamics. Instead, we suggested a structural review of the organization, focusing on the inefficiencies arising from the gaps between departments that, despite being independent, were functionally interdependent.
+Results
 
-![](/i/cases/landregulator/080-HMW-DART.png
+The report initially puzzled our primary contact in the organization, as it contested the original plan. However, the robustness of the research findings made them hard to dispute. As the report circulated among the leadership team, it gained acceptance, and our contact received commendation for the insights brought to light.
 
-![](/i/cases/landregulator/090-needs-matrix.png
+This case study underscores the importance of primary user research in service design, demonstrating how innovative research tools can reveal crucial insights that lead to more effective and efficient organizational strategies.
 
-![](/i/cases/landregulator/100-opportunities.png
 
-![](/i/cases/landregulator/999-golden-circle.png
 
-![](/i/cases/landregulator/L1-all-notes.png
 
-![](/i/cases/landregulator/L1-all.png
+![](/i/cases/landregulator/L1-all-notes.png)
 
-![](/i/cases/landregulator/sam-fleming.mov
+![](/i/cases/landregulator/000-titleslide.png)
 
-![](/i/cases/landregulator/tubemap.mov
+![](/i/cases/landregulator/010-co-design-intro-statement.png)
+
+![](/i/cases/landregulator/020-from-this-to-this.png)
+
+![](/i/cases/landregulator/030-team-UR-SD-BA.png)
+
+![](/i/cases/landregulator/040-primary-research.png)
+
+![](/i/cases/landregulator/050-notepad.png)
+
+![](/i/cases/landregulator/055-whatsintheecosystem.png)
+
+![](/i/cases/landregulator/060-probe-tubemap.png)
+
+![](/i/cases/landregulator/070-ishikaya.png)
+
+![](/i/cases/landregulator/080-HMW-DART.png)
+
+![](/i/cases/landregulator/090-needs-matrix.png)
+
+![](/i/cases/landregulator/100-opportunities.png)
+
+![](/i/cases/landregulator/999-golden-circle.png)
+
+![](/i/cases/landregulator/L1-all-notes.png)
+
+![](/i/cases/landregulator/L1-all.png)
+
+![](/i/cases/landregulator/sam-fleming.mov)
+
+![](/i/cases/landregulator/tubemap.mov)
 
 
 
