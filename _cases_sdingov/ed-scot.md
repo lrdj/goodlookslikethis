@@ -3,7 +3,7 @@ layout: 2023/case
 title: Education Scotland professional learning discovery
 
 subtitle: >
-  Would transforming their "Professional Learning" lifecycle improve relationships with educators? This eight-week GDS-format discovery project aimed to de-risk those assumptions and surface unmet user needs.
+  Would transforming the agency's "Professional Learning" lifecycle improve relationships with educators? This eight-week GDS-format discovery project aimed to de-risk those assumptions and surface unmet user needs.
 
 index_image: "/i/cases/edscot/crazy-8s.jpg"
 hero_image: "/i/cases/edscot/Story-4.jpg"
