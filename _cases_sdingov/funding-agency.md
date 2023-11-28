@@ -24,7 +24,7 @@ tags:
 
 ---
 
-I understand that the book is [the strategy is delivery](https://public.digital/publications), and that was great back when we were building agile digital delivery in a world stuck in waterfall, but sometimes, the delivery just won't work until the policy is right.
+I understand that the book is [the strategy is delivery](https://public.digital/publications), and that was great back when we were stuck in waterfall, but sometimes, the delivery just won't work until the policy is right.
 
 
 ## The Challenge
