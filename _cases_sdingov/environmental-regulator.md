@@ -32,7 +32,7 @@ tags:
 
 ## The challenge
 
-The agency's leadership focused on improving operational efficiency. The initial request involved mapping the processes of different business units and integrating them into Microsoft Dynamics for workflow management. However, this approach overlooked the nuances of the organization's structure and the potential challenges and opportunities it presented.
+The agency's leadership was focused on improving operational efficiency. Their initial request involved mapping the processes of different business units and integrating them into Microsoft Dynamics for workflow management. This approach overlooked the nuances of the organization's structure and the potential challenges and opportunities it presented.
 
 <img src="/i/cases/landregulator/L1-all-notes.jpg" alt="Level 1 blueprint of the organisation's service."/>
 
@@ -51,7 +51,7 @@ My role involved on-site work and conducting interviews with system users nation
 
 ## Initial assessment
 
-Once onboarded to the project, I spent time understanding the agency's ecosystem, identifying key stakeholders and actors, and comprehending their objectives. It soon became clear that a deeper dive into the user base was necessary.
+Once on-boarded to the project, I spent time understanding the agency's ecosystem, identifying key stakeholders and actors, and comprehending their objectives. It soon became clear that a deeper dive into the user base was necessary.
 
 <figure style="display:flex;">
   <img style="width:48%;" src="/i/cases/landregulator/040-primary-research.jpg" alt="Desk research"/>

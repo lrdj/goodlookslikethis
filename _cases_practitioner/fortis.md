@@ -39,7 +39,7 @@ Working closely with the managing director, I converted the Fortis brand values 
 
 I was commissioned as an independent contractor to set up a UX team, research the service and design the service as part of the Agile software development function.
 
-My UX research resulted in a product that was not only game-changing but overtook its nearest competitor in its first three months of operation.
+My primary research with both customers and back-stage actors, as well as my establishing of customer journey mapping as a practise, resulted in a product that was not only game-changing but overtook its nearest competitor in its first three months of operation.
 
 ## Success metrics include:
 - Scored 9.5 out of 10 in “Which”, their highest rating ever
