@@ -1,7 +1,7 @@
 ---
 layout: 2023/post
 title: "Vodafone Exchange (Agora Betavine prototype)"
-subtitle: "Developing a brand for a London vineyard with social purpose"
+subtitle: "Research and development at Vodafone Group"
 
 intro: >
   Dug did the ethnography, concept development, service design and prototyping in partnership with Vodafone R&amp;D teams in London and in Romania.
