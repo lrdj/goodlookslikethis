@@ -6,7 +6,8 @@ subtitle: "UI translation of exchange app for the Egypt market pilot."
 intro: >
   Dug did the ethnography, concept development, service design and prototyping in partnership with Vodafone R&amp;D teams in London and in Spain.
 
-hero_image_alt: "No alt content yet"
+hero_image_alt: "Agora was launched as a pilot in Egypt and Romania. The Agora UI was translated and the design modified to make localisation quicker. The service allows users to agree the value of given items allowing these to act as a currency for a transaction."
+
 hero_image: /i/agora_UI_arabic.jpg
 
 tags:
