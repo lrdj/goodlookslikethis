@@ -25,6 +25,24 @@ bodyclass: "cases"
 <p style="padding-top:0.75em;">
 I was recently interviewed about my leadership practice (questions link to lower down on this page).</p>
 
+
+
+{% if page.path contains "_cases_leadership/" %}
+<aside class="callOut">
+  <h3>Helping teams thrive:</h3>
+  <ul>
+  {% for role in site.data.roles %}
+      <li><a href="#{{- role.idx -}}">&#x2192; {{ role.anon }}</a>&nbsp;{%- if role.uri != "" -%}<a href="/cases/leadership/{{ role.uri }}" title="Read the case study"> |&nbsp;read case&nbsp;<img src="/i/case.svg" alt="Read case" style="width:12px;vertical-align: baseline;"></a>{%- endif -%}</li>
+      <!-- role.anon | truncate: 30 -->
+  {% endfor %}
+  </ul>
+</aside>
+{% endif %}
+
+
+
+
+
 <ul class="questionBlock">
   <li><strong>Q:</strong> <a href="#Q1">Dug, what are five things that matter?</a></li>
   <li><strong>Q:</strong> <a href="#Q2">What are the scale and scope of the teams that you’ve grown and managed? What are some of the challenges you faced?</a></li>
@@ -35,17 +53,9 @@ I was recently interviewed about my leadership practice (questions link to lower
  I thought the questions were helpful, and writing the answers helped me reflect on my practice. I've included some of them here as a starter-for-ten for customers wanting to know more about what I do. I'll add the questions not listed here to a blog post for further discussion.</p>
 
 
-{% if page.path contains "_cases_leadership/" %}
-<aside class="callOut">
-  <h3>My experiences helping teams:</h3>
-  <ul>
-  {% for role in site.data.roles %}
-      <li><a href="#{{- role.idx -}}">&#x2192; {{ role.anon }}</a>&nbsp;{%- if role.uri != "" -%}<a href="/cases/leadership/{{ role.uri }}"><img src="/i/case.svg" alt="Read case" style="width:12px;vertical-align: baseline;"></a>{%- endif -%}</li>
-      <!-- role.anon | truncate: 30 -->
-  {% endfor %}
-  </ul>
-</aside>
-{% endif %}
+
+
+
 
 
 <h2 class="emphasisBlock" id="Q1">
