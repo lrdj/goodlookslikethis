@@ -15,6 +15,7 @@ hero_image_caption: >
   Design a Data-Share (wizard concept). Prototype flows for all user-types.
 
 tags: 
+  - systems
   - gov.uk
   - remote work
   - data
@@ -37,12 +38,20 @@ I was tasked with exploring how this proposition of a cross-government service m
 
 The service would would provide a single, agreed process to establish data sharing arrangements, guided workflow, ability to collaborate across organisational boundaries, standardised documentation, sign-off functionality and digital memorandums of understanding, in a secure and access-controlled web environment.
 
-The aspiration was that it would become quicker and easier to establish safe, responsible and legal data sharing arrangements, enabling the sharing of vital information to solve problems and deliver services at pace.
+## The pivot
+
+The customer's aspiration was that this centralised system would make it quicker and easier to establish safe, responsible and legal data sharing arrangements.
+
+In theory, this could enable the sharing of vital information to solve problems and deliver services at pace, but I wasn't so sure. I had delivered many similar systems in similar environments and in my experience, the top-down approach didn't work. The services needed to be an enabler, but would be driven by a broad church of specialist communities in the world of data. Some of these experts might be on staff, some might be volunteers in the NHS or local government. The service needed to be a platform for wider collaboration and negotiation.
+
+So instead of validating their assumption, I pivoted to a search for _actual_ user needs, and focused on taking an approach more inline with points 1 to 4 of the [GDS service standard](https://www.gov.uk/service-manual/service-standard).
+
+As we were full-steam ahead towards an Alpha assessment, I couldn't sell another discovery, so decided to create research stimulus with the prototype, and let that get us closer to really understanding this complex system, and above all identifying genuine, unmet, user needs.
 
 
 ## The design: Purpose of prototype
 
-This build was created in order to test design speculations during an Alpha phase of service design. 
+The system I sketched out and built (using the alphagov proto kit as a platform) was created in order to test design speculations during an Alpha phase of service design. 
 
 The speculations were ideated after reviewing discovery phase outputs and performing initial rounds of user research in the current phase. The "what if" design speculations build on the central "How might we" user need which is:
 
