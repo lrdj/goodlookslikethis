@@ -36,15 +36,15 @@ A significant impediment to data sharing in government is that it is slow and di
 
 I was tasked with exploring how this proposition of a cross-government service might work. 
 
-The service would would provide a single, agreed process to establish data sharing arrangements, guided workflow, ability to collaborate across organisational boundaries, standardised documentation, sign-off functionality and digital memorandums of understanding, in a secure and access-controlled web environment.
+The service would provide a single, agreed process to establish data sharing arrangements, a guided workflow, ability to collaborate across organisational boundaries, standardised documentation, sign-off functionality, and digital memorandums of understanding, in a secure and access-controlled web environment.
 
 ## The pivot
 
-The customer's aspiration was that this centralised system would make it quicker and easier to establish safe, responsible and legal data sharing arrangements.
+The customer's aspiration was that this centralised system would make it quicker and easier to establish safe, responsible and legal data sharing arrangements. In theory, this could enable the sharing of vital information to solve problems and deliver services at pace.
 
-In theory, this could enable the sharing of vital information to solve problems and deliver services at pace, but I wasn't so sure. 
+I wasn't so sure. 
 
-I had delivered many similar systems in similar environments and in my experience, the top-down approach didn't work. The services needed to be an enabler, but would be driven by a broad church of specialist communities in the world of data. Some of these experts might be on staff, some might be volunteers in the NHS or local government. The service needed to be a platform for wider collaboration and negotiation.
+I had delivered many similar systems in similar environments and in my experience, the top-down approach didn't work. The services needed to be an enabler, but would ideally be driven by a broad church of specialist communities in the world of data. Some of these experts might be on staff, some might be volunteers in the NHS or local government. The service needed to be a platform for wider collaboration and negotiation.
 
 Validating risky assumptions is of course important, but it wasn't politically appropriate at the stage the program was at, and I didn't have permission to do that explicitly. 
 
@@ -76,6 +76,6 @@ The prototype acts as stimulus for user research. It was designed to test the fo
 
 The flow is designed to test the actions of acquirers, suppliers, and subject matter experts, as they move from finding data, applying for a data share, negotiating the agreement, and supplying the data. 
 
-The diagram above shows the data flows supported in the current version of the prototype. As testing has continued this flow has been iterated. The research is currently ongoing, and the team is acting on assessor recommendations and is well under way to pass their assessment.
+The diagram above shows the journey flows supported in the current version of the prototype. As testing has continued, this flow has been iterated. The research is currently ongoing, and the team is acting on assessor recommendations and is well under way to pass their assessment.
 
 
