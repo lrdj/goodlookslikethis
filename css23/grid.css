@@ -6,7 +6,8 @@ Base styles for template - WIP
 
 :root {
     --wrapper-max-width: 1200px;
-    --wrapper-side-full: 16.5%;
+    --wrapper-side-full: 12.5%;
+/*  --wrapper-side-full: 16.5%; */
 /*  --wrapper-side-small: 16dp; */
     --wrapper-side-small: 1em;
 
@@ -22,7 +23,8 @@ Base styles for template - WIP
 
 header {
     width: auto;
-    height: 62px;
+/*  height: 62px; */
+    height: 50px;
     background-color: var(--mc-lightgray);
     display: flex;
     justify-content: space-between;
@@ -35,7 +37,7 @@ header {
 @media (min-width: 769px) {
     header {
         width: auto;
-        height: 62px;
+        height: 51px;
         background-color: var(--mc-lightgray);
         display: flex;
         justify-content: space-between;
@@ -43,7 +45,7 @@ header {
         padding: 0 var(--wrapper-side-full);
     }
     /* dug logo and title position */
-    #identity img:first-child { height: 42px; margin: 0 1em 0 0;}
+    #identity img:first-child { margin: 0 1em 0 0;}
     #glttBanner {display:inline-block;height: 20px;padding-left:4%;}
 }
 
@@ -51,7 +53,7 @@ header {
 #identity, #headernavLinks { display: flex; align-items: center; }
 
 /* mobile (default) */
-#identity img:first-child { height: 42px; margin: 0 1em 0 0;}
+#identity img:first-child { height: 40px; margin: 0 1em 0 0;}
 
 /* case buttons */
 #headernavLinks { padding: 0.4em 0 0.4em 0; }
@@ -67,7 +69,7 @@ main { margin:0 0 2em 0; }
 main img { width:100%; }
 
 nav.first {
-    border-top:8px solid var(--mc-lightblue);
+    border-top:10px solid var(--mc-lightblue);
     padding:0;
     margin:0 var(--wrapper-side-small) 0 var(--wrapper-side-small);
 }
@@ -82,7 +84,7 @@ nav.first {
         padding:0 var(--wrapper-side-full) 0 var(--wrapper-side-full);
     } 
     nav.first {
-        border-top:8px solid var(--mc-lightblue);
+        border-top:10px solid var(--mc-lightblue);
         padding:0;
         margin:0 var(--wrapper-side-full) 0 var(--wrapper-side-full);
     }

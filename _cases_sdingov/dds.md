@@ -42,11 +42,15 @@ The service would would provide a single, agreed process to establish data shari
 
 The customer's aspiration was that this centralised system would make it quicker and easier to establish safe, responsible and legal data sharing arrangements.
 
-In theory, this could enable the sharing of vital information to solve problems and deliver services at pace, but I wasn't so sure. I had delivered many similar systems in similar environments and in my experience, the top-down approach didn't work. The services needed to be an enabler, but would be driven by a broad church of specialist communities in the world of data. Some of these experts might be on staff, some might be volunteers in the NHS or local government. The service needed to be a platform for wider collaboration and negotiation.
+In theory, this could enable the sharing of vital information to solve problems and deliver services at pace, but I wasn't so sure. 
 
-So instead of validating their assumption, I pivoted to a search for _actual_ user needs, and focused on taking an approach more inline with points 1 to 4 of the [GDS service standard](https://www.gov.uk/service-manual/service-standard).
+I had delivered many similar systems in similar environments and in my experience, the top-down approach didn't work. The services needed to be an enabler, but would be driven by a broad church of specialist communities in the world of data. Some of these experts might be on staff, some might be volunteers in the NHS or local government. The service needed to be a platform for wider collaboration and negotiation.
 
-As we were full-steam ahead towards an Alpha assessment, I couldn't sell another discovery, so decided to create research stimulus with the prototype, and let that get us closer to really understanding this complex system, and above all identifying genuine, unmet, user needs.
+Validating risky assumptions is of course important, but it wasn't politically appropriate at the stage the program was at, and I didn't have permission to do that explicitly. 
+
+Instead, I suggested a pivot to a search for _actual_ user needs, and focused on taking an approach more inline with points 1 to 4 of the [GDS service standard](https://www.gov.uk/service-manual/service-standard).
+
+As we were full-steam ahead towards an Alpha assessment, I couldn't sell another discovery, so decided to create research stimulus with the prototype, and let that get us closer to really understanding this complex system, and above all identifying genuine, unmet, user needs. This was a compromise, but one where everybody would win in the medium term.
 
 
 ## The design: Purpose of prototype
@@ -70,7 +74,8 @@ The prototype acts as stimulus for user research. It was designed to test the fo
 
 ## Users and journey structure
 
-The flow is designed to test the actions of acquirers, suppliers, and subject matter experts, as they move from finding data, applying for a data share, negotiating the agreement, and supplying the data. The diagram above shows the data flows supported in the current version of the prototype.
+The flow is designed to test the actions of acquirers, suppliers, and subject matter experts, as they move from finding data, applying for a data share, negotiating the agreement, and supplying the data. 
 
-The research is currently ongoing.
+The diagram above shows the data flows supported in the current version of the prototype. As testing has continued this flow has been iterated. The research is currently ongoing, and the team is acting on assessor recommendations and is well under way to pass their assessment.
+
 
