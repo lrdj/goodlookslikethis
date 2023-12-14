@@ -32,7 +32,9 @@ tags:
 
 ## The challenge
 
-The agency's leadership was focused on improving operational efficiency. Their initial request involved mapping the processes of different business units and integrating them into Microsoft Dynamics for workflow management. This approach overlooked the nuances of the organization's structure and the potential challenges and opportunities it presented.
+The agency's leadership was focused on improving operational efficiency. 
+
+Their initial request involved mapping the processes of different business units and integrating them into Microsoft Dynamics for workflow management. This approach overlooked the nuances of the organization's structure and the potential challenges and opportunities it presented.
 
 <img src="/i/cases/landregulator/L1-all-notes.jpg" alt="Level 1 blueprint of the organisation's service."/>
 
@@ -41,28 +43,29 @@ The agency's leadership was focused on improving operational efficiency. Their i
 
 As an independent service design consultant, I collaborated with a team comprising two researchers, a policy owner, and a program manager. 
 
-<figure style="display:flex;">
-  <img style="width:48%;" src="/i/cases/landregulator/080-HMW-DART.jpg" alt="Using the DART framwork as workshop stimulus"/>
-  <img style="width:48%;border-left:10px solid white;" src="/i/cases/landregulator/100-opportunities.jpg" alt="Brainstorming opportunities using identified problems as stimulus"/>
-</figure>
-
 My role involved on-site work and conducting interviews with system users nationwide, following a structured discovery plan.
-
-
-## Initial assessment
-
-Once on-boarded to the project, I spent time understanding the agency's ecosystem, identifying key stakeholders and actors, and comprehending their objectives. It soon became clear that a deeper dive into the user base was necessary.
 
 <figure style="display:flex;">
   <img style="width:48%;" src="/i/cases/landregulator/040-primary-research.jpg" alt="Desk research"/>
   <img style="width:48%;border-left:10px solid white;" src="/i/cases/landregulator/055-whatsintheecosystem.jpg" alt="User research"/>
 </figure>
 
+
+## Initial assessment
+
+Once on-boarded to the project, I spent time understanding the agency's ecosystem, identifying key stakeholders and actors, and comprehending their objectives. It soon became clear that a deeper dive into the user base was necessary.
+
 This involved:
 
 - Understanding the perspective of those being regulated
 - Gaining insights from managers and officers executing regulatory tasks
 - Mapping the complete flow of regulatory activities, from registration to enforcement.
+
+
+<figure style="display:flex;">
+  <img style="width:48%;" src="/i/cases/landregulator/080-HMW-DART.jpg" alt="Using the DART framwork as workshop stimulus"/>
+  <img style="width:48%;border-left:10px solid white;" src="/i/cases/landregulator/100-opportunities.jpg" alt="Brainstorming opportunities using identified problems as stimulus"/>
+</figure>
 
 
 ## Organizational research
@@ -90,7 +93,13 @@ Instead, I suggested a structural review of the organization, focusing on the in
 
 ## Results
 
-My report initially puzzled my primary contact in the organization, as it challenged their original plan. However, the robustness of the research findings made them hard to dispute, and as the report circulated among the leadership team, it gained acceptance, and my customer received commendation for the insights brought to light.
+My report initially surprised my primary contact in the organization, as it challenged their original plan. 
 
-This case study underscores the importance of primary user research in service design, demonstrating how individual designers can create innovative research tools that can reveal unexpected insights leading to more effective and efficient organizational strategies.
+However, the robustness of the research findings ultimately made it empowering for them. They called out the **expression of the organisational purpose in a 'golden circle'** as being particularly relevant, and as the report circulated among the leadership team, it gained acceptance, and my customer received commendation for the insights brought to light.
+
+This case study underscores the importance of establishing strategic foundations with primary user research. It also demonstrates how individual design practitioners can leverage their experience to dynamically pivot processes and tools, creating entirely new tools on the fly when appropriate.
+
+With the right leadership, bringing these design skills into organisations leads to more effective and efficient organizational strategies.
+
+
 

@@ -9,7 +9,7 @@ Styles to format the exceptions on the LT index page
 
 /* Mobile default */
 #leadershipIndex .callOut { padding:0; font-size: small; }
-#leadershipIndex .callOut h3 { margin:0; padding: 0.7em 1.5em 0.7em 1.5em; color: #666; background-color: var(--mc-lightblue); font-size: x-small; border-bottom:4px solid white; text-transform: uppercase; font-weight: bold; }
+#leadershipIndex .callOut h3 { margin:0; padding: 0.7em 1.5em 0.7em 1.5em; color: #333; background-color: var(--mc-lightblue); font-size: small; border-bottom:4px solid white; text-transform: uppercase; font-weight: bold; }
 #leadershipIndex .callOut ul { list-style-type: none;padding: 0;margin: 0; }
 #leadershipIndex .callOut li { background-color: var(--mc-lightgray); padding: 0.6em 1em 0.6em 1em; margin:0; border-bottom:1px solid white; }
 #leadershipIndex .callOut li a { color:#000; text-decoration: none;}

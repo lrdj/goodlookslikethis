@@ -29,7 +29,7 @@ I was recently interviewed about my leadership practice (questions link to lower
 
 {% if page.path contains "_cases_leadership/" %}
 <aside class="callOut">
-  <h3>Helping teams thrive:</h3>
+  <h3>Leadership case studies:</h3>
   <ul>
   {% for role in site.data.roles %}
       <li><a href="#{{- role.idx -}}">&#x2192; {{ role.anon }}</a>&nbsp;{%- if role.uri != "" -%}<a href="/cases/leadership/{{ role.uri }}" title="Read the case study"> |&nbsp;read case&nbsp;<img src="/i/case.svg" alt="Read case" style="width:12px;vertical-align: baseline;"></a>{%- endif -%}</li>
