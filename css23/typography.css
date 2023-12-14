@@ -142,6 +142,9 @@ hr { border: none; background: transparent;border-top: 2px solid var(--mc-lightb
 }
 
 
+strong { font-weight: 600; }
+
+
 /* navigation and links */
 
 #casesNav {}
