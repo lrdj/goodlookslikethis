@@ -3,7 +3,7 @@ layout: 2023/case
 title: Cabinet Office data sharing service discovery and service assessment
 
 subtitle: >
-  A lack of alignment between organisations in how they share data, results in different approaches to sorting out technical, legal, and ethical compliance. It's hard to share data and it takes forever...
+  A lack of alignment between how organisations share data means they typically have different approaches to sorting out technical, legal, and ethical issues. It's hard to share data and it takes forever to set up a formal agreement to share data...
 
 index_image: "/i/cases/dds/CO-design-a-data-share.jpg"
 hero_image: "/i/cases/dds/CO-design-a-data-share.jpg"
@@ -27,16 +27,15 @@ tags:
 
 ## Background context
 
-The customer believed this alignment could be improved with a “unified” way to facilitate voluntary, trusted, and responsible avenues for cross-government data sharing. 
-
-It is slow and difficult to establish a data sharing arrangement because of misalignments and inconsistencies in processes, governance and documentation between organisations.
+The customer believed this lack of alignment could be overcome with a “unified” way to facilitate voluntary, trusted, and responsible avenues for cross-government data sharing. 
 
 
 ## My role
 
 I joined the project as an independent consultant, acting as an interaction designer partnered with a user researcher and collaborating with a service designer who acted across three sub-services in the data space. I was tasked with exploring how this proposition of a cross-government service might work. 
 
-The service would provide a single, agreed process to establish data sharing arrangements, a guided workflow, ability to collaborate across organisational boundaries, standardised documentation, sign-off functionality, and digital memorandums of understanding, in a secure and access-controlled web environment.
+The core assumption was that the service would provide a single, agreed process to establish data sharing arrangements, a guided workflow, ability to collaborate across organisational boundaries, standardised documentation, sign-off functionality, and digital memorandums of understanding, in a secure and access-controlled web environment.
+
 
 ## The pivot
 
@@ -44,18 +43,18 @@ The customer's aspiration was that this centralised system would make it quicker
 
 I wasn't so sure. 
 
-I had delivered many similar systems in similar environments and **in my experience, the top-down approach didn't work.** The services needed to be an enabler, but would ideally be driven by a broad church of specialist communities in the world of data. Some of these experts might be on staff, some might be volunteers in the NHS or local government. The service needed to be a platform for wider collaboration and negotiation.
+I had delivered many similar systems in similar environments and **in my experience, the top-down approach didn't work.** The services needed to be enablers, and would ideally be driven by a broad church of specialist communities in the world of data. Some of these experts might be on staff, some might be volunteers in the NHS or local government, some experts might even live outside the public sector umbrella. The service needed to be a platform for wider collaboration and negotiation.
 
-Validating risky assumptions is of course important, but it wasn't politically appropriate at the stage the program was at, and I didn't have permission to do that explicitly. 
+Validating risky assumptions is of course important, but it wasn't politically appropriate at the stage the program was at, and I didn't have permission to do that explicitly.
 
 Instead, I suggested a pivot to a search for unmet user needs, and focused on taking an approach more inline with points 1 to 4 of the [GDS service standard](https://www.gov.uk/service-manual/service-standard).
 
-As we were full-steam ahead towards an Alpha assessment, I couldn't sell another discovery, so decided to create research stimulus with the prototype, and let that get us closer to really understanding this complex system, and above all identifying genuine, unmet, user needs. This was a compromise, but one where everybody would win in the medium term.
+As we were full-steam ahead towards an Alpha assessment, I couldn't sell another discovery, so decided to create research stimulus with this prototype, and let that get us closer to really understanding this complex system, and above all **identifying genuine, unmet, user needs.** This was a compromise, but one where everybody would win in the medium term.
 
 
 ## The design: Purpose of prototype
 
-The system I sketched out and built (using the alphagov proto kit as a platform) was created in order to test design speculations during an Alpha phase of service design. 
+The system I sketched out and built (using the alphagov prototype kit as a platform) was created in order to test design speculations during an Alpha phase of service design. 
 
 The speculations were ideated after reviewing discovery phase outputs and performing initial rounds of user research in the current phase. The "what if" design speculations build on the central "How might we" user need which is:
 
