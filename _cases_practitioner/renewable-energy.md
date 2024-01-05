@@ -3,7 +3,7 @@ layout: 2023/case
 title: "Helping an oil-and-gas giant align their retail business with their renewables transformation"
 
 subtitle: >
-  The oil and gas company did not know how to serve B2B e-mobility customers. They needed to learn how to serve these fleets, and how to monetise that relationship.
+  The oil and gas company did not know how to serve B2B e-mobility customers. They needed to learn what service would provide most value to these these fleets while monetising those relationships in a sustainable and ethiocal way.
 
 index_image: "/i/cases/renewables-e-mobility/story.jpg"
 hero_image: "/i/cases/renewables-e-mobility/story.jpg"
@@ -19,82 +19,69 @@ tags:
 
 ---
 
-- **Insights and opportunities** Led primary research with e-mobility workers in Paris, exposing that research to date had incorrectly analysed user needs, context of use, and behaviour patterns. Provided data for my stakeholders to challenge assumptions, and opportunities to pivot to better options.
-- **Strategic clarity** Took business stakeholders through assumptions mapping and testing. Mapped org structure and ownership of renewals transformation with them. Identified causes why business could not deliver a joint infrastructure and retail service proposition
-- **Benefits realisation** Gave evidence to my customer allowing her to pivot away from the higher risk option to focus on delivering a better solution which she piloted 6 months later. As a result, the business in on track for delivering e-mobility solutions in time for the Olympics.
+## Synopsis
+
+In Paris, a leading oil and gas company faced the challenge of aligning its retail business with a strategic shift towards renewable energy, particularly serving B2B e-mobility customers. Additional pressure and complexity was thrown in by the energy provider being in negotiations for a role as part of the 2024 Paris Olympics.
+
+This case study encapsulates the journey of discovering, strategising, and implementing a sustainable and profitable business model amidst the evolving landscape of energy consumption and distribution.
 
 
-## The business problem and user need
+## Key Milestones
+
+1. **Insights & Opportunities:** Conducted in-depth primary research among e-mobility workers in Paris (in French), debunking prevailing assumptions about user needs, behaviours, and contexts. This led to a strategic pivot, aligning more closely with actual stakeholder needs.
+2. **Strategic Clarity:** Facilitated assumption mapping and validation sessions with business stakeholders, clarifying organizational roles and pinpointing the misalignments preventing a cohesive infrastructure and retail service offering.
+3. **Benefits Realization:** Provided compelling evidence for a strategic pivot, leading to a successful pilot and setting the business on a trajectory to meet its e-mobility goals in time for a significant upcoming event, the Olympics.
+
 
 ![I needed to develop a plan that showed how the partners would collaborate.](/i/cases/renewables-e-mobility/plan.jpg)
 
-- Wider challenges: Overlapping and sometimes conflicting needs of Energy Transformation and Retail stakeholders (how might we move away from fossil fuels while retaining our retail revenue?)
-- Unclear governance, difficult to make progress (retail, transformation, network, corporate)
-- Pressure from French team to keep momentum and build on catapult in time for Olympics
-
-Our Operator Hub project objectives:
-
-- Learn how to serve these fleets
-- Learn how to make money
+<p class="imagecaption">
+  As is often the case with larger customers, I needed to deal with the overlapping and sometimes conflicting needs of stakeholders in different silos. Early on the project, I landed a plan to overcome these challenges and work as one team.
+</p>
 
 
-## Method / approach: Understanding the ecosystem people first
+## Business challenge and user need
+
+Faced with the complex task of maintaining the retail business' viability while transitioning from fossil fuels, my client struggled with unclear governance and overlapping stakeholder needs. The goal was to understand and effectively serve e-mobility fleets while discovering viable, ethical, and sustainable monetization strategies.
+
+
+## Methodology
+
+Dived deep into the ecosystem, studying the interplay between energy transformation, retail, and network forces. Through a series of site visits, contextual inquiries, and stakeholder workshops in Paris, I uncovered a complex stakeholder ecosystem and identified clear avenues for improvement.
 
 ![The service would become a component of a complex ecosystem](/i/cases/renewables-e-mobility/speculative-design.jpg)
 
-- What are the people doing?
-- Insights (what's going on)?
-- Forces at play?
-- Assets available to build a future with?
-- Opportunities (what could be improved)?
-
-I found a complex stakeholder ecosystem, intersecting Energy transformation, Retail, Network, and the France opco. Different forces acted on these groups and different needs pulled them, yet to succeed, the project needed them to work as one.
+<p class="imagecaption">
+  Understanding the ecosystem people first: What are the people doing? What insights can we discover (what's going on)? What forces are at play? What existing community assets are available to build a future with? What are the opportunities (what could be improved)?
+</p>
 
 
-## The design starting point
+## Design decisions
 
-Startup catapult had run a short pilot last year. 
-
-The project was characterised by loads of excitement but many untested assumptions around the business model. Energy transformation and Retail teams were building future plans on leadership opinions with little supporting data. In particular:
-- What was the likely user base of the service
-- Value-proposition, revenue sources and channels
-- How to balance our proposition with 3rd sector partners and French State 
+Pivoted from an initial retail-led proposition based on charging gig-economy workers to a more sustainable and inclusive model. The process involved rigorous site visits, user research, and assumptions mapping, leading to significant insights and alterations in our approach.
 
 
-## Design decision: Research
+![The assumptions mapping exercise uncovered a number of important untested assumptions](/i/cases/renewables-e-mobility/assumptions-map.jpg)
 
-- Make site visits in Paris 
-- Run contextual inquiry: In-car shadowing and on-street interviews, panel workshop
-
-![Planning user research](/i/cases/renewables-e-mobility/UR.jpg)
-
-My research uncovered important differences between leadership assumptions and observable reality. It improved the team's understanding of who our target users where, and what their needs were.
-
-- decision-insight: The drivers do not have the pattern we thought they did
-- decision-insight: The cars and scooters used by the companies do not have the constraints we thought they did (battery types, ownership contracts etc.)
-- Assumptions mapping with cross-silo stakeholders
+<p class="imagecaption">
+  The mapping exercise uncovered a number of important untested assumptions: Hub revenue to be driven by retail; 3rd sector not necessary beyond PR; Drivers needs are known
+</p>
 
 
-## Design decision: Assumptions mapping
+## Outcome
 
-![The mapping exercise uncovered a number of important untested assumptions](/i/cases/renewables-e-mobility/assumptions-map.jpg)
-
-The mapping exercise uncovered a number of important untested assumptions:
-- Hub revenue to be driven by retail
-- 3rd sector not necessary beyond PR
-- Drivers needs are known
-
-
-## The final output and result
+The final recommendation led to a pilot launch in central Paris and Roissy airport, demonstrating a successful alignment of the company's retail business with its renewable transformation goals.
 
 ![The final output and result](/i/cases/renewables-e-mobility/outcome.jpg)
 
-After synthesising findings, and sense-making with my colleagues, I decided to recommend that the org pivot away from a retail-lead proposition which depended on charging gig-economy workers. They did with a pilot launch in Paris city centre and Roissy airport hub launched later that year.
+<p class="imagecaption">
+  After synthesising findings, and sense-making with my colleagues, I decided to recommend that the org pivot away from a retail-lead proposition which depended on charging gig-economy workers. They did with a pilot launch in Paris city centre and Roissy airport hub launched later that year.
+</p>
 
 
 ## Feedback?
 
-My client thought this work was helpful and [gave me some feedback]({{ site.linkedinRecoms }}):
+My client thought this work was helpful and gave me some [very lovely feedback]({{ site.linkedinRecoms }}):
 
 >
 > Dug worked on an innovation initiative in my team 
@@ -103,5 +90,4 @@ My client thought this work was helpful and [gave me some feedback]({{ site.link
 > to how a proposition needed to evolve. 
 > Would not hesitate to hire him again.
 >
-
 
