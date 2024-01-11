@@ -58,6 +58,9 @@ Styles to create the image overlays in index items with backround on hover etc.
     background-color: #fff;
     transition: background-color 0.5s ease;
     overflow: hidden;
+    /* twiddles */
+    height: 100%;
+    box-sizing: border-box;
 }
 
 /* Desktop */
@@ -68,6 +71,9 @@ Styles to create the image overlays in index items with backround on hover etc.
         background-color: #fff;
         transition: background-color 0.5s ease;
         overflow: hidden;
+        /* twiddles */
+        height: 100%;
+        box-sizing: border-box;
     }
     .article-list.index-block li:first-child article {
         padding: 2em 0.75em 4em 2.5em; /* More space for first */
@@ -114,6 +120,8 @@ Styles to create the image overlays in index items with backround on hover etc.
     transition: all 0.5s ease;
     z-index: 1;
     background-image: var(--bg-image);
+    /* twiddles */
+    background-position: 50% 50%;
 }
 
 .article-list article:hover figure::before {
