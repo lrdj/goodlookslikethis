@@ -3,7 +3,7 @@ layout: 2023/case
 title: "Helping an oil-and-gas giant align their retail business with their renewables transformation"
 
 subtitle: >
-  The oil and gas company did not know how to serve B2B e-mobility customers. They needed to learn what service would provide most value to these these fleets while monetising those relationships in a sustainable and ethiocal way.
+  The oil and gas company did not know how to serve B2B e-mobility customers. They needed to learn what service would provide most value to these these fleets while monetising those relationships in a sustainable and ethical way.
 
 index_image: "/i/cases/renewables-e-mobility/story.jpg"
 hero_image: "/i/cases/renewables-e-mobility/story.jpg"
