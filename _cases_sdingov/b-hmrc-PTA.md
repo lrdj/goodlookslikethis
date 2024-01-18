@@ -58,6 +58,5 @@ With the vision successfully in place, I expressed the as-is/to-be gaps in a ser
 - Team coaching and knowledge transfer
 - Service blueprinting
 
-
-[^1]: I designed the Vision Canvas ([review longer article](https://goodlookslikethis.com/Vision-canvas-workshop-tool.html)) as an extension to the standard business model canvas (https://www.strategyzer.com/canvas/business-model-canvas) taking into account the different range of pressures and influences a service experiences in public sector. The canvas introduces a #oneTeamGov approach, planning for inclusion of policy constraints and identifying opportunities to share findings to help other organisations acting in the same ecosystem.
+[^1]: I designed the Vision Canvas ([review longer article](https://goodlookslikethis.com/Vision-canvas-workshop-tool.html)) as an extension to the standard [business model canvas](https://www.strategyzer.com/canvas/business-model-canvas) taking into account the different range of pressures and influences a service experiences in public sector. The canvas introduces a #oneTeamGov approach, planning for inclusion of policy constraints and identifying opportunities to share findings to help other organisations acting in the same ecosystem.
 
