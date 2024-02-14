@@ -3,12 +3,12 @@ layout: 2023/post
 title: "Thomas Wilson's very helpful accessibility list"
 
 subtitle: >
-  Debbie Levitt (See her profile at https://www.linkedin.com/in/debbielevitt/) suggested that Thomas post his list on Medium or something as inside the LinkedIn walled garden, content seems to disappear on the whim of an algorythm. So I figured I'd post it here. This URL isn't going anywhere:-)
+  Debbie Levitt suggested that Thomas post his list on Medium or something as inside the LinkedIn walled garden, content seems to disappear on the whim of an algorythm. So I figured I'd post it here. This URL isn't going anywhere:-)
 
 hero_image: /i/thomaswilsonprofile.jpg
 
 hero_image_alt: >
-  From Thomas' LinkedIn profile - Proud to be an innovation design director, human-centered service designer, strategist and researcher. I'm a manager of madness, storytelling service designer, discovery doer, dedicated design director, curiosity crusader, responsible AI advocate, innovation maven, UX geek, agent of behavioral change, bombast brand advocate, digital transformer, fearless foodie, pioneering pilgrim, pixel pusher, optimization optimist, validated venture designer, wayward wordsmith, and champion of human-centered design...
+  From Thomas' LinkedIn profile - I'm a manager of madness, storytelling service designer, discovery doer, dedicated design director, curiosity crusader, responsible AI advocate, innovation maven, UX geek, agent of behavioral change, bombast brand advocate, digital transformer, fearless foodie, pioneering pilgrim, pixel pusher, optimization optimist, validated venture designer, wayward wordsmith, and champion of human-centered design...
 
 intro: >
   So you want to design for Accessibility? Accessibility focuses on the access and benefits of your site, system, or application for everyone. It's an important part of design and should be considered <em>BEFORE</em> the development process.
@@ -32,13 +32,13 @@ tags:
 
 This accessibility link-farm is a great start!
 
-### Great LinkedIn post for design
+## Great LinkedIn post for design
 - Accessibility [Toolkits For Figma by Vitaly Friedman](https://www.figma.com/community/file/958837762255381692)
 
-### Free Courses on Accessibility and Forms, by Google
+## Free Courses on Accessibility and Forms, by Google
 - [Google Web Dev Learning](https://web.dev/learn)
 
-### Topics on Accessibility:
+## Topics on Accessibility:
 - [General Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 - [Autism](https://www.autismspeaks.org/)
 - [Colorblindness](https://www.color-blindness.com/)
@@ -54,7 +54,7 @@ This accessibility link-farm is a great start!
 - [Sustainability](https://www.sustainablewebdesign.org/)
 - [Touch Target Sizes](https://www.w3.org/WAI/WCAG21/Understanding/target-size.html)
 
-### Communication Technologies:
+## Communication Technologies:
 - Speech to Speech: Google Parrotron - [Link](https://blog.google/outreach-initiatives/accessibility/parrotron-new-research-project-helps-impaired-speech-be-understood/)
 - Voice to Text (Braille):
   - Dragon - [Link](https://www.nuance.com/dragon.html)
@@ -64,7 +64,7 @@ This accessibility link-farm is a great start!
 - Text to Emoji: Wemogee - [Link](https://www.wemogee.com/)
 - Movement to Speech (or Text/Braille): Lip Reading Translator, Sign Language Translator - [Link](https://www.signall.us/)
 
-### Assistive Technologies:
+## Assistive Technologies:
 - Smartphone Camera Translations, Money Detector, Text Reader, Environment Detector including Image to Text:
   - Google Translate - [Link](https://translate.google.com/)
   - Cash Assist - [Link](https://apps.apple.com/us/app/cash-reader-bill-identifier/id1344802905)
@@ -72,7 +72,7 @@ This accessibility link-farm is a great start!
   - Seeing AI - [Link](https://www.microsoft.com/en-us/ai/seeing-ai)
   - Tap Tap See - [Link](https://taptapseeapp.com/)
 
-### Health Tracking, Trigger and Stress Detection and Reduction:
+## Health Tracking, Trigger and Stress Detection and Reduction:
 - [Flaredown](https://flaredown.com/)
 - [Moodpath](https://mymoodpath.com/en/)
 - [Youper](https://www.youper.ai/)
@@ -80,12 +80,12 @@ This accessibility link-farm is a great start!
 - [Palarum](https://palarum.org/)
 - [Spire Health](https://spirehealth.com/)
 
-### Mobility Devices:
+## Mobility Devices:
 - AI powered wheelchairs using voice commands
 - Google Maps - [Link](https://www.google.com/maps)
 - Wheel Map (crowd-sourced info) - [Link](https://wheelmap.org/)
 
-### Hashtags for Further Exploration:
+## Hashtags for Further Exploration:
 - [#Accessibility](https://www.linkedin.com/feed/hashtag/accessibility/)
 - [#AccessibleDesign](https://www.linkedin.com/feed/hashtag/accessibledesign/)
 - [#InclusiveDesign](https://www.linkedin.com/feed/hashtag/inclusivedesign/)
