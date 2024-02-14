@@ -11,7 +11,7 @@ hero_image_alt: >
   From Thomas' LinkedIn profile - Proud to be an innovation design director, human-centered service designer, strategist and researcher. I'm a manager of madness, storytelling service designer, discovery doer, dedicated design director, curiosity crusader, responsible AI advocate, innovation maven, UX geek, agent of behavioral change, bombast brand advocate, digital transformer, fearless foodie, pioneering pilgrim, pixel pusher, optimization optimist, validated venture designer, wayward wordsmith, and champion of human-centered design...
 
 intro: >
-  This is Thomas' intro: So you want to design for Accessibility? Accessibility focuses on the access and benefits of your site, system, or application for everyone. It's an important part of design and should be considered **BEFORE** the development process.
+  So you want to design for Accessibility? Accessibility focuses on the access and benefits of your site, system, or application for everyone. It's an important part of design and should be considered <em>BEFORE</em> the development process.
 
 categories:
   - Digital
@@ -30,13 +30,10 @@ tags:
 
 ---
 
-_This content was created by [Thomas Wilson](https://www.linkedin.com/in/thomasianwilson/) and reprinted here without permission._
-
 This accessibility link-farm is a great start!
 
-### For Design:
-- **GREAT POST Accessibility Toolkits For Figma by Vitaly Friedman**
-  - [Toolkit Link](https://www.figma.com/community/file/958837762255381692)
+### Great LinkedIn post for design
+- Accessibility [Toolkits For Figma by Vitaly Friedman](https://www.figma.com/community/file/958837762255381692)
 
 ### Free Courses on Accessibility and Forms, by Google
 - [Google Web Dev Learning](https://web.dev/learn)
@@ -94,5 +91,8 @@ This accessibility link-farm is a great start!
 - [#InclusiveDesign](https://www.linkedin.com/feed/hashtag/inclusivedesign/)
 - [#Disabilities](https://www.linkedin.com/feed/hashtag/disabilities/)
 
+
 Many thanks to Thomas for the content and Debbie for the suggestion:-)
+
+_This content was created by [Thomas Wilson](https://www.linkedin.com/in/thomasianwilson/) and reprinted here without permission._
 
