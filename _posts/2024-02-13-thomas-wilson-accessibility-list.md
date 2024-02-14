@@ -8,7 +8,7 @@ subtitle: >
 hero_image: /i/thomaswilsonprofile.jpg
 
 hero_image_alt: >
-  Proud to be an innovation design director, human-centered service designer, strategist and researcher. I'm a manager of madness, storytelling service designer, discovery doer, dedicated design director, curiosity crusader, responsible AI advocate, innovation maven, UX geek, agent of behavioral change, bombast brand advocate, digital transformer, fearless foodie, pioneering pilgrim, pixel pusher, optimization optimist, validated venture designer, wayward wordsmith, and champion of human-centered design. Every pain point that occurs within an experience holds the solution to alleviate within itself. I want access to those touch-points to define opportunity, and uncover insight that changes lives and informs the design of supernatural, product, service and brand loyalty.
+  From Thomas' LinkedIn profile - Proud to be an innovation design director, human-centered service designer, strategist and researcher. I'm a manager of madness, storytelling service designer, discovery doer, dedicated design director, curiosity crusader, responsible AI advocate, innovation maven, UX geek, agent of behavioral change, bombast brand advocate, digital transformer, fearless foodie, pioneering pilgrim, pixel pusher, optimization optimist, validated venture designer, wayward wordsmith, and champion of human-centered design...
 
 intro: >
   This is Thomas' intro: So you want to design for Accessibility? Accessibility focuses on the access and benefits of your site, system, or application for everyone. It's an important part of design and should be considered **BEFORE** the development process.
