@@ -3,7 +3,7 @@ layout: 2023/post
 title: "Thomas Wilson's very helpful accessibility list"
 
 subtitle: >
-  [Debbie Levitt](https://www.linkedin.com/in/debbielevitt/) suggested that Thomas post his list on Medium or something as inside the LinkedIn walled garden, content seems to disappear on the whim of an algorythm. So I figured I'd post it here. This URL isn't going anywhere:-)
+  Debbie Levitt (See here profile at https://www.linkedin.com/in/debbielevitt/) suggested that Thomas post his list on Medium or something as inside the LinkedIn walled garden, content seems to disappear on the whim of an algorythm. So I figured I'd post it here. This URL isn't going anywhere:-)
 
 hero_image: /i/thomaswilsonprofile.jpg
 
