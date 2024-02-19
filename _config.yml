@@ -50,6 +50,9 @@ collections:
   cases_strategy:
     output: true
     permalink: /cases/strategy/:name
+  cases_business:
+    output: true
+    permalink: /cases/business/:name
   cases_practitioner:
     output: true
     permalink: /cases/practitioner/:name
