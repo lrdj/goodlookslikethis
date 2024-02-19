@@ -26,6 +26,8 @@ tags:
   - programme management
 ---
 
+(test build) 
+
 Dug has a secret master-plan to build a developer community around Dixons. The fit with Intel is a good one as the UK electricals retailer ships an inordinate number of devices powered by the American chip-maker.
 
 As part of the developer competition (entries have now been judged and entries closed. Sorry, check back next year) Dug briefed Intel on the type of application most likely to fuel both engagement and affiliate sales and then commissioned an api to programatically expose Dixon's trading underbelly. The entrants where able to build 3D roomsets and kitchen design tools filled with Samsung TVs and DeLonghi coffee makers.
