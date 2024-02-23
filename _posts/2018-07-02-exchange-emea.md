@@ -26,13 +26,13 @@ From the Vodafone site:
 <q>
 Agora is an open trading platform for individuals and groups to post items and services for sale or exchange. Have an extra laptop lying around? Need a bike instead? No problem! With Agora, you can specify what you'd like in exchange (including cash or services) and the system will alert you to others that have what you're looking for. You can make offers, negotiate with others until you secure an agreement, and then leave comments and ratings for your completed deals.</q>
 
-<img alt="UI for Vodafone exchange" src="/i/agora_UI.jpg" width="579" height="462"  style="" />
+<img alt="UI for Vodafone exchange" src="/i/agora_UI.jpg" />
 
 Agora is deployed as an Android app that is downloadable from the Android Market. It has been tested across a range of handsets and is compatible with Android 1.6 OS and above.
 
 You can <a href="http://developer.vodafone.com/labs/beta-services/betavine-agora/#welcome">download the Android app</a> from Vodafone.
 
-<img alt="Arabic UI for Vodafone exchange launch in Egypt" src="/i/agora_UI_arabic.jpg" width="579" height="462"  style="" />
+<img alt="Arabic UI for Vodafone exchange launch in Egypt" src="/i/agora_UI_arabic.jpg" />
 
 Agora was launched as a pilot in Egypt and Romania. The Agora UI was translated and the design modified to make localisation quicker. The service allows users to agree the value of given items allowing these to act as a currency for a transaction.
 
