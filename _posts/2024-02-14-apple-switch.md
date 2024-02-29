@@ -1,6 +1,6 @@
 ---
 layout: 2023/post
-title: "Apple is experimenting with a new HTML form control"
+title: "Apple is experimenting with a new HTML form control?"
 
 subtitle: >
   Do we need a new control to convey the meanings of "off" and "on"? I'm not sure we do, but Apple seems to think we do
