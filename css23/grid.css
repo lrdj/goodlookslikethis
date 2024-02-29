@@ -6,7 +6,7 @@ Base styles for template - WIP
 
 :root {
     --wrapper-max-width: 1200px;
-    --wrapper-side-max: 25%;
+    --wrapper-side-max: 20%;
     --wrapper-side-full: 15%;
     --wrapper-side-small: 1em;
 
