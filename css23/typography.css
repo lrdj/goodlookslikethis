@@ -45,6 +45,25 @@ body {
   font-size: large;
   }
 
+
+/* Large screens */
+@media (min-width: 1600px) {
+  body {
+    font-size: xx-large;
+  }
+}
+
+
+/* 
+typog test for super large screens
+@media (min-width: var(--wrapper-max-width)) {
+    html {
+        font-size: xx-large;
+    }
+}
+*/
+
+
 h1,h2,h3,h4,h5,h6 { font-weight: 700; }
 
 h2,h3 { margin:1.5em 0 0.5em 0; line-height: 1.3em; }
