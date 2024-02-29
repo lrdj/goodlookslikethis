@@ -79,7 +79,7 @@ Well, yes, it's ugly, I'm not a UI expert, but it does clearly show the two requ
 
 Note that you can add all the CSS bells and whistles you want (word colour, bold text etc.) but that the central meaning is conveyed by the checkbox control itself. If you use assistive tech to use this page you should be able to know what the status of the checkbox is WITHOUGHT and visual aids.
 
-Also, this has me wondering. Now that everyone is so keen to break HTML's mental model of what is a page, how are users expected to understand a permanent thing like a switch? In single-page-apps and react-driven things (or Linkedin itself) the page is impermanent to the point of rendering bookmarks useless. For that matter, the 'back' button is compromised as well. This you remembered something on the previous page? Click back and nope, it's gone.
+Also, this has me wondering. Now that everyone is so keen to break HTML's mental model of the page, how are users expected to understand a permanent thing like a switch? In single-page-apps or React-driven things (or Linkedin itself) the page is impermanent to the point of rendering bookmarks useless. For that matter, the 'back' button is compromised as well. You remembered something seen just now on the previous page? Click back, and nope, it's gone:-(
 
 I think we need to be careful of messing up the internet more that we already have...
 
