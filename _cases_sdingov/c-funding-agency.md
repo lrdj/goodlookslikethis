@@ -79,7 +79,7 @@ policy-lab-tube-map.png
 
 ## Successful outcomes
 
-Using service design methods in a policy context is a thing that's gaining traction. As a result of the collaboration between policy and delivery many policy projects are delivering better outcomes at lower cost.
+Using service design methods in a policy context is a thing that's gaining traction. As a result of the collaboration between policy and delivery, many policy projects are delivering better outcomes at lower cost.
 
 Similar projects are being scaled and achieving savings, and as these policy design tool-kits and methods are shared across policy making teams, the positive impacts will be widely felt.
 
