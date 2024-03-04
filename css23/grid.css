@@ -4,6 +4,8 @@ Base styles for template - WIP
 
 /* wrapper and grid intents etc. site-wide variables */
 
+/* valtech figure? 1760px */
+
 :root {
     --wrapper-max-width: 1200px;
     --wrapper-side-max: 20%;
@@ -50,7 +52,7 @@ header {
 }
 
 /* Large screens */
-@media (min-width: 1600px) {
+@media (min-width: 1760px) {
     header {
         height: 53px;
         padding: 0 var(--wrapper-side-max);
@@ -99,7 +101,7 @@ nav.first {
 }
 
 /* Large screens */
-@media (min-width: 1600px) {
+@media (min-width: 1760px) {
     .wrapper {
         padding: 0 var(--wrapper-side-max);
     }
@@ -153,7 +155,7 @@ footer.wrapper {
     #siteFooterDivider { margin: 0 var(--wrapper-side-full) 1em var(--wrapper-side-full); }
 }
 /* Desktop */
-@media (min-width: 1600px) {
+@media (min-width: 1760px) {
     #siteFooterDivider { margin: 0 var(--wrapper-side-max) 1em var(--wrapper-side-max); }
 }
 
@@ -222,7 +224,7 @@ footer.wrapper {
 }
 
 /* Large screens */
-@media (min-width: 1600px) {
+@media (min-width: 1760px) {
 
     footer.wrapper {
         padding: 0 var(--wrapper-side-max) 2em var(--wrapper-side-max);
