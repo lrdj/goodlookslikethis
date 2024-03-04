@@ -3,7 +3,7 @@ layout: 2023/case
 title: Setting up a policy lab to accellerate policy creation at a government funding agency
 
 subtitle: >
-  A digital solution driven by agile test-and-learn can't deliver on policy intent when that intent has not previously been crafted into a set of coherent policies. Sometimes you need to design policy and delivery as one thing. I understand that the book is <em><a href="https://public.digital/publications">the strategy is delivery</a></em> and that was great back when we were stuck in waterfall, but generally, the delivery just won't work until the policy is right.
+  A digital solution driven by agile test-and-learn can't deliver on policy intent when that intent has not previously been crafted into a set of coherent policies. Sometimes you need to design policy and delivery as one thing coherent thing.
 
 index_image: "/i/cases/funding/ecosystem.jpg"
 hero_image: "/i/cases/funding/ecosystem.jpg"
