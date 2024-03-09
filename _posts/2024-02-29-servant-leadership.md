@@ -11,7 +11,7 @@ hero_image_alt: >
   Once you start reflecting on types of leadership you start exploring your relationship to purpose. Finding that meaningful purpose is a journey we're all on, and it should be our job to help:-)
 
 intro: >
-  "I'm being asked to provide structured commentary on what kind of leader I am. This isn't something I had ever planned on doing, as the basis of service design is to be helpful by making visible what cannot be seen. It always followed for me that a leader, or leadership itself, was simply to work towards being even more helpful."
+  The basis of service design is to be helpful by making visible what cannot be seen. It always followed for me that a leader, or leadership itself, was simply to work towards being even more helpful.
 
 categories:
   - Leadership
@@ -48,7 +48,7 @@ Both Greenleaf and Schein emphasised the moral dimensions of leadership.
 
 - Greenleaf's servant leadership is deeply rooted in ethical considerations, highlighting the importance of empathy, active listening, and moral authority.
 
-- Schein’s work implies that leaders play a crucial role in shaping organisational culture, and thus have a responsibility to ensure that the values and beliefs they instill are ethically sound.
+- Schein’s work implies that leaders play a crucial role in shaping organisational culture, and thus have a responsibility to ensure that the values and beliefs they instil are ethically sound.
 
 ## The importance of listening
 
@@ -72,7 +72,7 @@ It's the understanding that effective leadership is rooted in humanistic and eth
 
 ## One more thing...
 
-Because we all know the best way to get an idea across is to tell a story, here's a quote I've stolen from the above Wikiedia page that does just that:-)
+Because we all know the best way to get an idea across is to tell a story, here's a quote I've stolen from the above Wikipedia page that does just that:-)
 
 > ...In this story, we see a band of men on a mythical journey...
 > The central figure of the story is Leo, who accompanies the party 
