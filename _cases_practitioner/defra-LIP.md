@@ -42,11 +42,7 @@ I employed a multifaceted approach, intertwining strategic leadership with hands
 
 In the deeper dive section below the fold, you can delve into the nitty-gritty of each activity and strategy employed, perhaps elaborating on specific challenges and breakthrough moments within each phase of the ‘double-diamond’ design process, showcasing actual prototypes, and detailing the final MVP specifications. This section can also highlight the methodologies used in workshops, research techniques employed, and nuances of the agile ceremonies designed, providing a comprehensive view into your expertise and approach towards complex service design and delivery.
 
-### My delivery
-
-
-
-### Activities
+### My delivery activities
 
 - Service design process
 - Coaching
