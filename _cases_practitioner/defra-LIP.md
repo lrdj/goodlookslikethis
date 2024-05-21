@@ -3,7 +3,7 @@ layout: 2023/case
 title: "Defra Livestock Information Programme"
 
 subtitle: >
-  The Livestock Information programme (LIP) had been running for a little over two years when I joined the team to lead the design of the service. Lots of work had been done, but nothing had been delivered yet, and passing Beta assessment did not seem like a possibility.
+  The Livestock Information programme (LIP) had been running for a little over two years when I joined the team to lead the design of the service. Lots of work had been done, but nothing had been delivered yet, and passing a Beta GDS service assessment did not seem like a possibility.
 
 index_image: "/i/cases/lip/LIP_relationships_Venn_diagram.png"
 hero_image: "/i/cases/lip/lip-tube-map.jpg"
