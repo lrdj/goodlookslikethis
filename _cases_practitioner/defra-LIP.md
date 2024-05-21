@@ -37,10 +37,11 @@ As the Service Design Lead, I became the connective tissue that unified diverse 
 
 I employed a multifaceted approach, intertwining strategic leadership with hands-on mentoring and knowledge transfer. By implementing a clear, communicated strategy through a ‘tube map’ and guiding through a methodical ‘double-diamond’ design process, I ensured the journey from divergent ideas to converged, actionable prototypes and MVP was coherent and strategic.
 
-
+<!--
 ### The project in a bit more detail
 
 In the deeper dive section below the fold, you can delve into the nitty-gritty of each activity and strategy employed, perhaps elaborating on specific challenges and breakthrough moments within each phase of the ‘double-diamond’ design process, showcasing actual prototypes, and detailing the final MVP specifications. This section can also highlight the methodologies used in workshops, research techniques employed, and nuances of the agile ceremonies designed, providing a comprehensive view into your expertise and approach towards complex service design and delivery.
+-->
 
 ### My delivery activities
 
