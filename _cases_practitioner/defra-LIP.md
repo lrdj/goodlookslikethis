@@ -25,15 +25,15 @@ tags:
   
 ---
 
-### The Challenge
+### The challenge
 
 Navigating through a scenario where talented professionals were siloed in their expertise and lacked a coherent, uniting framework and strategy, especially amidst the divergent work-streams of IT, data, policy, and design. The notable absence of an organized process to morph insights into actionable initiatives further complicated the journey from research to delivery.
 
-### The Role I Played
+### The role I played
 
 As the Service Design Lead, I became the connective tissue that unified diverse professional minds, acting as a strategic advisor, influencer, mentor, and hands-on guide across all facets of the design and development process.
 
-### How I Did It
+### How I did it
 
 I employed a multifaceted approach, intertwining strategic leadership with hands-on mentoring and knowledge transfer. By implementing a clear, communicated strategy through a ‘tube map’ and guiding through a methodical ‘double-diamond’ design process, I ensured the journey from divergent ideas to converged, actionable prototypes and MVP was coherent and strategic.
 
