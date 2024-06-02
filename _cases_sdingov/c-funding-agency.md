@@ -115,7 +115,9 @@ Similar projects are being scaled and are achieving speed and savings. With any 
 
 ## Credit
 
-My work with policy labs is heavily indebted to the work of [Anna Whicher](https://www.linkedin.com/in/anna-whicher-86865114), Associate Research Director & Head of Policy Design at the PDR International Centre for Design & Research at Cardiff Metropolitan University. You can [read more about her work](https://www.pdr-research.com/news/reflections-on-making-policy-more-citizen-centred-with-dr-anna-whicher) on their [website](https://www.pdr-research.com/work/). 
+In my work with policy labs I sometimes use workshop tools created by [Anna Whicher](https://www.linkedin.com/in/anna-whicher-86865114), Associate Research Director & Head of Policy Design at the PDR International and her team at the Centre for Design & Research at Cardiff Metropolitan University. I've adapted them over the years, but I thought I should give credit:-)
+
+You can [read more about her work](https://www.pdr-research.com/news/reflections-on-making-policy-more-citizen-centred-with-dr-anna-whicher) on the [PDR website](https://www.pdr-research.com/work/). 
 
 
 
