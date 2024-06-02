@@ -11,10 +11,10 @@ hero_image: "/i/cases/landregulator/tubemap.mp4"
 hero_is_video: true
 
 hero_image_alt: >
-  Workers at this regulatory agency were divided into four main areas based on the nature of their interventions with citizens. It quickly became apparent that uncovering insights and opportunities would mean mapping the different divisions across the entire life-cycle of the regulated customer.
+  To gather thoughts on how job roles interacted with others in the organisation, I posted a tubemap of the different functions in the office caffeterias with a jar of candy and a pile of post-its. The deal was, write a post-it, take a Malteser. This worked quite well in that I quickly gathered a reasonable picture of what was going on:-)
 
 hero_image_caption: >
-  Workers at this regulatory agency were divided into four main areas based on the nature of their interventions with citizens. It quickly became apparent that uncovering insights and opportunities would mean mapping the different divisions across the entire life-cycle of the regulated customer.
+  To gather thoughts on how job roles interacted with others in the organisation, I posted a tubemap of the different functions in the office caffeterias with a jar of candy and a pile of post-its. The deal was, write a post-it, take a Malteser. This worked quite well in that I quickly gathered a reasonable picture of what was going on:-)
 
 tags: 
   - tube maps
