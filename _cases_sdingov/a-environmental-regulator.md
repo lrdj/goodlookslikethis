@@ -6,7 +6,9 @@ subtitle: >
   Leadership was set on storing their workflows on a new Microsoft Dynamics platform, but they had not mapped the journeys of the different colleagues in the organisation and were unaware of the challenges and opportunites created by their structure.
 
 index_image: "/i/cases/landregulator/L1-all-notes.jpg"
-hero_image: "/i/cases/landregulator/000-titleslide.jpg"
+# hero_image: "/i/cases/landregulator/000-titleslide.jpg"
+hero_image: "/i/cases/landregulator/tubemap.mp4"
+hero_is_video: true
 
 hero_image_alt: >
   Workers at this regulatory agency were divided into four main areas based on the nature of their interventions with citizens. It quickly became apparent that uncovering insights and opportunities would mean mapping the different divisions across the entire life-cycle of the regulated customer.
