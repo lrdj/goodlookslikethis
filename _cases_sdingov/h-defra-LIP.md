@@ -9,8 +9,8 @@ index_image: "/i/cases/lip/LIP_relationships_Venn_diagram.png"
 # hero_image: "/i/cases/lip/lip-tube-map.jpg"
 hero_image: "/i/cases/lip/LIP_Ideation_session.mp4"
 hero_is_video: true
-hero_image_alt: "Service design process showing organisational silos expressed as tube lines."
-hero_image_caption: "Service design process showing organisational silos expressed as tube lines."
+hero_image_alt: "A video showing clips from a workshop with Lego. There is no sound and the purpose of the clip is to convey the feeling of collaboration and industry in the team of policy-makers and digital delivery people."
+hero_image_caption: "Service design workshops in the policy lab. Most of the civil servants engaged in the process had never used methods like this. The workshops promoted collaboration between policy and delivery teams."
 
 tags: 
   - gov.uk
@@ -37,7 +37,11 @@ As the Service Design Lead, I became the connective tissue that unified diverse 
 
 ### How I did it
 
-I employed a multifaceted approach, intertwining strategic leadership with hands-on mentoring and knowledge transfer. By implementing a clear, communicated strategy through a ‘tube map’ and guiding through a methodical ‘double-diamond’ design process, I ensured the journey from divergent ideas to converged, actionable prototypes and MVP was coherent and strategic.
+I employed a multifaceted approach, intertwining strategic leadership with hands-on mentoring and knowledge transfer. 
+
+![Tube map of the collaboration between teams](/i/cases/lip/lip-tube-map.jpg)
+
+By implementing a clear, communicated strategy through a ‘tube map’ and guiding through a methodical ‘double-diamond’ design process, I ensured the journey from divergent ideas to converged, actionable prototypes and MVP was coherent and strategic.
 
 <!--
 
