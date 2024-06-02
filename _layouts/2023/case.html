@@ -44,9 +44,17 @@ layout: default
 </nav>
 
 {% if page.hero_image %}
+    {% if page.hero_is_video %}
+        <video controls style="margin-top: 1em;">
+            <source src="{{ page.hero_image }}" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    {% else %}
         <img src="{{ page.hero_image }}" alt="{{ page.hero_image_alt }}" style="margin-top: 1em;">
+    {% endif %}
+
     {% if page.hero_image_caption %}
-            <p class="heroimagecaption">{{ page.hero_image_caption }}</p>
+        <p class="heroimagecaption">{{ page.hero_image_caption }}</p>
     {% endif %}
 {% endif %}
 
