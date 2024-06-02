@@ -75,7 +75,7 @@ As you can see from the schedule below, the team at this agency was able to prog
 ![A picture of a planning document showing the schedule of activities in the lab. The schedule suggests that participants were able to progress multiple issues simultaneously while moving through the process in weeks not moths or even years as before.](/i/cases/funding/overall-workshop-schedule.jpg)
 
 <p class="imagecaption">
-  Three of the above challenges had been stalled with the agency's funding policy team. In some cases, progress had all but stopped for more than a year.
+  Three of the above challenges had been stalled with the agency's funding policy team. In some cases, progress had all but stopped for more than a year. Once the teams were engaged with this process they made real progress in weeks.
 </p>
 
 <!--
