@@ -45,7 +45,7 @@ layout: default
 
 {% if page.hero_image %}
     {% if page.hero_is_video %}
-        <video controls style="margin-top: 1em;">
+        <video controls loop style="margin-top: 1em; width: 100%;">
             <source src="{{ page.hero_image }}" type="video/mp4">
             Your browser does not support the video tag.
         </video>
