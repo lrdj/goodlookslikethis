@@ -13,7 +13,7 @@ subtitle: >
 # hero_video:
 
 hero_image: /i/cases/nhs/as-is-with-lego-bricks-alpha.png
-hero_image_zoom: 1.4
+hero_image_zoom: 1.3
 hero_image_caption: >
   (hover to zoom) In an environment where it seemed everything was broken, the challenge for my customer was to understand both what was possible, and where to start. By focusing on the overlap between different types of screening journeys, and qualifying that with data and technical architecture choices, it was possible to identify the four innitiatives that would generate the most value inside realistic time and cost parameters.
 
