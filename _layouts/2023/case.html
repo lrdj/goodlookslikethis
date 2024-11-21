@@ -50,18 +50,36 @@ layout: default
 </nav>
 
 {% if page.hero_image %}
+
+    {% if page.hero_image_zoom %}
+    <style>
+      .zoomable-image {
+        display: block;margin: auto;width: 100%;
+        transition: transform 0.3s ease; /* Smooth zoom effect */
+      }
+      .zoomable-image:hover {
+        transform: scale({{ page.hero_image_zoom }}); /* Increase the scale factor for zoom */
+      }
+    </style>
+    {% endif %}
+
     {% if page.hero_is_video %}
-        <video controls loop autoplay style="margin-top: 1em; width: 100%;">
+        <video style="margin-top: 1em; width: 100%;" loop autoplay muted playsinline preload="auto">
             <source src="{{ page.hero_image }}" type="video/mp4">
+            {% assign captions_path = page.hero_image | replace: '.mp4', '.vtt' %}
+            {% if captions_path | file_exists %}
+                <track src="{{ captions_path }}" kind="captions" srclang="en" label="English">
+            {% endif %}
             Your browser does not support the video tag.
         </video>
     {% else %}
-        <img src="{{ page.hero_image }}" alt="{{ page.hero_image_alt }}" style="margin-top: 1em;">
+        <img src="{{ page.hero_image }}" alt="{{ page.hero_image_alt }}" {% if page.hero_image_zoom %}class="zoomable-image"{% endif %} style="margin-top: 1em;">
     {% endif %}
 
     {% if page.hero_image_caption %}
         <p class="heroimagecaption">{{ page.hero_image_caption }}</p>
     {% endif %}
+
 {% endif %}
 
         <h1 id="headTitle">
