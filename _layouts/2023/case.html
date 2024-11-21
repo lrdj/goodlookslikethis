@@ -49,16 +49,18 @@ layout: default
     {%- endif -%}
 </nav>
 
+
 {% if page.hero_image %}
 
     {% if page.hero_image_zoom %}
     <style>
       .zoomable-image {
         display: block;margin: auto;width: 100%;
-        transition: transform 0.3s ease; /* Smooth zoom effect */
+        transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth effect */
       }
       .zoomable-image:hover {
         transform: scale({{ page.hero_image_zoom }}); /* Increase the scale factor for zoom */
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
       }
     </style>
     {% endif %}
@@ -67,9 +69,7 @@ layout: default
         <video style="margin-top: 1em; width: 100%;" loop autoplay muted playsinline preload="auto">
             <source src="{{ page.hero_image }}" type="video/mp4">
             {% assign captions_path = page.hero_image | replace: '.mp4', '.vtt' %}
-            {% if captions_path | file_exists %}
-                <track src="{{ captions_path }}" kind="captions" srclang="en" label="English">
-            {% endif %}
+            <track src="{{ captions_path }}" kind="captions" srclang="en" label="English">
             Your browser does not support the video tag.
         </video>
     {% else %}
