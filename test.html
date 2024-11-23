@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<style type="text/css">
+  .container {
+    width: 50%;
+    padding: 1em;
+    margin: 1em auto;
+  }
+
+  .zoom {
+    width: 50%;
+    cursor: zoom-in;
+    transition: width 0.5s ease, border 0.5s ease, transform 0.5s ease;
+  }
+
+  .zoom:hover {
+    padding: 1em;
+    border: 4px solid #ccc;
+  }
+
+  /* Zoomed-in effect when the image is targeted */
+  .zoom:target {
+    width: 100%;
+    max-width: 100%;
+    cursor: zoom-out;
+  }
+</style>
+
+<main>
+  <div class="container">
+    <p>
+      <!-- Assign an id to the image to use the :target pseudo-class -->
+      <a href="#zoomImage">
+        <img src="/i-older/address-book-metaphor.png" alt="Address Book Metaphor" class="zoom" id="zoomImage">
+      </a>
+    </p>
+  </div>
+</main>

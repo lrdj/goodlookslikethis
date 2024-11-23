@@ -50,37 +50,18 @@ layout: default
 </nav>
 
 
-    <style>
-
-@media (min-width: 769px) {
-      .zoomable-image, .zoomable-hero-image {
-        /* display: block;margin: auto;width: 100%; */
-        display:block;background:white; /* prevent overlay of alphachannel pdfs */
-        transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth effect */
-      }
-      .zoomable-image:hover {
-        transform: scale(1.6); /* Increase the scale factor for zoom */
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-        cursor: zoom-in; /* Change cursor to indicate zoom-out */      }
-}
-    </style>
-
 {% if page.hero_image %}
 
     {% if page.hero_image_zoom %}
     <style>
-
-@media (min-width: 769px) {
-      .zoomable-hero-image:hover {
+      .zoomable-image {
+        display: block;margin: auto;width: 100%;
+        transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth effect */
+      }
+      .zoomable-image:hover {
         transform: scale({{ page.hero_image_zoom }}); /* Increase the scale factor for zoom */
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-        cursor: zoom-in; /* Change cursor to indicate zoom-out */
-    }
-      .heroimagecaption::before {
-        content: "(hover to zoom) ";
-    }
-}
-
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+      }
     </style>
     {% endif %}
 
@@ -92,11 +73,11 @@ layout: default
             Your browser does not support the video tag.
         </video>
     {% else %}
-        <img src="{{ page.hero_image }}" alt="{{ page.hero_image_alt }}" {% if page.hero_image_zoom %}class="zoomable-hero-image"{% endif %} style="margin-top: 1em;">
+        <img src="{{ page.hero_image }}" alt="{{ page.hero_image_alt }}" {% if page.hero_image_zoom %}class="zoomable-image"{% endif %} style="margin-top: 1em;">
     {% endif %}
 
     {% if page.hero_image_caption %}
-        <p class="heroimagecaption">{{ page.hero_image_caption }}</p>
+        <p class="heroimagecaption">{% if page.hero_image_zoom %}(hover to zoom){% endif %} {{ page.hero_image_caption }}</p>
     {% endif %}
 
 {% endif %}

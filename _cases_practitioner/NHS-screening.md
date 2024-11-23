@@ -15,7 +15,7 @@ subtitle: >
 hero_image: /i/cases/nhs/as-is-with-lego-bricks-alpha.png
 hero_image_zoom: 1.3
 hero_image_caption: >
-  (hover to zoom) In an environment where it seemed everything was broken, the challenge for my customer was to understand both what was possible, and where to start. By focusing on the overlap between different types of screening journeys, and qualifying that with data and technical architecture choices, it was possible to identify the four innitiatives that would generate the most value inside realistic time and cost parameters.
+  In an environment where it seemed everything was broken, the challenge for my customer was to understand both what was possible, and where to start. By focusing on the overlap between different types of screening journeys, and qualifying that with data and technical architecture choices, it was possible to identify the four innitiatives that would generate the most value inside realistic time and cost parameters.
 
 #
 # star
@@ -49,6 +49,7 @@ portfolio:
 
 ---
 
+
 ## Situation
 
 The NHS screening services for breast, cervical and bowel cancer are all supported by one digital organisation, responsible for the digital transformation of those services (12 separate services in all). The project situation was challenging:
@@ -74,6 +75,10 @@ The NHS screening services for breast, cervical and bowel cancer are all support
 
 ![Beginning to understand patient journeys in context.](/i/cases/nhs/NHS-screening-BP.png)
 
+<p class="imagecaption">
+  The complexity in the patient journey for screening was not so much in the multiple processes, but in the multiple channels through which the patient's needs were addressed (or underserved). My work identified issues with physical location of machines, language used on hospital signage and multiple other touchpoints. 
+</p>
+
 ### Understanding the patient experience. 
 
 - Learn the multiple patient journeys
@@ -85,18 +90,40 @@ The NHS screening services for breast, cervical and bowel cancer are all support
 - Role play these experiences with all stakeholders and SMEs
 - Develop an 'extensible' journey that will support a plan to build once and reuse across different screening pathways.
 
+![Cross-journey service.](/i/cases/nhs/human-centred-journey-cross-service.png){:.zoomable-image}
+
+<p class="imagecaption">
+  The task was to examine the twelve processes and find overlaps and similarities. The objective was to reuse as much data and technology as possible while minimising disruption to patients and support cohort managers in the trust.
+</p>
+
 ### Map out the technology
 
 - Understand the architecture of how patient data is captured, stored, and transferred between devices, buildings, networks and vehicles
 - Understand the choices made previously which have set up the tech debt and explore options to think differently about the problem
 
-![Cohort management in cervical (IBM document).](/i/cases/nhs/cervical.jpg)
+![Cohort management in cervical.](/i/cases/nhs/1-aware-of-service.png)
+
+<p class="imagecaption">
+  As there is no central datastore for patient data in the NHS, cohort management happens across a wide range of touchpoints. Establishing these points of connection against the stages of the patient journey is a foundational activity in planing a transformation
+</p>
+
 
 ### Sensemaking and evangelism
 
 - Facilitate a series of design thinking workshops with product and programme leadership to create a collective understanding of the situation and document the challenges to the digital screening service so that leadership could tell the story and win further funding.
 - Run ideation with a cross disciplinary team of leaders. Establish the blueprint of the 'extensible service' with an emphasis on identifying the "lego pieces" that could be re-used between silos and stakeholders. 
 - Facilitate strategy sessions to map out the end-to-end service with all the lego pieces and collectively prioritise the elements. 
+
+
+<figure style="display:flex;">
+  <img style="width:48%;" src="/i/cases/nhs/as-is-with-lego-bricks-base.png" alt="Using the DART framwork as workshop stimulus" />
+  <img style="width:48%;border-left:10px solid white;" src="/i/cases/nhs/as-is-with-lego-bricks-alpha.png" alt="Brainstorming opportunities using identified problems as stimulus" class="zoomable-image"/>
+</figure>
+
+<p class="imagecaption">
+  Helping leaders visualise where an intervention can happen both in the lifecycle of the end user and in the front-stage to back-stage dimension. Lego bricks were used to reinforce the idea of modularity and that with the right research, it would be possible to identify the right next steps.
+</p>
+
 
 ## Results
 
