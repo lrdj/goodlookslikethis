@@ -64,6 +64,8 @@ The NHS screening services for breast, cervical and bowel cancer are all support
 
 **Essentially, my role was to uncover and synthesise the user insights enough to allow my customer to make difficult decisions about what to do next.**
 
+![Beginning to understand patient journeys in context.](/i/cases/nhs/NHS-screening-BP.png)
+
 ## What I did
 
 ### Understanding the ecosystem constraints
@@ -72,8 +74,6 @@ The NHS screening services for breast, cervical and bowel cancer are all support
 - Desk research, onboarding with data, review user interviews
 - Primary service design research (role-play workshops with SMEs and stakeholders)
 - Policy safari, meeting stakeholders across policy, digital and clinical. How the pieces fit together
-
-![Beginning to understand patient journeys in context.](/i/cases/nhs/NHS-screening-BP.png)
 
 <p class="imagecaption">
   The complexity in the patient journey for screening was not so much in the multiple processes, but in the multiple channels through which the patient's needs were addressed (or underserved). My work identified issues with physical location of machines, language used on hospital signage and multiple other touchpoints. 
