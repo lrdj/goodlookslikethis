@@ -53,7 +53,7 @@ Key steps included:
 - **Iterative design and testing:** Prototyping both the govuk-inspired IxD and the conversational flows and testing them with users to ensure clarity and utility.  
 
 <figure>
-  <img src="/i/cases/cui/study/content-AB-testing.png" alt="An option from a multivariate test shows a sample of govuk content in the chat UI itsel.">
+  <img src="/i/cases/cui/study/content-AB-testing.png" alt="An option from a multivariate test shows a sample of govuk content in the chat UI itself.">
   <figcaption>I designed multivariate tests to explore to what degree users expected the chat UI to provide the answer in inline content as opposed to providing links to GOV.UK pages.</figcaption>
 </figure>
 
