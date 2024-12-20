@@ -30,11 +30,11 @@ tags:
 
 ## Challenge
 
-The service needed to be as trustworthy and clear as GOV.UK itself, offering consistent, distration-free guidance to users while adapting to the unique requirements of conversational interfaces.  
+The service needed to be as trustworthy and clear as gov.uk itself, offering consistent, distraction-free guidance to users while adapting to the unique requirements of conversational interfaces.  
 
 <figure>
   <img src="/i/cases/cui/chat-flow.png" alt="An user journey example on a mobile device">
-  <figcaption>It was important for us to understand if the user's problem could be solved while in a mobile context. I leveraged the govuk design system's mobile-first responsive templates to integrate the conversational UI.</figcaption>
+  <figcaption>It was important for us to understand if the user's problem could be solved while in a mobile context. I leveraged the gov.uk design system's mobile-first responsive templates to integrate the conversational UI.</figcaption>
 </figure>
 
 My brief was twofold:  
@@ -44,7 +44,7 @@ My brief was twofold:
 
 ## Approach
 
-I began by aligning cross-functional teams, including content designers, developers, and policy experts, to define the chatbot’s purpose and scope. Inspired by GOV.UK’s no distractions service ethos, we focused on delivering precise, relevant responses to user queries while reducing “dead ends” in the chat flow.  
+I began by aligning cross-functional teams, including content designers, developers, and policy experts, to define the chatbot’s purpose and scope. Inspired by gov.uk’s no-distractions service ethos, we focused on delivering precise, relevant responses to user queries while reducing “dead ends” in the chat flow.  
 
 Key steps included:  
 
@@ -65,7 +65,7 @@ Key steps included:
 
 ## Impact
 
-The HMRC chatbot project demonstrated the value of combining human-centered design with robust backstage processes. By embedding GOV.UK’s design principles and values into a conversational experience, we were able to deliver immediate operational benefits.
+The HMRC chatbot project demonstrated the value of combining human-centred design with robust backstage processes. By embedding GOV.UK’s design principles and values into a conversational experience, we were able to deliver immediate operational benefits.
 
 ## The view from the research team
 
