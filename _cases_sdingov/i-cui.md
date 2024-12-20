@@ -26,14 +26,21 @@ tags:
 
 ---
 
+<!-- CUI-sa_chat.jpg -->
+
 ## Challenge
 
 The service needed to be as trustworthy and clear as GOV.UK itself, offering consistent, distration-free guidance to users while adapting to the unique requirements of conversational interfaces.  
 
+<figure>
+  <img src="/i/cases/cui/chat-flow.png" alt="An user journey example on a mobile device">
+  <figcaption>It was important for us to understand if the user's problem could be solved while in a mobile context. I leveraged the govuk design system's mobile-first responsive templates to integrate the conversational UI.</figcaption>
+</figure>
+
 My brief was twofold:  
 
 - **Backstage:** Figure out how to adapt backstage processes and technology to create a robust, scalable, and trustworthy chat experience.  
-- **Frontstage:** Explore what it would mean from a front-end perspective “if the GOV.UK website could talk to you” reflecting its clarity and reliability in a conversational format.
+- **Frontstage:** Explore what it would mean from a front-end perspective _“if the GOV.UK website itself could chat with visitors”_ reflecting its clarity and reliability in a conversational format.
 
 ## Approach
 
@@ -44,6 +51,11 @@ Key steps included:
 - **Starting with user needs:** Collaborating with researchers to understand common user pain points. Insights from user research shaped every design decision.  
 - **Backstage innovation:** Simplifying integration with both HMRC and govuk's existing content management infrastructure to ensure chat responses remained accurate and up to date.  
 - **Iterative design and testing:** Prototyping both the govuk-inspired IxD and the conversational flows and testing them with users to ensure clarity and utility.  
+
+<figure>
+  <img src="/i/cases/cui/content-AB-testing.png" alt="An option from a multivariate test shows a sample of govuk content in the chat UI itsel.">
+  <figcaption>I designed multivariate tests to explore to what degree users expected the chat UI to provide the answer in inline content as opposed to providing links to gov.uk pages.</figcaption>
+</figure>
 
 ## Outcomes
 
