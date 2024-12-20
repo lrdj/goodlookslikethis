@@ -33,7 +33,7 @@ tags:
 The service needed to be as trustworthy and clear as gov.uk itself, offering consistent, distraction-free guidance to users while adapting to the unique requirements of conversational interfaces.  
 
 <figure>
-  <img src="/i/cases/cui/chat-flow.png" alt="An user journey example on a mobile device">
+  <img src="/i/cases/cui/study/chat-flow.png" alt="A user journey example on a mobile device">
   <figcaption>It was important for us to understand if the user's problem could be solved while in a mobile context. I leveraged the gov.uk design system's mobile-first responsive templates to integrate the conversational UI.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Key steps included:
 - **Iterative design and testing:** Prototyping both the govuk-inspired IxD and the conversational flows and testing them with users to ensure clarity and utility.  
 
 <figure>
-  <img src="/i/cases/cui/content-AB-testing.png" alt="An option from a multivariate test shows a sample of govuk content in the chat UI itsel.">
+  <img src="/i/cases/cui/study/content-AB-testing.png" alt="An option from a multivariate test shows a sample of govuk content in the chat UI itsel.">
   <figcaption>I designed multivariate tests to explore to what degree users expected the chat UI to provide the answer in inline content as opposed to providing links to gov.uk pages.</figcaption>
 </figure>
 
