@@ -9,15 +9,15 @@ index_image: "/i/cases/cui/ruth-blog.jpg"
 hero_image: "/i/cases/cui/ruth-blog.jpg"
 
 hero_image_alt: >
-  If the gov.uk website could helpfully chat with you, what would that experience be like?
+  If the GOV.UK website could helpfully chat with you, what would that experience be like?
 
 hero_image_caption: >
-  If the gov.uk website could helpfully chat with you, what would that experience be like?
+  If the GOV.UK website could helpfully chat with you, what would that experience be like?
 
 tags: 
   - Nuance
   - intent
-  - gov.uk
+  - GOV.UK
   - remote work
   - chatbot
   - enterprise software
@@ -30,11 +30,11 @@ tags:
 
 ## Challenge
 
-The service needed to be as trustworthy and clear as gov.uk itself, offering consistent, distraction-free guidance to users while adapting to the unique requirements of conversational interfaces.  
+The service needed to be as trustworthy and clear as GOV.UK itself, offering consistent, distraction-free guidance to users while adapting to the unique requirements of conversational interfaces.  
 
 <figure>
   <img src="/i/cases/cui/study/chat-flow.png" alt="A user journey example on a mobile device">
-  <figcaption>It was important for us to understand if the user's problem could be solved while in a mobile context. I leveraged the gov.uk design system's mobile-first responsive templates to integrate the conversational UI.</figcaption>
+  <figcaption>It was important for us to understand if the user's problem could be solved while in a mobile context. I leveraged the GOV.UK design system's mobile-first responsive templates to integrate the conversational UI.</figcaption>
 </figure>
 
 My brief was twofold:  
@@ -44,7 +44,7 @@ My brief was twofold:
 
 ## Approach
 
-I began by aligning cross-functional teams, including content designers, developers, and policy experts, to define the chatbot’s purpose and scope. Inspired by gov.uk’s no-distractions service ethos, we focused on delivering precise, relevant responses to user queries while reducing “dead ends” in the chat flow.  
+I began by aligning cross-functional teams, including content designers, developers, and policy experts, to define the chatbot’s purpose and scope. Inspired by GOV.UK’s no-distractions service ethos, we focused on delivering precise, relevant responses to user queries while reducing “dead ends” in the chat flow.  
 
 Key steps included:  
 
@@ -54,7 +54,7 @@ Key steps included:
 
 <figure>
   <img src="/i/cases/cui/study/content-AB-testing.png" alt="An option from a multivariate test shows a sample of govuk content in the chat UI itsel.">
-  <figcaption>I designed multivariate tests to explore to what degree users expected the chat UI to provide the answer in inline content as opposed to providing links to gov.uk pages.</figcaption>
+  <figcaption>I designed multivariate tests to explore to what degree users expected the chat UI to provide the answer in inline content as opposed to providing links to GOV.UK pages.</figcaption>
 </figure>
 
 ## Outcomes
@@ -69,6 +69,6 @@ The HMRC chatbot project demonstrated the value of combining human-centred desig
 
 ## The view from the research team
 
-Read Ruth Drake's great blog post on [designing helpful chatbots](https://designnotes.blog.gov.uk/2022/06/14/6-tips-for-building-a-genuinely-helpful-chatbot/)
+Read Ruth Drake's great blog post on [designing helpful chatbots](https://designnotes.blog.GOV.UK/2022/06/14/6-tips-for-building-a-genuinely-helpful-chatbot/)
 
 
