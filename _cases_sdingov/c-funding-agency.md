@@ -5,8 +5,11 @@ title: Setting up a policy lab to accelerate policy creation at a government fun
 subtitle: >
   A digital solution driven by agile test-and-learn can't always independently deliver on policy intent. Sometimes you need to design policy and delivery as one thing coherent thing.
 
-index_image: "/i/cases/funding/ecosystem.jpg"
-hero_image: "/i/cases/funding/ecosystem.jpg"
+# index_image: "/i/cases/funding/ecosystem.jpg"
+# hero_image: "/i/cases/funding/ecosystem.jpg"
+
+index_image: "/i/cases/funding/possible-feedback-loops.jpg"
+hero_image: "/i/cases/funding/possible-feedback-loops.jpg"
 
 hero_image_alt: >
   The research and innovation system is complex and multidimensional and must be considered holistically. As stewards of the system, this agency's role was to use the levers at their disposal in an integrated and coordinated way to support a diverse portfolio of outstanding research and innovation, and the people and infrastructure needed to deliver it
