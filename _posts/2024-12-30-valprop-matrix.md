@@ -4,7 +4,7 @@ title: "A new way of using the value proposition canvas?"
 subtitle: >
   So have been going back to Strategyzer's value-prop canvas as a way of storing structured data about business needs, and building a picture of how different businesses fit together in a market...
 index_image: "/i/valprops/cw-vprop.png"
-hero_image: "/i/valprops/cw-vprop-table.png"
+hero_image: "/i/valprops/cw-vprop-table-trim.png"
 
 hero_image_alt: >
   The table shows how a heatmap might be used to illustrate the alignment between a brand and its customer needs.
