@@ -134,6 +134,17 @@ Carwow is a broader platform that also supports buyers (especially for new cars)
 
 However, for pure car-selling services, Motorway is the closest and strongest competitor to Carwow.
 
-But this is entirely make-beleive and just the result of a half-hour look online. To manage this proposition will require ongoing research, planning, and creative.
+But this is entirely make-believe and just the result of a half-hour look online. To manage this proposition will require ongoing research, planning, and creative.
 
+## What next?
+
+So had some feedback, I guess I need to sort out a couple further posts:
+
+### LLM-enhanced business design tools
+
+I've now built some LLM demos for creating most of the more frequently used tools - writing a business case, testing the big idea, defining a value proposition, crafting business model canvas, setting up lean testing etc. I should probably explain how those work and why you might want to use them. The main idea was that smaller businesses either might not know about these things, not can they afford fancy consultants to guide them, so the tools are a little 'self-serve' experiment.
+
+### Method deeper dive
+
+There are lots of question around choices versus assumptions, how you map specific research to the proposition, why certain pains or gains make for more useful comparisons etc. I'll have to unpick this and share when i get a minute...
 
