@@ -57,7 +57,7 @@ The NHS screening services for breast, cervical and bowel cancer are all support
 - There is was no common understanding of patient touchpoints across the thirteen screening patient journeys
 - Infrastructure procurement was exacerbating an already complex situation
 - The cohort management and screening data storage solutions were "burning platforms"
-- Stakeholders where focused on digital and ignoring multichannel or system interactions
+- Stakeholders were focused on digital and ignoring multichannel or system interactions
 - Politics were made more challenging by a complex network of vendors leveraging vested interests
 
 ## My challenge
