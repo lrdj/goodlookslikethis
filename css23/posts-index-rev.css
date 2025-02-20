@@ -116,16 +116,13 @@ Styles to create the image overlays in index items with backround on hover etc.
     opacity: 0;
     filter: grayscale(1);
     mix-blend-mode: multiply;
-    transform: scale(1.05) translate3d(0, 0, 0); /* Added translate3d */
-    will-change: opacity, transform; /* Added will-change */
+    transform: scale(1.05);
     transition: all 0.5s ease;
     z-index: 1;
     background-image: var(--bg-image);
     /* twiddles */
     background-position: 50% 50%;
 }
-
-
 
 .article-list article:hover figure::before {
     opacity: 0.8;
