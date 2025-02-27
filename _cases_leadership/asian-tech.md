@@ -1,9 +1,19 @@
 ---
 layout: 2023/case
 date: 2023-10-6
-title: "Setting up a design agency for growth as part of a global tech consultancy"
+
+title: Leading global transformation in service design across cultures and time zones
+# title: "Setting up a design agency for growth as part of a global tech consultancy"
+
 subtitle: >
-  Leveraging both agency-side and enterprise-technology-side leadership experiences, to shape the UK studio's place in the group's supply chain. I asked: how might we adapt our team structures and internal processes to <em>move a tech giant's offer closer to user-centricity</em> and get them working in a design-led way?
+  Integrating a specialist design agency into a global consultancy required a clear service design vision, leadership across multiple time zones, and alignment of design principles with business strategy. I led efforts to embed service design at scale, ensuring a seamless transition that preserved innovation while aligning with the parent organisation's objectives.
+
+# subtitle: >
+#  Leveraging both agency-side and enterprise-technology-side leadership 
+# experiences, to shape the UK studio's place in the group's supply chain. 
+# I asked: how might we adapt our team structures and internal processes 
+# to <em>move a tech giant's offer closer to user-centricity</em> and get 
+# them working in a design-led way?
 
 index_image: "/i/cases/wip/wall.jpg"
 hero_image: "/i/cases/wip/wall.jpg"
