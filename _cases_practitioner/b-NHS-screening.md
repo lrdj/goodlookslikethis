@@ -1,10 +1,15 @@
 ---
 layout: 2023/case
 
-title: NHS digital transformation of screening services
-subtitle: >
-  Guiding teams at the NHS to deliver the digital transformation of the twelve screening services mandated by Public Health England.
+title: Transforming NHS screening services for customers and healthcare staff
+# title: NHS digital transformation of screening services
 
+subtitle: >
+  To drive the transformation of NHS-mandated screening services, I led an end-to-end redesign to improve both patient experience and operational efficiency. Working across multiple stakeholder groups – including policy, technology, and clinical teams.
+
+# subtitle: >
+#  Guiding teams at the NHS to deliver the digital transformation 
+# of the twelve screening services mandated by Public Health England.
 #
 # subtitle_image: /i/cases/nhs/screening-happens.png
 #
@@ -16,7 +21,6 @@ hero_image: /i/cases/nhs/as-is-with-lego-bricks-alpha.png
 hero_image_zoom: 1.2
 hero_image_caption: >
   In an environment where it seemed everything was broken, the challenge for my customer was to understand both what was possible, and where to start. By focusing on the overlap between different types of screening journeys, and qualifying that with data and technical architecture choices, it was possible to identify the four innitiatives that would generate the most value inside realistic time and cost parameters.
-
 #
 # star
 # situation: >
@@ -66,6 +70,10 @@ The NHS screening services for breast, cervical and bowel cancer are all support
 
 ![Beginning to understand patient journeys in context.](/i/cases/nhs/NHS-screening-BP.png)
 
+<p class="imagecaption">
+  The complexity in the patient journey for screening was not so much in the multiple processes, but in the multiple channels through which the patient's needs were addressed (or underserved). My work identified issues with physical location of machines, language used on hospital signage and multiple other touchpoints. 
+</p>
+
 ## What I did
 
 ### Understanding the ecosystem constraints
@@ -74,10 +82,6 @@ The NHS screening services for breast, cervical and bowel cancer are all support
 - Desk research, onboarding with data, review user interviews
 - Primary service design research (role-play workshops with SMEs and stakeholders)
 - Policy safari, meeting stakeholders across policy, digital and clinical. How the pieces fit together
-
-<p class="imagecaption">
-  The complexity in the patient journey for screening was not so much in the multiple processes, but in the multiple channels through which the patient's needs were addressed (or underserved). My work identified issues with physical location of machines, language used on hospital signage and multiple other touchpoints. 
-</p>
 
 ### Understanding the patient experience. 
 

@@ -1,9 +1,18 @@
 ---
 layout: 2023/case
-title: "Defra Livestock Information Programme"
+
+title: "Structuring complex transformation initiatives for effective delivery at Defra"
+# title: "Defra Livestock Information Programme"
 
 subtitle: >
-  The Livestock Information programme (LIP) had been running for a little over two years when I joined the team to lead the design of the service. Lots of work had been done, but nothing had been delivered yet, and passing Beta assessment did not seem like a possibility.
+  When the Livestock Information Programme stalled after two years, I led the effort to bring clarity, governance, and structure to the transformation. By establishing a clear service design framework, I ensured alignment across technology, policy, and user needs—allowing the program to accurately estimate effort, scope, and cost for phased delivery.
+
+# subtitle: >
+#  The Livestock Information programme (LIP) had been running 
+# for a little over two years when I joined the team to lead 
+# the design of the service. Lots of work had been done, but 
+# nothing had been delivered yet, and passing Beta assessment 
+# did not seem like a possibility.
 
 index_image: "/i/cases/lip/LIP_relationships_Venn_diagram.png"
 # hero_image: "/i/cases/lip/lip-tube-map.jpg"
