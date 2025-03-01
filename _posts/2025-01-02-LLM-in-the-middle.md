@@ -57,7 +57,7 @@ So I’m sharing some of these examples in case others are interested in how we 
 It would be great to hear thoughts—especially from public sector colleagues in service delivery, social impact, or those who have witnessed these challenges firsthand.
 
 
-## Possible future expolorations
+## Possible future explorations
 
 I haven't looked at these yet, but I'm thinking it could be helpful to create similar experiments for these sorts of services.
 
