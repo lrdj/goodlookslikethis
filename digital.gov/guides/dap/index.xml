@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Understanding the Digital Analytics Program on Digital.gov</title>
+    <link>https://digital.gov/guides/dap/</link>
+    <description>Recent content in Understanding the Digital Analytics Program on Digital.gov</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Feb 2025 11:29:46 -0500</lastBuildDate>
+    <atom:link href="https://digital.gov/guides/dap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get started with DAP</title>
+      <link>https://digital.gov/guides/dap/get-started-with-dap/</link>
+      <pubDate>Wed, 31 Jul 2019 09:00:00 -0500</pubDate>
+      <guid>https://digital.gov/guides/dap/get-started-with-dap/</guid>
+      <description>Learn how to use DAP to better understand user behavior.</description>
+    </item>
+    <item>
+      <title>Glossary of terms</title>
+      <link>https://digital.gov/guides/dap/glossary-of-terms/</link>
+      <pubDate>Wed, 31 Jul 2019 09:00:00 -0500</pubDate>
+      <guid>https://digital.gov/guides/dap/glossary-of-terms/</guid>
+      <description>Browse common terms that you will need to understand when using DAP.</description>
+    </item>
+    <item>
+      <title>Make data-informed decisions</title>
+      <link>https://digital.gov/guides/dap/make-data-informed-decisions/</link>
+      <pubDate>Wed, 31 Jul 2019 09:00:00 -0500</pubDate>
+      <guid>https://digital.gov/guides/dap/make-data-informed-decisions/</guid>
+      <description>Learn how to use custom reports to turn the DAP data into actionable insights.</description>
+    </item>
+    <item>
+      <title>Terms of service</title>
+      <link>https://digital.gov/guides/dap/gsa-dap-terms-of-service/</link>
+      <pubDate>Wed, 31 Jul 2019 09:00:00 -0500</pubDate>
+      <guid>https://digital.gov/guides/dap/gsa-dap-terms-of-service/</guid>
+      <description>Access to or use of the Digital Analytics Program (DAP) constitutes acceptance of these terms of service.</description>
+    </item>
+  </channel>
+</rss>

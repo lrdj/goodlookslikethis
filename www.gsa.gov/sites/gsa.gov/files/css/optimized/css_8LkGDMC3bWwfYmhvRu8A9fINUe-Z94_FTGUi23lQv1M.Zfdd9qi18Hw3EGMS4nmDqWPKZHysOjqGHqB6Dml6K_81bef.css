@@ -1,0 +1,25 @@
+#backtotop {
+  position: fixed;
+  top: 80%;
+  width: 50px;
+  height: 50px;
+  z-index: 9999;
+  right: 15px;
+  padding-top: 0;
+  display: none;
+}
+#backtotop div {
+  cursor: pointer;
+  background-size: 25px 25px !important;
+  right: 10px;
+  text-decoration: none;
+  background-position: 13px 7px !important;
+  padding-top: 5px;
+}
+#backtotop span {
+  font-size: 12px;
+  padding-top: 30px;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}

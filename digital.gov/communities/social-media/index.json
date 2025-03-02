@@ -1,0 +1,32 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "communities",
+    "type" : "single",
+    "title" : "Join the Social Media |Digital.gov",
+    "description": "Join the Social Media",
+    "home_page_url" : "https://digital.gov/","feed_url" : "https://digital.gov/communities/social-media/index.json","item" : [
+    {"kicker" : "Communities of Practice","title" :"Join the Social Media","summary" : "Improve social media outreach and performance.","deck" : "Share and learn with social media practitioners.","date" : "2019-12-12T19:00:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"laura-larrimore" : "Laura Larrimore","catie-miller" : "Catie Miller"},"topics" : {
+        
+            "social-media" : "Social media"
+            },"community_list" : {"list_1" : {
+      
+        "join_cop_button" : "Social Media community members",
+        "members" : "1,760",
+        "platform" : "listserv",
+        "subscribe_email" : "sm-cop-request@listserv.gsa.gov",
+        "subscribe_email_subject" : "Join the Social Media Community",
+        "terms" : "Government employees and contractors with an official .gov or .mil email are eligible to join.",
+        "type" : "government"},"primary_image" : { "uid" : "communities-card-sm", "alt" :
+  "", "width" :
+  "2501", "height" :
+  "1307", "credit" :
+  "", "caption" :
+  "", "format" :
+  "png" },"branch" : "main",
+      "filename" :"social-media.md",
+      
+      "filepath" :"communities/social-media.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/social-media.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/social-media.md","slug" : "social-media","url" : "https://digital.gov/communities/social-media/","weight" : "1","content" :"\u003cp\u003eGovernment professionals from all levels come together in this community to elevate social media content, outreach, and performance.\u003c/p\u003e\n\u003cp\u003eBecome a member to spark new ideas, connect, and collaborate.\u003c/p\u003e\n\u003cp\u003eDigital.gov fosters this vibrant community by providing spaces designed to empower members on their digital and social media journeys. Remember, when participating in this community, you must follow \u003ca href=\"https://digital.gov/communities/community-guidelines/\"\u003eDigital.gov community guidelines\u003c/a\u003e.\u003c/p\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  \n  \n  \n\n  \n  \n    \n  \n\n\n\n  \n\u003cdiv class=\"dg-featured-resource\"\u003e\n    \u003ca href=\"/topics/social-media/\" class=\"dg-featured-resource__body\"\u003e\n      \u003cdiv class=\"dg-featured-resource__text\"\u003e\n        \u003cp class=\"dg-featured-resource__kicker\"\u003eFeatured topic\u003c/p\u003e\n        \n          \u003ch2 class=\"dg-featured-resource__text-title\"\u003eSocial media\u003c/h2\u003e\n        \n        \n          \u003cp class=\"dg-featured-resource__text-description\"\u003eBy using social media, agencies can strengthen their connection with the public, promote transparency, and respond to their audience’s needs. Social media meets customers where they are, and it is a great place to communicate with them — making it an essential tool for communications during emergencies.\u003c/p\u003e\n        \n      \u003c/div\u003e\n      \n    \u003c/a\u003e\n  \u003c/div\u003e\n"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "communities",
+    "type" : "single",
+    "title" : "Join the Communicators |Digital.gov",
+    "description": "Join the Communicators",
+    "home_page_url" : "https://digital.gov/","feed_url" : "https://digital.gov/communities/communicators/index.json","item" : [
+    {"kicker" : "Communities of Practice","title" :"Join the Communicators","summary" : "Improve written and verbal communication to make government more effective.","deck" : "Share and learn with communications and public affairs practitioners.","date" : "2021-02-24T18:49:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"deanna-mccray-james" : "Deanna McCray-James","josie-anderson" : "Josie Anderson"},"topics" : {
+        
+            "communication" : "Communication",
+            "content-strategy" : "Content strategy",
+            "open-government" : "Open government",
+            "plain-language" : "Plain language",
+            "social-media" : "Social media"
+            },"community_list" : {"list_1" : {
+      
+        "join_cop_button" : "Communicators community members",
+        "members" : "2,774",
+        "platform" : "listserv",
+        "subscribe_email" : "fcn-request@listserv.gsa.gov",
+        "subscribe_email_subject" : "Join the Communicators Community",
+        "terms" : "Government employees and contractors with an official .gov or .mil email are eligible to join.",
+        "type" : "government"},"branch" : "main",
+      "filename" :"communicators.md",
+      
+      "filepath" :"communities/communicators.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/communicators.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/communicators.md","url" : "https://digital.gov/communities/communicators/","aliases" : {"0" : "/communities/federal-communicators-network/"},"weight" : "1","content" :"\u003cp\u003eGovernment professionals from all levels come together in this community to improve written and verbal communication to make government communication more effective.\u003c/p\u003e\n\u003cp\u003eBecome a member to network with subject matter experts with extensive experience and deep subject knowledge in communications, public affairs, and other related areas.\u003c/p\u003e\n\u003cp\u003eDigital.gov fosters this essential community by providing spaces designed to share best practices, resources, and networking opportunities. Remember, when participating in this community, you must follow \u003ca href=\"https://digital.gov/communities/community-guidelines/\"\u003eDigital.gov community guidelines\u003c/a\u003e.\u003c/p\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  \n  \n  \n\n  \n  \n    \n  \n\n\n\n  \n\u003cdiv class=\"dg-featured-resource\"\u003e\n    \u003ca href=\"/topics/communication/\" class=\"dg-featured-resource__body\"\u003e\n      \u003cdiv class=\"dg-featured-resource__text\"\u003e\n        \u003cp class=\"dg-featured-resource__kicker\"\u003eFeatured topic\u003c/p\u003e\n        \n          \u003ch2 class=\"dg-featured-resource__text-title\"\u003eCommunication\u003c/h2\u003e\n        \n        \n          \u003cp class=\"dg-featured-resource__text-description\"\u003eCommunicating with the public requires content that’s accurate, relevant, easy-to-use, and conveyed in plain language. Maximize the quality and integrity of information provided to the public by staying informed, connecting with other federal communicators, and implementing best practices shared by trusted resources.\u003c/p\u003e\n        \n      \u003c/div\u003e\n      \n    \u003c/a\u003e\n  \u003c/div\u003e\n"}
+  ]
+}

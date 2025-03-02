@@ -1,0 +1,31 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "event",
+    "type" : "single",
+    "title" : "USWDS Monthly Call - January 2025 |Digital.gov",
+    "description": "USWDS Monthly Call - January 2025",
+    "home_page_url" : "https://digital.gov/","feed_url" : "https://digital.gov/event/2025/01/16/uswds-monthly-call-january-2025/index.json","item" : [
+    {"kicker" : "USWDS","title" :"USWDS Monthly Call - January 2025","deck" : "The USWDS essentials","summary" : "Learn the U.S. Web Design System basics, how to get started with the design system, and what’s coming next for USWDS in 2025.","date" : "2025-01-16T14:00:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","start_date" : "2025-01-16T14:00:00-05:00","end_date" : "2025-01-16T15:00:00-05:00",
+      "event_organizer" : "Digital.gov","host" : "U.S. Web Design System","registration_url" : "https://gsa.zoomgov.com/meeting/register/vJItdO2rrD8uGwZHMv_sapSs3li8yvD9vkI","topics" : {
+        
+            "best-practices" : "Best practices",
+            "design" : "Design",
+            "human-centered-design" : "Human-centered design",
+            "usability" : "Usability",
+            "user-experience" : "User experience"
+            },"primary_image" : { "uid" : "uswds-monthly-call-january-2025", "alt" :
+  "USWDS monthly call, January 2025: The USWDS essentials. January 16, 2025, from 2 p.m. to 3 p.m., Eastern.", "width" :
+  "1200", "height" :
+  "630", "credit" :
+  "", "caption" :
+  "", "format" :
+  "png" },"content" :"\n\u003ca\n    href=\"https://s3.amazonaws.com/digitalgov/static/uswds-monthly-call-january-2025.pptx\"\u003eView the slides (PowerPoint presentation, 12.7 MB, 89 slides)\u003c/a\u003e\n\n\n\u003cp\u003eThis month, join the U.S. Web Design System (USWDS) team to revisit design system basics.\u003c/p\u003e\n\u003cp\u003eIn this session, you’ll learn about:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eWhat USWDS is and how it works\u003c/li\u003e\n\u003cli\u003eHow to get started using the design system by adding the USWDS banner\u003c/li\u003e\n\u003cli\u003eWhat the team is doing to make USWDS even better in 2025\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eThis event is best suited for:\u003c/strong\u003e Anyone interested in using the design system.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSpeakers\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eDan Williams\u003c/strong\u003e - Product Lead, USWDS\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eAnne Petersen\u003c/strong\u003e - Experience Design Lead, USWDS\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eMatt Henry\u003c/strong\u003e - Engineering Lead, USWDS\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"join-our-communities-of-practice\"\u003eJoin our Communities of Practice\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://designsystem.digital.gov/about/community/\"\u003eUSWDS\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://www.section508.gov/manage/join-the-508-community/\"\u003eSection 508 IT Accessibility\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cem\u003eThis event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.\u003c/em\u003e\u003c/p\u003e\n\u003ch2 id=\"about-the-uswds\"\u003eAbout the USWDS\u003c/h2\u003e\n\u003cp\u003e\u003ca href=\"https://designsystem.digital.gov/\"\u003eThe U.S. Web Design System\u003c/a\u003e is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://designsystem.digital.gov/\"\u003eThe U.S. Web Design System\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://github.com/uswds/uswds/issues\"\u003eContribute on GitHub\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"mailto:uswds@gsa.gov\"\u003eEmail Us\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://digital.gov/communities/uswds/\"\u003eJoin our community\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://twitter.com/uswds\"\u003eFollow @uswds on Twitter\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+      "branch" : "main",
+      "filename" :"2025-01-16-uswds-monthly-call-january-2025.md",
+      
+      "filepath" :"events/2025/01/2025-01-16-uswds-monthly-call-january-2025.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/events/2025/01/2025-01-16-uswds-monthly-call-january-2025.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/events/2025/01/2025-01-16-uswds-monthly-call-january-2025.md","slug" : "uswds-monthly-call-january-2025","url" : "https://digital.gov/event/2025/01/16/uswds-monthly-call-january-2025/"
+    }
+  ]
+}

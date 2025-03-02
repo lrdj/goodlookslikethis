@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About us on Digital.gov</title>
+    <link>https://digital.gov/about/</link>
+    <description>Recent content in About us on Digital.gov</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://digital.gov/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How does Digital.gov manage content?</title>
+      <link>https://digital.gov/about/manage-content/</link>
+      <pubDate>Fri, 11 Oct 2024 08:25:54 -0400</pubDate>
+      <guid>https://digital.gov/about/manage-content/</guid>
+      <description>To maintain and curate the most useful experience possible, we regularly evaluate our web content for accuracy, relevance, and other indicators of quality.</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>https://digital.gov/about/contact/</link>
+      <pubDate>Thu, 13 Feb 2020 10:25:54 -0400</pubDate>
+      <guid>https://digital.gov/about/contact/</guid>
+      <description>How to contact the Digital.gov team.</description>
+    </item>
+    <item>
+      <title>Contribute to Digital.gov</title>
+      <link>https://digital.gov/about/contribute/</link>
+      <pubDate>Wed, 10 Jul 2019 04:00:00 -0500</pubDate>
+      <guid>https://digital.gov/about/contribute/</guid>
+      <description>Have a story to share? Here is what we’re looking for.</description>
+    </item>
+    <item>
+      <title>Subscribe to Digital.gov</title>
+      <link>https://digital.gov/about/subscribe/</link>
+      <pubDate>Wed, 10 Jul 2019 04:00:00 -0500</pubDate>
+      <guid>https://digital.gov/about/subscribe/</guid>
+      <description>Stay connected with the innovative work, news, events and ideas from people and teams across government</description>
+    </item>
+    <item>
+      <title>Digital.gov Style Guide</title>
+      <link>https://digital.gov/style-guide/</link>
+      <pubDate>Thu, 26 Apr 2018 10:25:54 -0400</pubDate>
+      <guid>https://digital.gov/style-guide/</guid>
+      <description>This is the Digital.gov style guide.</description>
+    </item>
+    <item>
+      <title>Lost and Found &amp;#8211; Mapping Page</title>
+      <link>https://digital.gov/lost-and-found-mapping-page/</link>
+      <pubDate>Tue, 16 Sep 2014 04:20:55 -0400</pubDate>
+      <guid>https://digital.gov/lost-and-found-mapping-page/</guid>
+      <description>Had a HowTo.gov page bookmarked that you’re looking for on DigitalGov? Take a look at the list below for the corresponding DigitalGov URL.</description>
+    </item>
+    <item>
+      <title>Policies</title>
+      <link>https://digital.gov/policies/</link>
+      <pubDate>Thu, 19 Dec 2013 12:58:33 -0400</pubDate>
+      <guid>https://digital.gov/policies/</guid>
+      <description>Policies for DigitalGov</description>
+    </item>
+  </channel>
+</rss>

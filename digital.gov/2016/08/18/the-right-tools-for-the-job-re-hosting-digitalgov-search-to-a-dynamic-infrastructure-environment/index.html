@@ -1,0 +1,1269 @@
+<!--
+
+Welcome to Digital.gov — our goal is to transform how government learns, builds,
+delivers and measures digital services in the 21st century. Learn more
+https://digital.gov/about Get in touch: digitalgov@gsa.gov Follow us on Twitter:
+@digital_gov ======= We edit in the open at https://workflow.digital.gov/ Built
+by the Digital.gov team in the GSA, using modern development practices. See the
+full source code: https://github.com/GSA/digitalgov.gov Built using HUGO. Hosted
+on cloud.gov Pages https://cloud.gov/pages/ -->
+
+
+
+<!DOCTYPE html>
+
+<html
+  lang="en-US"
+  itemscope
+  itemtype="../../../../../schema.org/WebSite.html"
+  prefix="og: http://ogp.me/ns#"
+>
+
+
+
+
+
+
+<!-- Mirrored from digital.gov/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 02 Mar 2025 23:10:23 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head profile="../../../../../gmpg.org/xfn/11.html">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  
+  <script
+    async
+    type="text/javascript"
+    id="_fed_an_ua_tag"
+    src="../../../../../dap.digitalgov.gov/Universal-Federated-Analytics-Minb06b.js?agency=GSA&amp;subagency=TTS"
+  ></script>
+
+  <!-- Google Tag Manager Data Layer -->
+  <script>
+    dataLayer = [
+      {
+        "content-type": "resource+page",
+        topics: "design, analytics, Tag+Manager",
+      },
+    ];
+  </script>
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "../../../../../www.googletagmanager.com/gtm5445.html?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-MZCKZPQ");
+  </script>
+
+  <!-- End Google Tag Manager -->
+
+  <!-- Page Title -->
+    
+    <title>The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment – Digital.gov</title>
+  <!-- Meta Description -->
+  <meta
+    name="description"
+    content="This is the first post of a 5-part series. DigitalGov Search is a commercial-grade search engine provided as a shared-service by the United States General Services Administration. We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that"
+  />
+  <meta
+    name="keywords"
+    content="digital, government, technology, civic-tech,content-strategy, cloud-and-infrastructure, product-and-project-management, search"
+  />
+
+  <!-- Start of Facebook Open Graph -->
+  <meta
+    property="og:title"
+    content="The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment"
+  />
+  <meta
+    property="og:description"
+    content="This is the first post of a 5-part series. DigitalGov Search is a commercial-grade search engine provided as a shared-service by the United States General Services Administration. We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that"
+  />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://digital.gov/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/" />
+  <meta property="og:site_name" content="Digital.gov" />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:image" content="https://s3.amazonaws.com/digitalgov/digitalgov-2022-card-v3.png" />
+    <meta property="og:image:alt" content=" " />
+  
+  <meta property="fb:admins" content="100000569454928" />
+  <meta
+    property="article:publisher"
+    content="https://www.facebook.com/digitalgov"
+  /><meta
+      property="article:published_time"
+      content="2016-08-18T10:00:29-0500"
+    /><meta
+      property="article:modified_time"
+      content="2025-02-26T11:29:46-0500"
+    />
+  <!-- End of Facebook Open Graph -->
+
+  <!-- Start of Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@Digital_Gov" />
+  <meta name="twitter:creator" content="@Digital_Gov" />
+  <meta name="twitter:image:src" content="https://s3.amazonaws.com/digitalgov/digitalgov-2022-card-v3.png" />
+  <meta
+    property="twitter:description"
+    content="This is the first post of a 5-part series. DigitalGov Search is a commercial-grade search engine provided as a shared-service by the United States General Services Administration. We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that"
+  />
+  <meta
+    property="twitter:title"
+    content="The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment"
+  />
+  <!-- End of Twitter -->
+
+  <!-- RSS Feed -->
+  
+
+  <!-- JSON Feed -->
+  <link
+    href="https://digital.gov/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/index.json"
+    data-proofer-ignore
+    rel="alternate"
+    type="application/json"
+    title="Digital.gov"
+  />
+
+  <!-- Sitemap-->
+  <link
+    rel="sitemap"
+    type="application/xml"
+    title="Digital.gov Sitemap"
+    href="../../../../sitemap.xml"
+  />
+
+  
+  
+  <meta name="theme-color" content="#656bd7" />
+
+  
+  <meta name="msvalidate.01" content="A662823C2F59EB4F55F752CC752AC299" />
+
+  <!-- CSS -->
+  
+  <link
+    rel="stylesheet"
+    href="../../../../dist/styles.css"
+    type="text/css"
+    media="all"
+  />
+  <script src="../../../../dist/js/uswds-init.min.js"></script>
+
+  <!-- Favicons & Icons -->
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="../../../../img/icons/apple-touch-icon30f4.png?v=3"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="../../../../img/icons/favicon-32x3230f4.png?v=3"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="../../../../img/icons/favicon-16x1630f4.png?v=3"
+  />
+  <link
+    rel="manifest"
+    href="../../../../img/icons/site30f4.webmanifest?v=3"
+  />
+  <link
+    rel="mask-icon"
+    href="../../../../img/icons/safari-pinned-tab30f4.svg?v=3"
+    color="#0076d6"
+  />
+  <link
+    rel="shortcut icon"
+    href="../../../../img/icons/favicon30f4.ico?v=3"
+  />
+  <meta name="msapplication-TileColor" content="#0076d6" />
+  <meta name="theme-color" content="#ffffff" />
+
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+</head>
+<body class="news page"><!-- Google Tag Manager (noscript) --><noscript
+      ><iframe
+        src="../../../../../www.googletagmanager.com/ns9116.html?id=GTM-MZCKZPQ"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+    <div class="paper"><a class="usa-skipnav" href="#main-content">Skip to main content</a>
+<section
+  class="usa-banner gov-banner"
+  aria-label="Official website of the United States government"
+>
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto"><img
+            aria-hidden="true"
+            class="usa-banner__header-flag"
+            src="../../../../uswds/img/us_flag_small.png"
+            alt=""
+            width="16"
+            height="11"
+          />
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+          <p class="usa-banner__header-text">
+            An official website of the United States government
+          </p>
+          <p class="usa-banner__header-action">Here’s how you know</p>
+        </div>
+        <button
+          type="button"
+          class="usa-accordion__button usa-banner__button"
+          aria-expanded="false"
+          aria-controls="gov-banner-default-default"
+        >
+          <span class="usa-banner__button-text">Here’s how you know</span>
+        </button>
+      </div>
+    </header>
+    <div
+      class="usa-banner__content usa-accordion__content"
+      id="gov-banner-default-default"
+    >
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6"><img
+            class="usa-banner__icon usa-media-block__img"
+            src="../../../../uswds/img/icon-dot-gov.svg"
+            role="img"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong>
+              <br />
+              A <strong>.gov</strong> website belongs to an official government
+              organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6"><img
+            class="usa-banner__icon usa-media-block__img"
+            src="../../../../uswds/img/icon-https.svg"
+            role="img"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong><br />A
+              <strong>lock</strong> (
+              <span class="icon-lock">
+                <svg
+                  xmlns="../../../../../www.w3.org/2000/svg.html"
+                  width="52"
+                  height="64"
+                  viewBox="0 0 52 64"
+                  class="usa-banner__lock-image"
+                  role="img"
+                  aria-labelledby="banner-lock-description-default"
+                  focusable="false"
+                >
+                  <title id="banner-lock-title-default">Lock</title>
+                  <desc id="banner-lock-description-default">
+                    Locked padlock
+                  </desc>
+                  <path
+                    fill="#000000"
+                    fill-rule="evenodd"
+                    d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"
+                  />
+                </svg> </span
+              >) or <strong>https://</strong> means you’ve safely connected to
+              the .gov website. Share sensitive information only on official,
+              secure websites.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  
+  
+  
+  
+
+  
+  
+
+  
+    <section
+      class="dg-site-alert usa-site-alert usa-site-alert--info
+      
+      "
+      aria-label="Site alert"
+    >
+      <div class="usa-alert">
+        <div class="usa-alert__body">
+          
+            <h3 class="usa-alert__heading">Guidance for U.S. government websites and social media</h3>
+          
+          
+            <ul class="usa-list">
+              
+                <li><a href="https://digital.gov/california-wildfires">digital.gov/california-wildfires</a></li>
+              
+                <li><a href="https://digital.gov/hurricane-helene">digital.gov/hurricane-helene</a></li>
+              
+            </ul>
+          
+        </div>
+      </div>
+    </section>
+  
+
+
+<script type="text/javascript">
+  
+  const links = document.querySelectorAll(".dg-site-alert a");
+  links.forEach((link) => link.classList.add("usa-link"));
+</script>
+<div class="usa-overlay"></div>
+<header class="usa-header usa-header--extended" role="banner">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo__text">
+        <a
+          href="../../../../index.html"
+          title="Digital.gov Home"
+          aria-label="Digital.gov Home"
+        >
+          <img
+            class="logo-black"
+            src="../../../../img/digitalgov-logo.svg"
+            alt="Digital.gov Logo"
+            width="220"
+            height="36"
+          />
+        </a>
+      </em>
+      <p class="sub-head display-none">Guidance on building better digital services in government</p>
+    </div>
+
+    <button class="usa-menu-btn">
+      <svg
+        class="usa-icon dg-icon dg-icon--standard margin-bottom-2px"
+        aria-hidden="true"
+        focusable="false"
+        role="img"
+      >
+        <use xlink:href="../../../../uswds/img/sprite.svg#menu"></use>
+      </svg>
+      Menu
+    </button>
+  </div>
+  <nav aria-label="Primary navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      <button class="usa-nav__close">
+        <img src="../../../../uswds/img/close.svg" alt="close" />
+      </button><ul class="usa-nav__primary usa-accordion"><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../../../news/index.html"
+              ><span>Blogs</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../../../events/index.html"
+              ><span>Events</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../../../resources/index.html"
+              ><span>Resources</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../../../communities/index.html"
+              ><span>Communities</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../../../guides/index.html"
+              ><span>Guides</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../../../job-board/index.html"
+              ><span>Job board</span></a
+            >
+          </li></ul>
+      
+
+      <div class="usa-nav__secondary">
+        <ul class="usa-nav__secondary-links">
+          <li class="usa-nav__secondary-item">
+            <a href="https://digital.gov/subscribe"
+              ><span>Subscribe to our newsletter</span></a
+            >
+          </li>
+        </ul>
+
+        <form
+          accept-charset="UTF-8"
+          action="https://find.digitalgov.gov/search"
+          id="search_form"
+          method="get"
+          class="usa-search usa-search--small"
+        >
+          <input name="utf8" type="hidden" value="&#x2713;" />
+          <input
+            id="affiliate"
+            name="affiliate"
+            type="hidden"
+            value="digitalgov"
+          />
+          <div role="search">
+            <label class="usa-sr-only" for="query">Search small</label>
+            <input class="usa-input" id="query" type="search" name="query" />
+            <button class="usa-button" name="commit" type="submit">
+              <img
+                src="../../../../uswds/img/usa-icons-bg/search--white.svg"
+                class="usa-search__submit-icon"
+                alt="Search"
+              />
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+      
+      <main role="main" id="main-content">
+    <div
+    class="usa-alert usa-alert--warning dg-alert dg-alert--out-of-date"
+    role="alert"
+  >
+    <div class="usa-alert__body">
+      <h2 class="usa-alert__heading">
+        You have reached a collection of archived material
+      </h2>
+      <div class="usa-alert__text">
+        <p>
+          The content available is no longer being updated and as a result you
+          may encounter hyperlinks which no longer function. This content may
+          contain text and references which are no longer applicable as a result
+          of changes in law, regulation, and/or administration.
+        </p>
+      </div>
+    </div>
+  </div>
+    <article
+      class="grid-container-desktop"
+      ><nav class="usa-breadcrumb usa-breadcrumb--wrap" aria-label="Breadcrumb">
+  <ol class="usa-breadcrumb__list">
+    <li class="usa-breadcrumb__list-item">
+      <a href="../../../../index.html" class="usa-breadcrumb__link">
+        <span>Home</span>
+      </a>
+    </li>
+
+  
+    <li class="usa-breadcrumb__list-item">
+      <a
+        href="../../../../news/index.html"
+        class="usa-breadcrumb__link"
+        aria-label="Back to Blogs"
+      >
+        <span>
+          Blogs</span>
+      </a>
+    </li>
+
+  
+    <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
+      <span>
+        The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment</span>
+    </li>
+    
+  </ol>
+</nav>
+<header>
+
+
+
+
+
+
+
+<div class="dg-page-header">
+  
+  
+    <h1>
+      The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment
+      
+    </h1>
+  
+  
+</div>
+
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../../../authors/dmccleskey/index.html"
+              title="Posts by Dawn Pointer McCleskey"
+              rel="author"
+              aria-label="Read more articles by Dawn Pointer McCleskey"
+              >Dawn Pointer McCleskey</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+
+
+        <div class="meta">
+          <div class="date">
+            <span title="The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment"
+              >Aug 18, 2016</span
+            >
+          </div>
+        </div>
+      </header>
+
+      <section>
+        <div class="grid-row tablet-lg:grid-gap-6">
+          <div class="grid-col-12 tablet-lg:grid-col-9 tablet-lg:order-last">
+            
+            <div class="content usa-prose"><blockquote>
+<p><em>This is the first post of a 5-part series.</em></p>
+</blockquote>
+<p><a href="https://search.gov/">DigitalGov Search</a> is a commercial-grade search engine provided as a shared-service by the United States <a href="../../../../../www.gsa.gov/index.html">General Services Administration</a>. We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that brings together resources from across their many publishing platforms: websites, blogs and feeds, social media, and government-specific resources like rules and notices from the Federal Register, and posts from USAJobs.</p>
+<p>Customers include the <a href="https://search.whitehouse.gov/search?query=bo+and+sunny&amp;op=Search&amp;affiliate=wh">White House</a>, <a href="http://search.digitalgov.gov/customers.html">12 Department-level websites</a>, all branches of the military, the <a href="http://find.irs.gov/search?utf8=%E2%9C%93&amp;affiliate=irs&amp;query=tax+extension&amp;commit=Search">Internal Revenue Service</a>, <a href="http://nasasearch.nasa.gov/search?utf8=%E2%9C%93&amp;affiliate=nasa&amp;query=juno">NASA</a>, and many more. We partner with agencies continually to improve the public’s ability to find the information they need on government websites, and streamline agency staff workflows for managing their searches. Launched originally as the <a href="http://web.archive.org/web/20001109105200/http://www.firstgov.gov">search box on FirstGov.gov</a>, we now serve 260 million queries a year across the government space, with peak throughput over 59 transactions per second. Our service is a big, mature system. Our move to a new infrastructure had to be perfect, and invisible.</p>
+<div class="image">
+  <img
+    src="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/08/600-x-330-White-House-DG-Search-menu.jpg"
+    alt="Screen capture from a Kindle device of DigitalGov Search on the White House website."/></div>
+
+
+<p>In 2016, we began migrating the DigitalGov Search infrastructure to Amazon Web Services’ (AWS) Elastic Compute Cloud (EC2). Given the tight window of opportunity – seven months from project launch to migration – and the velocity constraints of our small team size, we elected to forklift the application into the new infrastructure as-is, and leave for a subsequent phase any consideration of refactoring to adopt additional modern practices like containerization. Even so, we were facing a challenging combination of requirements:</p>
+<ol>
+<li>The DigitalGov Search EC2 infrastructure needs to support the addition, removal, or replacement of servers on-the-fly without interruption of service, at a significant reduction of costs for the government;</li>
+<li>DigitalGov Search customers – government departments and agencies – need the option to direct their users to our results page “masked” with their own domain name, such as search.justice.gov, rather than the default domain of search.usa.gov;</li>
+<li>Customers using domain masks need those domains to be served over https; and</li>
+<li>The DNS for all search.usa.gov records are required to be signed by DNSSEC.</li>
+</ol>
+<p>Meeting requirements 1, 2, and 3 together would be straightforward. Meeting requirements 2, 3, and 4 together would also have been straightforward. Satisfying the first and last requirements together required fancy footwork, a new open-source software feature and a two-tier DNS server architecture that we’ll describe in detail in this series of posts.</p>
+<p>While this series of posts will discuss the requirements above separately, the build and migration was handled in three phases:</p>
+<ol>
+<li>Insource our content delivery network (CDN) and web application firewall (WAF), initially routing traffic to our old data centers, but still reducing monthly costs significantly</li>
+<li>Build our servers and application within AWS</li>
+<li>Cut over our read-only data center, allow dust to settle; then cut over our read-write data center, allow dust to settle; shut off old infrastructure</li>
+</ol>
+<p>If you have questions or would like to discuss particulars, <a href="mailto:search@gsa.gov">we would love to hear from you</a>.</p>
+<h3 id="series">
+  <em>This is the first post in a five part series. Stay tuned for the following posts:</em>
+</h3>
+<ul>
+<li><a href="../../../09/02/quality-speed-and-lower-costs-yes-you-can-have-it-all/index.html">Quality, Speed, and Lower Costs: Yes, You Can Have It All</a></li>
+<li><a href="https://digital.gov/2016/09/06/a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection/">A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection</a></li>
+<li><a href="../../../09/07/lets-encrypt-those-cnames-shall-we/index.html">Let’s Encrypt those CNAMES, Shall We?</a></li>
+<li><a href="https://digital.gov/2016/09/12/dnssec-vs-elastic-load-balancers-the-zone-apex-problem/">DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem</a></li>
+</ul>
+</div>
+
+            <script
+  src="https://touchpoints.app.cloud.gov/touchpoints/dc4265f6.js"
+  async
+></script>
+<section class="touchpoints-form-container">
+  <button id="touchpoints-modal-button" class="usa-button" type="button">
+    Was this page helpful?
+  </button>
+</section>
+</div>
+
+          <div class="dg-sidebar grid-col-12 tablet-lg:grid-col-3">
+            
+
+
+
+
+
+  <div class="authors-list ">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../../../authors/dmccleskey/index.html"
+              title="Posts by Dawn Pointer McCleskey"
+              rel="author"
+              aria-label="Read more articles by Dawn Pointer McCleskey"
+              >Dawn Pointer McCleskey</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+
+
+            <div class="meta">
+              
+              <div class="date">
+                <span title="The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment"
+                  >Aug 18, 2016</span>
+              </div>
+            </div>
+
+            
+            
+            
+
+
+
+<article class="dg-promos dg-related-communities">
+    <h3 class="dg-promos__heading">Join a Community</h3>
+
+    <ul class="dg-promos__list"><li class="promo dg-promos__list-item">
+          <a
+            href="../../../../communities/communicators/index51b6.html?promo"
+            title="Visit Join the Communicators community page"
+            class="dg-promos__link"
+          >
+            Join the Communicators
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../../../communities/contact-center/index51b6.html?promo"
+            title="Visit Join the Contact Center community page"
+            class="dg-promos__link"
+          >
+            Join the Contact Center
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../../../communities/multilingual/index51b6.html?promo"
+            title="Visit Join the Multilingual community page"
+            class="dg-promos__link"
+          >
+            Join the Multilingual
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../../../communities/plain-language/index51b6.html?promo"
+            title="Visit Join the Plain Language community page"
+            class="dg-promos__link"
+          >
+            Join the Plain Language
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../../../communities/social-media/index51b6.html?promo"
+            title="Visit Join the Social Media community page"
+            class="dg-promos__link"
+          >
+            Join the Social Media
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../../../communities/user-experience/index51b6.html?promo"
+            title="Visit Join the User Experience community page"
+            class="dg-promos__link"
+          >
+            Join the User Experience
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../../../communities/web-analytics-and-optimization/index51b6.html?promo"
+            title="Visit Join the Web Analytics community page"
+            class="dg-promos__link"
+          >
+            Join the Web Analytics
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../../../communities/web-content-managers/index51b6.html?promo"
+            title="Visit Join the Web Managers community page"
+            class="dg-promos__link"
+          >
+            Join the Web Managers
+          </a>
+        </li></ul>
+
+    <footer class="dg-promos__footer">
+      
+
+      <a
+        href="https://digital.gov/communities"
+        class="dg-promos__more-link dg-more-link"
+      >
+        <span> See all 34 communities </span>
+        <svg
+          class="usa-icon dg-icon dg-icon--small margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="../../../../uswds/img/sprite.svg#arrow_forward"
+          ></use>
+        </svg>
+      </a>
+    </footer>
+  </article>
+
+
+
+<article class="list-topics">
+    <h3 class="dg-promos__heading">Related Topics</h3>
+    
+
+    
+
+        
+        <a href="../../../../topics/cloud-and-infrastructure/index.html" data-topic="cloud-and-infrastructure"
+          >Cloud and infrastructure</a
+        >
+
+        
+        <a href="../../../../topics/content-strategy/index.html" data-topic="content-strategy"
+          >Content strategy</a
+        >
+
+        
+        <a href="../../../../topics/product-and-project-management/index.html" data-topic="product-and-project-management"
+          >Product and project management</a
+        >
+
+        
+        <a href="../../../../topics/search/index.html" data-topic="search"
+          >Search</a
+        ></article>
+
+
+
+<section class="share-tools">
+  <div class="grid-row">
+    <div class="grid-col-4">
+      <a
+        class="twitter"
+        aria-label="Share on Twitter"
+        target="_blank"
+        rel="noreferrer"
+        href="http://twitter.com/share?url=https://digital.gov%2f2016%2f08%2f18%2fthe-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment%2f&amp;text=The%20Right%20Tools%20for%20the%20Job%3a%20Re-Hosting%20DigitalGov%20Search%20to%20a%20Dynamic%20Infrastructure%20Environment"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="../../../../uswds/img/sprite.svg#x"></use>
+        </svg>
+      </a>
+    </div>
+    <div class="grid-col-4">
+      <a
+        class="facebook"
+        aria-label="Share on Facebook"
+        target="_blank"
+        rel="noreferrer"
+        href="https://www.facebook.com/sharer/sharer.php?u=https://digital.gov%2f2016%2f08%2f18%2fthe-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment%2f"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="../../../../uswds/img/sprite.svg#facebook"
+          ></use>
+        </svg>
+      </a>
+    </div>
+    <div class="grid-col-4">
+      <a
+        class="linkedin"
+        aria-label="Share on LinkedIn"
+        target="_blank"
+        rel="noreferrer"
+        href="https://www.linkedin.com/sharing/share-offsite/?url=https://digital.gov%2f2016%2f08%2f18%2fthe-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment%2f"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="../../../../uswds/img/sprite.svg#linkedin"
+          ></use>
+        </svg>
+      </a>
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="grid-col-6">
+      <a
+        target="_blank"
+        title="Email this page"
+        class="email"
+        href="mailto:?subject=The%20Right%20Tools%20for%20the%20Job%3a%20Re-Hosting%20DigitalGov%20Search%20to%20a%20Dynamic%20Infrastructure%20Environment%20%7C%20Digital.gov&body=%20%20%0A-------%0AThe%20Right%20Tools%20for%20the%20Job%3a%20Re-Hosting%20DigitalGov%20Search%20to%20a%20Dynamic%20Infrastructure%20Environment%0Ahttps://digital.govhttps%3a%2f%2fdigital.gov%2f2016%2f08%2f18%2fthe-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment%2f%3Fem%0A-------%0A%0A&#9829; Sign-up%20for%20the%20Digital.gov%20newsletter%3A%20https%3A%2F%2Fdigital.gov%2Fsubscribe%2F"
+        data-proofer-ignore
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="../../../../uswds/img/sprite.svg#mail"></use>
+        </svg>
+        Email</a
+      >
+    </div>
+    <div class="grid-col-6">
+      <a
+        class="print"
+        href="javascript:window.print()"
+        onclick="window.print();return false;"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="../../../../uswds/img/sprite.svg#print"></use>
+        </svg>
+        Print
+      </a>
+    </div>
+  </div>
+</section>
+</div>
+        </div>
+      </section>
+    </article>
+  </main><div id="overlay" class="page-details display-none">
+  <div class="contents">
+    <h6>File name</h6><p>2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md</p><h6>File path</h6>
+    
+      
+    <p>news/2016/08/2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md</p><h6>Link Shortcode</h6><p>&#x0007B;&#x0007B;&#x0003C; link "news/2016/08/2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md</p>
+      <p>" &#x0003E;&#x0007D;&#x0007D;</p><button class="close" type="button" name="button">close</button>
+  </div>
+</div>
+
+<section
+  id="newsletter-signup"
+  aria-label="Subscribe to the Digital.gov newsletter"
+>
+  <div class="grid-container grid-container-desktop">
+    <div class="grid-row tablet-lg:grid-gap-6">
+      <div class="grid-col-12 tablet:grid-col-7">
+        <section class="usa-sign-up">
+          <p class="blurb" id="newsletter-subscribe-description">
+            <strong>Join 18,000 others in government</strong> and subscribe to
+            our newsletter — a round-up of the best digital news in government
+            and across our field.
+          </p>
+        </section>
+      </div>
+      <div class="grid-col-12 tablet:grid-col-5">
+        <section
+          class="usa-sign-up"
+          aria-describedby="newsletter-subscribe-description"
+        >
+          <script
+            src="../../../../../public.govdelivery.com/assets/Signup.js"
+            data-account-code="USGSA"
+            data-signup-id="34948"
+          ></script>
+        </section>
+      </div>
+    </div>
+  </div>
+</section>
+<footer class="usa-footer usa-footer--big" role="contentinfo">
+  <section class="return-to-top">
+    <div
+      class="grid-container grid-container-desktop usa-footer__return-to-top"
+    >
+      <a href="#">
+        <span>Return to top</span>
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="../../../../uswds/img/sprite.svg#arrow_upward"
+          ></use>
+        </svg>
+      </a>
+    </div>
+  </section>
+  <div class="usa-footer__primary-section">
+    <div class="grid-container grid-container-desktop">
+      <nav class="usa-footer__nav" aria-label="Footer navigation">
+        <div class="grid-row grid-gap-4">
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Learn</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../../../news/index.html">Blogs</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../../events/index.html">Events</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../../resources/index.html">Resources</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../../communities/index.html">Communities</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../../guides/index.html">Guides</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../../job-board/index.html">Job board</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Contribute</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../../../contribute/index.html">Write for us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../../digitalgov-university/index.html">Host an event</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../../../github.com/GSA/digitalgov.gov/issues.html">Submit GitHub issue</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">About</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../../../about/index.html">About Us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../../policies/index.html">Site Policies</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../../about/contact/index.html">Contact Us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../../about/manage-content/index.html">Content schedule</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Social</h4>
+              <ul class="usa-list usa-list--unstyled social-links">
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../../../uswds/img/sprite.svg#x"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../../../twitter.com/digital_gov"
+                    >X (Formerly Twitter)</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../../../uswds/img/sprite.svg#facebook"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../../../www.facebook.com/digitalgov/index.html"
+                    >Facebook</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../../../uswds/img/sprite.svg#youtube"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="https://youtube.com/@DigitalGov"
+                    >YouTube</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../../../uswds/img/sprite.svg#linkedin"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../../../www.linkedin.com/company/digitalgov-gsa/index.html"
+                    >LinkedIn</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../../../uswds/img/sprite.svg#rss_feed"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../../index.xml"
+                    >RSS</a
+                  >
+                </li>
+              </ul>
+            </section>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+  <div class="usa-identifier">
+    <section
+      class="usa-identifier__section usa-identifier__section--masthead"
+      aria-label="Agency identifier"
+    >
+      <div class="usa-identifier__container">
+        <div class="usa-identifier__logos">
+          <a href="../../../../../www.gsa.gov/index.html" class="usa-identifier__logo">
+            <img
+              class="usa-identifier__logo-img"
+              src="../../../../img/gsa-logo-w100.png"
+              alt="GSA logo"
+              role="img"
+              width="100"
+              height="100"
+            />
+          </a>
+        </div>
+        <section
+          class="usa-identifier__identity"
+          aria-label="Agency description"
+        >
+          <p class="usa-identifier__identity-domain">Digital.gov</p>
+          <p class="usa-identifier__identity-disclaimer">
+            An official website of the
+            <a href="../../../../../www.gsa.gov/index.html">U.S. General Services Administration</a>
+          </p>
+        </section>
+      </div>
+    </section>
+    <nav
+      class="usa-identifier__section usa-identifier__section--required-links"
+      aria-label="Important links"
+    >
+      <div class="usa-identifier__container">
+        <ul class="usa-identifier__required-links-list">
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../../../www.gsa.gov/about-us.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                About GSA
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../../../www.gsa.gov/website-information/accessibility-statement.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Accessibility statement
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../../../www.gsa.gov/reference/freedom-of-information-act-foia.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                FOIA requests
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../../../www.gsa.gov/reference/civil-rights-programs/the-no-fear-act.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                No FEAR Act data
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../../../www.gsaig.gov/index.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Office of the Inspector General
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="https://www.gsa.gov/reference/reports/budget-performance"
+                class="usa-identifier__required-link usa-link"
+              >
+                Performance reports
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../../../www.gsa.gov/website-information/website-policies.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Privacy policy
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </nav>
+    <section
+      class="usa-identifier__section usa-identifier__section--usagov"
+      aria-label="U.S. government information and services"
+    >
+      <div class="usa-identifier__container">
+        <div class="usa-identifier__usagov-description">
+          Looking for U.S. government information and services?
+        </div>
+        <a href="../../../../../www.usa.gov/index.html" class="usa-link">
+          Visit USA.gov
+        </a>
+      </div>
+    </section>
+  </div>
+
+</div>
+    
+
+    <div id="clicks_iframe" class="display-none"></div>
+  </body>
+
+  
+  <script type="text/javascript">let glossaryPath = null;
+    const glossaryIcon = "#\/uswds\/img\/sprite.svg#expand_more"
+  </script>
+
+  <script src="../../../../dist/js/uswds.min.js"></script>
+  <script src="../../../../dist/js/main.js"></script>
+
+<!-- Mirrored from digital.gov/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 02 Mar 2025 23:10:23 GMT -->
+</html>

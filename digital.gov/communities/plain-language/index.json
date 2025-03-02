@@ -1,0 +1,35 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "communities",
+    "type" : "single",
+    "title" : "Join the Plain Language |Digital.gov",
+    "description": "Join the Plain Language",
+    "home_page_url" : "https://digital.gov/","feed_url" : "https://digital.gov/communities/plain-language/index.json","item" : [
+    {"kicker" : "Communities of practice","title" :"Join the Plain Language","summary" : "Promote the use of plain language to provide better service to the public.","deck" : "Share and learn with plain language practitioners.","date" : "2016-02-03T10:58:53-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"katherine-spivey" : "Katherine Spivey","katina-stapleton" : "Katina Stapleton","jamie-stark" : "Jamie Stark","miriam-vincent" : "Miriam Vincent"},"topics" : {
+        
+            "accessibility" : "Accessibility",
+            "communication" : "Communication",
+            "content-strategy" : "Content strategy",
+            "plain-language" : "Plain language"
+            },"community_list" : {"list_1" : {
+      
+        "join_cop_button" : "Plain Language community members",
+        "members" : "2,818",
+        "platform" : "listserv",
+        "subscribe_email" : "pl-cop-main-request@listserv.gsa.gov",
+        "subscribe_email_subject" : "Join the Plain Language Community",
+        "terms" : "Government employees and contractors with an official .gov or .mil email are eligible to join.",
+        "type" : "public"},"primary_image" : { "uid" : "communities-card-pl", "alt" :
+  "", "width" :
+  "2501", "height" :
+  "1307", "credit" :
+  "", "caption" :
+  "", "format" :
+  "png" },"branch" : "main",
+      "filename" :"plain-language-community-of-practice.md",
+      
+      "filepath" :"communities/plain-language-community-of-practice.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/plain-language-community-of-practice.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/plain-language-community-of-practice.md","slug" : "plain-language","url" : "https://digital.gov/communities/plain-language/","aliases" : {"0" : "/communities/plain-language-community-of-practice/"},"weight" : "1","content" :"\u003cp\u003eGovernment professionals from all levels come together in this community to promote the use of plain language to provide better services to the public.\u003c/p\u003e\n\u003cp\u003eBecome a member to collaborate with colleagues who are dedicated to the idea that the public deserves clear communications from government.\u003c/p\u003e\n\u003cp\u003eDigital.gov fosters this engaging community by providing spaces designed to empower members on their communication and plain language journeys. Remember, when participating in this community, you must follow \u003ca href=\"https://digital.gov/communities/community-guidelines/\"\u003eDigital.gov community guidelines\u003c/a\u003e.\u003c/p\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  \n  \n  \n\n  \n  \n    \n  \n\n\n\n  \n\u003cdiv class=\"dg-featured-resource\"\u003e\n    \u003ca href=\"/topics/plain-language/\" class=\"dg-featured-resource__body\"\u003e\n      \u003cdiv class=\"dg-featured-resource__text\"\u003e\n        \u003cp class=\"dg-featured-resource__kicker\"\u003eFeatured topic\u003c/p\u003e\n        \n          \u003ch2 class=\"dg-featured-resource__text-title\"\u003ePlain language\u003c/h2\u003e\n        \n        \n          \u003cp class=\"dg-featured-resource__text-description\"\u003ePlain language is communication that is clear and easy to understand for your target audience, regardless of the medium used to deliver it. It is communication your audience can understand the first time they encounter it. Using plain language on government websites is one of the best ways to reach your target audience. A clear, concise message builds trust with users because they can understand your call to action and complete their tasks and meet their needs.\u003c/p\u003e\n        \n      \u003c/div\u003e\n      \n    \u003c/a\u003e\n  \u003c/div\u003e\n"}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "communities",
+    "type" : "single",
+    "title" : "Join the Contact Center |Digital.gov",
+    "description": "Join the Contact Center",
+    "home_page_url" : "https://digital.gov/","feed_url" : "https://digital.gov/communities/contact-center/index.json","item" : [
+    {"kicker" : "Communities of practice","title" :"Join the Contact Center","summary" : "Explore methods of service delivery that improve customer experience in government contact centers.","deck" : "Share and learn with contact center practitioners.","date" : "2024-06-28T16:36:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","topics" : {
+        
+            "contact-centers" : "Contact centers",
+            "customer-experience" : "Customer experience"
+            },"community_list" : {"list_1" : {
+      
+        "join_cop_button" : "Contact center community members",
+        "members" : "462",
+        "platform" : "listserv",
+        "subscribe_email" : "g3c-request@listserv.gsa.gov",
+        "subscribe_email_subject" : "Join the Contact Center Community",
+        "terms" : "Government employees and contractors with an official .gov or .mil email are eligible to join.",
+        "type" : "government"},"primary_image" : { "uid" : "communities-card-contact-center", "alt" :
+  "", "width" :
+  "2501", "height" :
+  "1307", "credit" :
+  "", "caption" :
+  "", "format" :
+  "png" },"branch" : "main",
+      "filename" :"contact-center.md",
+      
+      "filepath" :"communities/contact-center.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/contact-center.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/contact-center.md","slug" : "contact-center","url" : "https://digital.gov/communities/contact-center/","aliases" : {"0" : "/communities/government-contact-center-council-g3c/","1" : "/communities/government-contact-center-council/"},"weight" : "1","content" :"\u003cp\u003eGovernment professionals from all levels come together in this community to improve government contact centers’ performance, experience, and efficiency.\u003c/p\u003e\n\u003cp\u003eBecome a member to explore methods of service delivery that improve customer experience in government contact centers.\u003c/p\u003e\n\u003cp\u003eDigital.gov fosters this passionate community by providing spaces designed to host educational forums and discussions. Remember, when participating in this community, you must follow \u003ca href=\"https://digital.gov/communities/community-guidelines/\"\u003eDigital.gov community guidelines\u003c/a\u003e.\u003c/p\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  \n  \n  \n\n  \n  \n    \n  \n\n\n\n  \n\u003cdiv class=\"dg-featured-resource\"\u003e\n    \u003ca href=\"/topics/contact-centers/\" class=\"dg-featured-resource__body\"\u003e\n      \u003cdiv class=\"dg-featured-resource__text\"\u003e\n        \u003cp class=\"dg-featured-resource__kicker\"\u003eFeatured topic\u003c/p\u003e\n        \n          \u003ch2 class=\"dg-featured-resource__text-title\"\u003eContact centers\u003c/h2\u003e\n        \n        \n          \u003cp class=\"dg-featured-resource__text-description\"\u003eContact centers provide a centralized point of access, consolidating diverse services and information under one umbrella. This alleviates the burden on the public to navigate complex organizational structures to reach the agency they need. By streamlining access, contact centers empower individuals to engage with government services effectively, fostering a sense of ease and trust.\u003c/p\u003e\n        \n      \u003c/div\u003e\n      \n    \u003c/a\u003e\n  \u003c/div\u003e\n"}
+  ]
+}

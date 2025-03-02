@@ -1,0 +1,202 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "home_page_url" : "https://digital.gov/",
+    "content" : "author",
+    "type" : "list",
+    "count" : "16","feed_url" : "https://digital.gov/authors/dmccleskey/index.json","profile_url" : "https://digital.gov/authors/dmccleskey/","display_name" : "Dawn Pointer McCleskey","first_name" : "Dawn","last_name" : "Pointer McCleskey","slug" : "dmccleskey","email" : "dawn.mccleskey@gsa.gov","bio" : "Dawn Pointer McCleskey is the program manager of Search.gov (formerly DigitalGov Search) at the U.S. General Services Administration (GSA). She is a librarian on a mission to help people find what they are looking for.","twitter" : "@dapmcc","branch" : "main",
+    "filename" :"_index.md",
+    
+    "filepath" :"authors/dmccleskey/_index.md",
+    "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+    "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+    "url" : "https://digital.gov/authors/dmccleskey/",
+    "items" : [{
+        "title" :"Reduce, remove, remediate: PDFs and government websites","deck" : "A discussion on fixing issues, reducing files, and slowing down production of PDFs for better access to information.","summary" : "In a recent governmentwide community discussion, we shared tips to remediate the use of PDFs on government websites, focusing on balancing needs, choosing formats, starting fixes, and ensuring documents are accessible for everyone.","date" : "2024-12-31T00:00:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"annette-super" : "Annette Super","dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "accessibility" : "Accessibility",
+              "content-strategy" : "Content strategy",
+              "design" : "Design",
+              "user-experience" : "User experience"
+              },"branch" : "main",
+        "filename" :"2024-12-31-reduce-remove-remediate-pdfs-and-government-websites.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2024/12/31/reduce-remove-remediate-pdfs-and-government-websites/"
+    },{
+        "title" :"Search.gov 2021 Year In Review","deck" : "<strong>Search.gov 2021 Year In Review</strong>—This report explores the top needs of 2021, expressed in the public&rsquo;s own words. In addition to topics common every year, this year for the first time we explored the topic of infrastructure, and took a look at public searching behaviors. For each of the 18 topics, this report provides the top 25 searches in that topic, trend data since 2019, and the top websites serving the public in that area.","summary" : "Search.gov 2021 Year In Review","date" : "2022-02-22T13:34:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "digital-service-delivery" : "Digital service delivery"
+              },"branch" : "main",
+        "filename" :"2022-02-22-search-gov-2021-year-in-review.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2022/02/22/search-gov-2021-year-in-review/"
+    },{
+        "title" :"The Federal Web in the Year of COVID-19","summary" : "The past year was like no other. We take a look at how it affected federal website traffic and search data.","date" : "2021-04-16T13:55:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey","tlowden" : "Tim Lowden"},"topics" : {
+          
+              "analytics" : "Analytics",
+              "open-data" : "Open data",
+              "search" : "Search"
+              },"branch" : "main",
+        "filename" :"2021-04-16-the-federal-web-in-the-year-of-covid-19.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2021/04/16/the-federal-web-in-the-year-of-covid-19/"
+    },{
+        "title" :"Search.gov","summary" : "A free hosted search platform for federal websites.","date" : "0001-01-01T00:00:00Z","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "search" : "Search",
+              "search-engine-optimization" : "Search engine optimization"
+              },"branch" : "main",
+        "filename" :"service_search.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/services/search/"
+    },{
+        "title" :"Search.gov: 2019 in Review","deck" : "<strong>In 2019, Search.gov served 295,916,305 queries across more than 2,000 government websites</strong>. Find out more in their annual report, including the most common topics that people searched for.","summary" : "**In 2019, Search.gov served 295,916,305 queries across more than 2,000 government websites**. Find out more in their annual report, including the most common topics that people searched for.","date" : "2020-01-27T13:00:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "search" : "Search"
+              },"branch" : "main",
+        "filename" :"2020-01-27-searchgov-2019-in-review.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2020/01/27/searchgov-2019-in-review/"
+    },{
+        "title" :"Indexing with Search.gov","deck" : "Come take a walk through the Search.gov indexing process from start to finish","summary" : "Come take a walk through the Search.gov indexing process from start to finish.","date" : "2019-04-25T14:00:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"branch" : "main",
+        "filename" :"2019-04-25-indexing-with-searchgov.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/event/2019/04/25/indexing-with-searchgov/"
+    },{
+        "title" :"How Search Engines Index Your Websites","deck" : "","summary" : "Join Search.gov as they walk you through the fundamentals of how search engines monitor your content and pull relevant data from your pages.","date" : "2018-05-29T14:00:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "search" : "Search",
+              "search-engine-optimization" : "Search engine optimization"
+              },"branch" : "main",
+        "filename" :"2018-05-29-how-search-engines-index-your-websites.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/event/2018/05/29/how-search-engines-index-your-websites/"
+    },{
+        "title" :"An Introduction to Search.gov","deck" : "","summary" : "Learn about the essential features of Search.gov and tour its Admin Center.","date" : "2018-05-03T14:00:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "search" : "Search"
+              },"branch" : "main",
+        "filename" :"2018-05-03-an-introduction-searchgov.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/event/2018/05/03/an-introduction-searchgov/"
+    },{
+        "title" :"Dear Search: Reading Between the Lines of Search Data","summary" : "Welcome to the first Dear Search article, an occasional series where the DigitalGov Search team addresses common search questions. Dear Search, Right now, I am building up user research services that can be offered to product owners on a regular or as-needed basis. So, being able to look at search trends and offer advice to","date" : "2016-10-21T11:00:34-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "analytics" : "Analytics",
+              "search" : "Search",
+              "user-experience" : "User experience"
+              },"branch" : "main",
+        "filename" :"2016-10-21-dear-search-reading-between-the-lines-of-search-data.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2016/10/21/dear-search-reading-between-the-lines-of-search-data/"
+    },{
+        "title" :"Let’s Encrypt Those CNAMES, Shall We?","summary" : "This is post 4 in the 5-part series, The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. This post references the previous posts frequently, so please read those before reading this one if you haven&#8217;t done so already. In addition to the DNS challenges created by offering &#8220;masked&#8221; domains such","date" : "2016-09-07T11:00:56-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"nathan-smith" : "Nathan Smith","dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "cloud-and-infrastructure" : "Cloud and infrastructure",
+              "product-and-project-management" : "Product and project management",
+              "search" : "Search"
+              },"branch" : "main",
+        "filename" :"2016-09-07-lets-encrypt-those-cnames-shall-we.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2016/09/07/lets-encrypt-those-cnames-shall-we/"
+    },{
+        "title" :"Quality, Speed, and Lower Costs: Yes, You Can Have It All","summary" : "This is post 2 in the 5-part series The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. The last major infrastructure upgrade that DigitalGov Search had was in 2010. Not only has technology evolved significantly since then, but so have business models for right-sizing costs. Moving to Amazon Web Services (AWS)","date" : "2016-09-02T10:00:42-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"nick-marden" : "Nick Marden","dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "cloud-and-infrastructure" : "Cloud and infrastructure",
+              "content-strategy" : "Content strategy",
+              "product-and-project-management" : "Product and project management",
+              "search" : "Search",
+              "software-engineering" : "Software engineering"
+              },"branch" : "main",
+        "filename" :"2016-09-02-quality-speed-and-lower-costs-yes-you-can-have-it-all.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2016/09/02/quality-speed-and-lower-costs-yes-you-can-have-it-all/"
+    },{
+        "title" :"The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment","summary" : "This is the first post of a 5-part series. DigitalGov Search is a commercial-grade search engine provided as a shared-service by the United States General Services Administration. We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that","date" : "2016-08-18T10:00:29-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "cloud-and-infrastructure" : "Cloud and infrastructure",
+              "content-strategy" : "Content strategy",
+              "product-and-project-management" : "Product and project management",
+              "search" : "Search"
+              },"branch" : "main",
+        "filename" :"2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/"
+    },{
+        "title" :"HTTPS and Other Ranking Factors: What Impacts the SEO of Government Websites?","summary" : "Following the recent OMB memo that all publicly available federal websites and Web services must implement HTTPS by December 31, 2016, Web content managers across government are considering the SEO (search engine optimization) implications of the transition, among other details.","date" : "2015-09-02T10:00:43-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "content-strategy" : "Content strategy",
+              "plain-language" : "Plain language",
+              "search" : "Search",
+              "search-engine-optimization" : "Search engine optimization",
+              "security" : "Security"
+              },"branch" : "main",
+        "filename" :"2015-09-02-https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2015/09/02/https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites/"
+    },{
+        "title" :"Search, Buscar, Поиск, جستجو, Cari: Creating a Good, Multilingual Search Experience","summary" : "In 2015, DigitalGov Search dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support 68 different languages.","date" : "2015-08-31T11:10:46-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "multilingual" : "Multilingual",
+              "search" : "Search"
+              },"branch" : "main",
+        "filename" :"2015-08-31-search-creating-a-good-multilingual-search-experience.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2015/08/31/search-creating-a-good-multilingual-search-experience/"
+    },{
+        "title" :"Our Customer is Your Customer: Working Together to Improve Search on .Gov Websites","summary" : "We know search engines aren’t Magic 8 Balls, but that&#8217;s still how we expect them to behave. We want them to answer our complex and burning questions based on just a few words. And we&#8217;ve felt that frustration when the top search results don&#8217;t serve our needs, and the results page itself makes us work.","date" : "2015-05-14T11:10:59-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "customer-experience" : "Customer experience",
+              "customer-experience" : "Customer experience",
+              "customer-experience" : "Customer experience",
+              "search" : "Search",
+              "search-engine-optimization" : "Search engine optimization"
+              },"branch" : "main",
+        "filename" :"2015-05-14-our-customer-is-your-customer-working-together-to-improve-search-on-gov-websites.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2015/05/14/our-customer-is-your-customer-working-together-to-improve-search-on-gov-websites/"
+    },{
+        "title" :"Mobilegeddon: Government Edition","summary" : "Much is being said and written about the coming Mobilegeddon/Mopocalypse on April 21st&mdash;the day Google’s ranking algorithm will begin boosting results for mobile-friendly sites and penalizing mobile-unfriendly sites. While some agency websites are mobile-friendly, a great many are not. We will do well to pay attention&mdash;almost 25% of traffic on government websites is coming from","date" : "2015-04-15T14:15:42-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "mobile" : "Mobile",
+              "plain-language" : "Plain language",
+              "search" : "Search",
+              "search-engine-optimization" : "Search engine optimization",
+              "usability" : "Usability"
+              },"branch" : "main",
+        "filename" :"2015-04-15-mobilegeddon-government-edition.md",
+        "filepath" :"authors/dmccleskey/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/dmccleskey/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/dmccleskey/_index.md",
+        "url" : "https://digital.gov/2015/04/15/mobilegeddon-government-edition/"
+    }]
+}

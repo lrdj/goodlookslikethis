@@ -1,0 +1,15 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "about",
+    "type" : "single",
+    "title" : "Contact Us |Digital.gov",
+    "description": "Contact Us",
+    "home_page_url" : "https://digital.gov/","feed_url" : "https://digital.gov/about/contact/index.json","item" : [
+    {"title" :"Contact Us","deck" : "We are human, we promise.","summary" : "How to contact the Digital.gov team.","date" : "2020-02-13T10:25:54-04:00","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"contact.md",
+      
+      "filepath" :"about/contact.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/about/contact.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/about/contact.md","url" : "https://digital.gov/about/contact/","content" :"\u003cp\u003e\u003cstrong\u003eDigital.gov\u003c/strong\u003e is made up of a cross-functional team of writers, editors, strategists, technologists, and designers who all work at the Technology Transformation Services (TTS) at the General Services Administration (GSA).\u003c/p\u003e\n\u003cp\u003e\u0026#x2709;\u0026#xfe0f; \u003cstrong\u003eQuestions or feedback?\u003c/strong\u003e Send an email to us at \u003ca href=\"mailto:digitalgov@gsa.gov\"\u003edigitalgov@gsa.gov\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u0026#x1f4f9; For all media or speaker inquiries, please \u003ca href=\"mailto:press@gsa.gov\"\u003eemail GSA’s Office of Strategic Communication\u003c/a\u003e (OSC).\u003c/p\u003e\n\u003cp\u003e\u0026#x2699;\u0026#xfe0f; For a wider list of contacts, see our \u003ca href=\"https://digital.gov/services/directory/\"\u003e\u003cstrong\u003eDirectory of services, tools, and teams\u003c/strong\u003e\u003c/a\u003e »\u003c/p\u003e\n\u003chr\u003e\n\u003ch2 id=\"on-social-media\"\u003eOn social media\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eFollow \u003ca href=\"https://X.com/digital_gov\"\u003e@digital_gov on X (Formerly Twitter)\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eFollow \u003ca href=\"https://www.linkedin.com/company/digitalgov-gsa/\"\u003eDigital.gov on LinkedIn\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eDigital.gov on \u003ca href=\"https://github.com/GSA/digitalgov.gov\"\u003eGitHub\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eJoin our \u003ca href=\"https://www.facebook.com/DigitalGov\"\u003eFacebook page\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eSubscribe to our \u003ca href=\"https://digital.gov/about/subscribe/\"\u003enewsletter\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eJoin a \u003ca href=\"https://digital.gov/communities/\"\u003ecommunity of practice\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n"}
+  ]
+}

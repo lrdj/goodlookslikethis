@@ -1,0 +1,37 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "communities",
+    "type" : "single",
+    "title" : "Join the Web Analytics |Digital.gov",
+    "description": "Join the Web Analytics",
+    "home_page_url" : "https://digital.gov/","feed_url" : "https://digital.gov/communities/web-analytics-and-optimization/index.json","item" : [
+    {"kicker" : "Communities of Practice","title" :"Join the Web Analytics","summary" : "Make better decisions using web analytics and other optimization strategies.","deck" : "Share and learn with web analytics and optimization practitioners.","date" : "2021-07-07T09:13:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"tlowden" : "Tim Lowden"},"topics" : {
+        
+            "analytics" : "Analytics",
+            "research" : "Research",
+            "search" : "Search",
+            "search-engine-optimization" : "Search engine optimization",
+            "usability" : "Usability",
+            "user-experience" : "User experience"
+            },"community_list" : {"list_1" : {
+      
+        "join_cop_button" : "Web Analytic community members",
+        "members" : "1,294",
+        "platform" : "listserv",
+        "subscribe_email" : "analyze-optimize-request@listserv.gsa.gov",
+        "subscribe_email_subject" : "Join the Web Analytics Community",
+        "terms" : "Government employees and contractors with an official .gov or .mil email are eligible to join.",
+        "type" : "government"},"primary_image" : { "uid" : "communities-card-analytics", "alt" :
+  "", "width" :
+  "2501", "height" :
+  "1307", "credit" :
+  "", "caption" :
+  "", "format" :
+  "png" },"branch" : "main",
+      "filename" :"web-analytics-and-optimization.md",
+      
+      "filepath" :"communities/web-analytics-and-optimization.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/web-analytics-and-optimization.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/web-analytics-and-optimization.md","slug" : "web-analytics-and-optimization","url" : "https://digital.gov/communities/web-analytics-and-optimization/","aliases" : {"0" : "/communities/a-b-testing-community","1" : "/communities/a-b-testing"},"weight" : "1","content" :"\u003cp\u003eGovernment professionals from all levels come together in this community to make better decisions using web analytics and other optimization strategies.\u003c/p\u003e\n\u003cp\u003eBecome a member to uncover best practices, tips, and tools for web analytics, search, and search engine optimization.\u003c/p\u003e\n\u003cp\u003eDigital.gov fosters this dynamic community by providing spaces to engage in collaborative discussion and share new technology and trends. Remember, when participating in this community, you must follow \u003ca href=\"https://digital.gov/communities/community-guidelines/\"\u003eDigital.gov community guidelines\u003c/a\u003e.\u003c/p\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  \n  \n  \n\n  \n  \n    \n  \n\n\n\n  \n\u003cdiv class=\"dg-featured-resource\"\u003e\n    \u003ca href=\"/topics/analytics/\" class=\"dg-featured-resource__body\"\u003e\n      \u003cdiv class=\"dg-featured-resource__text\"\u003e\n        \u003cp class=\"dg-featured-resource__kicker\"\u003eFeatured topic\u003c/p\u003e\n        \n          \u003ch2 class=\"dg-featured-resource__text-title\"\u003eAnalytics\u003c/h2\u003e\n        \n        \n          \u003cp class=\"dg-featured-resource__text-description\"\u003eWeb analytics provide valuable insights into how users interact with a website. Use the data gained from web analytics to identify areas for improvement and make data-driven decisions. This can lead to a more user-friendly and engaging website, which can enhance trust and overall site performance.\u003c/p\u003e\n        \n      \u003c/div\u003e\n      \n    \u003c/a\u003e\n  \u003c/div\u003e\n"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "home_page_url" : "https://digital.gov/",
+    "content" : "author",
+    "type" : "list",
+    "count" : "1","feed_url" : "https://digital.gov/authors/annette-super/index.json","profile_url" : "https://digital.gov/authors/annette-super/","display_name" : "Annette Super","first_name" : "Annette","last_name" : "Super","slug" : "annette-super","agency" : "GSA","agency_full_name" : "U.S. General Services Administration","branch" : "main",
+    "filename" :"_index.md",
+    
+    "filepath" :"authors/annette-super/_index.md",
+    "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/annette-super/_index.md",
+    "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/annette-super/_index.md",
+    "url" : "https://digital.gov/authors/annette-super/",
+    "items" : [{
+        "title" :"Reduce, remove, remediate: PDFs and government websites","deck" : "A discussion on fixing issues, reducing files, and slowing down production of PDFs for better access to information.","summary" : "In a recent governmentwide community discussion, we shared tips to remediate the use of PDFs on government websites, focusing on balancing needs, choosing formats, starting fixes, and ensuring documents are accessible for everyone.","date" : "2024-12-31T00:00:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"annette-super" : "Annette Super","dmccleskey" : "Dawn Pointer McCleskey"},"topics" : {
+          
+              "accessibility" : "Accessibility",
+              "content-strategy" : "Content strategy",
+              "design" : "Design",
+              "user-experience" : "User experience"
+              },"branch" : "main",
+        "filename" :"2024-12-31-reduce-remove-remediate-pdfs-and-government-websites.md",
+        "filepath" :"authors/annette-super/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/annette-super/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/annette-super/_index.md",
+        "url" : "https://digital.gov/2024/12/31/reduce-remove-remediate-pdfs-and-government-websites/"
+    }]
+}

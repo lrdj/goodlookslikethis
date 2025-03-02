@@ -1,0 +1,92 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "page",
+    "type" : "list",
+    "title" : "Digital.gov",
+    "description": "",
+    "home_page_url" : "https://digital.gov/",
+    "count" : "13","feed_url" : "https://digital.gov/index.json",
+    
+    "items" : [{"title" :"Job Board","deck" : "Discover community- and technology-related job openings in the federal government.","summary" : "Discover community- and technology-related job openings in the federal government.","date" : "2024-06-27T03:33:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","topics" : {
+        
+            "professional-development" : "Professional development"
+            },"branch" : "main",
+      "filename" :"_index.md",
+      
+      "filepath" :"job-board/_index.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/job-board/_index.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/job-board/_index.md","slug" : "job-board","url" : "https://digital.gov/job-board/"
+    },{"title" :"Events","deck" : "<strong>Digital.gov</strong> provides free webinars that highlight the innovations, case studies, tools, and resources people in government need most.","summary" : "Register for Digital.gov webinars, interviews, community of practice meetings, and other events with digital leaders from across the public and private sectors.","date" : "2020-09-09T08:44:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"_index.md",
+      
+      "filepath" :"events/_index.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/events/_index.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/events/_index.md","aliases" : {"0" : "/event/2021/08/17/an-introduction-to-the-innovation-adoption-playbook/"},"url" : "https://digital.gov/events/"
+    },{"title" :"_Archived","date" : "2018-03-28T03:30:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :,
+      
+      "filepath" :,
+      "filepathURL" :,
+      "editpathURL" :,"url" : "https://digital.gov/_archived/"
+    },{"title" :"Apis","date" : "2017-07-08T03:46:23-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :,
+      
+      "filepath" :,
+      "filepathURL" :,
+      "editpathURL" :,"url" : "https://digital.gov/apis/"
+    },{"title" :"Images","deck" : "A running feed of the images we use on Digital.gov.","summary" : "A running feed of the images we use on Digital.gov.","date" : "2017-07-08T03:46:23-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"_index.md",
+      
+      "filepath" :"images/_index.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/images/_index.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/images/_index.md","url" : "https://digital.gov/images/"
+    },{"title" :"","date" : "0001-01-01T00:00:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"feed.md",
+      
+      "filepath" :"feed.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/feed.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/feed.md","url" : "https://digital.gov/feed/"
+    },{"title" :"About us","deck" : "We help the government community deliver better digital services.","summary" : "Welcome to Digital.gov. Learn more about who we are.","date" : "0001-01-01T00:00:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"_index.md",
+      
+      "filepath" :"about/_index.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/about/_index.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/about/_index.md","aliases" : {"0" : "/contact-us/"},"url" : "https://digital.gov/about/"
+    },{"title" :"Blogs","deck" : "Government teams are improving digital experiences every day. Gain insights from their stories, case studies, and innovations.","summary" : "Innovative work, case studies, and ideas from people and teams in government","date" : "0001-01-01T00:00:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"_index.md",
+      
+      "filepath" :"news/_index.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/news/_index.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/news/_index.md","aliases" : {"0" : "/posts/"},"url" : "https://digital.gov/news/"
+    },{"title" :"Digital.gov Communities of Practice","deck" : "Collaborate and share resources with other communities across government who are focused on building better digital experience in government.","summary" : "Collaborate and share resources with others across government.","date" : "0001-01-01T00:00:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"_index.md",
+      
+      "filepath" :"communities/_index.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/_index.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/_index.md","aliases" : {"0" : "/communities/agile-lean-community-of-practice/","1" : "/communities/agile-lean/","2" : "/communities/blockchain/","3" : "/communities/community-solutions/","4" : "/communities/data-cabinet/","5" : "/communities/mobile/","6" : "/communities/open-source/","7" : "/communities/virtual-augmented-reality/","8" : "/communities/web-managers-forum/member-spotlight-karen-higa-state-of-hawaii/","9" : "/communities/web-managers-forum/member-spotlight-scott-horvath-usgs/"},"url" : "https://digital.gov/communities/"
+    },{"title" :"Guides","deck" : "Go beyond the basics with these expert-level how-to guides. Think of these guides as digital textbooks that provide comprehensive information and tactics for building excellent digital experiences.","summary" : "","date" : "0001-01-01T00:00:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"_index.md",
+      
+      "filepath" :"guides/_index.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/guides/_index.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/guides/_index.md","url" : "https://digital.gov/guides/"
+    },{"title" :"Resources","deck" : "Don&rsquo;t know where to start with a federal requirement? Aren&rsquo;t sure how to adopt a new technology with your team? Start here! We have resources for every level. Our collections are organized by popular topics, and they will help you meet the requirements of federal web legislation.","summary" : "Essential how-to guidance for government product managers and digital teams.","date" : "0001-01-01T00:00:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"_index.md",
+      
+      "filepath" :"resources/_index.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/resources/_index.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/resources/_index.md","aliases" : {"0" : "/about/lost-and-found-mapping-page/","1" : "/pages/","2" : "/hurricane-ian/","3" : "/resources/hurricane-ian-guidance-for-us-government/","4" : "/coronavirus/","5" : "/resources/coronavirus-covid19-guidance-for-us-government/","6" : "/hawaii-wildfires/","7" : "/resources/hawaii-wildfires-guidance-for-us-government/","8" : "/hurricane-idalia/","9" : "/resources/hurricane-idalia-guidance-for-us-government/","10" : "/topics/","11" : "/topics/consumer-action-handbook/","12" : "/topics/fact-sheet/","13" : "/topics/federal-register/","14" : "/topics/government-publishing-office/","15" : "/topics/gpo/","16" : "/topics/pbs/","17" : "/topics/public-buildings-service/"},"url" : "https://digital.gov/resources/"
+    },{"title" :"Sources","summary" : "","date" : "0001-01-01T00:00:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"_index.md",
+      
+      "filepath" :"sources/_index.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/_index.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/_index.md","url" : "https://digital.gov/sources/"
+    },{"title" :"Tools and Services","deck" : "Explore free and low-cost services for improving your users’ digital experience","summary" : "Explore tools and services that are user-centered, open-source, and built by government for government.","date" : "0001-01-01T00:00:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"_index.md",
+      
+      "filepath" :"services/_index.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/services/_index.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/services/_index.md","url" : "https://digital.gov/services/"
+    }]
+}

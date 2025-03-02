@@ -1,0 +1,3219 @@
+<!--
+
+Welcome to Digital.gov — our goal is to transform how government learns, builds,
+delivers and measures digital services in the 21st century. Learn more
+https://digital.gov/about Get in touch: digitalgov@gsa.gov Follow us on Twitter:
+@digital_gov ======= We edit in the open at https://workflow.digital.gov/ Built
+by the Digital.gov team in the GSA, using modern development practices. See the
+full source code: https://github.com/GSA/digitalgov.gov Built using HUGO. Hosted
+on cloud.gov Pages https://cloud.gov/pages/ -->
+
+
+
+<!DOCTYPE html>
+
+<html
+  lang="en-US"
+  itemscope
+  itemtype="../../../schema.org/WebSite.html"
+  prefix="og: http://ogp.me/ns#"
+>
+
+
+
+
+
+
+<!-- Mirrored from digital.gov/authors/gabrielle-perret/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 02 Mar 2025 23:10:20 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head profile="../../../gmpg.org/xfn/11.html">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  
+  <script
+    async
+    type="text/javascript"
+    id="_fed_an_ua_tag"
+    src="../../../dap.digitalgov.gov/Universal-Federated-Analytics-Minb06b.js?agency=GSA&amp;subagency=TTS"
+  ></script>
+
+  <!-- Google Tag Manager Data Layer -->
+  <script>
+    dataLayer = [
+      {
+        "content-type": "resource+page",
+        topics: "design, analytics, Tag+Manager",
+      },
+    ];
+  </script>
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "../../../www.googletagmanager.com/gtm5445.html?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-MZCKZPQ");
+  </script>
+
+  <!-- End Google Tag Manager -->
+
+  <!-- Page Title -->
+    
+    <title>Digital.gov — Guidance on building better digital services in government</title>
+  <!-- Meta Description -->
+  <meta
+    name="description"
+    content="Guidance on building better digital services in government"
+  />
+  <meta
+    name="keywords"
+    content="digital, government, technology, civic-tech"
+  />
+
+  <!-- Start of Facebook Open Graph -->
+  <meta
+    property="og:title"
+    content="Digital.gov"
+  />
+  <meta
+    property="og:description"
+    content="Guidance on building better digital services in government"
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://digital.gov/authors/gabrielle-perret/" />
+  <meta property="og:site_name" content="Digital.gov" />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:image" content="https://s3.amazonaws.com/digitalgov/digitalgov-2022-card-v3.png" />
+    <meta property="og:image:alt" content=" " />
+  
+  <meta property="fb:admins" content="100000569454928" />
+  <meta
+    property="article:publisher"
+    content="https://www.facebook.com/digitalgov"
+  />
+  <!-- End of Facebook Open Graph -->
+
+  <!-- Start of Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@Digital_Gov" />
+  <meta name="twitter:creator" content="@Digital_Gov" />
+  <meta name="twitter:image:src" content="https://s3.amazonaws.com/digitalgov/digitalgov-2022-card-v3.png" />
+  <meta
+    property="twitter:description"
+    content="Guidance on building better digital services in government"
+  />
+  <meta
+    property="twitter:title"
+    content="Digital.gov"
+  />
+  <!-- End of Twitter -->
+
+  <!-- RSS Feed -->
+  <link href="https://digital.gov/authors/gabrielle-perret/index.xml" rel="feed" type="application/rss+xml" />
+
+  <!-- JSON Feed -->
+  <link
+    href="https://digital.gov/authors/gabrielle-perret/index.json"
+    data-proofer-ignore
+    rel="alternate"
+    type="application/json"
+    title="Digital.gov"
+  />
+
+  <!-- Sitemap-->
+  <link
+    rel="sitemap"
+    type="application/xml"
+    title="Digital.gov Sitemap"
+    href="../../sitemap.xml"
+  />
+
+  
+  
+  <meta name="theme-color" content="#656bd7" />
+
+  
+  <meta name="msvalidate.01" content="A662823C2F59EB4F55F752CC752AC299" />
+
+  <!-- CSS -->
+  
+  <link
+    rel="stylesheet"
+    href="../../dist/styles.css"
+    type="text/css"
+    media="all"
+  />
+  <script src="../../dist/js/uswds-init.min.js"></script>
+
+  <!-- Favicons & Icons -->
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="../../img/icons/apple-touch-icon30f4.png?v=3"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="../../img/icons/favicon-32x3230f4.png?v=3"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="../../img/icons/favicon-16x1630f4.png?v=3"
+  />
+  <link
+    rel="manifest"
+    href="../../img/icons/site30f4.webmanifest?v=3"
+  />
+  <link
+    rel="mask-icon"
+    href="../../img/icons/safari-pinned-tab30f4.svg?v=3"
+    color="#0076d6"
+  />
+  <link
+    rel="shortcut icon"
+    href="../../img/icons/favicon30f4.ico?v=3"
+  />
+  <meta name="msapplication-TileColor" content="#0076d6" />
+  <meta name="theme-color" content="#ffffff" />
+
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+</head>
+<body class="authors term"><!-- Google Tag Manager (noscript) --><noscript
+      ><iframe
+        src="../../../www.googletagmanager.com/ns9116.html?id=GTM-MZCKZPQ"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+    <div class="paper"><a class="usa-skipnav" href="#main-content">Skip to main content</a>
+<section
+  class="usa-banner gov-banner"
+  aria-label="Official website of the United States government"
+>
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto"><img
+            aria-hidden="true"
+            class="usa-banner__header-flag"
+            src="../../uswds/img/us_flag_small.png"
+            alt=""
+            width="16"
+            height="11"
+          />
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+          <p class="usa-banner__header-text">
+            An official website of the United States government
+          </p>
+          <p class="usa-banner__header-action">Here’s how you know</p>
+        </div>
+        <button
+          type="button"
+          class="usa-accordion__button usa-banner__button"
+          aria-expanded="false"
+          aria-controls="gov-banner-default-default"
+        >
+          <span class="usa-banner__button-text">Here’s how you know</span>
+        </button>
+      </div>
+    </header>
+    <div
+      class="usa-banner__content usa-accordion__content"
+      id="gov-banner-default-default"
+    >
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6"><img
+            class="usa-banner__icon usa-media-block__img"
+            src="../../uswds/img/icon-dot-gov.svg"
+            role="img"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong>
+              <br />
+              A <strong>.gov</strong> website belongs to an official government
+              organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6"><img
+            class="usa-banner__icon usa-media-block__img"
+            src="../../uswds/img/icon-https.svg"
+            role="img"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong><br />A
+              <strong>lock</strong> (
+              <span class="icon-lock">
+                <svg
+                  xmlns="../../../www.w3.org/2000/svg.html"
+                  width="52"
+                  height="64"
+                  viewBox="0 0 52 64"
+                  class="usa-banner__lock-image"
+                  role="img"
+                  aria-labelledby="banner-lock-description-default"
+                  focusable="false"
+                >
+                  <title id="banner-lock-title-default">Lock</title>
+                  <desc id="banner-lock-description-default">
+                    Locked padlock
+                  </desc>
+                  <path
+                    fill="#000000"
+                    fill-rule="evenodd"
+                    d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"
+                  />
+                </svg> </span
+              >) or <strong>https://</strong> means you’ve safely connected to
+              the .gov website. Share sensitive information only on official,
+              secure websites.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  
+  
+  
+  
+
+  
+  
+
+  
+    <section
+      class="dg-site-alert usa-site-alert usa-site-alert--info
+      
+      "
+      aria-label="Site alert"
+    >
+      <div class="usa-alert">
+        <div class="usa-alert__body">
+          
+            <h3 class="usa-alert__heading">Guidance for U.S. government websites and social media</h3>
+          
+          
+            <ul class="usa-list">
+              
+                <li><a href="https://digital.gov/california-wildfires">digital.gov/california-wildfires</a></li>
+              
+                <li><a href="https://digital.gov/hurricane-helene">digital.gov/hurricane-helene</a></li>
+              
+            </ul>
+          
+        </div>
+      </div>
+    </section>
+  
+
+
+<script type="text/javascript">
+  
+  const links = document.querySelectorAll(".dg-site-alert a");
+  links.forEach((link) => link.classList.add("usa-link"));
+</script>
+<div class="usa-overlay"></div>
+<header class="usa-header usa-header--extended" role="banner">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo__text">
+        <a
+          href="../../index.html"
+          title="Digital.gov Home"
+          aria-label="Digital.gov Home"
+        >
+          <img
+            class="logo-black"
+            src="../../img/digitalgov-logo.svg"
+            alt="Digital.gov Logo"
+            width="220"
+            height="36"
+          />
+        </a>
+      </em>
+      <p class="sub-head display-none">Guidance on building better digital services in government</p>
+    </div>
+
+    <button class="usa-menu-btn">
+      <svg
+        class="usa-icon dg-icon dg-icon--standard margin-bottom-2px"
+        aria-hidden="true"
+        focusable="false"
+        role="img"
+      >
+        <use xlink:href="../../uswds/img/sprite.svg#menu"></use>
+      </svg>
+      Menu
+    </button>
+  </div>
+  <nav aria-label="Primary navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      <button class="usa-nav__close">
+        <img src="../../uswds/img/close.svg" alt="close" />
+      </button><ul class="usa-nav__primary usa-accordion"><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../news/index.html"
+              ><span>Blogs</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../events/index.html"
+              ><span>Events</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../resources/index.html"
+              ><span>Resources</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../communities/index.html"
+              ><span>Communities</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../guides/index.html"
+              ><span>Guides</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../job-board/index.html"
+              ><span>Job board</span></a
+            >
+          </li></ul>
+      
+
+      <div class="usa-nav__secondary">
+        <ul class="usa-nav__secondary-links">
+          <li class="usa-nav__secondary-item">
+            <a href="https://digital.gov/subscribe"
+              ><span>Subscribe to our newsletter</span></a
+            >
+          </li>
+        </ul>
+
+        <form
+          accept-charset="UTF-8"
+          action="https://find.digitalgov.gov/search"
+          id="search_form"
+          method="get"
+          class="usa-search usa-search--small"
+        >
+          <input name="utf8" type="hidden" value="&#x2713;" />
+          <input
+            id="affiliate"
+            name="affiliate"
+            type="hidden"
+            value="digitalgov"
+          />
+          <div role="search">
+            <label class="usa-sr-only" for="query">Search small</label>
+            <input class="usa-input" id="query" type="search" name="query" />
+            <button class="usa-button" name="commit" type="submit">
+              <img
+                src="../../uswds/img/usa-icons-bg/search--white.svg"
+                class="usa-search__submit-icon"
+                alt="Search"
+              />
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+      
+      <main role="main" id="main-content">
+    <section class="author-profile">
+      <div class="grid-container-desktop">
+        <header class="margin-top-5"><img
+              class="profile"
+              src="../../img/digit-light.png"
+              alt="Profile image forGabrielle Perret"
+            /><div>
+            
+            <h1>Gabrielle Perret</h1>
+
+            
+            <div class="bio"><p>GSA</p></div>
+          </div>
+        </header>
+      </div>
+    </section>
+
+    <section id="news">
+      <div class="grid-container-desktop">
+        <div class="grid-row tablet-lg:grid-gap-4">
+          <section class="stream">
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            <h2>Latest content by Gabrielle Perret</h2>
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-assessing-the-state-of-federal-robotic-process-automation-rpa"
+>
+  <div class="card__content">
+    <div class="kicker">
+          <span>RPA</span>
+        </div><h3 id="title-assessing-the-state-of-federal-robotic-process-automation-rpa">
+        <a href="https://digital.gov/2022/01/26/assessing-the-state-of-federal-robotic-process-automation-rpa/">Assessing the State of Federal Robotic Process Automation (RPA)</a>
+      </h3><div class="summary">
+          <p>The 2021 State of Federal Robotic Process Automation (RPA) Report describes the growth and maturity of federal RPA programs to convey agency progress in digital transformation and automation.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="index.html"
+              title="Posts by Gabrielle Perret"
+              rel="author"
+              aria-label="Read more articles by Gabrielle Perret"
+              >Gabrielle Perret</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+
+
+  <div class="media-featured">
+    <a href="https://digital.gov/2022/01/26/assessing-the-state-of-federal-robotic-process-automation-rpa/" title="Assessing the State of Federal Robotic Process Automation (RPA)">
+      <img
+        src="https://s3.amazonaws.com/digitalgov/rpa-melpomenem-istock-getty-images-1205300897_w800.png"
+        aria-hidden="true"
+        alt=""
+      />
+    </a>
+  </div>
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Jan 26, 2022</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-deep-fakes-and-social-media-a-qa-with-alex-cohen"
+>
+  <div class="card__content">
+    <div class="kicker">
+          <span>Social Media</span>
+        </div><h3 id="title-deep-fakes-and-social-media-a-qa-with-alex-cohen">
+        <a href="https://digital.gov/2021/06/08/deep-fakes-and-social-media-a-qa-with-alex-cohen/">Deep Fakes and Social Media: A Q&amp;A With Alex Cohen</a>
+      </h3><div class="summary">
+          <p>The questions in this post were curated from attendees of the Deep Fakes and Social Media Webinar, hosted by the SocialGov Community of Practice and Digital.gov on May 18, 2021.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../alex-cohen/index.html"
+              title="Posts by Alex Cohen"
+              rel="author"
+              aria-label="Read more articles by Alex Cohen"
+              >Alex Cohen</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="index.html"
+              title="Posts by Gabrielle Perret"
+              rel="author"
+              aria-label="Read more articles by Gabrielle Perret"
+              >Gabrielle Perret</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Jun 08, 2021</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-3-things-you-should-know-about-the-federal-rpa-use-case-inventory"
+>
+  <div class="card__content">
+    <div class="kicker">
+          <span>ROBOTIC PROCESS AUTOMATION</span>
+        </div><h3 id="title-3-things-you-should-know-about-the-federal-rpa-use-case-inventory">
+        <a href="https://digital.gov/2021/05/24/3-things-you-should-know-about-the-federal-rpa-use-case-inventory/">3 Things You Should Know About the Federal RPA Use Case Inventory</a>
+      </h3><div class="summary">
+          <p>The Federal Robotic Process Automation (RPA) Community of Practice is updating the RPA Use Case Inventory, which provides detailed information on over 300 RPA Use Cases across the federal government.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="index.html"
+              title="Posts by Gabrielle Perret"
+              rel="author"
+              aria-label="Read more articles by Gabrielle Perret"
+              >Gabrielle Perret</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/jonathan-clinton/"
+              title="Posts by Jonathan Clinton"
+              rel="author"
+              aria-label="Read more articles by Jonathan Clinton"
+              >Jonathan Clinton</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+
+
+  <div class="media-featured">
+    <a href="https://digital.gov/2021/05/24/3-things-you-should-know-about-the-federal-rpa-use-case-inventory/" title="3 Things You Should Know About the Federal RPA Use Case Inventory">
+      <img
+        src="https://s3.amazonaws.com/digitalgov/rpa-stock-photo-2_w800.png"
+        aria-hidden="true"
+        alt=""
+      />
+    </a>
+  </div>
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">May 24, 2021</div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="deep-fakes-and-social-media"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>Digital Communications</span>
+        </div><h2 class="card-event__title" id="deep-fakes-and-social-media">
+        <a
+          href="../../event/2021/05/18/deep-fakes-and-social-media/index.html"
+          title="Deep Fakes and Social Media"
+          rel="bookmark"
+          >Deep Fakes and Social Media</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          Deep fakes are an emerging threat that can disrupt agencies’ communication efforts and federal agencies should be prepared. Learn about deep fakes on social media, and how federal agencies can plan to combat a deep fake if they are targeted.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../alex-cohen/index.html"
+              title="Posts by Alex Cohen"
+              rel="author"
+              aria-label="Read more articles by Alex Cohen"
+              >Alex Cohen</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="index.html"
+              title="Posts by Gabrielle Perret"
+              rel="author"
+              aria-label="Read more articles by Gabrielle Perret"
+              >Gabrielle Perret</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2021-05-18">
+        <span class="card-event__datetime-month"
+          >May</span
+        >
+        <span class="card-event__datetime-day"
+          >18<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2021</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2021</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="social-media-spring-session-2021"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>Social Media</span>
+        </div><h2 class="card-event__title" id="social-media-spring-session-2021">
+        <a
+          href="../../event/2021/04/28/social-media-spring-session-2021/index.html"
+          title="Social Media Spring Session 2021"
+          rel="bookmark"
+          >Social Media Spring Session 2021</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          Join the SocialGov Community of Practice for the latest updates on social media topics including advertising campaigns, content archiving, and podcasting.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../bronwyn-emmet/index.html"
+              title="Posts by  Bronwyn Emmet "
+              rel="author"
+              aria-label="Read more articles by  Bronwyn Emmet "
+              > Bronwyn Emmet </a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../dominique-gebru/index.html"
+              title="Posts by Dominique Gebru"
+              rel="author"
+              aria-label="Read more articles by Dominique Gebru"
+              >Dominique Gebru</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="index.html"
+              title="Posts by Gabrielle Perret"
+              rel="author"
+              aria-label="Read more articles by Gabrielle Perret"
+              >Gabrielle Perret</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../joseph-galbo/index.html"
+              title="Posts by Joseph Galbo"
+              rel="author"
+              aria-label="Read more articles by Joseph Galbo"
+              >Joseph Galbo</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../kristen-albrittain/index.html"
+              title="Posts by Kristen Albrittain"
+              rel="author"
+              aria-label="Read more articles by Kristen Albrittain"
+              >Kristen Albrittain</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../sara-eckert/index.html"
+              title="Posts by Sara Eckert"
+              rel="author"
+              aria-label="Read more articles by Sara Eckert"
+              >Sara Eckert</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../tanner-iskra/index.html"
+              title="Posts by Tanner Iskra"
+              rel="author"
+              aria-label="Read more articles by Tanner Iskra"
+              >Tanner Iskra</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2021-04-28">
+        <span class="card-event__datetime-month"
+          >Apr</span
+        >
+        <span class="card-event__datetime-day"
+          >28<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2021</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2021</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-five-insider-secrets-to-engaging-emails"
+>
+  <div class="card__content">
+    <div class="kicker">
+          <span>Marketing</span>
+        </div><h3 id="title-five-insider-secrets-to-engaging-emails">
+        <a href="https://digital.gov/2021/02/26/five-insider-secrets-to-engaging-emails/">Five Insider Secrets to Engaging Emails</a>
+      </h3><div class="summary">
+          <p>Engaging readers who receive hundreds of emails a day is not easy, but it starts with the most critical starting point—empathy for their time.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="index.html"
+              title="Posts by Gabrielle Perret"
+              rel="author"
+              aria-label="Read more articles by Gabrielle Perret"
+              >Gabrielle Perret</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/peter-lenentine/"
+              title="Posts by Peter Lenentine"
+              rel="author"
+              aria-label="Read more articles by Peter Lenentine"
+              >Peter Lenentine</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/vwales32.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../victoria-wales/index.html"
+              title="Posts by Victoria Bitzer-Wales"
+              rel="author"
+              aria-label="Read more articles by Victoria Bitzer-Wales"
+              >Victoria Bitzer-Wales</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+
+
+  <div class="media-featured">
+    <a href="https://digital.gov/2021/02/26/five-insider-secrets-to-engaging-emails/" title="Five Insider Secrets to Engaging Emails">
+      <img
+        src="https://s3.amazonaws.com/digitalgov/anatomy-of-an-email-slide-federal-social-media-week_w800.png"
+        aria-hidden="true"
+        alt=""
+      />
+    </a>
+  </div>
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Feb 26, 2021</div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="federal-social-media-week-2020"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>Social Media</span>
+        </div><h2 class="card-event__title" id="federal-social-media-week-2020">
+        <a
+          href="../../event/2020/12/07/federal-social-week-2020/index.html"
+          title="Federal Social Media Week 2020!"
+          rel="bookmark"
+          >Federal Social Media Week 2020!</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          2020 has been an unprecedented year for challenges and opportunities in social media. SocialGov’s Federal Social Media Week 2020 will bring you some interesting perspectives on how to keep social media moving and successful for 2021.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../andres-quinones/index.html"
+              title="Posts by Andres Quinones"
+              rel="author"
+              aria-label="Read more articles by Andres Quinones"
+              >Andres Quinones</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../claire-loxsom/index.html"
+              title="Posts by Claire Loxsom"
+              rel="author"
+              aria-label="Read more articles by Claire Loxsom"
+              >Claire Loxsom</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="index.html"
+              title="Posts by Gabrielle Perret"
+              rel="author"
+              aria-label="Read more articles by Gabrielle Perret"
+              >Gabrielle Perret</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../laura-larrimore/index.html"
+              title="Posts by Laura Larrimore"
+              rel="author"
+              aria-label="Read more articles by Laura Larrimore"
+              >Laura Larrimore</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../tanner-iskra/index.html"
+              title="Posts by Tanner Iskra"
+              rel="author"
+              aria-label="Read more articles by Tanner Iskra"
+              >Tanner Iskra</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/vwales32.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../victoria-wales/index.html"
+              title="Posts by Victoria Bitzer-Wales"
+              rel="author"
+              aria-label="Read more articles by Victoria Bitzer-Wales"
+              >Victoria Bitzer-Wales</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2020-12-07">
+        <span class="card-event__datetime-month"
+          >Dec</span
+        >
+        <span class="card-event__datetime-day"
+          >07<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2020</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2020</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="reaching-americas-veterans-in-the-digital-space"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><h2 class="card-event__title" id="reaching-americas-veterans-in-the-digital-space">
+        <a
+          href="../../event/2020/02/13/reaching-americas-veterans-in-digital-space/index.html"
+          title="Reaching America’s Veterans in the Digital Space"
+          rel="bookmark"
+          >Reaching America’s Veterans in the Digital Space</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          In this discussion, we’ll hear from the digital experts at the Department of Veterans Affairs on their successful strategies for reaching America’s veterans through digital platforms.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../bronwyn-emmet/index.html"
+              title="Posts by  Bronwyn Emmet "
+              rel="author"
+              aria-label="Read more articles by  Bronwyn Emmet "
+              > Bronwyn Emmet </a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../dominique-ramirez/index.html"
+              title="Posts by Dominique Ramirez"
+              rel="author"
+              aria-label="Read more articles by Dominique Ramirez"
+              >Dominique Ramirez</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="index.html"
+              title="Posts by Gabrielle Perret"
+              rel="author"
+              aria-label="Read more articles by Gabrielle Perret"
+              >Gabrielle Perret</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../jason-davis/index.html"
+              title="Posts by Jason Davis"
+              rel="author"
+              aria-label="Read more articles by Jason Davis"
+              >Jason Davis</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../tanner-iskra/index.html"
+              title="Posts by Tanner Iskra"
+              rel="author"
+              aria-label="Read more articles by Tanner Iskra"
+              >Tanner Iskra</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../tim-hudak/index.html"
+              title="Posts by Tim Hudak"
+              rel="author"
+              aria-label="Read more articles by Tim Hudak"
+              >Tim Hudak</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2020-02-13">
+        <span class="card-event__datetime-month"
+          >Feb</span
+        >
+        <span class="card-event__datetime-day"
+          >13<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2020</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2020</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="socialgov-talk-reaching-small-businesses-in-the-digital-environment"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><h2 class="card-event__title" id="socialgov-talk-reaching-small-businesses-in-the-digital-environment">
+        <a
+          href="../../event/2019/11/19/socialgov-talk-reaching-small-businesses-in-digital-environment/index.html"
+          title="SocialGov Talk: Reaching Small Businesses in the Digital Environment"
+          rel="bookmark"
+          >SocialGov Talk: Reaching Small Businesses in the Digital Environment</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          In this webinar, the social media experts from the U.S. Small Business Administration discussed how they find and communicate with small businesses on their social media platforms.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="index.html"
+              title="Posts by Gabrielle Perret"
+              rel="author"
+              aria-label="Read more articles by Gabrielle Perret"
+              >Gabrielle Perret</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../natale-goriel/index.html"
+              title="Posts by Natale Goriel"
+              rel="author"
+              aria-label="Read more articles by Natale Goriel"
+              >Natale Goriel</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../paul-lester/index.html"
+              title="Posts by Paul Lester"
+              rel="author"
+              aria-label="Read more articles by Paul Lester"
+              >Paul Lester</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../stephen-morris/index.html"
+              title="Posts by Stephen Morris"
+              rel="author"
+              aria-label="Read more articles by Stephen Morris"
+              >Stephen Morris</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2019-11-19">
+        <span class="card-event__datetime-month"
+          >Nov</span
+        >
+        <span class="card-event__datetime-day"
+          >19<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2019</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2019</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="socialgov-fall-meeting-podcasting"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><h2 class="card-event__title" id="socialgov-fall-meeting-podcasting">
+        <a
+          href="../../event/2019/10/17/socialgov-fall-meeting-podcasting/index.html"
+          title="SocialGov Fall Meeting - Podcasting!"
+          rel="bookmark"
+          >SocialGov Fall Meeting - Podcasting!</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          Join the minds behind four top federal podcasts to learn how to create, produce, and promote professional podcasts that engage with audiences.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../anamaria-sinitean/index.html"
+              title="Posts by Ana-Maria Sinitean"
+              rel="author"
+              aria-label="Read more articles by Ana-Maria Sinitean"
+              >Ana-Maria Sinitean</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../christopher-m-wurst/index.html"
+              title="Posts by Christopher M Wurst"
+              rel="author"
+              aria-label="Read more articles by Christopher M Wurst"
+              >Christopher M Wurst</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../david-a-kosub-phd/index.html"
+              title="Posts by David A Kosub, Ph.D"
+              rel="author"
+              aria-label="Read more articles by David A Kosub, Ph.D"
+              >David A Kosub, Ph.D</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="index.html"
+              title="Posts by Gabrielle Perret"
+              rel="author"
+              aria-label="Read more articles by Gabrielle Perret"
+              >Gabrielle Perret</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../matt-dozier/index.html"
+              title="Posts by Matt Dozier"
+              rel="author"
+              aria-label="Read more articles by Matt Dozier"
+              >Matt Dozier</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../tanner-iskra/index.html"
+              title="Posts by Tanner Iskra"
+              rel="author"
+              aria-label="Read more articles by Tanner Iskra"
+              >Tanner Iskra</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2019-10-17">
+        <span class="card-event__datetime-month"
+          >Oct</span
+        >
+        <span class="card-event__datetime-day"
+          >17<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2019</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2019</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="socialgov-talks-leveraging-pop-culture-with-paul-lester-of-the-doe"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><h2 class="card-event__title" id="socialgov-talks-leveraging-pop-culture-with-paul-lester-of-the-doe">
+        <a
+          href="../../event/2019/09/26/socialgov-talks-leveraging-pop-culture-with-paul-lester-doe/index.html"
+          title="SocialGov Talks: Leveraging Pop Culture With Paul Lester of the DOE"
+          rel="bookmark"
+          >SocialGov Talks: Leveraging Pop Culture With Paul Lester of the DOE</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          Learn from a social media expert at Department of Energy how to use pop culture references as a jumping off point to talk about your agency’s work.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="index.html"
+              title="Posts by Gabrielle Perret"
+              rel="author"
+              aria-label="Read more articles by Gabrielle Perret"
+              >Gabrielle Perret</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../laura-larrimore/index.html"
+              title="Posts by Laura Larrimore"
+              rel="author"
+              aria-label="Read more articles by Laura Larrimore"
+              >Laura Larrimore</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../paul-lester/index.html"
+              title="Posts by Paul Lester"
+              rel="author"
+              aria-label="Read more articles by Paul Lester"
+              >Paul Lester</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2019-09-26">
+        <span class="card-event__datetime-month"
+          >Sep</span
+        >
+        <span class="card-event__datetime-day"
+          >26<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2019</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2019</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
+        </div>
+
+
+<div class="dg-see-all-footer">
+  <footer>
+    <a class="btn" href="https://digital.gov/news" title="">
+      <span>See all News</span>
+      <svg
+        class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+        aria-hidden="true"
+        focusable="false"
+        role="img"
+      >
+        <use
+          xlink:href="../../uswds/img/sprite.svg#arrow_forward"
+        ></use>
+      </svg>
+    </a>
+    <p>
+      Have a case study to share? Did your team recently launch something?<br /><a
+        href="mailto:digitalgov@gsa.gov"
+        ><strong>Send us an email</strong></a
+      >
+    </p>
+  </footer>
+</div>
+</div>
+    </section>
+  </main>
+
+<section
+  id="newsletter-signup"
+  aria-label="Subscribe to the Digital.gov newsletter"
+>
+  <div class="grid-container grid-container-desktop">
+    <div class="grid-row tablet-lg:grid-gap-6">
+      <div class="grid-col-12 tablet:grid-col-7">
+        <section class="usa-sign-up">
+          <p class="blurb" id="newsletter-subscribe-description">
+            <strong>Join 18,000 others in government</strong> and subscribe to
+            our newsletter — a round-up of the best digital news in government
+            and across our field.
+          </p>
+        </section>
+      </div>
+      <div class="grid-col-12 tablet:grid-col-5">
+        <section
+          class="usa-sign-up"
+          aria-describedby="newsletter-subscribe-description"
+        >
+          <script
+            src="../../../public.govdelivery.com/assets/Signup.js"
+            data-account-code="USGSA"
+            data-signup-id="34948"
+          ></script>
+        </section>
+      </div>
+    </div>
+  </div>
+</section>
+<footer class="usa-footer usa-footer--big" role="contentinfo">
+  <section class="return-to-top">
+    <div
+      class="grid-container grid-container-desktop usa-footer__return-to-top"
+    >
+      <a href="#">
+        <span>Return to top</span>
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="../../uswds/img/sprite.svg#arrow_upward"
+          ></use>
+        </svg>
+      </a>
+    </div>
+  </section>
+  <div class="usa-footer__primary-section">
+    <div class="grid-container grid-container-desktop">
+      <nav class="usa-footer__nav" aria-label="Footer navigation">
+        <div class="grid-row grid-gap-4">
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Learn</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../news/index.html">Blogs</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../events/index.html">Events</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../resources/index.html">Resources</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../communities/index.html">Communities</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../guides/index.html">Guides</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../job-board/index.html">Job board</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Contribute</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../contribute/index.html">Write for us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../digitalgov-university/index.html">Host an event</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../github.com/GSA/digitalgov.gov/issues.html">Submit GitHub issue</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">About</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../about/index.html">About Us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../policies/index.html">Site Policies</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../about/contact/index.html">Contact Us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../about/manage-content/index.html">Content schedule</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Social</h4>
+              <ul class="usa-list usa-list--unstyled social-links">
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#x"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../twitter.com/digital_gov"
+                    >X (Formerly Twitter)</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#facebook"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../www.facebook.com/digitalgov/index.html"
+                    >Facebook</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#youtube"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="https://youtube.com/@DigitalGov"
+                    >YouTube</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#linkedin"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../www.linkedin.com/company/digitalgov-gsa/index.html"
+                    >LinkedIn</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#rss_feed"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../index.xml"
+                    >RSS</a
+                  >
+                </li>
+              </ul>
+            </section>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+  <div class="usa-identifier">
+    <section
+      class="usa-identifier__section usa-identifier__section--masthead"
+      aria-label="Agency identifier"
+    >
+      <div class="usa-identifier__container">
+        <div class="usa-identifier__logos">
+          <a href="../../../www.gsa.gov/index.html" class="usa-identifier__logo">
+            <img
+              class="usa-identifier__logo-img"
+              src="../../img/gsa-logo-w100.png"
+              alt="GSA logo"
+              role="img"
+              width="100"
+              height="100"
+            />
+          </a>
+        </div>
+        <section
+          class="usa-identifier__identity"
+          aria-label="Agency description"
+        >
+          <p class="usa-identifier__identity-domain">Digital.gov</p>
+          <p class="usa-identifier__identity-disclaimer">
+            An official website of the
+            <a href="../../../www.gsa.gov/index.html">U.S. General Services Administration</a>
+          </p>
+        </section>
+      </div>
+    </section>
+    <nav
+      class="usa-identifier__section usa-identifier__section--required-links"
+      aria-label="Important links"
+    >
+      <div class="usa-identifier__container">
+        <ul class="usa-identifier__required-links-list">
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/about-us.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                About GSA
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/website-information/accessibility-statement.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Accessibility statement
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/reference/freedom-of-information-act-foia.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                FOIA requests
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/reference/civil-rights-programs/the-no-fear-act.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                No FEAR Act data
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsaig.gov/index.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Office of the Inspector General
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="https://www.gsa.gov/reference/reports/budget-performance"
+                class="usa-identifier__required-link usa-link"
+              >
+                Performance reports
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/website-information/website-policies.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Privacy policy
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </nav>
+    <section
+      class="usa-identifier__section usa-identifier__section--usagov"
+      aria-label="U.S. government information and services"
+    >
+      <div class="usa-identifier__container">
+        <div class="usa-identifier__usagov-description">
+          Looking for U.S. government information and services?
+        </div>
+        <a href="../../../www.usa.gov/index.html" class="usa-link">
+          Visit USA.gov
+        </a>
+      </div>
+    </section>
+  </div>
+
+</div>
+    
+
+    <div id="clicks_iframe" class="display-none"></div>
+  </body>
+
+  
+  <script type="text/javascript">let glossaryPath = null;
+    const glossaryIcon = "#\/uswds\/img\/sprite.svg#expand_more"
+  </script>
+
+  <script src="../../dist/js/uswds.min.js"></script>
+  <script src="../../dist/js/main.js"></script>
+
+<!-- Mirrored from digital.gov/authors/gabrielle-perret/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 02 Mar 2025 23:10:20 GMT -->
+</html>

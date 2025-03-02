@@ -1,0 +1,69 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "about",
+    "type" : "list",
+    "title" : "About us |Digital.gov",
+    "description": "About us",
+    "home_page_url" : "https://digital.gov/",
+    "count" : "8","feed_url" : "https://digital.gov/about/index.json",
+    "section" : "about",
+    
+    
+    "items" : [{"title" :"How does Digital.gov manage content?","summary" : "To maintain and curate the most useful experience possible, we regularly evaluate our web content for accuracy, relevance, and other indicators of quality.","date" : "2024-10-11T08:25:54-0500","date_modified" : "2025-02-26T11:29:46-05:00","primary_image" : { "uid" : "web-content-dev-team-artbesouro-istock-getty-images-1284921335", "alt" :
+  "Vector illustration of a team of people managing website content and development.", "width" :
+  "1200", "height" :
+  "630", "credit" :
+  "", "caption" :
+  "Artbesouro/iStock via Getty Images", "format" :
+  "png" },"branch" : "main",
+      "filename" :"manage-content.md",
+      
+      "filepath" :"about/manage-content.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/about/manage-content.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/about/manage-content.md","url" : "https://digital.gov/about/manage-content/"
+    },{"title" :"Paperwork Reduction Act (PRA) Statements","deck" : "","summary" : "Paperwork Reduction Act Statements for Digital.gov Feedback Surveys","date" : "2022-11-08T14:00:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"_index.md",
+      
+      "filepath" :"about/omb-pra/_index.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/about/omb-pra/_index.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/about/omb-pra/_index.md","url" : "https://digital.gov/about/omb-pra/"
+    },{"title" :"Contact Us","deck" : "We are human, we promise.","summary" : "How to contact the Digital.gov team.","date" : "2020-02-13T10:25:54-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"contact.md",
+      
+      "filepath" :"about/contact.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/about/contact.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/about/contact.md","url" : "https://digital.gov/about/contact/"
+    },{"title" :"Contribute to Digital.gov","deck" : "Have a story to share? Here is what we’re looking for.","summary" : "Have a story to share? Here is what we’re looking for.","date" : "2019-07-10T04:00:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"contribute.md",
+      
+      "filepath" :"about/contribute.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/about/contribute.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/about/contribute.md","aliases" : {"0" : "/join-digitalgov/","1" : "/about/join/","2" : "/join/","3" : "/contribute/","4" : "/digitalgov-university/"},"slug" : "contribute","url" : "https://digital.gov/about/contribute/"
+    },{"title" :"Subscribe to Digital.gov","deck" : "Stay connected with the innovative work, news, events and ideas from people and teams across government","summary" : "Stay connected with the innovative work, news, events and ideas from people and teams across government","date" : "2019-07-10T04:00:00-0500","date_modified" : "2025-02-26T11:29:46-05:00","featured_image" : { "uid" :
+  "subscribe-card-1", "alt" :
+  "" },"branch" : "main",
+      "filename" :"subscribe.md",
+      
+      "filepath" :"about/subscribe.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/about/subscribe.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/about/subscribe.md","aliases" : {"0" : "/subscribe/","1" : "/newsletter"},"slug" : "subscribe","url" : "https://digital.gov/about/subscribe/"
+    },{"title" :"Digital.gov Style Guide","deck" : "We encourage you to use the guidelines below to ensure that content on digital.gov is clear, concise, and benefits the widest possible audience.","summary" : "This is the Digital.gov style guide.","date" : "2018-04-26T10:25:54-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"style-guide.md",
+      
+      "filepath" :"about/style-guide.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/about/style-guide.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/about/style-guide.md","url" : "https://digital.gov/style-guide/"
+    },{"title" :"Lost and Found \u0026#8211; Mapping Page","summary" : "Had a HowTo.gov page bookmarked that you’re looking for on DigitalGov? Take a look at the list below for the corresponding DigitalGov URL.","date" : "2014-09-16T04:20:55-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"lost-and-found-mapping-page.md",
+      
+      "filepath" :"about/lost-and-found-mapping-page.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/about/lost-and-found-mapping-page.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/about/lost-and-found-mapping-page.md","url" : "https://digital.gov/lost-and-found-mapping-page/"
+    },{"title" :"Policies","summary" : "Policies for DigitalGov","date" : "2013-12-19T12:58:33-0500","date_modified" : "2025-02-26T11:29:46-05:00","branch" : "main",
+      "filename" :"policies.md",
+      
+      "filepath" :"about/policies.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/about/policies.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/about/policies.md","aliases" : {"0" : "/about/policies/"},"url" : "https://digital.gov/policies/"
+    }]
+}

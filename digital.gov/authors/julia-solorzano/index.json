@@ -1,0 +1,81 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "home_page_url" : "https://digital.gov/",
+    "content" : "author",
+    "type" : "list",
+    "count" : "5","feed_url" : "https://digital.gov/authors/julia-solorzano/index.json","profile_url" : "https://digital.gov/authors/julia-solorzano/","display_name" : "Julia Solórzano","first_name" : "Julia","last_name" : "Solórzano","pronoun" : "she/her","slug" : "julia-solorzano","bio" : "Julia Solórzano is the Branch Chief of User Experience for Login.gov, where she leads a team of designers and developers to create secure and user-friendly identity solutions for federal agencies and the public. She has over twenty years of experience in design leadership, people management, user experience, web development, and open source projects.","agency" : "GSA","agency_full_name" : "U.S. General Services Administration","github" : "juliaelman","profile_source" : "github","branch" : "main",
+    "filename" :"_index.md",
+    
+    "filepath" :"authors/julia-solorzano/_index.md",
+    "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/julia-solorzano/_index.md",
+    "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/julia-solorzano/_index.md",
+    "url" : "https://digital.gov/authors/julia-solorzano/",
+    "items" : [{
+        "title" :"Approaching language translations to provide a better user experience: A Login.gov case study","deck" : "Login.gov adds new languages to provide expanded access and assistance to the public.","summary" : "Learn how the Login.gov team improved translations and added a new language to enhance their service.","date" : "2024-12-17T00:00:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"julia-solorzano" : "Julia Solórzano","danielle-lee" : "Danielle Lee","mitchell-henke" : "Mitchell Henke","nick-ng" : "Nick Ng"},"topics" : {
+          
+              "content-strategy" : "Content strategy",
+              "multilingual" : "Multilingual"
+              },"branch" : "main",
+        "filename" :"2024-12-17-approaching-language-translations-to-provide-a-better-user-experience.md",
+        "filepath" :"authors/julia-solorzano/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/julia-solorzano/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/julia-solorzano/_index.md",
+        "url" : "https://digital.gov/2024/12/17/approaching-language-translations-to-provide-a-better-user-experience/"
+    },{
+        "title" :"Security is Everyone's Responsibility: Delivering Secure, Usable Login for Government","deck" : "How login.gov incorporated human centered design and continuous discovery into their product development process to improve the user experience.","summary" : "How login.gov incorporated human centered design and continuous discovery into their product development process to improve the user experience.","date" : "2021-03-02T10:28:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"julia-solorzano" : "Julia Solórzano"},"topics" : {
+          
+              "design" : "Design",
+              "human-centered-design" : "Human-centered design",
+              "privacy" : "Privacy",
+              "research" : "Research",
+              "security" : "Security",
+              "user-experience" : "User experience"
+              },"branch" : "main",
+        "filename" :"2021-03-02-security-is-everyones-job-delivering-secure-usable-login-for-government.md",
+        "filepath" :"authors/julia-solorzano/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/julia-solorzano/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/julia-solorzano/_index.md",
+        "url" : "https://digital.gov/2021/03/02/security-is-everyones-job-delivering-secure-usable-login-for-government/"
+    },{
+        "title" :"How the U.S. Customs and Border Protection Uses the U.S. Web Design Standards","summary" : "In this second post in our series, we met with the team at the U.S. Customs and Border Protection and learned how they used the Standards to train, develop, and design their various websites and applications.","date" : "2017-04-12T11:00:14-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"julia-solorzano" : "Julia Solórzano"},"topics" : {
+          
+              "accessibility" : "Accessibility",
+              "design" : "Design",
+              "mobile" : "Mobile",
+              "user-experience" : "User experience"
+              },"branch" : "main",
+        "filename" :"2017-04-12-how-the-u-s-customs-and-border-protection-uses-the-u-s-web-design-standards.md",
+        "filepath" :"authors/julia-solorzano/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/julia-solorzano/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/julia-solorzano/_index.md",
+        "url" : "https://digital.gov/2017/04/12/how-the-u-s-customs-and-border-protection-uses-the-u-s-web-design-standards/"
+    },{
+        "title" :"NASA\u0026#8217;s Journey With the U.S. Web Design Standards","summary" : "The U.S. Web Design Standards were created by the government, for the government. They’re currently implemented on hundreds of government sites, with an audience of more than 26 million monthly users.","date" : "2017-03-24T15:17:05-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"julia-solorzano" : "Julia Solórzano"},"topics" : {
+          
+              "accessibility" : "Accessibility",
+              "accessibility" : "Accessibility",
+              "content-strategy" : "Content strategy",
+              "design" : "Design",
+              "mobile" : "Mobile",
+              "research" : "Research",
+              "user-experience" : "User experience"
+              },"branch" : "main",
+        "filename" :"2017-03-24-nasas-journey-with-the-u-s-web-design-standards.md",
+        "filepath" :"authors/julia-solorzano/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/julia-solorzano/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/julia-solorzano/_index.md",
+        "url" : "https://digital.gov/2017/03/24/nasas-journey-with-the-u-s-web-design-standards/"
+    },{
+        "title" :"Taking the Pulse of the Federal Government's Web Presence","summary" : "The U.S. federal government is launching a new project to monitor how it's doing at best practices on the Web.","date" : "2015-06-03T13:10:57-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"eric-mill" : "Eric Mill","julia-solorzano" : "Julia Solórzano","gray-brooks" : "Gray Brooks","john-tindel" : "John Tindel"},"topics" : {
+          
+              "analytics" : "Analytics",
+              "product-and-project-management" : "Product and project management",
+              "security" : "Security"
+              },"branch" : "main",
+        "filename" :"2015-06-03-taking-the-pulse-of-the-federal-governments-web-presence.md",
+        "filepath" :"authors/julia-solorzano/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/julia-solorzano/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/julia-solorzano/_index.md",
+        "url" : "https://digital.gov/2015/06/03/taking-the-pulse-of-the-federal-governments-web-presence/"
+    }]
+}

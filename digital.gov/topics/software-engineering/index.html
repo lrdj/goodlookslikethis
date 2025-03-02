@@ -1,0 +1,6401 @@
+<!--
+
+Welcome to Digital.gov — our goal is to transform how government learns, builds,
+delivers and measures digital services in the 21st century. Learn more
+https://digital.gov/about Get in touch: digitalgov@gsa.gov Follow us on Twitter:
+@digital_gov ======= We edit in the open at https://workflow.digital.gov/ Built
+by the Digital.gov team in the GSA, using modern development practices. See the
+full source code: https://github.com/GSA/digitalgov.gov Built using HUGO. Hosted
+on cloud.gov Pages https://cloud.gov/pages/ -->
+
+
+
+<!DOCTYPE html>
+
+<html
+  lang="en-US"
+  itemscope
+  itemtype="../../../schema.org/WebSite.html"
+  prefix="og: http://ogp.me/ns#"
+>
+
+
+
+
+  
+    
+    
+  
+
+
+
+<!-- Mirrored from digital.gov/topics/software-engineering/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 02 Mar 2025 23:10:23 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head profile="../../../gmpg.org/xfn/11.html">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  
+  <script
+    async
+    type="text/javascript"
+    id="_fed_an_ua_tag"
+    src="../../../dap.digitalgov.gov/Universal-Federated-Analytics-Minb06b.js?agency=GSA&amp;subagency=TTS"
+  ></script>
+
+  <!-- Google Tag Manager Data Layer -->
+  <script>
+    dataLayer = [
+      {
+        "content-type": "resource+page",
+        topics: "design, analytics, Tag+Manager",
+      },
+    ];
+  </script>
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "../../../www.googletagmanager.com/gtm5445.html?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-MZCKZPQ");
+  </script>
+
+  <!-- End Google Tag Manager -->
+
+  <!-- Page Title -->
+    
+    <title>Software engineering – Digital.gov</title>
+  <!-- Meta Description -->
+  <meta
+    name="description"
+    content="Federal websites are essential tools for unifying and communicating government information with the public in a timely manner. A well-developed website builds public trust in government and provides users with access to information when they need it. Follow up-to-date technical standards and software best practices to build accessible websites and digital services."
+  />
+  <meta
+    name="keywords"
+    content="digital, government, technology, civic-tech"
+  />
+
+  <!-- Start of Facebook Open Graph -->
+  <meta
+    property="og:title"
+    content="Software engineering"
+  />
+  <meta
+    property="og:description"
+    content="Federal websites are essential tools for unifying and communicating government information with the public in a timely manner. A well-developed website builds public trust in government and provides users with access to information when they need it. Follow up-to-date technical standards and software best practices to build accessible websites and digital services."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://digital.gov/topics/software-engineering/" />
+  <meta property="og:site_name" content="Digital.gov" />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:image" content="https://s3.amazonaws.com/digitalgov/topics-og-primary-image.jpg" />
+    <meta property="og:image:alt" content=" " />
+  
+  <meta property="fb:admins" content="100000569454928" />
+  <meta
+    property="article:publisher"
+    content="https://www.facebook.com/digitalgov"
+  />
+  <!-- End of Facebook Open Graph -->
+
+  <!-- Start of Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@Digital_Gov" />
+  <meta name="twitter:creator" content="@Digital_Gov" />
+  <meta name="twitter:image:src" content="https://s3.amazonaws.com/digitalgov/topics-og-primary-image.jpg" />
+  <meta
+    property="twitter:description"
+    content="Federal websites are essential tools for unifying and communicating government information with the public in a timely manner. A well-developed website builds public trust in government and provides users with access to information when they need it. Follow up-to-date technical standards and software best practices to build accessible websites and digital services."
+  />
+  <meta
+    property="twitter:title"
+    content="Software engineering"
+  />
+  <!-- End of Twitter -->
+
+  <!-- RSS Feed -->
+  <link href="https://digital.gov/topics/software-engineering/index.xml" rel="feed" type="application/rss+xml" />
+
+  <!-- JSON Feed -->
+  <link
+    href="https://digital.gov/topics/software-engineering/index.json"
+    data-proofer-ignore
+    rel="alternate"
+    type="application/json"
+    title="Digital.gov"
+  />
+
+  <!-- Sitemap-->
+  <link
+    rel="sitemap"
+    type="application/xml"
+    title="Digital.gov Sitemap"
+    href="../../sitemap.xml"
+  />
+
+  
+  
+  <meta name="theme-color" content="#656bd7" />
+
+  
+  <meta name="msvalidate.01" content="A662823C2F59EB4F55F752CC752AC299" />
+
+  <!-- CSS -->
+  
+  <link
+    rel="stylesheet"
+    href="../../dist/styles.css"
+    type="text/css"
+    media="all"
+  />
+  <script src="../../dist/js/uswds-init.min.js"></script>
+
+  <!-- Favicons & Icons -->
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="../../img/icons/apple-touch-icon30f4.png?v=3"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="../../img/icons/favicon-32x3230f4.png?v=3"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="../../img/icons/favicon-16x1630f4.png?v=3"
+  />
+  <link
+    rel="manifest"
+    href="../../img/icons/site30f4.webmanifest?v=3"
+  />
+  <link
+    rel="mask-icon"
+    href="../../img/icons/safari-pinned-tab30f4.svg?v=3"
+    color="#0076d6"
+  />
+  <link
+    rel="shortcut icon"
+    href="../../img/icons/favicon30f4.ico?v=3"
+  />
+  <meta name="msapplication-TileColor" content="#0076d6" />
+  <meta name="theme-color" content="#ffffff" />
+
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+</head>
+<body class="topics term"><!-- Google Tag Manager (noscript) --><noscript
+      ><iframe
+        src="../../../www.googletagmanager.com/ns9116.html?id=GTM-MZCKZPQ"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+    <div class="paper"><a class="usa-skipnav" href="#main-content">Skip to main content</a>
+<section
+  class="usa-banner gov-banner"
+  aria-label="Official website of the United States government"
+>
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto"><img
+            aria-hidden="true"
+            class="usa-banner__header-flag"
+            src="../../uswds/img/us_flag_small.png"
+            alt=""
+            width="16"
+            height="11"
+          />
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+          <p class="usa-banner__header-text">
+            An official website of the United States government
+          </p>
+          <p class="usa-banner__header-action">Here’s how you know</p>
+        </div>
+        <button
+          type="button"
+          class="usa-accordion__button usa-banner__button"
+          aria-expanded="false"
+          aria-controls="gov-banner-default-default"
+        >
+          <span class="usa-banner__button-text">Here’s how you know</span>
+        </button>
+      </div>
+    </header>
+    <div
+      class="usa-banner__content usa-accordion__content"
+      id="gov-banner-default-default"
+    >
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6"><img
+            class="usa-banner__icon usa-media-block__img"
+            src="../../uswds/img/icon-dot-gov.svg"
+            role="img"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong>
+              <br />
+              A <strong>.gov</strong> website belongs to an official government
+              organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6"><img
+            class="usa-banner__icon usa-media-block__img"
+            src="../../uswds/img/icon-https.svg"
+            role="img"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong><br />A
+              <strong>lock</strong> (
+              <span class="icon-lock">
+                <svg
+                  xmlns="../../../www.w3.org/2000/svg.html"
+                  width="52"
+                  height="64"
+                  viewBox="0 0 52 64"
+                  class="usa-banner__lock-image"
+                  role="img"
+                  aria-labelledby="banner-lock-description-default"
+                  focusable="false"
+                >
+                  <title id="banner-lock-title-default">Lock</title>
+                  <desc id="banner-lock-description-default">
+                    Locked padlock
+                  </desc>
+                  <path
+                    fill="#000000"
+                    fill-rule="evenodd"
+                    d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"
+                  />
+                </svg> </span
+              >) or <strong>https://</strong> means you’ve safely connected to
+              the .gov website. Share sensitive information only on official,
+              secure websites.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  
+  
+  
+  
+
+  
+  
+
+  
+    <section
+      class="dg-site-alert usa-site-alert usa-site-alert--info
+      
+      "
+      aria-label="Site alert"
+    >
+      <div class="usa-alert">
+        <div class="usa-alert__body">
+          
+            <h3 class="usa-alert__heading">Guidance for U.S. government websites and social media</h3>
+          
+          
+            <ul class="usa-list">
+              
+                <li><a href="https://digital.gov/california-wildfires">digital.gov/california-wildfires</a></li>
+              
+                <li><a href="https://digital.gov/hurricane-helene">digital.gov/hurricane-helene</a></li>
+              
+            </ul>
+          
+        </div>
+      </div>
+    </section>
+  
+
+
+<script type="text/javascript">
+  
+  const links = document.querySelectorAll(".dg-site-alert a");
+  links.forEach((link) => link.classList.add("usa-link"));
+</script>
+<div class="usa-overlay"></div>
+<header class="usa-header usa-header--extended" role="banner">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo__text">
+        <a
+          href="../../index.html"
+          title="Digital.gov Home"
+          aria-label="Digital.gov Home"
+        >
+          <img
+            class="logo-black"
+            src="../../img/digitalgov-logo.svg"
+            alt="Digital.gov Logo"
+            width="220"
+            height="36"
+          />
+        </a>
+      </em>
+      <p class="sub-head display-none">Guidance on building better digital services in government</p>
+    </div>
+
+    <button class="usa-menu-btn">
+      <svg
+        class="usa-icon dg-icon dg-icon--standard margin-bottom-2px"
+        aria-hidden="true"
+        focusable="false"
+        role="img"
+      >
+        <use xlink:href="../../uswds/img/sprite.svg#menu"></use>
+      </svg>
+      Menu
+    </button>
+  </div>
+  <nav aria-label="Primary navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      <button class="usa-nav__close">
+        <img src="../../uswds/img/close.svg" alt="close" />
+      </button><ul class="usa-nav__primary usa-accordion"><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../news/index.html"
+              ><span>Blogs</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../events/index.html"
+              ><span>Events</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../resources/index.html"
+              ><span>Resources</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../communities/index.html"
+              ><span>Communities</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../guides/index.html"
+              ><span>Guides</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../job-board/index.html"
+              ><span>Job board</span></a
+            >
+          </li></ul>
+      
+
+      <div class="usa-nav__secondary">
+        <ul class="usa-nav__secondary-links">
+          <li class="usa-nav__secondary-item">
+            <a href="https://digital.gov/subscribe"
+              ><span>Subscribe to our newsletter</span></a
+            >
+          </li>
+        </ul>
+
+        <form
+          accept-charset="UTF-8"
+          action="https://find.digitalgov.gov/search"
+          id="search_form"
+          method="get"
+          class="usa-search usa-search--small"
+        >
+          <input name="utf8" type="hidden" value="&#x2713;" />
+          <input
+            id="affiliate"
+            name="affiliate"
+            type="hidden"
+            value="digitalgov"
+          />
+          <div role="search">
+            <label class="usa-sr-only" for="query">Search small</label>
+            <input class="usa-input" id="query" type="search" name="query" />
+            <button class="usa-button" name="commit" type="submit">
+              <img
+                src="../../uswds/img/usa-icons-bg/search--white.svg"
+                class="usa-search__submit-icon"
+                alt="Search"
+              />
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+      
+      <main role="main" id="main-content">
+    <div class="grid-container-desktop"><nav class="usa-breadcrumb usa-breadcrumb--wrap" aria-label="Breadcrumb">
+  <ol class="usa-breadcrumb__list">
+    <li class="usa-breadcrumb__list-item">
+      <a href="../../index.html" class="usa-breadcrumb__link">
+        <span>Home</span>
+      </a>
+    </li>
+
+  
+    <li class="usa-breadcrumb__list-item">
+      <a
+        href="../index.html"
+        class="usa-breadcrumb__link"
+        aria-label="Back to Topics"
+      >
+        <span>
+          Topics</span>
+      </a>
+    </li>
+
+  
+    <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
+      <span>
+        Software engineering</span>
+    </li>
+    
+  </ol>
+</nav>
+</div>
+
+    
+    <header class="grid-container-desktop">
+      <h1
+        class="
+          dg-topic__header-title--collection
+        
+        "
+      >Software engineering</h1>
+
+      
+        <p class="dg-topic__deck margin-0">
+          Develop  websites and services that are secure, reliable, and easy to maintain.
+        </p>
+      
+    </header>
+
+    
+    
+      
+        <div class="grid-container-desktop margin-top-2">
+          <div class="grid-row desktop:grid-gap-4">
+            <div class="desktop:grid-col margin-bottom-4">
+              
+                <p class="usa-intro text-light">Federal websites are essential tools for unifying and communicating government information with the public in a timely manner. A well-developed website builds public trust in government and provides users with access to information when they need it. Follow up-to-date technical standards and software best practices to build accessible websites and digital services.</p>
+              
+            </div>
+            <div class="desktop:grid-col">
+              
+                
+  <div class="dg-card-legislation">
+    <div class="usa-card__container usa-card-group usa-card--flag">
+      
+        <div class="usa-card__header">
+          <h2 class="dg-featured-resource__text-kicker">Related Policy</h2>
+          <h2 class="usa-card__heading">
+            21st Century IDEA) &amp; M-23-22
+          </h2>
+        </div>
+      
+      <div class="usa-card__media">
+        <div class="usa-card__img">
+          <img
+            src="https://s3.amazonaws.com/digitalgov/legislative-stamp-card-logo-600.png"
+            alt="21st Century IDEA) &amp; M-23-22"
+          />
+        </div>
+      </div>
+      
+      
+        <div class="usa-card__footer">
+          <a href="../../resources/delivering-digital-first-public-experience/index.html" class="usa-button">Explore policy</a>
+        </div>
+      
+    </div>
+  </div>
+
+
+              
+            </div>
+          </div>
+        </div>
+      
+    
+
+    
+    
+      
+        <div class="dg-topic__featured grid-container-desktop">
+          
+
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+  
+  
+    
+      
+    
+  
+
+
+
+  
+<div class="dg-featured-resource">
+    <a href="../../communities/web-content-managers/index.html" class="dg-featured-resource__body">
+      <div class="dg-featured-resource__text">
+        <p class="dg-featured-resource__kicker">Communities of Practice</p>
+        
+          <h2 class="dg-featured-resource__text-title">Join the Web Managers</h2>
+        
+        
+          <p class="dg-featured-resource__text-description">Create a better online experience for the public alongside government web content managers.</p>
+        
+      </div>
+      
+    </a>
+  </div>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+  
+  
+    
+  
+
+
+
+  
+<div class="dg-featured-resource">
+    <a href="../../communities/uswds/index.html" class="dg-featured-resource__body">
+      <div class="dg-featured-resource__text">
+        <p class="dg-featured-resource__kicker">Featured Resource</p>
+        
+          <h2 class="dg-featured-resource__text-title">U.S. Web Design System</h2>
+        
+        
+          <p class="dg-featured-resource__text-description">A community for anyone building federal websites with the U.S. Web Design System (USWDS) or considering it for a future project.</p>
+        
+      </div>
+      
+    </a>
+  </div>
+        </div>
+      
+    
+
+    
+    
+      
+        <div class="grid-container-desktop margin-y-6">
+          
+            <h2>Software engineering: Essential knowledge</h2>
+          
+
+          
+          
+          
+
+
+
+
+
+
+
+  <div class="dg-collection">
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="usa-collection">
+  
+    
+      
+      
+        
+        
+      
+
+      
+      
+        
+          
+        
+      
+
+      
+      
+        
+        
+        
+        
+        
+
+        
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="../../img/digit-50.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://digital.gov/resources/an-introduction-github/" title="An introduction to GitHub">An introduction to GitHub</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              Understand how to create, manage, and publish website content in GitHub.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+        
+        
+        
+        
+        
+
+        
+          
+        
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://www.google.com/s2/favicons?domain=accessibility.digital.gov"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://accessibility.digital.gov/front-end/getting-started/" title="Accessibility for front-end developers">Accessibility for front-end developers</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              Ensure that people with different abilities can access, understand, and navigate web content, regardless of how they’re accessing it.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+        
+        
+        
+        
+        
+
+        
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="../../img/digit-50.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://digital.gov/resources/advanced-accessibility/" title="An advanced approach to accessibility">An advanced approach to accessibility</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              How to develop websites with accessibility requirements in mind.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+        
+        
+        
+        
+        
+
+        
+          
+        
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://www.google.com/s2/favicons?domain=engineering.18f.gov"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://engineering.18f.gov/about/" title="Technology Transformation Services (TTS) Engineering Practices Guide">Technology Transformation Services (TTS) Engineering Practices Guide</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              Aim for consistency around deployments, communications, and workflows.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+        
+        
+        
+        
+        
+
+        
+          
+        
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://www.google.com/s2/favicons?domain=designsystem.digital.gov"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://designsystem.digital.gov/documentation/getting-started-for-developers/" title="U.S. Web Design System: Getting started for developers">U.S. Web Design System: Getting started for developers</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              Understand how to get started using the Design System by installing, compiling, and customizing code.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+  
+</ul>
+
+
+    
+  </div>
+
+</div>
+      
+    
+
+    
+    
+      
+      
+        <section class="dg-stream usa-section">
+          <div class="grid-container-desktop">
+            <h2>Software engineering events</h2>
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-september-2024"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-september-2024">
+        <a
+          href="../../event/2024/09/19/uswds-monthly-call-september-2024/index.html"
+          title="USWDS Monthly Call - September 2024"
+          rel="bookmark"
+          >USWDS Monthly Call - September 2024</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          The U.S. Web Design System team will share their exploration of Web Component-based design systems and best practices.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2024-09-19">
+        <span class="card-event__datetime-month"
+          >Sep</span
+        >
+        <span class="card-event__datetime-day"
+          >19<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2024</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2024</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-august-2024"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-august-2024">
+        <a
+          href="../../event/2024/08/15/uswds-monthly-call-august-2024/index.html"
+          title="USWDS Monthly Call - August 2024"
+          rel="bookmark"
+          >USWDS Monthly Call - August 2024</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          The U.S. Web Design System team will answer community questions and give an update on their work developing web components for the design system.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2024-08-15">
+        <span class="card-event__datetime-month"
+          >Aug</span
+        >
+        <span class="card-event__datetime-day"
+          >15<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2024</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2024</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-june-2024"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-june-2024">
+        <a
+          href="../../event/2024/06/20/uswds-monthly-call-june-2024/index.html"
+          title="USWDS Monthly Call - June 2024"
+          rel="bookmark"
+          >USWDS Monthly Call - June 2024</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          The U.S. Web Design System team will give an update on their work developing web components for the design system.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2024-06-20">
+        <span class="card-event__datetime-month"
+          >Jun</span
+        >
+        <span class="card-event__datetime-day"
+          >20<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2024</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2024</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-may-2024"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-may-2024">
+        <a
+          href="../../event/2024/05/16/uswds-monthly-call-may-2024/index.html"
+          title="USWDS Monthly Call - May 2024"
+          rel="bookmark"
+          >USWDS Monthly Call - May 2024</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          The U.S. Web Design System (USWDS) team will chat with Center for Civic Design co-founder Whitney Quesenbery about designing accessible civic spaces.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2024-05-16">
+        <span class="card-event__datetime-month"
+          >May</span
+        >
+        <span class="card-event__datetime-day"
+          >16<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2024</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2024</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-april-2024"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-april-2024">
+        <a
+          href="../../event/2024/04/18/uswds-monthly-call-april-2024/index.html"
+          title="USWDS Monthly Call - April 2024"
+          rel="bookmark"
+          >USWDS Monthly Call - April 2024</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          The U.S. Web Design System (USWDS) team will go over some basics of Web Components and how they apply to the design system.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2024-04-18">
+        <span class="card-event__datetime-month"
+          >Apr</span
+        >
+        <span class="card-event__datetime-day"
+          >18<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2024</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2024</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+</div>
+
+          <div class="grid-container-desktop">
+            <h2>Software engineering news</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-amplifying-customer-voices"
+>
+  <div class="card__content">
+    <h3 id="title-amplifying-customer-voices">
+        <a href="https://digital.gov/2023/12/19/amplifying-customer-voices/">Amplifying customer voices</a>
+      </h3><div class="summary">
+          <p>Understand how to use natural language processing and advanced analytics to gain insights on high-impact service performance and survey design.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/izzykayu.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/isabel-izzy-metzger/"
+              title="Posts by Isabel (Izzy) Metzger"
+              rel="author"
+              aria-label="Read more articles by Isabel (Izzy) Metzger"
+              >Isabel (Izzy) Metzger</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+
+
+  <div class="media-featured">
+    <a href="https://digital.gov/2023/12/19/amplifying-customer-voices/" title="Amplifying customer voices">
+      <img
+        src="https://s3.amazonaws.com/digitalgov/green-structured-unstructured-data-iceberg-chavapong-prateep-na-thalang-istock-getty-images-1353745656-b_w800.png"
+        aria-hidden="true"
+        alt=""
+      />
+    </a>
+  </div>
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Dec 19, 2023</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-making-gsas-public-art-collection-more-accessible"
+>
+  <div class="card__content">
+    <h3 id="title-making-gsas-public-art-collection-more-accessible">
+        <a href="https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/">Making GSA&rsquo;s public art collection more accessible</a>
+      </h3><div class="summary">
+          <p>GSA’s Fine Arts team recently leveraged modern product development practices to launch the new collection website.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/actuallyjenn.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/jenn-noinaj/"
+              title="Posts by Jenn Noinaj"
+              rel="author"
+              aria-label="Read more articles by Jenn Noinaj"
+              >Jenn Noinaj</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+
+
+  <div class="media-featured">
+    <a href="https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/" title="Making GSA&rsquo;s public art collection more accessible">
+      <img
+        src="https://s3.amazonaws.com/digitalgov/screen-at-fda-by-doh-ho-suh-library-of-congress-photo-carol-m-highsmith_w800.jpg"
+        aria-hidden="true"
+        alt=""
+      />
+    </a>
+  </div>
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Dec 08, 2023</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<article
+  class="card card-news--external card-linked"
+  aria-labelledby="title-managing-a-high-performing-dream-team-in-the-federal-government"
+>
+  <div class="card__content">
+    
+      <div class="card__summary">
+        <h3 id="title-managing-a-high-performing-dream-team-in-the-federal-government">
+          <a href="https://blog-nrrd.doi.gov/federal-team/">Managing a high-performing dream team in the federal government</a>
+        </h3>
+        <p>Discover how the Open Data, Design, and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) transformed their federal projects with Agile methodologies, creating a culture of collaboration, accountability, and openness. From unique sprint names to engaging traditions and innovative knowledge-sharing practices, this blog post offers insights into building a high-performing dream team in government.<em class="card__source source"
+              >— via
+              <a href="https://blog-nrrd.doi.gov/federal-team/" title="Read at Office of Natural Resources Revenue"
+                >Office of Natural Resources Revenue</a
+              ></em
+            >
+          
+        </p>
+      </div>
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+        <img
+          src="../../logos/doi-revenuedata-logo.png"
+          alt="doi-revenuedata logo"
+        />
+      
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Nov 27, 2023</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<article
+  class="card card-news--external card-linked"
+  aria-labelledby="title-catching-up-with-the-tanf-data-portal-project"
+>
+  <div class="card__content">
+    
+      <div class="card__summary">
+        <h3 id="title-catching-up-with-the-tanf-data-portal-project">
+          <a href="https://18f.gsa.gov/2023/09/07/catching-up-with-the-tanf-data-portal-project/">Catching up with the TANF Data Portal project</a>
+        </h3>
+        <p>Around 800,000 low-income American families receive cash assistance through Temporary Assistance for Needy Families (TANF) each month. 18F and the Administration for Children &amp; Families’ Office of Family Assistance partnered on building a new data portal for TANF. We caught up with Office of Family Assistance leaders to see how their agency is continuing with the work.<em class="card__source source"
+              >— via
+              <a href="https://18f.gsa.gov/2023/09/07/catching-up-with-the-tanf-data-portal-project/" title="Read at 18F"
+                >18F</a
+              ></em
+            >
+          
+        </p>
+      </div>
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+        <img
+          src="../../logos/18f-logo.png"
+          alt="18f logo"
+        />
+      
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Sep 07, 2023</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-making-impact-at-scale-software-engineering-in-the-federal-government"
+>
+  <div class="card__content">
+    <div class="kicker">
+          <span>U.S. Digital Corps</span>
+        </div><h3 id="title-making-impact-at-scale-software-engineering-in-the-federal-government">
+        <a href="https://digital.gov/2022/11/25/making-impact-at-scale-software-engineering-in-the-federal-government/">Making Impact at Scale: Software Engineering in the Federal Government</a>
+      </h3><div class="summary">
+          <p>Engineering fellows with the U.S. Digital Corps share their paths to becoming software engineers and why they decide to use their skills to improve government services.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/anagradova.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/anastasia-gradova/"
+              title="Posts by Anastasia Gradova"
+              rel="author"
+              aria-label="Read more articles by Anastasia Gradova"
+              >Anastasia Gradova</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/IsabelLaurenceau.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/isabel-laurenceau/"
+              title="Posts by Isabel Laurenceau"
+              rel="author"
+              aria-label="Read more articles by Isabel Laurenceau"
+              >Isabel Laurenceau</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/meenubhooshanan.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/meenu-bhooshanan/"
+              title="Posts by Meenu Bhooshanan"
+              rel="author"
+              aria-label="Read more articles by Meenu Bhooshanan"
+              >Meenu Bhooshanan</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/SamiraMSadat.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/samira-sadat/"
+              title="Posts by Samira Sadat"
+              rel="author"
+              aria-label="Read more articles by Samira Sadat"
+              >Samira Sadat</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+
+
+  <div class="media-featured">
+    <a href="https://digital.gov/2022/11/25/making-impact-at-scale-software-engineering-in-the-federal-government/" title="Making Impact at Scale: Software Engineering in the Federal Government">
+      <img
+        src="https://s3.amazonaws.com/digitalgov/usdc-making-impact-at-scale_w800.png"
+        aria-hidden="true"
+        alt=""
+      />
+    </a>
+  </div>
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Nov 25, 2022</div>
+  </div>
+</article>
+</div>
+        </section>
+      
+    
+
+    
+      
+      
+        <section class="grid-container-desktop usa-section">
+          
+
+
+
+
+
+
+
+  <div class="dg-collection">
+    
+      
+
+
+
+
+
+
+
+
+  <h2 class="dg-collection__header" >
+    Resources on Software engineering
+  </h2>
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="usa-collection">
+  
+    
+      
+      
+        
+        
+      
+
+      
+      
+        
+          
+        
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="../../img/digit-50.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://digital.gov/resources/requirements-for-achieving-efficiency-transparency-and-innovation-through-reusable-and-open-source-software/" title="Requirements for achieving efficiency, transparency, and innovation through reusable and open source software">Requirements for achieving efficiency, transparency, and innovation through reusable and open source software</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              Learn how Federal Source Code Policy supports reuse and public access to custom-developed federal source code.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="../../img/digit-50.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://digital.gov/resources/an-introduction-to-ato/" title="An introduction to ATOs">An introduction to ATOs</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              What is an Authorization to Operate? Before you use software in government, you need to make sure it is allowed. You should know what an ATO is, and when you need one.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="../../logos/uswds-icon.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://designsystem.digital.gov/" title="U.S. Web Design System">U.S. Web Design System</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              A design system for the federal government that makes it easier to build accessible, mobile-friendly government websites for the American public.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://digital.gov/logos/gsa-icon.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://www.section508.gov/manage/program-roadmap/" title="Revised 508 Standards Roadmap">Revised 508 Standards Roadmap</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              Follow the Revised 508 Standards to ensure your information and communication technology (ICT) is accessible and usable by individuals with disabilities.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="../../img/digit-50.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://digital.gov/resources/an-introduction-github/" title="An introduction to GitHub">An introduction to GitHub</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              Steps for managing website content in GitHub.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="../../logos/uswds-icon.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://designsystem.digital.gov/whats-new/updates/2022/04/28/introducing-uswds-3-0/" title="An Introduction to USWDS 3.0">An Introduction to USWDS 3.0</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              A design system for the federal government that makes it easier to build accessible, mobile-friendly government websites for the American public.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="../../logos/uswds-icon.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://designsystem.digital.gov/maturity-model/" title="USWDS Maturity Model">USWDS Maturity Model</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              How to adopt the design system incrementally and design and build better digital experiences.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="../../img/digit-50.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="../../resources/delivering-digital-first-public-experience/index.html" title="Requirements for delivering a digital-first public experience">Requirements for delivering a digital-first public experience</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              Learn how to implement 21st Century IDEA to design and deliver better websites and digital services.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://digital.gov/logos/18f-icon.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://derisking-guide.18f.gov/" title="18F De-risking Guides">18F De-risking Guides</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              The Federal Field Guide to De-risk Government Technology offers guidance to federal agencies on how to structure software development teams, write contracts, and oversee agile software activities to reduce risks and improve outcomes for end-users.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+  
+</ul>
+
+
+    
+  </div>
+
+
+
+
+
+
+
+
+
+  <div class="dg-collection">
+    
+      
+
+
+
+
+
+
+
+
+  <h2 class="dg-collection__header" >
+    Tools and Services
+  </h2>
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="usa-collection">
+  
+    
+      
+      
+        
+        
+          
+        
+        
+      
+
+      
+      
+        
+          
+          
+          
+        
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://digital.gov/logos/18f-icon.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://18f.gsa.gov/" title="18F">18F</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              We help government agencies fix technical problems, build products, and improve how government serves the public through technology.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://digital.gov/logos/pif-icon.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://www.pif.gov/" title="Presidential Innovation Fellows">Presidential Innovation Fellows</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              We help government agencies fix technical problems, build products, and improve how government serves the public through technology.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://www.google.com/s2/favicons?domain=https://www.data.gov/"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://www.data.gov/" title="Resources.Data.gov">Resources.Data.gov</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              An online repository of policies, schema standards, tools, best practices, and case studies to provide agencies with resources for federal data management.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://www.google.com/s2/favicons?domain=https://digitalcorps.gsa.gov/"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://digitalcorps.gsa.gov/" title="U.S. Digital Corps">U.S. Digital Corps</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              A two-year fellowship for early-career technologists to start careers in public service, with professional development and mentorship.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://digital.gov/logos/usds-icon.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://www.usds.gov/" title="U.S. Digital Service">U.S. Digital Service</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              We deploy small, responsive groups of designers, engineers, product managers, and bureaucracy specialists to work with and empower civil servants.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://www.google.com/s2/favicons?domain=https://www.code.gov/"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://www.code.gov/" title="Code.gov">Code.gov</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              A collection of federal source code including open source software.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://www.google.com/s2/favicons?domain=https://data.gov/"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://data.gov/" title="Data.gov">Data.gov</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              Data, tools, and resources to conduct research, develop web and mobile applications.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="https://digital.gov/logos/dotgov-icon.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://home.dotgov.gov/" title="DotGov Registry">DotGov Registry</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              We make it easy to register and manage a .gov domain for US-based government organizations.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+      
+      
+        
+        
+          
+        
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    <li class="usa-collection__item">
+      
+
+
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="../../logos/uswds-icon.png"
+    alt=""
+    aria-hidden="true"
+  />
+</div>
+
+      <div class="usa-collection__body">
+        
+        <h3 class="usa-collection__header">
+          <a class="usa-link" href="https://designsystem.digital.gov/" title="U.S. Web Design System">U.S. Web Design System</a>
+        </h3>
+        
+        
+          
+            <p class="usa-collection__description">
+              A toolkit of principles, guidance, and code that helps agency digital teams build accessible, mobile-friendly government websites for the American public.
+            </p>
+          
+        
+      </div>
+    </li>
+  
+
+    
+  
+</ul>
+
+
+    
+  </div>
+
+</section>
+      <div class="usa-section usa-section--light">
+          <div class="grid-container grid-container-desktop">
+            <h2 id="dg-stream-pagination-header">
+              More News and Events on
+              Software engineering</h2>
+            <p>279 posts</p>
+
+            
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-september-2024"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-september-2024">
+        <a
+          href="../../event/2024/09/19/uswds-monthly-call-september-2024/index.html"
+          title="USWDS Monthly Call - September 2024"
+          rel="bookmark"
+          >USWDS Monthly Call - September 2024</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          The U.S. Web Design System team will share their exploration of Web Component-based design systems and best practices.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2024-09-19">
+        <span class="card-event__datetime-month"
+          >Sep</span
+        >
+        <span class="card-event__datetime-day"
+          >19<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2024</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2024</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-august-2024"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-august-2024">
+        <a
+          href="../../event/2024/08/15/uswds-monthly-call-august-2024/index.html"
+          title="USWDS Monthly Call - August 2024"
+          rel="bookmark"
+          >USWDS Monthly Call - August 2024</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          The U.S. Web Design System team will answer community questions and give an update on their work developing web components for the design system.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2024-08-15">
+        <span class="card-event__datetime-month"
+          >Aug</span
+        >
+        <span class="card-event__datetime-day"
+          >15<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2024</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2024</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-june-2024"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-june-2024">
+        <a
+          href="../../event/2024/06/20/uswds-monthly-call-june-2024/index.html"
+          title="USWDS Monthly Call - June 2024"
+          rel="bookmark"
+          >USWDS Monthly Call - June 2024</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          The U.S. Web Design System team will give an update on their work developing web components for the design system.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2024-06-20">
+        <span class="card-event__datetime-month"
+          >Jun</span
+        >
+        <span class="card-event__datetime-day"
+          >20<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2024</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2024</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-may-2024"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-may-2024">
+        <a
+          href="../../event/2024/05/16/uswds-monthly-call-may-2024/index.html"
+          title="USWDS Monthly Call - May 2024"
+          rel="bookmark"
+          >USWDS Monthly Call - May 2024</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          The U.S. Web Design System (USWDS) team will chat with Center for Civic Design co-founder Whitney Quesenbery about designing accessible civic spaces.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2024-05-16">
+        <span class="card-event__datetime-month"
+          >May</span
+        >
+        <span class="card-event__datetime-day"
+          >16<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2024</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2024</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-april-2024"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-april-2024">
+        <a
+          href="../../event/2024/04/18/uswds-monthly-call-april-2024/index.html"
+          title="USWDS Monthly Call - April 2024"
+          rel="bookmark"
+          >USWDS Monthly Call - April 2024</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          The U.S. Web Design System (USWDS) team will go over some basics of Web Components and how they apply to the design system.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2024-04-18">
+        <span class="card-event__datetime-month"
+          >Apr</span
+        >
+        <span class="card-event__datetime-day"
+          >18<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2024</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2024</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-march-2024"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-march-2024">
+        <a
+          href="../../event/2024/03/21/uswds-monthly-call-march-2024/index.html"
+          title="USWDS Monthly Call - March 2024"
+          rel="bookmark"
+          >USWDS Monthly Call - March 2024</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          Join the U.S. Web Design System team for a lesson on customizing and extending the design system.
+        </div><div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#youtube"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2024-03-21">
+        <span class="card-event__datetime-month"
+          >Mar</span
+        >
+        <span class="card-event__datetime-day"
+          >21<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2024</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2024</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-amplifying-customer-voices"
+>
+  <div class="card__content">
+    <h3 id="title-amplifying-customer-voices">
+        <a href="https://digital.gov/2023/12/19/amplifying-customer-voices/">Amplifying customer voices</a>
+      </h3><div class="summary">
+          <p>Understand how to use natural language processing and advanced analytics to gain insights on high-impact service performance and survey design.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/izzykayu.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/isabel-izzy-metzger/"
+              title="Posts by Isabel (Izzy) Metzger"
+              rel="author"
+              aria-label="Read more articles by Isabel (Izzy) Metzger"
+              >Isabel (Izzy) Metzger</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+
+
+  <div class="media-featured">
+    <a href="https://digital.gov/2023/12/19/amplifying-customer-voices/" title="Amplifying customer voices">
+      <img
+        src="https://s3.amazonaws.com/digitalgov/green-structured-unstructured-data-iceberg-chavapong-prateep-na-thalang-istock-getty-images-1353745656-b_w800.png"
+        aria-hidden="true"
+        alt=""
+      />
+    </a>
+  </div>
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Dec 19, 2023</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-making-gsas-public-art-collection-more-accessible"
+>
+  <div class="card__content">
+    <h3 id="title-making-gsas-public-art-collection-more-accessible">
+        <a href="https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/">Making GSA&rsquo;s public art collection more accessible</a>
+      </h3><div class="summary">
+          <p>GSA’s Fine Arts team recently leveraged modern product development practices to launch the new collection website.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/actuallyjenn.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/jenn-noinaj/"
+              title="Posts by Jenn Noinaj"
+              rel="author"
+              aria-label="Read more articles by Jenn Noinaj"
+              >Jenn Noinaj</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+
+
+  <div class="media-featured">
+    <a href="https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/" title="Making GSA&rsquo;s public art collection more accessible">
+      <img
+        src="https://s3.amazonaws.com/digitalgov/screen-at-fda-by-doh-ho-suh-library-of-congress-photo-carol-m-highsmith_w800.jpg"
+        aria-hidden="true"
+        alt=""
+      />
+    </a>
+  </div>
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Dec 08, 2023</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<article
+  class="card card-news--external card-linked"
+  aria-labelledby="title-managing-a-high-performing-dream-team-in-the-federal-government"
+>
+  <div class="card__content">
+    
+      <div class="card__summary">
+        <h3 id="title-managing-a-high-performing-dream-team-in-the-federal-government">
+          <a href="https://blog-nrrd.doi.gov/federal-team/">Managing a high-performing dream team in the federal government</a>
+        </h3>
+        <p>Discover how the Open Data, Design, and Development (ODDD) team at the Office of Natural Resources Revenue (ONRR) transformed their federal projects with Agile methodologies, creating a culture of collaboration, accountability, and openness. From unique sprint names to engaging traditions and innovative knowledge-sharing practices, this blog post offers insights into building a high-performing dream team in government.<em class="card__source source"
+              >— via
+              <a href="https://blog-nrrd.doi.gov/federal-team/" title="Read at Office of Natural Resources Revenue"
+                >Office of Natural Resources Revenue</a
+              ></em
+            >
+          
+        </p>
+      </div>
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+        <img
+          src="../../logos/doi-revenuedata-logo.png"
+          alt="doi-revenuedata logo"
+        />
+      
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Nov 27, 2023</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<article
+  class="card card-news--external card-linked"
+  aria-labelledby="title-catching-up-with-the-tanf-data-portal-project"
+>
+  <div class="card__content">
+    
+      <div class="card__summary">
+        <h3 id="title-catching-up-with-the-tanf-data-portal-project">
+          <a href="https://18f.gsa.gov/2023/09/07/catching-up-with-the-tanf-data-portal-project/">Catching up with the TANF Data Portal project</a>
+        </h3>
+        <p>Around 800,000 low-income American families receive cash assistance through Temporary Assistance for Needy Families (TANF) each month. 18F and the Administration for Children &amp; Families’ Office of Family Assistance partnered on building a new data portal for TANF. We caught up with Office of Family Assistance leaders to see how their agency is continuing with the work.<em class="card__source source"
+              >— via
+              <a href="https://18f.gsa.gov/2023/09/07/catching-up-with-the-tanf-data-portal-project/" title="Read at 18F"
+                >18F</a
+              ></em
+            >
+          
+        </p>
+      </div>
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+        <img
+          src="../../logos/18f-logo.png"
+          alt="18f logo"
+        />
+      
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Sep 07, 2023</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-making-impact-at-scale-software-engineering-in-the-federal-government"
+>
+  <div class="card__content">
+    <div class="kicker">
+          <span>U.S. Digital Corps</span>
+        </div><h3 id="title-making-impact-at-scale-software-engineering-in-the-federal-government">
+        <a href="https://digital.gov/2022/11/25/making-impact-at-scale-software-engineering-in-the-federal-government/">Making Impact at Scale: Software Engineering in the Federal Government</a>
+      </h3><div class="summary">
+          <p>Engineering fellows with the U.S. Digital Corps share their paths to becoming software engineers and why they decide to use their skills to improve government services.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/anagradova.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/anastasia-gradova/"
+              title="Posts by Anastasia Gradova"
+              rel="author"
+              aria-label="Read more articles by Anastasia Gradova"
+              >Anastasia Gradova</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/IsabelLaurenceau.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/isabel-laurenceau/"
+              title="Posts by Isabel Laurenceau"
+              rel="author"
+              aria-label="Read more articles by Isabel Laurenceau"
+              >Isabel Laurenceau</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/meenubhooshanan.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/meenu-bhooshanan/"
+              title="Posts by Meenu Bhooshanan"
+              rel="author"
+              aria-label="Read more articles by Meenu Bhooshanan"
+              >Meenu Bhooshanan</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/SamiraMSadat.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/samira-sadat/"
+              title="Posts by Samira Sadat"
+              rel="author"
+              aria-label="Read more articles by Samira Sadat"
+              >Samira Sadat</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+
+
+  <div class="media-featured">
+    <a href="https://digital.gov/2022/11/25/making-impact-at-scale-software-engineering-in-the-federal-government/" title="Making Impact at Scale: Software Engineering in the Federal Government">
+      <img
+        src="https://s3.amazonaws.com/digitalgov/usdc-making-impact-at-scale_w800.png"
+        aria-hidden="true"
+        alt=""
+      />
+    </a>
+  </div>
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Nov 25, 2022</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<article
+  class="card card-news--external card-linked"
+  aria-labelledby="title-the-18f-engineering-sandwich-for-cloud-based-web-apps"
+>
+  <div class="card__content">
+    
+      <div class="card__summary">
+        <h3 id="title-the-18f-engineering-sandwich-for-cloud-based-web-apps">
+          <a href="https://18f.gsa.gov/2022/09/06/18f-tech-sandwich">The 18F Engineering Sandwich for Cloud-based Web Apps</a>
+        </h3>
+        <p><strong>The 18F Engineering Sandwich for Cloud-based Web Apps</strong>—18F Engineering is often thought of as a technology shop, but that&rsquo;s too broad. There are very few technology choices we actually make at the project level, so, more often than not, we combine a limited set of technologies to make our applications. To explain this, we&rsquo;ll use the metaphor of a sandwich shop.<em class="card__source source"
+              >— via
+              <a href="https://18f.gsa.gov/2022/09/06/18f-tech-sandwich" title="Read at 18F"
+                >18F</a
+              ></em
+            >
+          
+        </p>
+      </div>
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+        <img
+          src="../../logos/18f-logo.png"
+          alt="18f logo"
+        />
+      
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Sep 06, 2022</div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<article
+  class="card card-news--external card-linked"
+  aria-labelledby="title-helping-people-discover-benefits-with-the-new-bears-locator"
+>
+  <div class="card__content">
+    
+      <div class="card__summary">
+        <h3 id="title-helping-people-discover-benefits-with-the-new-bears-locator">
+          <a href="https://blog.usa.gov/helping-people-discover-benefits-with-the-new-bears-locator">Helping People Discover Benefits With the New BEARS Locator</a>
+        </h3>
+        <p><strong>Helping People Discover Benefits With the New BEARS Locator</strong>—Back in March, we shared about the work we were doing to develop BEARS, the Benefits Eligibility Awareness Resource Service. USAGov’s new online locator tool, available in English on USA.gov and in Spanish on USAGov en Español, helps people find government benefits and services geared to major life events. It officially launched in early August, and we wanted to give you an update.<em class="card__source source"
+              >— via
+              <a href="https://blog.usa.gov/helping-people-discover-benefits-with-the-new-bears-locator" title="Read at USA.gov"
+                >USA.gov</a
+              ></em
+            >
+          
+        </p>
+      </div>
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+        <img
+          src="../../logos/usagov-logo.png"
+          alt="usagov logo"
+        />
+      
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Aug 30, 2022</div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-june-2022"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>Contributing to USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-june-2022">
+        <a
+          href="../../event/2022/06/16/uswds-monthly-call-june-2022/index.html"
+          title="USWDS Monthly Call - June 2022"
+          rel="bookmark"
+          >USWDS Monthly Call - June 2022</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          What you need to know before contributing to USWDS.
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/thisisdano.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/dan-williams/index.html"
+              title="Posts by Dan Williams"
+              rel="author"
+              aria-label="Read more articles by Dan Williams"
+              >Dan Williams</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/elisaachen.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/elisa-chen/index.html"
+              title="Posts by Elisa Chen"
+              rel="author"
+              aria-label="Read more articles by Elisa Chen"
+              >Elisa Chen</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2022-06-16">
+        <span class="card-event__datetime-month"
+          >Jun</span
+        >
+        <span class="card-event__datetime-day"
+          >16<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2022</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2022</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-may-2022"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>Optimizing Performance with USWDS 3.0</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-may-2022">
+        <a
+          href="../../event/2022/05/19/uswds-monthly-call-may-2022/index.html"
+          title="USWDS Monthly Call - May 2022"
+          rel="bookmark"
+          >USWDS Monthly Call - May 2022</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          The U.S. Web Design System (USWDS) team will show you how to reduce CSS size and optimize build time with the design system.
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/thisisdano.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/dan-williams/index.html"
+              title="Posts by Dan Williams"
+              rel="author"
+              aria-label="Read more articles by Dan Williams"
+              >Dan Williams</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/mejiaj.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/james-mejia/index.html"
+              title="Posts by James Mejia"
+              rel="author"
+              aria-label="Read more articles by James Mejia"
+              >James Mejia</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2022-05-19">
+        <span class="card-event__datetime-month"
+          >May</span
+        >
+        <span class="card-event__datetime-day"
+          >19<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2022</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2022</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-from-fellowship-to-full-time-how-a-cfpb-software-engineer-helped-protect-consumers-and-built-a-career-in-civic-tech"
+>
+  <div class="card__content">
+    <h3 id="title-from-fellowship-to-full-time-how-a-cfpb-software-engineer-helped-protect-consumers-and-built-a-career-in-civic-tech">
+        <a href="https://digital.gov/2022/03/07/from-fellowship-to-full-time-how-a-cfpb-software-engineer-helped-protect-consumers-and-built-a-career-in-civic-tech/">From Fellowship To Full-time: How a CFPB Software Engineer Helped Protect Consumers and Built a Career in Civic Tech</a>
+      </h3><div class="summary">
+          <p>Anselm Bradford, a front-end engineer at the Consumer Financial Protection Bureau (CFPB), is using his tech skills to protect American consumers.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/chriskuang4.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="https://digital.gov/authors/chris-kuang/"
+              title="Posts by Chris Kuang"
+              rel="author"
+              aria-label="Read more articles by Chris Kuang"
+              >Chris Kuang</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+
+
+  <div class="media-featured">
+    <a href="https://digital.gov/2022/03/07/from-fellowship-to-full-time-how-a-cfpb-software-engineer-helped-protect-consumers-and-built-a-career-in-civic-tech/" title="From Fellowship To Full-time: How a CFPB Software Engineer Helped Protect Consumers and Built a Career in Civic Tech">
+      <img
+        src="https://s3.amazonaws.com/digitalgov/usdc-cfpb-civic-tech-title-card_w800.png"
+        aria-hidden="true"
+        alt=""
+      />
+    </a>
+  </div>
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Mar 07, 2022</div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-january-2022"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-january-2022">
+        <a
+          href="../../event/2022/01/20/uswds-monthly-call-january-2022/index.html"
+          title="USWDS Monthly Call - January 2022"
+          rel="bookmark"
+          >USWDS Monthly Call - January 2022</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          New resources for developers who are new to USWDS.
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/thisisdano.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/dan-williams/index.html"
+              title="Posts by Dan Williams"
+              rel="author"
+              aria-label="Read more articles by Dan Williams"
+              >Dan Williams</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/mejiaj.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/james-mejia/index.html"
+              title="Posts by James Mejia"
+              rel="author"
+              aria-label="Read more articles by James Mejia"
+              >James Mejia</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2022-01-20">
+        <span class="card-event__datetime-month"
+          >Jan</span
+        >
+        <span class="card-event__datetime-day"
+          >20<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2022</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2022</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-december-2021"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-december-2021">
+        <a
+          href="../../event/2021/12/16/uswds-monthly-call-december-2021/index.html"
+          title="USWDS Monthly Call - December 2021"
+          rel="bookmark"
+          >USWDS Monthly Call - December 2021</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          Get started with the design system and a how-to demo of template creation and a prototyping approach.
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/thisisdano.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/dan-williams/index.html"
+              title="Posts by Dan Williams"
+              rel="author"
+              aria-label="Read more articles by Dan Williams"
+              >Dan Williams</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-dark.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/philip-levy/index.html"
+              title="Posts by Philip Levy"
+              rel="author"
+              aria-label="Read more articles by Philip Levy"
+              >Philip Levy</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2021-12-16">
+        <span class="card-event__datetime-month"
+          >Dec</span
+        >
+        <span class="card-event__datetime-day"
+          >16<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2021</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2021</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="card card-news--internal card-linked"
+  aria-labelledby="title-webinar-recap-u.s.-web-design-system-october-2021-monthly-call"
+>
+  <div class="card__content">
+    <div class="kicker">
+          <span>USWDS</span>
+        </div><h3 id="title-webinar-recap-u.s.-web-design-system-october-2021-monthly-call">
+        <a href="https://digital.gov/2021/11/15/webinar-recap-u-s-web-design-system-october-2021-monthly-call/">Webinar Recap: U.S. Web Design System October 2021 Monthly Call</a>
+      </h3><div class="summary">
+          <p>In this recap of the October 2021 U.S. Web Design System (USWDS) Monthly Call, the USWDS team shares how their community can help teams solve problems together, and what tools and channels we can use to ask questions, get answers, and provide useful feedback.</p>
+        </div>
+        
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/thisisdano.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/dan-williams/index.html"
+              title="Posts by Dan Williams"
+              rel="author"
+              aria-label="Read more articles by Dan Williams"
+              >Dan Williams</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/kathryn-mullan/index.html"
+              title="Posts by Kathryn Mullan"
+              rel="author"
+              aria-label="Read more articles by Kathryn Mullan"
+              >Kathryn Mullan</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+      
+    
+  </div>
+
+  <div class="card__media">
+    
+    
+      
+
+
+
+
+  <div class="media-featured">
+    <a href="https://digital.gov/2021/11/15/webinar-recap-u-s-web-design-system-october-2021-monthly-call/" title="Webinar Recap: U.S. Web Design System October 2021 Monthly Call">
+      <img
+        src="https://s3.amazonaws.com/digitalgov/uswds-interfaces-dark-1200x630_w800.png"
+        aria-hidden="true"
+        alt=""
+      />
+    </a>
+  </div>
+    
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Nov 15, 2021</div>
+  </div>
+</article>
+
+
+
+
+
+<article
+  class="card card-event 
+    card-event--past
+  card-linked"
+  
+  aria-labelledby="uswds-monthly-call-october-2021"
+>
+  <div class="card-event__main">
+    <div class="card-event__header"><div class="flex-align-end card-event__kicker">
+          <span>USWDS</span>
+        </div><h2 class="card-event__title" id="uswds-monthly-call-october-2021">
+        <a
+          href="../../event/2021/10/21/uswds-monthly-call-october-2021/index.html"
+          title="USWDS Monthly Call: October 2021"
+          rel="bookmark"
+          >USWDS Monthly Call: October 2021</a
+        >
+      </h2>
+    </div>
+
+    <div class="card-event__body"><div class="card-event__summary">
+          This month&rsquo;s topic: Community, Connection &amp; Contribution. How can our community help teams solve problems together?
+        </div>
+
+
+
+
+
+  <div class="authors-list authors-list--inline">
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/thisisdano.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/dan-williams/index.html"
+              title="Posts by Dan Williams"
+              rel="author"
+              aria-label="Read more articles by Dan Williams"
+              >Dan Williams</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="https://github.com/mejiaj.png?size=50"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/james-mejia/index.html"
+              title="Posts by James Mejia"
+              rel="author"
+              aria-label="Read more articles by James Mejia"
+              >James Mejia</a
+            >
+            
+          </div>
+        </div>
+      
+    
+      
+      
+      
+      
+        
+        
+        
+
+
+        <div class="author usa-media-block">
+          
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="../../img/digit-light.png"
+    alt=""
+  />
+
+
+
+
+
+
+          <div class="usa-media-block__body">
+            <a
+              class="author__name"
+              href="../../authors/kathryn-mullan/index.html"
+              title="Posts by Kathryn Mullan"
+              rel="author"
+              aria-label="Read more articles by Kathryn Mullan"
+              >Kathryn Mullan</a
+            >
+            
+          </div>
+        </div>
+      
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="2021-10-21">
+        <span class="card-event__datetime-month"
+          >Oct</span
+        >
+        <span class="card-event__datetime-day"
+          >21<span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >2021</span
+        >
+      </time>
+      
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >2021</span
+          >
+        </span>
+      
+    </div>
+  </div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <ul class="pagination">
+    
+    
+
+
+    
+    
+
+
+    
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+            
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+        <li class="page active">
+          <a href="index.html" class="pagination__link">
+            1
+          </a>
+        </li>
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+            
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+        <li class="page ">
+          <a href="https://digital.gov/topics/software-engineering/page/2/" class="pagination__link">
+            2
+          </a>
+        </li>
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+            
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+        <li class="page ">
+          <a href="https://digital.gov/topics/software-engineering/page/3/" class="pagination__link">
+            3
+          </a>
+        </li>
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+            
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+        <li class="page ">
+          <a href="https://digital.gov/topics/software-engineering/page/4/" class="pagination__link">
+            4
+          </a>
+        </li>
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+            
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+        <li class="page ">
+          <a href="https://digital.gov/topics/software-engineering/page/5/" class="pagination__link">
+            5
+          </a>
+        </li>
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+
+    
+
+      
+
+
+      
+      
+
+        
+        
+        
+
+          
+          
+
+
+          
+          
+        
+
+
+        
+      
+
+
+      
+      
+
+    
+
+
+    
+    
+      <li class="pagination-next">
+        <a href="https://digital.gov/topics/software-engineering/page/2/" aria-label="Next page">
+          <svg
+            class="usa-icon dg-icon dg-icon--standard"
+            aria-hidden="true"
+            focusable="false"
+            role="img"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#arrow_forward"
+            ></use>
+          </svg>
+        </a>
+      </li>
+    
+
+
+    
+    
+      <li class="pagination-last">
+        <a href="https://digital.gov/topics/software-engineering/page/14/" aria-label="Last page">
+          <svg
+            class="usa-icon dg-icon dg-icon--large"
+            aria-hidden="true"
+            focusable="false"
+            role="img"
+          >
+            <use
+              xlink:href="../../uswds/img/sprite.svg#last_page"
+            ></use>
+          </svg>
+        </a>
+      </li>
+    
+
+  </ul>
+  
+
+</div>
+        </div>
+      
+    
+
+  </main>
+<section
+  id="newsletter-signup"
+  aria-label="Subscribe to the Digital.gov newsletter"
+>
+  <div class="grid-container grid-container-desktop">
+    <div class="grid-row tablet-lg:grid-gap-6">
+      <div class="grid-col-12 tablet:grid-col-7">
+        <section class="usa-sign-up">
+          <p class="blurb" id="newsletter-subscribe-description">
+            <strong>Join 18,000 others in government</strong> and subscribe to
+            our newsletter — a round-up of the best digital news in government
+            and across our field.
+          </p>
+        </section>
+      </div>
+      <div class="grid-col-12 tablet:grid-col-5">
+        <section
+          class="usa-sign-up"
+          aria-describedby="newsletter-subscribe-description"
+        >
+          <script
+            src="../../../public.govdelivery.com/assets/Signup.js"
+            data-account-code="USGSA"
+            data-signup-id="34948"
+          ></script>
+        </section>
+      </div>
+    </div>
+  </div>
+</section>
+<footer class="usa-footer usa-footer--big" role="contentinfo">
+  <section class="return-to-top">
+    <div
+      class="grid-container grid-container-desktop usa-footer__return-to-top"
+    >
+      <a href="#">
+        <span>Return to top</span>
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="../../uswds/img/sprite.svg#arrow_upward"
+          ></use>
+        </svg>
+      </a>
+    </div>
+  </section>
+  <div class="usa-footer__primary-section">
+    <div class="grid-container grid-container-desktop">
+      <nav class="usa-footer__nav" aria-label="Footer navigation">
+        <div class="grid-row grid-gap-4">
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Learn</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../news/index.html">Blogs</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../events/index.html">Events</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../resources/index.html">Resources</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../communities/index.html">Communities</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../guides/index.html">Guides</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../job-board/index.html">Job board</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Contribute</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../contribute/index.html">Write for us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../digitalgov-university/index.html">Host an event</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../github.com/GSA/digitalgov.gov/issues.html">Submit GitHub issue</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">About</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../about/index.html">About Us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../policies/index.html">Site Policies</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../about/contact/index.html">Contact Us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../about/manage-content/index.html">Content schedule</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Social</h4>
+              <ul class="usa-list usa-list--unstyled social-links">
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#x"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../twitter.com/digital_gov"
+                    >X (Formerly Twitter)</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#facebook"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../www.facebook.com/digitalgov/index.html"
+                    >Facebook</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#youtube"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="https://youtube.com/@DigitalGov"
+                    >YouTube</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#linkedin"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../www.linkedin.com/company/digitalgov-gsa/index.html"
+                    >LinkedIn</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#rss_feed"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../index.xml"
+                    >RSS</a
+                  >
+                </li>
+              </ul>
+            </section>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+  <div class="usa-identifier">
+    <section
+      class="usa-identifier__section usa-identifier__section--masthead"
+      aria-label="Agency identifier"
+    >
+      <div class="usa-identifier__container">
+        <div class="usa-identifier__logos">
+          <a href="../../../www.gsa.gov/index.html" class="usa-identifier__logo">
+            <img
+              class="usa-identifier__logo-img"
+              src="../../img/gsa-logo-w100.png"
+              alt="GSA logo"
+              role="img"
+              width="100"
+              height="100"
+            />
+          </a>
+        </div>
+        <section
+          class="usa-identifier__identity"
+          aria-label="Agency description"
+        >
+          <p class="usa-identifier__identity-domain">Digital.gov</p>
+          <p class="usa-identifier__identity-disclaimer">
+            An official website of the
+            <a href="../../../www.gsa.gov/index.html">U.S. General Services Administration</a>
+          </p>
+        </section>
+      </div>
+    </section>
+    <nav
+      class="usa-identifier__section usa-identifier__section--required-links"
+      aria-label="Important links"
+    >
+      <div class="usa-identifier__container">
+        <ul class="usa-identifier__required-links-list">
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/about-us.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                About GSA
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/website-information/accessibility-statement.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Accessibility statement
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/reference/freedom-of-information-act-foia.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                FOIA requests
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/reference/civil-rights-programs/the-no-fear-act.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                No FEAR Act data
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsaig.gov/index.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Office of the Inspector General
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="https://www.gsa.gov/reference/reports/budget-performance"
+                class="usa-identifier__required-link usa-link"
+              >
+                Performance reports
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/website-information/website-policies.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Privacy policy
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </nav>
+    <section
+      class="usa-identifier__section usa-identifier__section--usagov"
+      aria-label="U.S. government information and services"
+    >
+      <div class="usa-identifier__container">
+        <div class="usa-identifier__usagov-description">
+          Looking for U.S. government information and services?
+        </div>
+        <a href="../../../www.usa.gov/index.html" class="usa-link">
+          Visit USA.gov
+        </a>
+      </div>
+    </section>
+  </div>
+
+</div>
+    
+
+    <div id="clicks_iframe" class="display-none"></div>
+  </body>
+
+  
+  <script type="text/javascript">let glossaryPath = null;
+    const glossaryIcon = "#\/uswds\/img\/sprite.svg#expand_more"
+  </script>
+
+  <script src="../../dist/js/uswds.min.js"></script>
+  <script src="../../dist/js/main.js"></script>
+
+<!-- Mirrored from digital.gov/topics/software-engineering/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 02 Mar 2025 23:10:23 GMT -->
+</html>

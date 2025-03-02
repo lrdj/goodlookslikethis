@@ -1,0 +1,13 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "job-board",
+    "type" : "list",
+    "title" : "Job Board |Digital.gov",
+    "description": "Job Board",
+    "home_page_url" : "https://digital.gov/",
+    "count" : "0","feed_url" : "https://digital.gov/job-board/index.json",
+    "section" : "job-board",
+    
+    
+    "items" : []
+}

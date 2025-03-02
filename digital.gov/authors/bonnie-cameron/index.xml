@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital.gov</title>
+    <link>https://digital.gov/authors/bonnie-cameron/</link>
+    <description>Recent content on Digital.gov</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://digital.gov/authors/bonnie-cameron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing a multilingual future: A conversation with Laura Godfrey</title>
+      <link>https://digital.gov/2024/12/23/designing-a-multilingual-future/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/12/23/designing-a-multilingual-future/</guid>
+      <description>On the eve of her retirement, Laura Godfrey reflects on multilingualism and equitable access to government information.</description>
+    </item>
+    <item>
+      <title>Introduction to QR codes</title>
+      <link>https://digital.gov/resources/introduction-to-qr-codes/</link>
+      <pubDate>Thu, 02 Feb 2023 18:56:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/introduction-to-qr-codes/</guid>
+      <description>What is a QR code and how can you create one? What are some alternatives to using QR codes? This introductory resource will help you explore your options.</description>
+    </item>
+    <item>
+      <title>Guidelines for Digital.gov event presenters</title>
+      <link>https://digital.gov/resources/guidelines-for-digital-gov-event-presenters/</link>
+      <pubDate>Fri, 17 Mar 2023 12:43:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/guidelines-for-digital-gov-event-presenters/</guid>
+      <description>A checklist of requirements for people who are presenting at a Digital.gov event.</description>
+    </item>
+  </channel>
+</rss>

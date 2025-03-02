@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital.gov</title>
+    <link>https://digital.gov/authors/julia-solorzano/</link>
+    <description>Recent content on Digital.gov</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://digital.gov/authors/julia-solorzano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Approaching language translations to provide a better user experience: A Login.gov case study</title>
+      <link>https://digital.gov/2024/12/17/approaching-language-translations-to-provide-a-better-user-experience/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/12/17/approaching-language-translations-to-provide-a-better-user-experience/</guid>
+      <description>Learn how the Login.gov team improved translations and added a new language to enhance their service.</description>
+    </item>
+    <item>
+      <title>Security is Everyone&#39;s Responsibility: Delivering Secure, Usable Login for Government</title>
+      <link>https://digital.gov/2021/03/02/security-is-everyones-job-delivering-secure-usable-login-for-government/</link>
+      <pubDate>Tue, 02 Mar 2021 10:28:00 -0500</pubDate>
+      <guid>https://digital.gov/2021/03/02/security-is-everyones-job-delivering-secure-usable-login-for-government/</guid>
+      <description>How login.gov incorporated human centered design and continuous discovery into their product development process to improve the user experience.</description>
+    </item>
+    <item>
+      <title>How the U.S. Customs and Border Protection Uses the U.S. Web Design Standards</title>
+      <link>https://digital.gov/2017/04/12/how-the-u-s-customs-and-border-protection-uses-the-u-s-web-design-standards/</link>
+      <pubDate>Wed, 12 Apr 2017 11:00:14 -0400</pubDate>
+      <guid>https://digital.gov/2017/04/12/how-the-u-s-customs-and-border-protection-uses-the-u-s-web-design-standards/</guid>
+      <description>In this second post in our series, we met with the team at the U.S. Customs and Border Protection and learned how they used the Standards to train, develop, and design their various websites and applications.</description>
+    </item>
+    <item>
+      <title>NASA&amp;#8217;s Journey With the U.S. Web Design Standards</title>
+      <link>https://digital.gov/2017/03/24/nasas-journey-with-the-u-s-web-design-standards/</link>
+      <pubDate>Fri, 24 Mar 2017 15:17:05 -0400</pubDate>
+      <guid>https://digital.gov/2017/03/24/nasas-journey-with-the-u-s-web-design-standards/</guid>
+      <description>The U.S. Web Design Standards were created by the government, for the government. They’re currently implemented on hundreds of government sites, with an audience of more than 26 million monthly users.</description>
+    </item>
+    <item>
+      <title>Taking the Pulse of the Federal Government&#39;s Web Presence</title>
+      <link>https://digital.gov/2015/06/03/taking-the-pulse-of-the-federal-governments-web-presence/</link>
+      <pubDate>Wed, 03 Jun 2015 13:10:57 -0400</pubDate>
+      <guid>https://digital.gov/2015/06/03/taking-the-pulse-of-the-federal-governments-web-presence/</guid>
+      <description>The U.S. federal government is launching a new project to monitor how it&amp;rsquo;s doing at best practices on the Web.</description>
+    </item>
+  </channel>
+</rss>

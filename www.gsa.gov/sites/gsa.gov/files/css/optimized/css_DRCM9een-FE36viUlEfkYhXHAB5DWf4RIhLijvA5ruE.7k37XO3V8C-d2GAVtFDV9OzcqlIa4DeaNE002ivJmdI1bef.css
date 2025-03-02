@@ -1,0 +1,29 @@
+.perdiemtool--template .tab-content {
+  background: #fff;
+  border: 1px solid #e0e6eb;
+  border-top: none;
+  margin-top: 0;
+  overflow: visible !important;
+}
+.perdiemtool--template .perdiem-template_blocks {
+  border-top: none;
+}
+.perdiemtool--template .tab-content.lookup-tab {
+  padding-top: 0;
+}
+.perdiemtool--template .tab-content:not(.lookup-tab) {
+  padding: 0 1rem;
+  margin-top: -2px;
+}
+.perdiemtool--template .perdiem-related-blocks img {
+  width: 100%;
+}
+.perdiemtool--template .perdiem-template_blocks {
+  margin: 25px auto;
+}
+.usa-date-picker__calendar button:disabled {
+  color: grey;
+}
+#lookup-dialog.fancybox-content {
+  overflow: visible !important;
+}

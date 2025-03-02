@@ -1,0 +1,24 @@
+@media only screen and (max-width: 640px) {
+  .has-headline .page-banner h1 {
+    padding-top: 0;
+    margin-top: 0 !important;
+    padding-bottom: 5px !important;
+  }
+}
+
+#main-content .has-headline .standard-banner {
+  padding: 2rem 0;
+}
+
+.has-headline .page-banner h1 {
+  padding-bottom: 80px;
+}
+
+.has-headline .page-banner .headline {
+  font-size: 100%;
+}
+
+#main-content .has-headline .standard-banner .text-shadow.headline {
+  text-shadow: unset;
+  color: #000;
+}

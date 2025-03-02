@@ -1,0 +1,32 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "communities",
+    "type" : "single",
+    "title" : "Join the User Experience |Digital.gov",
+    "description": "Join the User Experience",
+    "home_page_url" : "https://digital.gov/","feed_url" : "https://digital.gov/communities/user-experience/index.json","item" : [
+    {"kicker" : "Communities of Practice","title" :"Join the User Experience","summary" : "Create better user-centered products for the public.","deck" : "Share and learn with user experience and design practitioners.","date" : "2014-01-13T02:35:36-04:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"jean-fox" : "Jean Fox"},"topics" : {
+        
+            "user-experience" : "User experience"
+            },"community_list" : {"list_1" : {
+      
+        "join_cop_button" : "User Experience community members",
+        "members" : "2,567",
+        "platform" : "listserv",
+        "subscribe_email" : "ux-cop-request@listserv.gsa.gov",
+        "subscribe_email_subject" : "Join the User Experience Community",
+        "terms" : "Government employees and contractors with an official .gov or .mil email are eligible to join.",
+        "type" : "government"},"primary_image" : { "uid" : "communities-card-ux", "alt" :
+  "", "width" :
+  "2501", "height" :
+  "1307", "credit" :
+  "", "caption" :
+  "", "format" :
+  "png" },"branch" : "main",
+      "filename" :"user-experience.md",
+      
+      "filepath" :"communities/user-experience.md",
+      "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/user-experience.md",
+      "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/user-experience.md","slug" : "user-experience","url" : "https://digital.gov/communities/user-experience/","aliases" : {"0" : "/federal-user-experience-community-of-practice/"},"weight" : "1","content" :"\u003cp\u003eGovernment professionals from all levels come together in this community to create better user-centered products for the public.\u003c/p\u003e\n\u003cp\u003eBecome a member to share and learn how to produce efficient, effective, and useful user experiences and technologies.\u003c/p\u003e\n\u003cp\u003eDigital.gov fosters this lively community by providing spaces to help members connect, learn, and grow on their user experience journeys. Remember, when participating in this community, you must follow \u003ca href=\"https://digital.gov/communities/community-guidelines/\"\u003eDigital.gov community guidelines\u003c/a\u003e.\u003c/p\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  \n  \n  \n\n  \n  \n    \n  \n\n\n\n  \n\u003cdiv class=\"dg-featured-resource\"\u003e\n    \u003ca href=\"/topics/user-experience/\" class=\"dg-featured-resource__body\"\u003e\n      \u003cdiv class=\"dg-featured-resource__text\"\u003e\n        \u003cp class=\"dg-featured-resource__kicker\"\u003eFeatured topic\u003c/p\u003e\n        \n          \u003ch2 class=\"dg-featured-resource__text-title\"\u003eUser experience\u003c/h2\u003e\n        \n        \n          \u003cp class=\"dg-featured-resource__text-description\"\u003eWebsites and digital services provide better results when they are designed and delivered with the user in mind. In the current digital landscape, it is critical to adopt a user-centered approach to understand and respond to the individual needs of users. By evaluating the user experience on federal websites and digital services, agencies can increase customer satisfaction, build public trust, and reduce burden on the public.\u003c/p\u003e\n        \n      \u003c/div\u003e\n      \n    \u003c/a\u003e\n  \u003c/div\u003e\n"}
+  ]
+}

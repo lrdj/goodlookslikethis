@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital.gov</title>
+    <link>https://digital.gov/authors/dmccleskey/</link>
+    <description>Recent content on Digital.gov</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://digital.gov/authors/dmccleskey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reduce, remove, remediate: PDFs and government websites</title>
+      <link>https://digital.gov/2024/12/31/reduce-remove-remediate-pdfs-and-government-websites/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/12/31/reduce-remove-remediate-pdfs-and-government-websites/</guid>
+      <description>In a recent governmentwide community discussion, we shared tips to remediate the use of PDFs on government websites, focusing on balancing needs, choosing formats, starting fixes, and ensuring documents are accessible for everyone.</description>
+    </item>
+    <item>
+      <title>Search.gov 2021 Year In Review</title>
+      <link>https://digital.gov/2022/02/22/search-gov-2021-year-in-review/</link>
+      <pubDate>Tue, 22 Feb 2022 13:34:00 -0500</pubDate>
+      <guid>https://digital.gov/2022/02/22/search-gov-2021-year-in-review/</guid>
+      <description>Search.gov 2021 Year In Review</description>
+    </item>
+    <item>
+      <title>The Federal Web in the Year of COVID-19</title>
+      <link>https://digital.gov/2021/04/16/the-federal-web-in-the-year-of-covid-19/</link>
+      <pubDate>Fri, 16 Apr 2021 13:55:00 -0500</pubDate>
+      <guid>https://digital.gov/2021/04/16/the-federal-web-in-the-year-of-covid-19/</guid>
+      <description>The past year was like no other. We take a look at how it affected federal website traffic and search data.</description>
+    </item>
+    <item>
+      <title>Search.gov</title>
+      <link>https://digital.gov/services/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/services/search/</guid>
+      <description>A free hosted search platform for federal websites.</description>
+    </item>
+    <item>
+      <title>Search.gov: 2019 in Review</title>
+      <link>https://digital.gov/2020/01/27/searchgov-2019-in-review/</link>
+      <pubDate>Mon, 27 Jan 2020 13:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2020/01/27/searchgov-2019-in-review/</guid>
+      <description>&lt;strong&gt;In 2019, Search.gov served 295,916,305 queries across more than 2,000 government websites&lt;/strong&gt;. Find out more in their annual report, including the most common topics that people searched for.</description>
+    </item>
+    <item>
+      <title>Indexing with Search.gov</title>
+      <link>https://digital.gov/event/2019/04/25/indexing-with-searchgov/</link>
+      <pubDate>Thu, 25 Apr 2019 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2019/04/25/indexing-with-searchgov/</guid>
+      <description>Come take a walk through the Search.gov indexing process from start to finish.</description>
+    </item>
+    <item>
+      <title>How Search Engines Index Your Websites</title>
+      <link>https://digital.gov/event/2018/05/29/how-search-engines-index-your-websites/</link>
+      <pubDate>Tue, 29 May 2018 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2018/05/29/how-search-engines-index-your-websites/</guid>
+      <description>Join Search.gov as they walk you through the fundamentals of how search engines monitor your content and pull relevant data from your pages.</description>
+    </item>
+    <item>
+      <title>An Introduction to Search.gov</title>
+      <link>https://digital.gov/event/2018/05/03/an-introduction-searchgov/</link>
+      <pubDate>Thu, 03 May 2018 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2018/05/03/an-introduction-searchgov/</guid>
+      <description>Learn about the essential features of Search.gov and tour its Admin Center.</description>
+    </item>
+    <item>
+      <title>Dear Search: Reading Between the Lines of Search Data</title>
+      <link>https://digital.gov/2016/10/21/dear-search-reading-between-the-lines-of-search-data/</link>
+      <pubDate>Fri, 21 Oct 2016 11:00:34 -0400</pubDate>
+      <guid>https://digital.gov/2016/10/21/dear-search-reading-between-the-lines-of-search-data/</guid>
+      <description>Welcome to the first Dear Search article, an occasional series where the DigitalGov Search team addresses common search questions. Dear Search, Right now, I am building up user research services that can be offered to product owners on a regular or as-needed basis. So, being able to look at search trends and offer advice to</description>
+    </item>
+    <item>
+      <title>Let’s Encrypt Those CNAMES, Shall We?</title>
+      <link>https://digital.gov/2016/09/07/lets-encrypt-those-cnames-shall-we/</link>
+      <pubDate>Wed, 07 Sep 2016 11:00:56 -0400</pubDate>
+      <guid>https://digital.gov/2016/09/07/lets-encrypt-those-cnames-shall-we/</guid>
+      <description>This is post 4 in the 5-part series, The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. This post references the previous posts frequently, so please read those before reading this one if you haven’t done so already. In addition to the DNS challenges created by offering “masked” domains such</description>
+    </item>
+    <item>
+      <title>Quality, Speed, and Lower Costs: Yes, You Can Have It All</title>
+      <link>https://digital.gov/2016/09/02/quality-speed-and-lower-costs-yes-you-can-have-it-all/</link>
+      <pubDate>Fri, 02 Sep 2016 10:00:42 -0400</pubDate>
+      <guid>https://digital.gov/2016/09/02/quality-speed-and-lower-costs-yes-you-can-have-it-all/</guid>
+      <description>This is post 2 in the 5-part series The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. The last major infrastructure upgrade that DigitalGov Search had was in 2010. Not only has technology evolved significantly since then, but so have business models for right-sizing costs. Moving to Amazon Web Services (AWS)</description>
+    </item>
+    <item>
+      <title>The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment</title>
+      <link>https://digital.gov/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/</link>
+      <pubDate>Thu, 18 Aug 2016 10:00:29 -0400</pubDate>
+      <guid>https://digital.gov/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/</guid>
+      <description>This is the first post of a 5-part series. DigitalGov Search is a commercial-grade search engine provided as a shared-service by the United States General Services Administration. We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that</description>
+    </item>
+    <item>
+      <title>HTTPS and Other Ranking Factors: What Impacts the SEO of Government Websites?</title>
+      <link>https://digital.gov/2015/09/02/https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites/</link>
+      <pubDate>Wed, 02 Sep 2015 10:00:43 -0400</pubDate>
+      <guid>https://digital.gov/2015/09/02/https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites/</guid>
+      <description>Following the recent OMB memo that all publicly available federal websites and Web services must implement HTTPS by December 31, 2016, Web content managers across government are considering the SEO (search engine optimization) implications of the transition, among other details.</description>
+    </item>
+    <item>
+      <title>Search, Buscar, Поиск, جستجو, Cari: Creating a Good, Multilingual Search Experience</title>
+      <link>https://digital.gov/2015/08/31/search-creating-a-good-multilingual-search-experience/</link>
+      <pubDate>Mon, 31 Aug 2015 11:10:46 -0400</pubDate>
+      <guid>https://digital.gov/2015/08/31/search-creating-a-good-multilingual-search-experience/</guid>
+      <description>In 2015, DigitalGov Search dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support 68 different languages.</description>
+    </item>
+    <item>
+      <title>Our Customer is Your Customer: Working Together to Improve Search on .Gov Websites</title>
+      <link>https://digital.gov/2015/05/14/our-customer-is-your-customer-working-together-to-improve-search-on-gov-websites/</link>
+      <pubDate>Thu, 14 May 2015 11:10:59 -0400</pubDate>
+      <guid>https://digital.gov/2015/05/14/our-customer-is-your-customer-working-together-to-improve-search-on-gov-websites/</guid>
+      <description>We know search engines aren’t Magic 8 Balls, but that’s still how we expect them to behave. We want them to answer our complex and burning questions based on just a few words. And we’ve felt that frustration when the top search results don’t serve our needs, and the results page itself makes us work.</description>
+    </item>
+    <item>
+      <title>Mobilegeddon: Government Edition</title>
+      <link>https://digital.gov/2015/04/15/mobilegeddon-government-edition/</link>
+      <pubDate>Wed, 15 Apr 2015 14:15:42 -0400</pubDate>
+      <guid>https://digital.gov/2015/04/15/mobilegeddon-government-edition/</guid>
+      <description>Much is being said and written about the coming Mobilegeddon/Mopocalypse on April 21st—the day Google’s ranking algorithm will begin boosting results for mobile-friendly sites and penalizing mobile-unfriendly sites. While some agency websites are mobile-friendly, a great many are not. We will do well to pay attention—almost 25% of traffic on government websites is coming from</description>
+    </item>
+  </channel>
+</rss>

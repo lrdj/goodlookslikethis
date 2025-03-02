@@ -1,0 +1,1040 @@
+<!--
+
+Welcome to Digital.gov — our goal is to transform how government learns, builds,
+delivers and measures digital services in the 21st century. Learn more
+https://digital.gov/about Get in touch: digitalgov@gsa.gov Follow us on Twitter:
+@digital_gov ======= We edit in the open at https://workflow.digital.gov/ Built
+by the Digital.gov team in the GSA, using modern development practices. See the
+full source code: https://github.com/GSA/digitalgov.gov Built using HUGO. Hosted
+on cloud.gov Pages https://cloud.gov/pages/ -->
+
+
+
+<!DOCTYPE html>
+
+<html
+  lang="en-US"
+  itemscope
+  itemtype="../../../schema.org/WebSite.html"
+  prefix="og: http://ogp.me/ns#"
+>
+
+
+
+
+
+
+<!-- Mirrored from digital.gov/resources/an-introduction-to-search/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 02 Mar 2025 23:10:23 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head profile="../../../gmpg.org/xfn/11.html">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  
+  <script
+    async
+    type="text/javascript"
+    id="_fed_an_ua_tag"
+    src="../../../dap.digitalgov.gov/Universal-Federated-Analytics-Minb06b.js?agency=GSA&amp;subagency=TTS"
+  ></script>
+
+  <!-- Google Tag Manager Data Layer -->
+  <script>
+    dataLayer = [
+      {
+        "content-type": "resource+page",
+        topics: "design, analytics, Tag+Manager",
+      },
+    ];
+  </script>
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "../../../www.googletagmanager.com/gtm5445.html?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-MZCKZPQ");
+  </script>
+
+  <!-- End Google Tag Manager -->
+
+  <!-- Page Title -->
+    
+    <title>An introduction to search – Digital.gov</title>
+  <!-- Meta Description -->
+  <meta
+    name="description"
+    content="Learn why search functionality is an important component of federal websites, and discover how to add a search function to your website."
+  />
+  <meta
+    name="keywords"
+    content="digital, government, technology, civic-tech,digital-service-delivery, search-engine-optimization"
+  />
+
+  <!-- Start of Facebook Open Graph -->
+  <meta
+    property="og:title"
+    content="An introduction to search"
+  />
+  <meta
+    property="og:description"
+    content="Learn why search functionality is an important component of federal websites, and discover how to add a search function to your website."
+  />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://digital.gov/resources/an-introduction-to-search/" />
+  <meta property="og:site_name" content="Digital.gov" />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:image" content="https://s3.amazonaws.com/digitalgov/digitalgov-2022-card-v3.png" />
+    <meta property="og:image:alt" content=" " />
+  
+  <meta property="fb:admins" content="100000569454928" />
+  <meta
+    property="article:publisher"
+    content="https://www.facebook.com/digitalgov"
+  /><meta
+      property="article:published_time"
+      content="2023-10-04T12:01:00-0500"
+    /><meta
+      property="article:modified_time"
+      content="2025-02-26T11:29:46-0500"
+    />
+  <!-- End of Facebook Open Graph -->
+
+  <!-- Start of Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@Digital_Gov" />
+  <meta name="twitter:creator" content="@Digital_Gov" />
+  <meta name="twitter:image:src" content="https://s3.amazonaws.com/digitalgov/digitalgov-2022-card-v3.png" />
+  <meta
+    property="twitter:description"
+    content="Learn why search functionality is an important component of federal websites, and discover how to add a search function to your website."
+  />
+  <meta
+    property="twitter:title"
+    content="An introduction to search"
+  />
+  <!-- End of Twitter -->
+
+  <!-- RSS Feed -->
+  
+
+  <!-- JSON Feed -->
+  <link
+    href="https://digital.gov/resources/an-introduction-to-search/index.json"
+    data-proofer-ignore
+    rel="alternate"
+    type="application/json"
+    title="Digital.gov"
+  />
+
+  <!-- Sitemap-->
+  <link
+    rel="sitemap"
+    type="application/xml"
+    title="Digital.gov Sitemap"
+    href="../../sitemap.xml"
+  />
+
+  
+  
+  <meta name="theme-color" content="#656bd7" />
+
+  
+  <meta name="msvalidate.01" content="A662823C2F59EB4F55F752CC752AC299" />
+
+  <!-- CSS -->
+  
+  <link
+    rel="stylesheet"
+    href="../../dist/styles.css"
+    type="text/css"
+    media="all"
+  />
+  <script src="../../dist/js/uswds-init.min.js"></script>
+
+  <!-- Favicons & Icons -->
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="../../img/icons/apple-touch-icon30f4.png?v=3"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="../../img/icons/favicon-32x3230f4.png?v=3"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="../../img/icons/favicon-16x1630f4.png?v=3"
+  />
+  <link
+    rel="manifest"
+    href="../../img/icons/site30f4.webmanifest?v=3"
+  />
+  <link
+    rel="mask-icon"
+    href="../../img/icons/safari-pinned-tab30f4.svg?v=3"
+    color="#0076d6"
+  />
+  <link
+    rel="shortcut icon"
+    href="../../img/icons/favicon30f4.ico?v=3"
+  />
+  <meta name="msapplication-TileColor" content="#0076d6" />
+  <meta name="theme-color" content="#ffffff" />
+
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+</head>
+<body class="resources page"><!-- Google Tag Manager (noscript) --><noscript
+      ><iframe
+        src="../../../www.googletagmanager.com/ns9116.html?id=GTM-MZCKZPQ"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+    <div class="paper"><a class="usa-skipnav" href="#main-content">Skip to main content</a>
+<section
+  class="usa-banner gov-banner"
+  aria-label="Official website of the United States government"
+>
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto"><img
+            aria-hidden="true"
+            class="usa-banner__header-flag"
+            src="../../uswds/img/us_flag_small.png"
+            alt=""
+            width="16"
+            height="11"
+          />
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+          <p class="usa-banner__header-text">
+            An official website of the United States government
+          </p>
+          <p class="usa-banner__header-action">Here’s how you know</p>
+        </div>
+        <button
+          type="button"
+          class="usa-accordion__button usa-banner__button"
+          aria-expanded="false"
+          aria-controls="gov-banner-default-default"
+        >
+          <span class="usa-banner__button-text">Here’s how you know</span>
+        </button>
+      </div>
+    </header>
+    <div
+      class="usa-banner__content usa-accordion__content"
+      id="gov-banner-default-default"
+    >
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6"><img
+            class="usa-banner__icon usa-media-block__img"
+            src="../../uswds/img/icon-dot-gov.svg"
+            role="img"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong>
+              <br />
+              A <strong>.gov</strong> website belongs to an official government
+              organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6"><img
+            class="usa-banner__icon usa-media-block__img"
+            src="../../uswds/img/icon-https.svg"
+            role="img"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong><br />A
+              <strong>lock</strong> (
+              <span class="icon-lock">
+                <svg
+                  xmlns="../../../www.w3.org/2000/svg.html"
+                  width="52"
+                  height="64"
+                  viewBox="0 0 52 64"
+                  class="usa-banner__lock-image"
+                  role="img"
+                  aria-labelledby="banner-lock-description-default"
+                  focusable="false"
+                >
+                  <title id="banner-lock-title-default">Lock</title>
+                  <desc id="banner-lock-description-default">
+                    Locked padlock
+                  </desc>
+                  <path
+                    fill="#000000"
+                    fill-rule="evenodd"
+                    d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"
+                  />
+                </svg> </span
+              >) or <strong>https://</strong> means you’ve safely connected to
+              the .gov website. Share sensitive information only on official,
+              secure websites.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  
+  
+  
+  
+
+  
+  
+
+  
+    <section
+      class="dg-site-alert usa-site-alert usa-site-alert--info
+      
+      "
+      aria-label="Site alert"
+    >
+      <div class="usa-alert">
+        <div class="usa-alert__body">
+          
+            <h3 class="usa-alert__heading">Guidance for U.S. government websites and social media</h3>
+          
+          
+            <ul class="usa-list">
+              
+                <li><a href="https://digital.gov/california-wildfires">digital.gov/california-wildfires</a></li>
+              
+                <li><a href="https://digital.gov/hurricane-helene">digital.gov/hurricane-helene</a></li>
+              
+            </ul>
+          
+        </div>
+      </div>
+    </section>
+  
+
+
+<script type="text/javascript">
+  
+  const links = document.querySelectorAll(".dg-site-alert a");
+  links.forEach((link) => link.classList.add("usa-link"));
+</script>
+<div class="usa-overlay"></div>
+<header class="usa-header usa-header--extended" role="banner">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo__text">
+        <a
+          href="../../index.html"
+          title="Digital.gov Home"
+          aria-label="Digital.gov Home"
+        >
+          <img
+            class="logo-black"
+            src="../../img/digitalgov-logo.svg"
+            alt="Digital.gov Logo"
+            width="220"
+            height="36"
+          />
+        </a>
+      </em>
+      <p class="sub-head display-none">Guidance on building better digital services in government</p>
+    </div>
+
+    <button class="usa-menu-btn">
+      <svg
+        class="usa-icon dg-icon dg-icon--standard margin-bottom-2px"
+        aria-hidden="true"
+        focusable="false"
+        role="img"
+      >
+        <use xlink:href="../../uswds/img/sprite.svg#menu"></use>
+      </svg>
+      Menu
+    </button>
+  </div>
+  <nav aria-label="Primary navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      <button class="usa-nav__close">
+        <img src="../../uswds/img/close.svg" alt="close" />
+      </button><ul class="usa-nav__primary usa-accordion"><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../news/index.html"
+              ><span>Blogs</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../events/index.html"
+              ><span>Events</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../index.html"
+              ><span>Resources</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../communities/index.html"
+              ><span>Communities</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../guides/index.html"
+              ><span>Guides</span></a
+            >
+          </li><li
+            class="usa-nav__primary-item "
+          >
+            <a class="usa-nav__link" href="../../job-board/index.html"
+              ><span>Job board</span></a
+            >
+          </li></ul>
+      
+
+      <div class="usa-nav__secondary">
+        <ul class="usa-nav__secondary-links">
+          <li class="usa-nav__secondary-item">
+            <a href="https://digital.gov/subscribe"
+              ><span>Subscribe to our newsletter</span></a
+            >
+          </li>
+        </ul>
+
+        <form
+          accept-charset="UTF-8"
+          action="https://find.digitalgov.gov/search"
+          id="search_form"
+          method="get"
+          class="usa-search usa-search--small"
+        >
+          <input name="utf8" type="hidden" value="&#x2713;" />
+          <input
+            id="affiliate"
+            name="affiliate"
+            type="hidden"
+            value="digitalgov"
+          />
+          <div role="search">
+            <label class="usa-sr-only" for="query">Search small</label>
+            <input class="usa-input" id="query" type="search" name="query" />
+            <button class="usa-button" name="commit" type="submit">
+              <img
+                src="../../uswds/img/usa-icons-bg/search--white.svg"
+                class="usa-search__submit-icon"
+                alt="Search"
+              />
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+      
+      <main role="main" id="main-content">
+    <article class="grid-container-desktop"><nav class="usa-breadcrumb usa-breadcrumb--wrap" aria-label="Breadcrumb">
+  <ol class="usa-breadcrumb__list">
+    <li class="usa-breadcrumb__list-item">
+      <a href="../../index.html" class="usa-breadcrumb__link">
+        <span>Home</span>
+      </a>
+    </li>
+
+  
+    <li class="usa-breadcrumb__list-item">
+      <a
+        href="../index.html"
+        class="usa-breadcrumb__link"
+        aria-label="Back to Resources"
+      >
+        <span>
+          Resources</span>
+      </a>
+    </li>
+
+  
+    <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
+      <span>
+        An introduction to search</span>
+    </li>
+    
+  </ol>
+</nav>
+<header>
+
+
+
+
+
+
+
+<div class="dg-page-header">
+  
+  
+    <h1>
+      An introduction to search
+      
+    </h1>
+  
+  
+    <div class="deck">
+      Understand how and why your content must be easy to search
+    </div>
+  
+</div>
+</header>
+
+      <section class="usa-in-page-nav-container">
+        <div>
+          
+          <div class="content usa-prose"><h2 id="what-is-search-functionality">What is search functionality?</h2>
+<p>Search functionality enables people to find information. Whether they use a commercial search engine, or search within a single website via its search function, searching is a commonplace activity for users.</p>
+<p>Commercial search engines scour the internet and deliver results based on the terms someone searches for.</p>
+<p>Site-specific search functionality is typically provided via a search box. Some websites display an actual box, whereas others only display an icon (such as a magnifying glass) that expands to allow users to type their query once they’ve selected the icon. The U.S. Web Design System’s <a href="https://designsystem.digital.gov/components/search/">Search component</a> usability guidance recommends using a full search box. Specifically, the search function should appear on a site’s home page as a search box instead of a link so users can locate it easily.</p>
+<p>If using the Design System’s <a href="https://designsystem.digital.gov/components/header/">Header component</a>, you’ll place the search box in the top right corner.</p>
+<h2 id="why-is-search-important-for-your-website">Why is search important for your website?</h2>
+<p>Most people begin a search for information on a commercial search engine. Once they arrive at a specific website, they’re likely to first <a href="https://www.nngroup.com/videos/search-box-vs-navigation/">review the site navigation</a>. However, if they don’t easily find what they’re looking for, they’ll attempt to search for it using the site’s internal search feature.</p>
+<p>You can configure search results to promote popular or top-task content so it’s easier for users to find. Offering clear navigation, as well as easy-to-use search functionality, will accommodate both methods of finding information.</p>
+<p>Including a search function on your website offers you a view into how site visitors search for your information. By analyzing search data, you can find common search terms, and rewrite content (particularly headings) to include words that customers typically search for.</p>
+<p>Finally, the <a href="../21st-century-integrated-digital-experience-act/index.html">21st Century Integrated Digital Experience Act</a> requires that all federal websites and digital services have “Information and services that are discoverable and optimized for search.”</p>
+<p>Section III.A.4 of OMB’s policy guidance, <a href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/">M-23-22, Delivering a Digital-First Public Experience</a>, clarifies this requirement, “Agencies’ public-facing websites must contain a search function that allows users to easily search content intended for public use.”</p>
+<div class="usa-accordion accordion"><h3 class="usa-accordion__heading">
+    <button
+      class="usa-accordion__button"
+      title="View "
+      aria-expanded="false"
+      aria-controls="accordion-1"
+    >
+      <span class="icon">
+          <svg
+            class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            
+            <use xlink:href="../../uswds/img/sprite.svg#content_copy"></use>
+          </svg>
+        </span><span class="src">
+        <strong class="kicker">Memo M-23-22</strong><strong>Delivering a Digital-First Public Experience, Section III.A.4</strong>: Requirements for Websites and Digital Services
+        </span
+      >
+    </button>
+  </h3><div
+      id="accordion-1"
+      class="accordion-body usa-accordion__content usa-prose"
+    ><p><em>Note: For footnotes, use the link at the end of this section to open the full .pdf file.</em></p>
+<p><strong>Section III. DELIVERING A DIGITAL-FIRST PUBLIC EXPERIENCE</strong></p>
+<p><strong>A. Requirements for Websites and Digital Services</strong></p>
+<p>Federal websites and digital services serve agencies’ missions and help users find the information and support they need. Agencies should ensure their websites, including web applications, digital services, and mobile applications, conform to the requirements and principles described below to design and deliver a high-quality, integrated digital experience that is simple, seamless, and secure across agencies for all users.</p>
+<p><span class="highlight-text"><strong>4. Information and Services That Are Discoverable and Optimized for Search</strong></span></p>
+<p>Search is a basic and universal part of using the internet, and search functionality is an expected feature for websites and digital services. Moreover, the public currently gets to Federal Government information and services online primarily through external search engines, which are critical to discoverability. Agencies’ websites must be structured well; contain rich, descriptive metadata; feature machine-readable content to the extent practicable; and follow search engine optimization (SEO) practices to ensure that members of the public can access government information and services from third-party websites and applications. In addition to SEO and public discoverability, a well-structured website also can be friendlier to assistive technology, archival software or services, and for other uses.</p>
+<p>The Federal Government’s public web presence is an open book that may be crawled, archived, or “scraped” by anyone in the general public, at any time. Enabling short- and long-term preservation of government content is critical to public understanding of the government and its history, when appropriate. Web scraping plays an important role in making government information and data available and useful for a variety of public uses, including potentially for the training of large language models that enable artificial intelligence chatbots and services to accurately represent information about the government.</p>
+<ul>
+<li><strong>Use on-site search functionality:</strong> Agencies’ public-facing websites must contain a search function that allows users to easily search content intended for public use. This search function should be a site-wide global search and, when appropriate, could be a feature-specific search for a subset of the website content that is of significant public12 interest (e.g., find-a-form tool). Agencies should participate in the Search.gov program by utilizing Search.gov for on-site search solutions or by integrating search solutions with Search.gov.</li>
+<li><strong>Design search-engine optimized content:</strong> Agencies should ensure that publicly available content (i.e., content that does not require user authentication or sign in) is designed and structured so it can be effectively crawled and indexed by search engines. Agencies must not limit which search engines or crawlers can access or archive their public content. Agencies should employ best practices to improve crawling or indexing of web content, including using sitemaps, robots.txt files,<sup>29</sup> and descriptive metadata in commonly parsed fields (e.g., meta element tags).</li>
+<li><strong>Promote the “right” content:</strong> Agencies should be strategic with SEO efforts and should think about SEO in the context of the intended audience. Agencies generate a lot of content and not all of this content is of equal importance. Unoptimized or poorly optimized content will result in negative user experiences and poor customer satisfaction. Agencies should perform keyword research and actively look at third-party search results to better understand how the public is trying to find information and should optimize content accordingly so that search terms generate results that are most likely to address the user’s query.</li>
+<li><strong>Optimize content for discoverability and utility:</strong> Agencies should optimize and organize online content to help the public find what they are looking for as efficiently as possible, with the fewest number of steps or clicks, and without forcing the user to understand bureaucratic jargon, internal government concepts and structures, or any other superfluous information that would unnecessarily impede the public’s understanding.</li>
+<li><strong>Indicate timeliness of content:</strong> Agencies should indicate when content on static,<sup>30</sup> public-facing websites was created or last updated by including temporal information in line with content or by using “Last Modified” in the HTTP header, in metadata tags, or in XML sitemaps. Time-and-date stamps provide transparency to the user and help the public better understand the freshness of content. When developing a timestamp strategy, agencies should prioritize adding timestamps to content that is time-sensitive, frequently changed, or top-trafficked.</li>
+<li><strong>Permit automated web scraping:</strong> Generally, agencies shall permit web scraping and archival services to operate unimpeded without challenge-response restrictions (e.g., without presenting CAPTCHAs). Blocking or throttling of even potentially abusive crawlers is only appropriate in exceptional circumstances, such as an active denial-of-service attack, and, even then, is appropriate only on a temporary basis. If an agency detects significant public interest in scraping information from web pages, the agency should strongly consider making that information available as machine-readable data that can be accessed in bulk and optimized for automated access (such as through an API).</li>
+</ul>
+<p><a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="https://digital.gov/resources/an-introduction-to-search/assets/img/sprite.svg#arrow_forward"></use></svg></a></p>
+</div></div>
+
+<h2 id="how-to-improve-searchability">How to improve searchability</h2>
+<p>Install a <strong>search function</strong> on your website.</p>
+<ul>
+<li><a href="https://search.gov/">Search.gov</a> is a shared service offered by GSA, and free to federal agencies. It’s secure, compliant, and tailored for government use.</li>
+</ul>
+<p>Follow <strong>search engine optimization (SEO)</strong> best practices to help search engines discover your content:</p>
+<ul>
+<li>Write content that is clear, concise, unique, and authoritative, to increase page rankings on commercial search engines.</li>
+<li>Use semantic HTML, which helps search engines differentiate types of content on a page, such as the title, description, or headings, delivers more descriptive search results, and increases the effectiveness of assistive technologies, such as screen readers.</li>
+<li>Properly structure headings. Include only one H1 on a page, and use it for your page title. Use H2, H3, etc. to organize content into sections and subsections.</li>
+<li>Create an XML sitemap that includes all URLs that you want to be discoverable through search.</li>
+<li>Create a robots.txt file.</li>
+<li>Register your site with <a href="https://www.bing.com/toolbox/webmaster">Bing Webmaster Tools</a> and <a href="https://www.google.com/webmasters/tools/home?hl=en">Google Search Console</a>.</li>
+</ul>
+<hr>
+<p><strong>Disclaimer</strong>: All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.</p>
+</div>
+
+          <script
+  src="https://touchpoints.app.cloud.gov/touchpoints/dc4265f6.js"
+  async
+></script>
+<section class="touchpoints-form-container">
+  <button id="touchpoints-modal-button" class="usa-button" type="button">
+    Was this page helpful?
+  </button>
+</section>
+</div>
+        <aside
+          class="dg-sidebar usa-in-page-nav"
+          data-title-heading-level="h4"
+          data-root-margin="-350px 0px -350px 0px"
+          aria-label="Related content"
+          data-heading-elements="h2"
+        >
+          <div class="dg-related-items" data-related-items>
+
+
+
+<article class="dg-promos dg-related-communities">
+    <h3 class="dg-promos__heading">Join a Community</h3>
+
+    <ul class="dg-promos__list"><li class="promo dg-promos__list-item">
+          <a
+            href="../../communities/communicators/index51b6.html?promo"
+            title="Visit Join the Communicators community page"
+            class="dg-promos__link"
+          >
+            Join the Communicators
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../communities/contact-center/index51b6.html?promo"
+            title="Visit Join the Contact Center community page"
+            class="dg-promos__link"
+          >
+            Join the Contact Center
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../communities/multilingual/index51b6.html?promo"
+            title="Visit Join the Multilingual community page"
+            class="dg-promos__link"
+          >
+            Join the Multilingual
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../communities/plain-language/index51b6.html?promo"
+            title="Visit Join the Plain Language community page"
+            class="dg-promos__link"
+          >
+            Join the Plain Language
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../communities/social-media/index51b6.html?promo"
+            title="Visit Join the Social Media community page"
+            class="dg-promos__link"
+          >
+            Join the Social Media
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../communities/user-experience/index51b6.html?promo"
+            title="Visit Join the User Experience community page"
+            class="dg-promos__link"
+          >
+            Join the User Experience
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../communities/web-analytics-and-optimization/index51b6.html?promo"
+            title="Visit Join the Web Analytics community page"
+            class="dg-promos__link"
+          >
+            Join the Web Analytics
+          </a>
+        </li><li class="promo dg-promos__list-item">
+          <a
+            href="../../communities/web-content-managers/index51b6.html?promo"
+            title="Visit Join the Web Managers community page"
+            class="dg-promos__link"
+          >
+            Join the Web Managers
+          </a>
+        </li></ul>
+
+    <footer class="dg-promos__footer">
+      
+
+      <a
+        href="https://digital.gov/communities"
+        class="dg-promos__more-link dg-more-link"
+      >
+        <span> See all 34 communities </span>
+        <svg
+          class="usa-icon dg-icon dg-icon--small margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="../../uswds/img/sprite.svg#arrow_forward"
+          ></use>
+        </svg>
+      </a>
+    </footer>
+  </article></div>
+        </aside>
+      </section>
+    </article>
+  </main>
+<section
+  id="newsletter-signup"
+  aria-label="Subscribe to the Digital.gov newsletter"
+>
+  <div class="grid-container grid-container-desktop">
+    <div class="grid-row tablet-lg:grid-gap-6">
+      <div class="grid-col-12 tablet:grid-col-7">
+        <section class="usa-sign-up">
+          <p class="blurb" id="newsletter-subscribe-description">
+            <strong>Join 18,000 others in government</strong> and subscribe to
+            our newsletter — a round-up of the best digital news in government
+            and across our field.
+          </p>
+        </section>
+      </div>
+      <div class="grid-col-12 tablet:grid-col-5">
+        <section
+          class="usa-sign-up"
+          aria-describedby="newsletter-subscribe-description"
+        >
+          <script
+            src="../../../public.govdelivery.com/assets/Signup.js"
+            data-account-code="USGSA"
+            data-signup-id="34948"
+          ></script>
+        </section>
+      </div>
+    </div>
+  </div>
+</section>
+<footer class="usa-footer usa-footer--big" role="contentinfo">
+  <section class="return-to-top">
+    <div
+      class="grid-container grid-container-desktop usa-footer__return-to-top"
+    >
+      <a href="#">
+        <span>Return to top</span>
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="../../uswds/img/sprite.svg#arrow_upward"
+          ></use>
+        </svg>
+      </a>
+    </div>
+  </section>
+  <div class="usa-footer__primary-section">
+    <div class="grid-container grid-container-desktop">
+      <nav class="usa-footer__nav" aria-label="Footer navigation">
+        <div class="grid-row grid-gap-4">
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Learn</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../news/index.html">Blogs</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../events/index.html">Events</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../index.html">Resources</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../communities/index.html">Communities</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../guides/index.html">Guides</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../job-board/index.html">Job board</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Contribute</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../contribute/index.html">Write for us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../digitalgov-university/index.html">Host an event</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../../github.com/GSA/digitalgov.gov/issues.html">Submit GitHub issue</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">About</h4>
+              <ul class="usa-list usa-list--unstyled"><li class="usa-footer__secondary-link">
+                    <a href="../../about/index.html">About Us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../policies/index.html">Site Policies</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../about/contact/index.html">Contact Us</a>
+                  </li><li class="usa-footer__secondary-link">
+                    <a href="../../about/manage-content/index.html">Content schedule</a>
+                  </li></ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
+              <h4 class="usa-footer__primary-link">Social</h4>
+              <ul class="usa-list usa-list--unstyled social-links">
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#x"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../twitter.com/digital_gov"
+                    >X (Formerly Twitter)</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#facebook"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../www.facebook.com/digitalgov/index.html"
+                    >Facebook</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#youtube"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="https://youtube.com/@DigitalGov"
+                    >YouTube</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#linkedin"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../../www.linkedin.com/company/digitalgov-gsa/index.html"
+                    >LinkedIn</a
+                  >
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="../../uswds/img/sprite.svg#rss_feed"
+                    ></use>
+                  </svg>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="../../index.xml"
+                    >RSS</a
+                  >
+                </li>
+              </ul>
+            </section>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+  <div class="usa-identifier">
+    <section
+      class="usa-identifier__section usa-identifier__section--masthead"
+      aria-label="Agency identifier"
+    >
+      <div class="usa-identifier__container">
+        <div class="usa-identifier__logos">
+          <a href="../../../www.gsa.gov/index.html" class="usa-identifier__logo">
+            <img
+              class="usa-identifier__logo-img"
+              src="../../img/gsa-logo-w100.png"
+              alt="GSA logo"
+              role="img"
+              width="100"
+              height="100"
+            />
+          </a>
+        </div>
+        <section
+          class="usa-identifier__identity"
+          aria-label="Agency description"
+        >
+          <p class="usa-identifier__identity-domain">Digital.gov</p>
+          <p class="usa-identifier__identity-disclaimer">
+            An official website of the
+            <a href="../../../www.gsa.gov/index.html">U.S. General Services Administration</a>
+          </p>
+        </section>
+      </div>
+    </section>
+    <nav
+      class="usa-identifier__section usa-identifier__section--required-links"
+      aria-label="Important links"
+    >
+      <div class="usa-identifier__container">
+        <ul class="usa-identifier__required-links-list">
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/about-us.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                About GSA
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/website-information/accessibility-statement.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Accessibility statement
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/reference/freedom-of-information-act-foia.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                FOIA requests
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/reference/civil-rights-programs/the-no-fear-act.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                No FEAR Act data
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsaig.gov/index.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Office of the Inspector General
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="https://www.gsa.gov/reference/reports/budget-performance"
+                class="usa-identifier__required-link usa-link"
+              >
+                Performance reports
+              </a>
+            </li>
+          
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="../../../www.gsa.gov/website-information/website-policies.html"
+                class="usa-identifier__required-link usa-link"
+              >
+                Privacy policy
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </nav>
+    <section
+      class="usa-identifier__section usa-identifier__section--usagov"
+      aria-label="U.S. government information and services"
+    >
+      <div class="usa-identifier__container">
+        <div class="usa-identifier__usagov-description">
+          Looking for U.S. government information and services?
+        </div>
+        <a href="../../../www.usa.gov/index.html" class="usa-link">
+          Visit USA.gov
+        </a>
+      </div>
+    </section>
+  </div>
+
+</div>
+    
+
+    <div id="clicks_iframe" class="display-none"></div>
+  </body>
+
+  
+  <script type="text/javascript">let glossaryPath = null;
+    const glossaryIcon = "#\/uswds\/img\/sprite.svg#expand_more"
+  </script>
+
+  <script src="../../dist/js/uswds.min.js"></script>
+  <script src="../../dist/js/main.js"></script>
+
+<!-- Mirrored from digital.gov/resources/an-introduction-to-search/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 02 Mar 2025 23:10:23 GMT -->
+</html>

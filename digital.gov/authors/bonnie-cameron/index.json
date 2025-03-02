@@ -1,0 +1,49 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "home_page_url" : "https://digital.gov/",
+    "content" : "author",
+    "type" : "list",
+    "count" : "3","feed_url" : "https://digital.gov/authors/bonnie-cameron/index.json","profile_url" : "https://digital.gov/authors/bonnie-cameron/","display_name" : "Bonnie Cameron","first_name" : "Bonnie","last_name" : "Cameron","slug" : "bonnie-cameron","agency" : "GSA","agency_full_name" : "U.S. General Services Administration","github" : "bonnieAcameron","branch" : "main",
+    "filename" :"_index.md",
+    
+    "filepath" :"authors/bonnie-cameron/_index.md",
+    "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/bonnie-cameron/_index.md",
+    "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/bonnie-cameron/_index.md",
+    "url" : "https://digital.gov/authors/bonnie-cameron/",
+    "items" : [{
+        "title" :"Designing a multilingual future: A conversation with Laura Godfrey","deck" : "The crucial role of human expertise in technology","summary" : "On the eve of her retirement, Laura Godfrey reflects on multilingualism and equitable access to government information.","date" : "2024-12-23T00:00:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"bonnie-cameron" : "Bonnie Cameron"},"topics" : {
+          
+              "content-strategy" : "Content strategy",
+              "multilingual" : "Multilingual"
+              },"branch" : "main",
+        "filename" :"2024-12-23-designing-a-multilingual-future.md",
+        "filepath" :"authors/bonnie-cameron/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/bonnie-cameron/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/bonnie-cameron/_index.md",
+        "url" : "https://digital.gov/2024/12/23/designing-a-multilingual-future/"
+    },{
+        "title" :"Introduction to QR codes","deck" : "How and why to use QR codes to bridge the online and offline worlds","summary" : "What is a QR code and how can you create one? What are some alternatives to using QR codes? This introductory resource will help you explore your options.","date" : "2023-02-02T18:56:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"bonnie-cameron" : "Bonnie Cameron"},"topics" : {
+          
+              "analytics" : "Analytics",
+              "mobile" : "Mobile",
+              "social-media" : "Social media"
+              },"branch" : "main",
+        "filename" :"introduction-to-qr-codes.md",
+        "filepath" :"authors/bonnie-cameron/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/bonnie-cameron/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/bonnie-cameron/_index.md",
+        "url" : "https://digital.gov/resources/introduction-to-qr-codes/"
+    },{
+        "title" :"Guidelines for Digital.gov event presenters","summary" : "A checklist of requirements for people who are presenting at a Digital.gov event.","date" : "2023-03-17T12:43:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"bonnie-cameron" : "Bonnie Cameron"},"topics" : {
+          
+              "best-practices" : "Best practices",
+              "communication" : "Communication",
+              "multimedia" : "Multimedia"
+              },"branch" : "main",
+        "filename" :"guidelines-for-digital-gov-event-presenters.md",
+        "filepath" :"authors/bonnie-cameron/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/bonnie-cameron/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/bonnie-cameron/_index.md",
+        "url" : "https://digital.gov/resources/guidelines-for-digital-gov-event-presenters/"
+    }]
+}

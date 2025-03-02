@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital.gov</title>
+    <link>https://digital.gov/authors/danielle-lee/</link>
+    <description>Recent content on Digital.gov</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://digital.gov/authors/danielle-lee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Approaching language translations to provide a better user experience: A Login.gov case study</title>
+      <link>https://digital.gov/2024/12/17/approaching-language-translations-to-provide-a-better-user-experience/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/12/17/approaching-language-translations-to-provide-a-better-user-experience/</guid>
+      <description>Learn how the Login.gov team improved translations and added a new language to enhance their service.</description>
+    </item>
+  </channel>
+</rss>

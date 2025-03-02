@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital service delivery on Digital.gov</title>
+    <link>https://digital.gov/topics/digital-service-delivery/</link>
+    <description>Recent content in Digital service delivery on Digital.gov</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://digital.gov/topics/digital-service-delivery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FY 24 Governmentwide Section 508 Assessment</title>
+      <link>https://digital.gov/2024/12/20/fy-24-governmentwide-section-508-assessment/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/12/20/fy-24-governmentwide-section-508-assessment/</guid>
+      <description>The FY 2024 Governmentwide Section 508 Assessment highlights progress and ongoing challenges in federal digital accessibility efforts. This assessment provides key findings on governmentwide accessibility maturity and actionable recommendations. The recommendations include stronger enforcement of 508 standards, increased resourcing, and integrating accessibility into the technology lifecycle to enhance compliance and access for all.</description>
+    </item>
+    <item>
+      <title>Navigating digital acquisitions</title>
+      <link>https://digital.gov/2024/11/26/navigating-digital-acquisitions/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/11/26/navigating-digital-acquisitions/</guid>
+      <description>Learn the best practices for agile acquisitions—from building and buying solutions, to overcoming common roadblocks.</description>
+    </item>
+    <item>
+      <title>TTS made a lasting impact with civic tech in FY24</title>
+      <link>https://digital.gov/2024/11/21/tts-made-a-lasting-impact-with-civic-tech-in-fy24/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/11/21/tts-made-a-lasting-impact-with-civic-tech-in-fy24/</guid>
+      <description>The Technology Transformation Services (TTS) made significant strides to prioritize and improve federal digital services in FY 2024. From expanding Login.gov to over 72 million users, launching tools like Notify.gov, or redesigning Vote.gov in 19 languages, explore how TTS continues to set the standard for impactful civic tech innovation.</description>
+    </item>
+    <item>
+      <title>Transition Post 3: Managing Electronic Messages and Social Media Accounts</title>
+      <link>https://digital.gov/2024/11/08/transition-post-3-managing-electronic-messages-and-social-media-accounts/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/11/08/transition-post-3-managing-electronic-messages-and-social-media-accounts/</guid>
+      <description>The National Archives and Records Administration (NARA) released a new blog on the management of federal records and transitions for federal agencies. Shedding light on the usage of agency-managed communication platforms and social media accounts, agencies are given instructions on how to best comply with the requirements outlined in the Federal Records Act.</description>
+    </item>
+    <item>
+      <title>Three ways to write fearless spreadsheet formulas</title>
+      <link>https://digital.gov/2024/11/05/three-ways-to-write-fearless-spreadsheet-formulas/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/11/05/three-ways-to-write-fearless-spreadsheet-formulas/</guid>
+      <description>Spreadsheet formulas can be intimidating, especially given their critical role in government operations. Applying simple programming principles, 18F created a resource for making formulas clearer, easier to read, and less error-prone. 18F introduces three key techniques: using the LET function to name variables and organize code logically, adding comments to clarify complex formulas, and leveraging the LAMBDA function to break down problems into manageable parts. Together, these methods transform spreadsheets from sources of anxiety into tools of clarity and confidence.</description>
+    </item>
+    <item>
+      <title>You&#39;ve launched, now what? Planning for the future of your content</title>
+      <link>https://digital.gov/2024/11/04/youve-launched-now-what-planning-for-the-future-of-your-content/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/11/04/youve-launched-now-what-planning-for-the-future-of-your-content/</guid>
+      <description>Creating quality digital content is not a one-time endeavor. Explore these approaches to managing and improving excellent digital content over time.</description>
+    </item>
+    <item>
+      <title>Broadening Public Participation and Community Engagement With the Federal Government</title>
+      <link>https://digital.gov/2024/10/29/broadening-public-participation-and-community-engagement-with-the-federal-government/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/10/29/broadening-public-participation-and-community-engagement-with-the-federal-government/</guid>
+      <description>Government works best when it incorporates transparent engagement and feedback from the public. The White House Office of Management and Budget (OMB) is enhancing public participation in federal decision-making through draft guidance and a proposed toolkit. These resources aim to standardize best practices, improve accessibility, and ensure underserved communities have meaningful opportunities to contribute. By prioritizing transparency and collaboration, OMB seeks to create politics that reflect the voices and needs of the public.</description>
+    </item>
+    <item>
+      <title>Making targeted improvements to NPS.gov: A case study from the National Park Service</title>
+      <link>https://digital.gov/2024/10/11/making-targeted-improvements-to-nps-gov-a-case-study-from-the-national-park-service/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/10/11/making-targeted-improvements-to-nps-gov-a-case-study-from-the-national-park-service/</guid>
+      <description>NPS enhances user experience on NPS.gov by integrating Digital Analytics Program web analytics data and customer feedback from GSA Touchpoints.</description>
+    </item>
+    <item>
+      <title>18F&#39;s year of launches</title>
+      <link>https://digital.gov/2024/10/08/18f-year-of-launches/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/10/08/18f-year-of-launches/</guid>
+      <description>Over the past year, 18F has helped partner agencies launch innovative software products to improve the public’s experience with the federal government. From helping Get.gov simplify domain requests to working with Notify.gov to develop a new public benefits texting service, the six projects featured here focus on putting their users first. Learn more about how these launches emphasize the importance of user research and strong partnerships in delivering better government services.</description>
+    </item>
+    <item>
+      <title>Uncovering impactful solutions through user research</title>
+      <link>https://digital.gov/2024/10/04/uncovering-impactful-solutions-through-user-research/</link>
+      <pubDate>Fri, 04 Oct 2024 16:30:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/10/04/uncovering-impactful-solutions-through-user-research/</guid>
+      <description>Get an overview of what user research and user testing are in a federal context. Learn what policies apply and what resources are available.</description>
+    </item>
+    <item>
+      <title>Delivering a digital-first public experience: One agency&#39;s plan</title>
+      <link>https://digital.gov/2024/09/23/delivering-a-digital-first-public-experience-one-agencys-plan/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/09/23/delivering-a-digital-first-public-experience-one-agencys-plan/</guid>
+      <description>Learn how the U.S. General Services Administration is tackling the 100+ requirements of OMB memo M-23-22, Delivering a Digital-First Public Experience.</description>
+    </item>
+    <item>
+      <title>A revised and expanded guide for de-risking government technology projects</title>
+      <link>https://digital.gov/2024/09/12/a-revised-and-expanded-guide-for-de-risking-government-technology-projects/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/09/12/a-revised-and-expanded-guide-for-de-risking-government-technology-projects/</guid>
+      <description>18F recently launched an updated version of the 2020 De-risking Government Technology Guide, offering a new section on vendor management, and combining the State Software Budgeting Handbook and Federal Field Guide into one unified resource. The guide offers practical methods for reducing risks in government tech projects, drawing from 18F’s experience and state employee input. This revision reflects the evolving needs of government agencies, providing key insights on custom software development, vendor collaboration, and performance-based contracting.</description>
+    </item>
+    <item>
+      <title>A journey of improvement: Creating a self-assessment for digital experience</title>
+      <link>https://digital.gov/2024/08/20/a-journey-of-improvement-creating-a-self-assessment-for-onrrs-digital-experience/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/08/20/a-journey-of-improvement-creating-a-self-assessment-for-onrrs-digital-experience/</guid>
+      <description>Memo M-23-22 from the Office of Management and Budget provides guidance to federal agencies on delivering a digital-first public experience. To quantify its compliance with the memo, the Open Data, Design, and Development team at the Department of the Interior created and conducted a self-assessment of its digital products. The team used a scoring spreadsheet to measure compliance across categories like accessibility, design consistency, and mobile responsiveness. The results helped the team develop a plan to prioritize improvements and engage with leadership for support on other initiatives.</description>
+    </item>
+    <item>
+      <title>User research and the Paperwork Reduction Act</title>
+      <link>https://digital.gov/2024/08/20/user-research-and-the-paperwork-reduction-act/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/08/20/user-research-and-the-paperwork-reduction-act/</guid>
+      <description>User research is an important part of customer experience transformation. Different types of research require different approval under the Paperwork Reduction Act (PRA). Through seven case studies, the U.S. Digital Service shows how agencies conducted valuable user research that did not require PRA approval and successfully integrated findings into their projects. Their work illustrates how thoughtful user research transforms delivery of services and helps agencies build trust in government.</description>
+    </item>
+    <item>
+      <title>Supporting innovation through the American Rescue Plan</title>
+      <link>https://digital.gov/2024/08/01/supporting-innovation-through-the-american-rescue-plan/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/2024/08/01/supporting-innovation-through-the-american-rescue-plan/</guid>
+      <description>GSA uses American Rescue Plan funding for over 40 initiatives to foster community, improve user experiences, and empower underserved populations.</description>
+    </item>
+    <item>
+      <title>How to conduct a project reflection</title>
+      <link>https://digital.gov/resources/how-to-conduct-a-project-reflection/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/resources/how-to-conduct-a-project-reflection/</guid>
+      <description>Use this template, shared at the 2024 Spring Community Summit, to improve your own service delivery.</description>
+    </item>
+    <item>
+      <title>How to transition a team off of a project</title>
+      <link>https://digital.gov/resources/how-to-transition-a-team-off-of-a-project/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/resources/how-to-transition-a-team-off-of-a-project/</guid>
+      <description>Use this template, shared at the 2024 Spring Community Summit, to improve your own service delivery.</description>
+    </item>
+    <item>
+      <title>18F&#39;s engineering craft practices at 10</title>
+      <link>https://digital.gov/2024/07/09/18f-engineering-craft-practices-at-10/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/2024/07/09/18f-engineering-craft-practices-at-10/</guid>
+      <description>18F recently celebrated its 10th anniversary by renewing its commitment to refining and sharing best practices through regular publications, tech talks, and updates to the 18F Engineering Guide. They also created a permanent principal consulting engineer role to enhance digital service delivery and support skill development within the organization.</description>
+    </item>
+    <item>
+      <title>Bridge the gap between policy and implementation: Impactful solutions and strategies for success from Digital.gov&#39;s spring 2024 summit</title>
+      <link>https://digital.gov/2024/07/08/bridge-the-gap-between-policy-and-implementation-impactful-solutions-and-strategies-for-success-from-digital-gov-spring-2024-summit/</link>
+      <pubDate>Mon, 08 Jul 2024 10:55:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/07/08/bridge-the-gap-between-policy-and-implementation-impactful-solutions-and-strategies-for-success-from-digital-gov-spring-2024-summit/</guid>
+      <description>The summit highlighted digital transformation, emphasizing the significance of recent OMB memos for improving accessibility and customer experience.</description>
+    </item>
+    <item>
+      <title>Federal customer experience: OMB has taken actions to implement cross-agency priority goals</title>
+      <link>https://digital.gov/2024/06/06/federal-customer-experience-omb-has-taken-actions-to-implement-cross-agency-priority-goals/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/2024/06/06/federal-customer-experience-omb-has-taken-actions-to-implement-cross-agency-priority-goals/</guid>
+      <description>In 2021, the President’s Management Agenda identified federal customer experience as a priority area for improvement. To implement this priority area, the Office of Management and Budget (OMB) set two long-term, cross-agency priority (CAP) goals.  In this study, the Government Accountability Office (GAO) reviews OMB and selected federal agencies&amp;rsquo; efforts towards these CAP goals. Learn about actions taken by OMB and selected High Impact Service Providers (HISPs), how OMB has facilitated interagency collaboration, and the extent to which OMB has overseen and assessed progress on these CAP goals.</description>
+    </item>
+    <item>
+      <title>Google Analytics 4: Transition strategies for federal websites</title>
+      <link>https://digital.gov/2024/04/22/google-analytics-4-transition-strategies-for-federal-websites/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/2024/04/22/google-analytics-4-transition-strategies-for-federal-websites/</guid>
+      <description>Learn how the Open Data, Design, and Development (ODDD) team at the Department of the Interior (DOI) transitioned from Google Analytics - Universal Analytics to Google Analytics 4! Discover how the ODDD team coordinated with the Digital Analytics Program, developed explorations (instead of custom reports), and set up their own DOI agency property.</description>
+    </item>
+    <item>
+      <title>Meet your Digital Experience Council</title>
+      <link>https://digital.gov/2024/04/09/meet-your-digital-experience-council/</link>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/2024/04/09/meet-your-digital-experience-council/</guid>
+      <description>The Digital Experience Council plays a critical role in coordinating governmentwide efforts and assisting agencies in delivering digital experiences that meet the public’s needs and expectations.</description>
+    </item>
+    <item>
+      <title>Justice department to publish final rule to strengthen web and mobile app access for people with disabilities</title>
+      <link>https://digital.gov/2024/04/08/justice-department-to-publish-final-rule-to-strengthen-web-and-mobile-app-access-for-people-with-disabilities/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/2024/04/08/justice-department-to-publish-final-rule-to-strengthen-web-and-mobile-app-access-for-people-with-disabilities/</guid>
+      <description>On April 8, Attorney General Merrick B. Garland signed a final rule under Title II of the Americans with Disabilities Act (ADA) to ensure the accessibility of web content and mobile applications for people with disabilities. This final rule clarifies the obligations of state and local governments to make their websites and mobile applications accessible. Learn more about this rule and why the Attorney General believes it will “break down barriers that have kept people with disabilities from fully participating in American Life.”</description>
+    </item>
+    <item>
+      <title>An introduction to the Digital Experience Council</title>
+      <link>https://digital.gov/resources/an-introduction-to-the-digital-experience-council/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/resources/an-introduction-to-the-digital-experience-council/</guid>
+      <description>The Digital Experience (DX) Council plays a critical role in coordinating governmentwide efforts and assisting agencies in delivering digital experiences that meet the public’s needs and expectations.</description>
+    </item>
+    <item>
+      <title>18F at ten</title>
+      <link>https://digital.gov/2024/03/19/18f-at-ten/</link>
+      <pubDate>Tue, 19 Mar 2024 14:02:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/03/19/18f-at-ten/</guid>
+      <description>We’re celebrating all the ways we continue to realize our founding vision: bringing technologists into government, launching shared digital services, and helping partner agencies build user-centered technology.</description>
+    </item>
+    <item>
+      <title>Timeless top 10 best practices for great government websites</title>
+      <link>https://digital.gov/2024/02/09/timeless-top-10-best-practices-for-great-government-websites/</link>
+      <pubDate>Fri, 09 Feb 2024 11:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/02/09/timeless-top-10-best-practices-for-great-government-websites/</guid>
+      <description>While the field of federal web management continues to evolve, the core best practices have remained essentially unchanged for two decades.</description>
+    </item>
+    <item>
+      <title>Maximizing impact of federal websites: Integrating metrics with annual goals and policies</title>
+      <link>https://digital.gov/2024/01/24/maximizing-impact-of-federal-websites-integrating-metrics-with-annual-goals-and-policies/</link>
+      <pubDate>Wed, 24 Jan 2024 15:05:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/01/24/maximizing-impact-of-federal-websites-integrating-metrics-with-annual-goals-and-policies/</guid>
+      <description>The Open Data, Design, and Development (ODDD) team discusses how OMB’s recent memo, Delivering a Digital-First Public Experience (M-23-22), inspired them to reassess their metrics plan to harmonize with policies governing federal public websites.</description>
+    </item>
+    <item>
+      <title>An introduction to web security</title>
+      <link>https://digital.gov/resources/an-introduction-to-security/</link>
+      <pubDate>Tue, 12 Dec 2023 16:14:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/an-introduction-to-security/</guid>
+      <description>Guidance on meeting security requirements for federal websites.</description>
+    </item>
+    <item>
+      <title>Delivering on 21st Century IDEA: A case study from the GSA SmartPay team (Part 3)</title>
+      <link>https://digital.gov/2023/11/29/part-3-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/</link>
+      <pubDate>Wed, 29 Nov 2023 08:04:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/11/29/part-3-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/</guid>
+      <description>A GSA SmartPay product owner shares her experience designing user-centered, accessible content for multiple audiences.</description>
+    </item>
+    <item>
+      <title>Delivering on 21st Century IDEA: A case study from the GSA SmartPay team (Part 2)</title>
+      <link>https://digital.gov/2023/11/29/part-2-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/</link>
+      <pubDate>Wed, 29 Nov 2023 08:02:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/11/29/part-2-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/</guid>
+      <description>A GSA SmartPay product owner shares his experiences as a first-time product owner in a government agile development project.</description>
+    </item>
+    <item>
+      <title>Delivering on 21st Century IDEA: A case study from the GSA SmartPay team (Part 1)</title>
+      <link>https://digital.gov/2023/11/28/part-1-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/</link>
+      <pubDate>Tue, 28 Nov 2023 08:52:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/11/28/part-1-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/</guid>
+      <description>The GSA SmartPay program, the largest government charge card and commercial payment solutions program in the world, celebrated their 25th anniversary by launching three new websites with a user-centered, agile approach.</description>
+    </item>
+    <item>
+      <title>An introduction to analytics</title>
+      <link>https://digital.gov/resources/an-introduction-to-analytics/</link>
+      <pubDate>Fri, 24 Nov 2023 14:50:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/an-introduction-to-analytics/</guid>
+      <description>Learn how to set performance goals, and identify specific KPIs and targets to measure and meet them, using web analytics.</description>
+    </item>
+    <item>
+      <title>Celebrating 20 years of USAGov en Español</title>
+      <link>https://digital.gov/2023/10/16/celebrating-20-years-of-usagov-en-espanol/</link>
+      <pubDate>Mon, 16 Oct 2023 09:08:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/10/16/celebrating-20-years-of-usagov-en-espanol/</guid>
+      <description>USAGov en Español is excited to celebrate their 20th anniversary this month! Since 2003, the website has been a trusted guide to government information and services for Spanish speakers. Explore this timeline of USAGov en Español’s milestones, name changes, and accomplishments as they&amp;rsquo;ve served Spanish speakers and federal partners over the past two decades.</description>
+    </item>
+    <item>
+      <title>An introduction to trust</title>
+      <link>https://digital.gov/resources/an-introduction-to-trust/</link>
+      <pubDate>Fri, 06 Oct 2023 12:29:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/an-introduction-to-trust/</guid>
+      <description>Guidance on how to build government websites that people can trust.</description>
+    </item>
+    <item>
+      <title>An introduction to search</title>
+      <link>https://digital.gov/resources/an-introduction-to-search/</link>
+      <pubDate>Wed, 04 Oct 2023 12:01:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/an-introduction-to-search/</guid>
+      <description>Learn why search functionality is an important component of federal websites, and discover how to add a search function to your website.</description>
+    </item>
+    <item>
+      <title>Why the American People Deserve a Digital Government</title>
+      <link>https://digital.gov/2023/09/22/why-the-american-people-deserve-a-digital-government/</link>
+      <pubDate>Fri, 22 Sep 2023 13:26:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/09/22/why-the-american-people-deserve-a-digital-government/</guid>
+      <description>OMB recently released new policy guidance for government that includes a variety of actions and standards to help federal agencies design, develop, and deliver modern websites and digital services. Memo M-23-22, Delivering a Digital-First Public Experience, will make it seamless for the public to obtain government information and services online, and help agencies fully implement the 21st Century Integrated Digital Experience Act (21st Century IDEA).</description>
+    </item>
+    <item>
+      <title>Federal IT Dashboard</title>
+      <link>https://digital.gov/resources/federal-it-dashboard/</link>
+      <pubDate>Thu, 21 Sep 2023 23:37:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/federal-it-dashboard/</guid>
+      <description>Enables the government and the public to understand the value of their federal IT portfolios, manage the health of their IT investments, and make better IT planning decisions.</description>
+    </item>
+    <item>
+      <title>From pageviews to progress</title>
+      <link>https://digital.gov/2023/09/12/from-pageviews-to-progress/</link>
+      <pubDate>Tue, 12 Sep 2023 15:05:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/09/12/from-pageviews-to-progress/</guid>
+      <description>A 10-year recap of GSA’s Digital Analytics Program (DAP) highlights its impact on federal government agencies and the public, high-level observations using government-wide website analytics and trends, and new goals set for the next decade to help generate useful answers to meaningful questions to make government websites better.</description>
+    </item>
+    <item>
+      <title>Office of Personnel Management: Office of Diversity, Equity, Inclusion, and Accessibility</title>
+      <link>https://digital.gov/resources/office-of-personnel-management-office-of-diversity-equity-inclusion-and-accessibility/</link>
+      <pubDate>Wed, 06 Sep 2023 09:46:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/office-of-personnel-management-office-of-diversity-equity-inclusion-and-accessibility/</guid>
+      <description>OPM&amp;rsquo;s governmentwide DEIA policies, guidance, and strategic plans, presidential executive orders, federal personnel programs, and frequently asked questions.</description>
+    </item>
+    <item>
+      <title>4 steps writers and editors can take to demonstrate value</title>
+      <link>https://digital.gov/2023/08/08/4-steps-writers-and-editors-can-take-to-demonstrate-value/</link>
+      <pubDate>Tue, 08 Aug 2023 21:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/08/08/4-steps-writers-and-editors-can-take-to-demonstrate-value/</guid>
+      <description>As plain language writers and editors, we need to demonstrate the value we bring to projects. This writeup explains how to calculate the costs of our work and articulate its value.</description>
+    </item>
+    <item>
+      <title>The four operating levels of 18F projects</title>
+      <link>https://digital.gov/2023/06/13/the-four-operating-levels-of-18f-projects/</link>
+      <pubDate>Tue, 13 Jun 2023 09:10:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/06/13/the-four-operating-levels-of-18f-projects/</guid>
+      <description>At 18F, we partner with government agencies to help them deliver new or modernized digital services and help set them up for success after we conclude the project. To support these outcomes, we set up our work to track on four levels: project management, product development, post-18F sustainability and learning to the broader government community.</description>
+    </item>
+    <item>
+      <title>Making the big move: Search in support of federal web modernization</title>
+      <link>https://digital.gov/resources/making-the-big-move-search-in-support-of-federal-web-modernization/</link>
+      <pubDate>Thu, 08 Jun 2023 16:51:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/making-the-big-move-search-in-support-of-federal-web-modernization/</guid>
+      <description>In this special report, we discuss a website redesign’s nine phases and their impact on search.</description>
+    </item>
+    <item>
+      <title>Planning and implementing a search engine for a redesigned federal government website</title>
+      <link>https://digital.gov/2023/05/26/planning-and-implementing-a-search-engine-for-a-redesigned-federal-government-website/</link>
+      <pubDate>Fri, 26 May 2023 12:14:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/05/26/planning-and-implementing-a-search-engine-for-a-redesigned-federal-government-website/</guid>
+      <description>In this blog, we walk you through our planning and implementation process for Search.gov. We share lessons learned, as well as resources we found useful.</description>
+    </item>
+    <item>
+      <title>Who&#39;s your website manager?</title>
+      <link>https://digital.gov/2023/03/24/who-is-your-website-manager/</link>
+      <pubDate>Fri, 24 Mar 2023 15:29:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/03/24/who-is-your-website-manager/</guid>
+      <description>The importance of HR and accountability to improving digital service delivery at federal agencies.</description>
+    </item>
+    <item>
+      <title>Understanding design in 10 questions</title>
+      <link>https://digital.gov/2023/03/03/understanding-design-in-10-questions/</link>
+      <pubDate>Fri, 03 Mar 2023 10:08:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/03/03/understanding-design-in-10-questions/</guid>
+      <description>How the discipline of design can help your agency improve customer experience.</description>
+    </item>
+    <item>
+      <title>18F Checks In With Emily Read and the USGS Water Resources Mission Area Projects</title>
+      <link>https://digital.gov/2023/02/24/18f-checks-in-with-emily-read-and-the-usgs-water-resources-mission-area-projects/</link>
+      <pubDate>Fri, 24 Feb 2023 11:28:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/02/24/18f-checks-in-with-emily-read-and-the-usgs-water-resources-mission-area-projects/</guid>
+      <description>At 18F, we like to keep in touch with our project partners. 18F partnered with the USGS Water Resources Mission Area from March 2020 to June 2022 on a wide variety of projects together. We caught up with Emily Read, Chief for the Web Communications Branch at USGS Water Resources Mission Area.</description>
+    </item>
+    <item>
+      <title>Digital governance at GSA</title>
+      <link>https://digital.gov/2023/02/23/digital-governance-at-gsa/</link>
+      <pubDate>Thu, 23 Feb 2023 17:31:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/02/23/digital-governance-at-gsa/</guid>
+      <description>A peek into GSA’s internal processes for managing their websites and improving digital experience.</description>
+    </item>
+    <item>
+      <title>An introduction to design systems</title>
+      <link>https://digital.gov/resources/introduction-to-design-systems/</link>
+      <pubDate>Fri, 10 Feb 2023 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/introduction-to-design-systems/</guid>
+      <description>If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started.</description>
+    </item>
+    <item>
+      <title>Bringing design in-house</title>
+      <link>https://digital.gov/2023/01/27/bringing-design-in-house/</link>
+      <pubDate>Fri, 27 Jan 2023 10:11:00 -0500</pubDate>
+      <guid>https://digital.gov/2023/01/27/bringing-design-in-house/</guid>
+      <description>What is design, who are designers, and how can they help your agency? Learn how to build a design team that can help your agency solve “wicked problems” and be more innovative.</description>
+    </item>
+    <item>
+      <title>To Build Trust, Aim for Easy</title>
+      <link>https://digital.gov/2022/12/13/to-build-trust-aim-for-easy/</link>
+      <pubDate>Tue, 13 Dec 2022 10:12:00 -0500</pubDate>
+      <guid>https://digital.gov/2022/12/13/to-build-trust-aim-for-easy/</guid>
+      <description>Trust is earned through consistency and commitment. Build sites that build trust by considering user needs, respecting people’s time, and avoiding customer experience pitfalls.</description>
+    </item>
+    <item>
+      <title>Sunrise to Sunset: Building a Customer-centric Digital Ecosystem</title>
+      <link>https://digital.gov/2022/10/14/sunrise-to-sunset-building-a-customer-centric-digital-ecosystem/</link>
+      <pubDate>Fri, 14 Oct 2022 08:30:00 -0500</pubDate>
+      <guid>https://digital.gov/2022/10/14/sunrise-to-sunset-building-a-customer-centric-digital-ecosystem/</guid>
+      <description>GSA has developed the Digital Lifecycle Program, with tools and guidance to help teams manage a compliant, customer-centric digital property from ideation through sunsetting.</description>
+    </item>
+    <item>
+      <title>Taking a Design-led Approach to Digital Modernization</title>
+      <link>https://digital.gov/2022/10/07/taking-a-design-led-approach-to-digital-modernization/</link>
+      <pubDate>Fri, 07 Oct 2022 09:06:00 -0500</pubDate>
+      <guid>https://digital.gov/2022/10/07/taking-a-design-led-approach-to-digital-modernization/</guid>
+      <description>Learn how GSA uses collaboration, empathy, and existing expertise to modernize their digital portfolio and improve customer experience.</description>
+    </item>
+    <item>
+      <title>Closing the Disability Divide</title>
+      <link>https://digital.gov/2022/10/04/closing-the-disability-divide/</link>
+      <pubDate>Tue, 04 Oct 2022 10:11:00 -0500</pubDate>
+      <guid>https://digital.gov/2022/10/04/closing-the-disability-divide/</guid>
+      <description>Over 67 million people in the United States have a disability, constituting the largest diversity group in the country. Despite decades of advocacy and struggle, people with disabilities continue to experience significant gaps in health and well-being, educational attainment, employment, and wealth compared to people without disabilities. These gaps have been termed the “disability divide.” The purpose of this year’s National Disability Employment Awareness campaign at the National Institutes of Health is to educate staff regarding the divide and to celebrate those who help close the disability divide by advocating for people with disabilities.</description>
+    </item>
+    <item>
+      <title>National Disability Employment Awareness Month (NDEAM)</title>
+      <link>https://digital.gov/2022/10/04/national-disability-employment-awareness-month-ndeam/</link>
+      <pubDate>Tue, 04 Oct 2022 10:07:00 -0500</pubDate>
+      <guid>https://digital.gov/2022/10/04/national-disability-employment-awareness-month-ndeam/</guid>
+      <description>Observed annually in October, NDEAM celebrates the contributions of America’s workers with disabilities past and present and showcases supportive, inclusive employment policies and practices. In recognition of the important role people with disabilities play in a diverse and inclusive American workforce, the theme for NDEAM 2022, Disability: Part of the Equity Equation.</description>
+    </item>
+    <item>
+      <title>Measuring and Justifying the Government Experience</title>
+      <link>https://digital.gov/2022/08/19/measuring-and-justifying-the-government-experience/</link>
+      <pubDate>Fri, 19 Aug 2022 15:21:00 -0500</pubDate>
+      <guid>https://digital.gov/2022/08/19/measuring-and-justifying-the-government-experience/</guid>
+      <description>Private sector organizations use revenue as the primary measurement to justify improving experiences. Many government services don’t have revenue as a lever, so how can we justify work to improve experience? The Office of Natural Resources Revenue (ONRR) leveraged a few metrics on their team that fall into three categories: laws and regulations, improving the experience for users, and saving time for employees.</description>
+    </item>
+    <item>
+      <title>Webinar Recap: How to Build Your Digital Dream Team</title>
+      <link>https://digital.gov/2022/08/01/webinar-recap-how-to-build-your-digital-dream-team/</link>
+      <pubDate>Mon, 01 Aug 2022 13:55:00 -0500</pubDate>
+      <guid>https://digital.gov/2022/08/01/webinar-recap-how-to-build-your-digital-dream-team/</guid>
+      <description>Highlights from the Web Managers Community of Practice panel that shared how to get the right team in place to create a trusted, seamless online experience for all your customers.</description>
+    </item>
+    <item>
+      <title>Help Us Improve Digital Forms</title>
+      <link>https://digital.gov/2022/07/14/help-us-improve-digital-forms/</link>
+      <pubDate>Thu, 14 Jul 2022 12:32:00 -0500</pubDate>
+      <guid>https://digital.gov/2022/07/14/help-us-improve-digital-forms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>From Fellowship To Full-time: How a CFPB Software Engineer Helped Protect Consumers and Built a Career in Civic Tech</title>
+      <link>https://digital.gov/2022/03/07/from-fellowship-to-full-time-how-a-cfpb-software-engineer-helped-protect-consumers-and-built-a-career-in-civic-tech/</link>
+      <pubDate>Mon, 07 Mar 2022 11:15:00 -0500</pubDate>
+      <guid>https://digital.gov/2022/03/07/from-fellowship-to-full-time-how-a-cfpb-software-engineer-helped-protect-consumers-and-built-a-career-in-civic-tech/</guid>
+      <description>Anselm Bradford, a front-end engineer at the Consumer Financial Protection Bureau (CFPB), is using his tech skills to protect American consumers.</description>
+    </item>
+    <item>
+      <title>Search.gov 2021 Year In Review</title>
+      <link>https://digital.gov/2022/02/22/search-gov-2021-year-in-review/</link>
+      <pubDate>Tue, 22 Feb 2022 13:34:00 -0500</pubDate>
+      <guid>https://digital.gov/2022/02/22/search-gov-2021-year-in-review/</guid>
+      <description>Search.gov 2021 Year In Review</description>
+    </item>
+    <item>
+      <title>Measure Performance to Make Continuous Improvements</title>
+      <link>https://digital.gov/2020/08/04/measure-performance-to-make-continuous-improvements/</link>
+      <pubDate>Tue, 04 Aug 2020 12:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2020/08/04/measure-performance-to-make-continuous-improvements/</guid>
+      <description>This week, we’re exploring what it means to measure performance, and we’re taking a look at how listening to customers is the best way to continuously improve websites and digital services.</description>
+    </item>
+    <item>
+      <title>How to Test Websites for Accessibility</title>
+      <link>https://digital.gov/2020/07/15/how-test-websites-for-accessibility/</link>
+      <pubDate>Wed, 15 Jul 2020 17:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2020/07/15/how-test-websites-for-accessibility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How to Test Websites for Accessibility</title>
+      <link>https://digital.gov/resources/how-test-websites-for-accessibility/</link>
+      <pubDate>Wed, 15 Jul 2020 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/how-test-websites-for-accessibility/</guid>
+      <description>Use both manual and automated testing methods to create accessible websites.</description>
+    </item>
+    <item>
+      <title>DigitalGov Year in Review: Our Top Blogs, Resources, and Writers for 2016</title>
+      <link>https://digital.gov/2017/02/03/digitalgov-year-in-review-our-top-blogs-resources-and-writers-for-2016/</link>
+      <pubDate>Fri, 03 Feb 2017 11:25:00 -0500</pubDate>
+      <guid>https://digital.gov/2017/02/03/digitalgov-year-in-review-our-top-blogs-resources-and-writers-for-2016/</guid>
+      <description>DigitalGov had a pretty great year in 2016, and that was largely due to a bevy of talented and dedicated writers from over 50 agencies and departments across all 3 branches of the federal government (Thank you!!!). Below, we’ll review some program highlights from the last year, including our top-viewed articles and resources, and tell you how you, too, can contribute to DigitalGov in 2017.</description>
+    </item>
+    <item>
+      <title>An introduction to accessibility</title>
+      <link>https://digital.gov/resources/an-introduction-to-accessibility/</link>
+      <pubDate>Fri, 27 Oct 2023 15:06:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/an-introduction-to-accessibility/</guid>
+      <description>An overview of how to design and deliver accessible digital products and services in the federal government</description>
+    </item>
+    <item>
+      <title>Chief Diversity Officers Executive Council</title>
+      <link>https://digital.gov/resources/chief-diversity-officers-executive-council/</link>
+      <pubDate>Mon, 08 May 2023 11:10:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/chief-diversity-officers-executive-council/</guid>
+      <description>Principal interagency forum to implement and sustain a national strategy for diversity, equity, inclusion, and accessibility across the federal government and position the federal government as a model for DEIA.</description>
+    </item>
+    <item>
+      <title>Executive Order 14091</title>
+      <link>https://digital.gov/resources/executive-order-14091-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/</link>
+      <pubDate>Thu, 16 Feb 2023 10:31:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/executive-order-14091-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/</guid>
+      <description>Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government</description>
+    </item>
+    <item>
+      <title>Government-Wide Strategic Plan to Advance Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce</title>
+      <link>https://digital.gov/resources/government-wide-strategic-plan-to-advance-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/</link>
+      <pubDate>Tue, 23 Nov 2021 16:35:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/government-wide-strategic-plan-to-advance-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/</guid>
+      <description>Five foundational principles lay out key steps agencies can take to strengthen DEIA in their workforce policies, practices, and culture.</description>
+    </item>
+    <item>
+      <title>Join the Web Managers</title>
+      <link>https://digital.gov/communities/web-content-managers/</link>
+      <pubDate>Thu, 21 Nov 2013 02:31:00 -0500</pubDate>
+      <guid>https://digital.gov/communities/web-content-managers/</guid>
+      <description>Create a better online experience for the public alongside government web content managers.</description>
+    </item>
+    <item>
+      <title>USWDS Maturity Model</title>
+      <link>https://digital.gov/resources/uswds-maturity-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/resources/uswds-maturity-model/</guid>
+      <description>How to adopt the design system incrementally and design and build better digital experiences.</description>
+    </item>
+    <item>
+      <title>An introduction to digital governance</title>
+      <link>https://digital.gov/resources/an-introduction-to-digital-governance/</link>
+      <pubDate>Mon, 16 Oct 2023 17:05:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/an-introduction-to-digital-governance/</guid>
+      <description>Learn why governance is essential to digital experience.</description>
+    </item>
+    <item>
+      <title>U.S. Web Design System</title>
+      <link>https://digital.gov/services/service_uswds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/services/service_uswds/</guid>
+      <description>A toolkit of principles, guidance, and code that helps agency digital teams build accessible, mobile-friendly government websites for the American public.</description>
+    </item>
+    <item>
+      <title>An introduction to federal website standards</title>
+      <link>https://digital.gov/resources/introduction-to-federal-web-standards/</link>
+      <pubDate>Tue, 26 Nov 2024 10:12:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/introduction-to-federal-web-standards/</guid>
+      <description>The federal website standards help agencies provide high-quality, consistent digital experiences for everyone.</description>
+    </item>
+    <item>
+      <title>Understanding the Digital Analytics Program</title>
+      <link>https://digital.gov/guides/dap/</link>
+      <pubDate>Wed, 31 Jul 2019 09:00:00 -0500</pubDate>
+      <guid>https://digital.gov/guides/dap/</guid>
+      <description>The Digital Analytics Program (DAP) offers advanced, easy web analytics for federal agencies.</description>
+    </item>
+    <item>
+      <title>Requirements for delivering a digital-first public experience</title>
+      <link>https://digital.gov/resources/delivering-digital-first-public-experience/</link>
+      <pubDate>Fri, 01 Nov 2019 15:00:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/delivering-digital-first-public-experience/</guid>
+      <description>Learn how to implement 21st Century IDEA to design and deliver better websites and digital services.</description>
+    </item>
+    <item>
+      <title>How our developers and accessibility specialists work together</title>
+      <link>https://digital.gov/2024/09/17/how-our-developers-and-accessibility-specialists-work-together/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2024/09/17/how-our-developers-and-accessibility-specialists-work-together/</guid>
+      <description>Planning for accessibility is critical to creating more inclusive digital experiences. Discover how developers and accessibility specialists from USA.gov collaborate early in the development process to ensure that their government websites are accessible for everyone. By following established accessibility standards, such as the Web Content Accessibility Guidelines (WCAG) and Section 508 of the Rehabilitation Act, USA.gov proactively reduces the need for later fixes.</description>
+    </item>
+    <item>
+      <title>Spring 2024 Community Summit</title>
+      <link>https://digital.gov/event/2024/03/13/spring-2024-community-summit/</link>
+      <pubDate>Wed, 13 Mar 2024 10:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2024/03/13/spring-2024-community-summit/</guid>
+      <description>Digital service experts across the federal government will share case studies and best practices on delivering a digital-first public experience.</description>
+    </item>
+    <item>
+      <title>How to Build Your Digital Dream Team</title>
+      <link>https://digital.gov/event/2022/05/17/how-to-build-your-digital-dream-team/</link>
+      <pubDate>Tue, 17 May 2022 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2022/05/17/how-to-build-your-digital-dream-team/</guid>
+      <description>Learn how to get the right team in place to help you create a trusted, seamless online experience for all your customers.</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - April 2022</title>
+      <link>https://digital.gov/event/2022/04/21/uswds-monthly-call-april-2022/</link>
+      <pubDate>Thu, 21 Apr 2022 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2022/04/21/uswds-monthly-call-april-2022/</guid>
+      <description>Our friends at Digital.gov will join us to talk through their experience migrating to USWDS 3.0.</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - September 2021</title>
+      <link>https://digital.gov/event/2021/09/16/uswds-monthly-call-september-2021/</link>
+      <pubDate>Thu, 16 Sep 2021 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2021/09/16/uswds-monthly-call-september-2021/</guid>
+      <description>Let&amp;rsquo;s peer into the crystal ball and look into the future of USWDS.</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - June 2021</title>
+      <link>https://digital.gov/event/2021/06/17/uswds-monthly-call-june-2021/</link>
+      <pubDate>Thu, 17 Jun 2021 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2021/06/17/uswds-monthly-call-june-2021/</guid>
+      <description>In this month’s session, we’ll unpack the new pagination component—what design problem it solves, how it came to be, what the U.S. Web Design System team did to build it, and what you and your teams can do with it.</description>
+    </item>
+    <item>
+      <title>USWDS &amp; Accessibility: Creating More Inclusive Federal Websites</title>
+      <link>https://digital.gov/event/2021/05/20/uswds-accessibility-creating-more-inclusive-federal-websites/</link>
+      <pubDate>Thu, 20 May 2021 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2021/05/20/uswds-accessibility-creating-more-inclusive-federal-websites/</guid>
+      <description>How does USWDS address accessibility? Join us as we share tips and tools for addressing accessibility throughout the lifecycle!</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - April 2021</title>
+      <link>https://digital.gov/event/2021/04/15/uswds-monthly-call-april-2021/</link>
+      <pubDate>Thu, 15 Apr 2021 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2021/04/15/uswds-monthly-call-april-2021/</guid>
+      <description>Join the U.S. Web Design System team as they answer the crucial question, “Why use the design system?”</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - March 2021</title>
+      <link>https://digital.gov/event/2021/03/18/uswds-monthly-call-march-2021/</link>
+      <pubDate>Thu, 18 Mar 2021 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2021/03/18/uswds-monthly-call-march-2021/</guid>
+      <description>Join the U.S. Web Design System team as we look at what’s in USWDS 2.11.0, our latest release.</description>
+    </item>
+    <item>
+      <title>How Chatbots Can Improve Customer Experience</title>
+      <link>https://digital.gov/event/2021/02/23/how-can-chatbots-improve-customer-experience/</link>
+      <pubDate>Tue, 23 Feb 2021 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2021/02/23/how-can-chatbots-improve-customer-experience/</guid>
+      <description>Come see how various agencies have successfully deployed chatbots/AI to interact with the public and foster collaboration between teams!</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - February 2021</title>
+      <link>https://digital.gov/event/2021/02/18/uswds-monthly-call-february-2021/</link>
+      <pubDate>Thu, 18 Feb 2021 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2021/02/18/uswds-monthly-call-february-2021/</guid>
+      <description>Learn what&amp;rsquo;s next for the U.S. Web Design System and our 2021 Roadmap—what we&amp;rsquo;re planning to do this year, and why we&amp;rsquo;re planning to do it.</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - January 2021</title>
+      <link>https://digital.gov/event/2021/01/21/uswds-monthly-call-journey-mapping-service-blueprints-jan-2021/</link>
+      <pubDate>Thu, 21 Jan 2021 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2021/01/21/uswds-monthly-call-journey-mapping-service-blueprints-jan-2021/</guid>
+      <description>Learn how journey maps and service blueprints help teams better understand how people really use our sites and services to do what they need to do.</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - December 2020</title>
+      <link>https://digital.gov/event/2020/12/17/uswds-monthly-call-december-2020/</link>
+      <pubDate>Thu, 17 Dec 2020 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2020/12/17/uswds-monthly-call-december-2020/</guid>
+      <description>Join the U.S. Web Design System team as we look at what&amp;rsquo;s in our latest release: USWDS 2.10.0!</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - November 2020</title>
+      <link>https://digital.gov/event/2020/11/19/uswds-monthly-call-november-2020/</link>
+      <pubDate>Thu, 19 Nov 2020 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2020/11/19/uswds-monthly-call-november-2020/</guid>
+      <description>Join U.S. Web Design System Product Lead, Dan Williams, to hear about what&amp;rsquo;s next for the design system as we come to the end of 2020.</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - October 2020</title>
+      <link>https://digital.gov/event/2020/10/15/uswds-monthly-call-october-2020/</link>
+      <pubDate>Thu, 15 Oct 2020 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2020/10/15/uswds-monthly-call-october-2020/</guid>
+      <description>In this talk, we will uncover some of these tricks, and show what we all can do to assure that deceptive design patterns stay out of the sites we build.</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - September 2020</title>
+      <link>https://digital.gov/event/2020/09/17/uswds-monthly-call-september-2020/</link>
+      <pubDate>Thu, 17 Sep 2020 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2020/09/17/uswds-monthly-call-september-2020/</guid>
+      <description>Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the three new components for the design system.</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - August 2020</title>
+      <link>https://digital.gov/event/2020/08/20/uswds-monthly-call-august-2020/</link>
+      <pubDate>Thu, 20 Aug 2020 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2020/08/20/uswds-monthly-call-august-2020/</guid>
+      <description>Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions.</description>
+    </item>
+    <item>
+      <title>Best Practices for Writing for the Accessible Web</title>
+      <link>https://digital.gov/resources/best-practices-writing-for-accessible-web/</link>
+      <pubDate>Thu, 02 Jul 2020 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/best-practices-writing-for-accessible-web/</guid>
+      <description>Tips for making online information accessible for those with auditory and visual needs.</description>
+    </item>
+    <item>
+      <title>Build Sites to Address the Entire User Journey</title>
+      <link>https://digital.gov/2020/06/16/build-sites-address-entire-user-journey/</link>
+      <pubDate>Tue, 16 Jun 2020 15:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2020/06/16/build-sites-address-entire-user-journey/</guid>
+      <description>This week, we’re exploring what it means to understand the user experience, and we’re taking a look at ways to use journey mapping to find opportunities for improving products and services.</description>
+    </item>
+    <item>
+      <title>Who&#39;s on Your Digital Dream Team?</title>
+      <link>https://digital.gov/2020/05/27/whos-on-your-digital-dream-team/</link>
+      <pubDate>Wed, 27 May 2020 23:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2020/05/27/whos-on-your-digital-dream-team/</guid>
+      <description>This week, we’re exploring what it means to establish effective governance, and looking at ways to clarify and fill the roles of all the players on your team.</description>
+    </item>
+    <item>
+      <title>Promote Continuity to Better Support Customer Journeys</title>
+      <link>https://digital.gov/2020/05/12/promote-continuity-better-support-customer-journeys/</link>
+      <pubDate>Tue, 12 May 2020 17:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2020/05/12/promote-continuity-better-support-customer-journeys/</guid>
+      <description>This week, we’re exploring what it means to promote continuity, and we’re taking a look at ways to use service design to deliver a great experience.</description>
+    </item>
+    <item>
+      <title>Listen to Customers by Asking the Right Questions</title>
+      <link>https://digital.gov/2020/04/20/listen-customers-by-asking-right-questions/</link>
+      <pubDate>Mon, 20 Apr 2020 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2020/04/20/listen-customers-by-asking-right-questions/</guid>
+      <description>This week, we’re exploring what it means to listen, and we’re taking a look at ways to use feedback to drive continuous improvement.</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - Easing into the Design System</title>
+      <link>https://digital.gov/event/2020/04/16/uswds-monthly-call-april-2020/</link>
+      <pubDate>Thu, 16 Apr 2020 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2020/04/16/uswds-monthly-call-april-2020/</guid>
+      <description>Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions.</description>
+    </item>
+    <item>
+      <title>Spring Cleaning Tips for Web Content</title>
+      <link>https://digital.gov/2020/04/07/spring-cleaning-tips-for-web-content/</link>
+      <pubDate>Tue, 07 Apr 2020 09:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2020/04/07/spring-cleaning-tips-for-web-content/</guid>
+      <description>This week, we’re providing a few tips for tidying up redundant, outdated, and trivial content.</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call - Color Tokens Update</title>
+      <link>https://digital.gov/event/2020/03/19/uswds-monthly-call-march-2020/</link>
+      <pubDate>Thu, 19 Mar 2020 16:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2020/03/19/uswds-monthly-call-march-2020/</guid>
+      <description>Watch U.S. Web Design System Product Lead, Dan Williams, as he talks about the design system and answers participant questions.</description>
+    </item>
+    <item>
+      <title>Updates on 21st Century IDEA: Key Insights &amp; Lessons Learned</title>
+      <link>https://digital.gov/2020/03/17/updates-on-21st-century-idea-key/</link>
+      <pubDate>Tue, 17 Mar 2020 12:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2020/03/17/updates-on-21st-century-idea-key/</guid>
+      <description>We spoke to Ammie Farraj Feijoo, GSA’s 21st Century IDEA implementation lead, to get the rundown on what’s been accomplished and what’s on deck for 2020.</description>
+    </item>
+    <item>
+      <title>Making a Mobile-Friendly Website Using the ADAPT Model</title>
+      <link>https://digital.gov/event/2020/02/25/making-a-mobilefriendly-website-using-adapt/</link>
+      <pubDate>Tue, 25 Feb 2020 15:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2020/02/25/making-a-mobilefriendly-website-using-adapt/</guid>
+      <description>The 21st Century Integrated Digital Experience Act (21st Century IDEA) requires federal websites to be &amp;ldquo;fully functional and usable on common mobile devices.&amp;rdquo; Mobile-friendliness, however, can mean a variety of things, depending on the perspective of a user.&#xA;David Fern, co-lead of the MobileGov Community and the Federal Crowdsource Mobile Testing Program, knows a lot about making websites and content mobile-friendly. This webinar gives you insights into his approach—the ADAPT Model—which looks to ensure that websites are mobile-friendly:</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call: Website Standards Panel Discussion</title>
+      <link>https://digital.gov/event/2020/02/20/uswds-monthly-call/</link>
+      <pubDate>Thu, 20 Feb 2020 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2020/02/20/uswds-monthly-call/</guid>
+      <description>Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions.</description>
+    </item>
+    <item>
+      <title>Adopting the USWDS, One Step at a Time</title>
+      <link>https://digital.gov/2020/01/30/adopting-uswds-one-step-at-time/</link>
+      <pubDate>Thu, 30 Jan 2020 19:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2020/01/30/adopting-uswds-one-step-at-time/</guid>
+      <description>The U.S. Web Design System is key to new website standards</description>
+    </item>
+    <item>
+      <title>The website standards</title>
+      <link>https://digital.gov/resources/website-standards/</link>
+      <pubDate>Thu, 23 Jan 2020 20:00:00 -0500</pubDate>
+      <guid>https://digital.gov/resources/website-standards/</guid>
+      <description>As defined in 21st Century IDEA, the Design System incorporates federal standards to improve federal websites and digital services.</description>
+    </item>
+    <item>
+      <title>Website standards</title>
+      <link>https://digital.gov/2020/01/23/website-standards/</link>
+      <pubDate>Thu, 23 Jan 2020 19:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2020/01/23/website-standards/</guid>
+      <description>GSA officially released the ‘website standards’ referenced in Section 3(e) of 21st Century IDEA. &lt;strong&gt;The U.S. Web Design System (USWDS) is key to new website standards.&lt;/strong&gt;</description>
+    </item>
+    <item>
+      <title>USWDS Monthly Call: Using the USWDS Maturity Model</title>
+      <link>https://digital.gov/event/2020/01/16/uswds-january-monthly-call/</link>
+      <pubDate>Thu, 16 Jan 2020 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2020/01/16/uswds-january-monthly-call/</guid>
+      <description>Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS maturity model and answer your questions.</description>
+    </item>
+    <item>
+      <title>U.S. Web Design System: December Monthly Call</title>
+      <link>https://digital.gov/event/2019/12/19/uswds-december-monthly-call/</link>
+      <pubDate>Thu, 19 Dec 2019 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2019/12/19/uswds-december-monthly-call/</guid>
+      <description>Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions.</description>
+    </item>
+    <item>
+      <title>USWDS Maturity Model</title>
+      <link>https://digital.gov/2019/12/19/uswds-maturity-model/</link>
+      <pubDate>Thu, 19 Dec 2019 11:05:00 -0500</pubDate>
+      <guid>https://digital.gov/2019/12/19/uswds-maturity-model/</guid>
+      <description>&lt;strong&gt;The U.S. Web Design System released a maturity model&lt;/strong&gt; to help you adopt the design system incrementally as you design and build better digital experiences for the American public</description>
+    </item>
+    <item>
+      <title>Welcome to the NEW Digital.gov</title>
+      <link>https://digital.gov/2019/12/19/a-new-digitalgov/</link>
+      <pubDate>Thu, 19 Dec 2019 11:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2019/12/19/a-new-digitalgov/</guid>
+      <description>We&amp;rsquo;ve been working on a new version of Digital.gov, and we’re ready to make it available to you.</description>
+    </item>
+    <item>
+      <title>An Introduction to Accessibility</title>
+      <link>https://digital.gov/2019/12/11/an-introduction-accessibility/</link>
+      <pubDate>Wed, 11 Dec 2019 09:11:00 -0500</pubDate>
+      <guid>https://digital.gov/2019/12/11/an-introduction-accessibility/</guid>
+      <description>This week, we&#39;re taking at look at how to reframe our approach to encouraging others to build with accessibility.</description>
+    </item>
+    <item>
+      <title>U.S. Web Design System: November Monthly Call</title>
+      <link>https://digital.gov/event/2019/11/21/us-web-design-system-november-monthly-call/</link>
+      <pubDate>Thu, 21 Nov 2019 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2019/11/21/us-web-design-system-november-monthly-call/</guid>
+      <description>Join Dan Williams, U.S. Web Design System (USWDS) product lead, in our monthly call as he walks through the design system and answers your questions.</description>
+    </item>
+    <item>
+      <title>Building the Elements That Earn Trust</title>
+      <link>https://digital.gov/2019/11/18/building-elements-that-earn-trust/</link>
+      <pubDate>Mon, 18 Nov 2019 08:34:00 -0500</pubDate>
+      <guid>https://digital.gov/2019/11/18/building-elements-that-earn-trust/</guid>
+      <description>This week, we’d like to talk about trust, and the elements that go into building trust with people who are using our services.</description>
+    </item>
+    <item>
+      <title>Meet Your Federal Web Council</title>
+      <link>https://digital.gov/2019/11/12/meet-your-federal-web-council/</link>
+      <pubDate>Tue, 12 Nov 2019 13:30:00 -0500</pubDate>
+      <guid>https://digital.gov/2019/11/12/meet-your-federal-web-council/</guid>
+      <description>When something important needs to be coordinated across the federal web space, the Federal Web Council is the vehicle for getting it done.</description>
+    </item>
+    <item>
+      <title>Let’s Talk 21st Century IDEA</title>
+      <link>https://digital.gov/2019/11/04/lets-talk-21st-century-idea/</link>
+      <pubDate>Mon, 04 Nov 2019 10:00:00 -0500</pubDate>
+      <guid>https://digital.gov/2019/11/04/lets-talk-21st-century-idea/</guid>
+      <description>We are starting a new blog post series on 21st Century IDEA that’ll break down one essential topic and point to guidance to start running with it.</description>
+    </item>
+    <item>
+      <title>U.S. Web Design System: October Monthly Call</title>
+      <link>https://digital.gov/event/2019/10/17/us-web-design-system-october-monthly-call/</link>
+      <pubDate>Thu, 17 Oct 2019 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2019/10/17/us-web-design-system-october-monthly-call/</guid>
+      <description>Join Dan Williams, U.S. Web Design System (USWDS) product lead, in our monthly call as he walks through the design system and answers your questions.</description>
+    </item>
+    <item>
+      <title>U&amp;#46;S&amp;#46; Web Design System&amp;#58; September Monthly Call</title>
+      <link>https://digital.gov/event/2019/09/19/us-web-design-system-september-monthly-call/</link>
+      <pubDate>Thu, 19 Sep 2019 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2019/09/19/us-web-design-system-september-monthly-call/</guid>
+      <description>This month, we’ll take a look at the development process for a USWDS component and demonstrate how we start with a problem and work to a solution that could be shared across other websites.</description>
+    </item>
+    <item>
+      <title>U&amp;#46;S&amp;#46; Web Design System&amp;#58; Aug Monthly Call</title>
+      <link>https://digital.gov/event/2019/08/15/us-web-design-system-aug-monthly-call/</link>
+      <pubDate>Thu, 15 Aug 2019 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2019/08/15/us-web-design-system-aug-monthly-call/</guid>
+      <description>Join Dan Williams, U.S. Web Design System (USWDS) product lead, as he walks through the design system and answers your questions. This month we’ll take a look at bootstrapping USWDS, including how to add USWDS to a project and start designing in minutes.</description>
+    </item>
+    <item>
+      <title>U&amp;#46;S&amp;#46; Web Design System&amp;#58; How to Migrate Your Site to USWDS 2</title>
+      <link>https://digital.gov/event/2019/07/18/us-web-design-system-july-monthly-call/</link>
+      <pubDate>Thu, 18 Jul 2019 14:30:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2019/07/18/us-web-design-system-july-monthly-call/</guid>
+      <description>In our July meeting, the USWDS team and special guests walk through migrating sites to USWDS 2 and take any questions you might have.</description>
+    </item>
+    <item>
+      <title>U&amp;#46;S&amp;#46; Web Design System&amp;#58; June Monthly Call</title>
+      <link>https://digital.gov/event/2019/06/20/us-web-design-system-june-monthly-call/</link>
+      <pubDate>Thu, 20 Jun 2019 14:00:00 -0500</pubDate>
+      <guid>https://digital.gov/event/2019/06/20/us-web-design-system-june-monthly-call/</guid>
+      <description>Join the U.S. Web Design System team as we walk through the system’s design tokens and take any questions you might have!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://digital.gov/sources/doj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/sources/doj/</guid>
+      <description>The mission of the Justice Department is to uphold the rule of law, to keep our country safe, and to protect civil rights.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://digital.gov/sources/uswds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://digital.gov/sources/uswds/</guid>
+      <description>A design system for the federal government.</description>
+    </item>
+  </channel>
+</rss>

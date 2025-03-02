@@ -1,0 +1,14 @@
+.ck.ck-content  {
+  .usa-accordion[data-allow-multiple][data-expand-buttons] {
+    margin-top: 10px;
+  }
+  .usa-accordion[data-allow-multiple][data-expand-buttons]::before {
+    content: "Expand all | Collapse all";
+    color: #757575;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+}
+a[data-expand-all] {
+  cursor: pointer;
+}

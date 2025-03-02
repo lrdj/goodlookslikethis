@@ -1,0 +1,36 @@
+/* override jQuery Datatable css */
+.field--name-body .dataTables_wrapper,
+.region.region-content .dataTables_wrapper,
+body.cke_editable .dataTables_wrapper {
+  background-color: unset !important;
+  padding-top: unset !important;
+}
+
+.field--name-body .dataTables_filter input,
+.region.region-content .dataTables_filter input,
+body.cke_editable .dataTables_filter input {
+  height: unset !important;
+  font-size: unset !important;
+  border: 1px solid #565c65 !important;
+}
+@media screen and (max-width: 640px) {
+  .dataTables_wrapper .dataTables_filter {
+    float: right !important;
+  }
+}
+table.dataTable.dtr-inline.collapsed>tbody>tr>td.dtr-control,
+table.dataTable.dtr-inline.collapsed>tbody>tr>th.dtr-control {
+  padding-left: 30px !important;
+}
+.dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody>table>thead>tr>th,
+.dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody>table>thead>tr>td,
+.dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody>table>tbody>tr>th,
+.dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody>table>tbody>tr>td {
+  vertical-align: top !important;
+}
+
+table td, table th,
+.usa-table td, .usa-table th,
+body.cke_editable .usa-table td, body.cke_editable .usa-table th {
+    vertical-align: top !important;
+}

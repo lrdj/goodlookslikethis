@@ -1,0 +1,25 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "home_page_url" : "https://digital.gov/",
+    "content" : "author",
+    "type" : "list",
+    "count" : "1","feed_url" : "https://digital.gov/authors/mitchell-henke/index.json","profile_url" : "https://digital.gov/authors/mitchell-henke/","display_name" : "Mitchell Henke","first_name" : "Mitchell","last_name" : "Henke","slug" : "mitchell-henke","agency" : "GSA","agency_full_name" : "U.S. General Services Administration","github" : "mitchellhenke","branch" : "main",
+    "filename" :"_index.md",
+    
+    "filepath" :"authors/mitchell-henke/_index.md",
+    "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/mitchell-henke/_index.md",
+    "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/mitchell-henke/_index.md",
+    "url" : "https://digital.gov/authors/mitchell-henke/",
+    "items" : [{
+        "title" :"Approaching language translations to provide a better user experience: A Login.gov case study","deck" : "Login.gov adds new languages to provide expanded access and assistance to the public.","summary" : "Learn how the Login.gov team improved translations and added a new language to enhance their service.","date" : "2024-12-17T00:00:00-05:00","date_modified" : "2025-02-26T11:29:46-05:00","authors" : {"julia-solorzano" : "Julia Solórzano","danielle-lee" : "Danielle Lee","mitchell-henke" : "Mitchell Henke","nick-ng" : "Nick Ng"},"topics" : {
+          
+              "content-strategy" : "Content strategy",
+              "multilingual" : "Multilingual"
+              },"branch" : "main",
+        "filename" :"2024-12-17-approaching-language-translations-to-provide-a-better-user-experience.md",
+        "filepath" :"authors/mitchell-henke/_index.md",
+        "filepathURL" :"https://github.com/GSA/digitalgov.gov/blob/main/content/authors/mitchell-henke/_index.md",
+        "editpathURL" :"https://github.com/GSA/digitalgov.gov/edit/main/content/authors/mitchell-henke/_index.md",
+        "url" : "https://digital.gov/2024/12/17/approaching-language-translations-to-provide-a-better-user-experience/"
+    }]
+}

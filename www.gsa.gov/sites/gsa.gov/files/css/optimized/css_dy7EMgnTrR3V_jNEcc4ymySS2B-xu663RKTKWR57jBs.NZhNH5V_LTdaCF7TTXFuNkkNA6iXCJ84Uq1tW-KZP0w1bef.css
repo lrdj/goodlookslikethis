@@ -1,0 +1,167 @@
+.fancybox-content.fancybox__content {
+  margin: 4rem;
+}
+.album_embed_wrapper {
+  .album_description {
+    display: none;
+  }
+  .node-content {
+    padding: 0;
+    border: none;
+  }
+}
+.album_wrapper [aria-hidden='true'] {
+  visibility: hidden;
+}
+.fancybox__caption {
+  position: relative;
+  bottom: 20px;
+  margin: 20px 24% 0;
+}
+.has-caption.is-compact .fancybox__caption {
+  margin: 0;
+}
+.has-caption.is-compact .fancybox__footer {
+  position: unset;
+}
+.album_wrapper {
+  background: #262626;
+  padding: 1rem;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+  position: relative;
+}
+.album_wrapper.show_album {
+  opacity: 1;
+}
+.album_wrapper * {
+  color: #fff;
+}
+
+.album_embed_wrapper .album_wrapper .fancybox__toolbar{
+  right: 31px;
+}
+.album_wrapper .fancybox__toolbar {
+  right: 16px;width: 100%;
+}
+.album_wrapper .fancybox__toolbar {
+  position: absolute;
+}
+
+.f-button {
+  color:#cecccc!important;
+  &:hover {
+    color: #cecccc;
+  }
+}
+.fancybox__container {
+  z-index: 9999;
+}
+.fancybox-button--open svg{
+  fill: #cecccc;
+  stroke: none;
+}
+
+@media screen and (max-width: 640px) {
+  .f-carousel .media--type-image img {
+    height: auto;
+    max-height: 495px;
+    width: 100%;
+  }
+
+  .f-carousel__slide {
+    --f-carousel-slide-height: auto;
+  }
+}
+.f-carousel__slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  img {
+    margin: 0 auto;
+    max-height: 465px;
+    min-height: 315px;
+    object-fit: contain;
+  }
+  .file_caption,
+  .file_caption_alt_text {
+    width: 100%;
+    margin-top: 1rem;  /* Space between image and caption */
+  }
+}
+.grid-row div .f-carousel__slide img {
+  max-height: 300px;
+}
+/* Only apply width resizing to non-embedded carousels */
+.album_wrapper .carousel-area {
+  min-width: 300px;
+  max-width: 640px;
+  margin: 0 auto;
+  width: 100%;
+  height: 400px;
+}
+
+.carousel-area .fancybox-toolbar {
+  opacity: 1;
+  visibility: visible;
+}
+.is-horizontal .f-carousel__nav .f-button.is-next
+.fancybox__nav .f-carousel__thumbs .f-button, .f-carousel__nav .f-button {
+  --f-button-width: 45px;
+  --f-button-height: 50px;
+}
+.fancybox__nav .f-button,
+.f-carousel__nav .f-button {
+  --f-button-width: 45px;
+  --f-button-height: 66px;
+
+  --f-button-svg-width: 25px;
+  --f-button-svg-height: 25px;
+  --f-button-svg-stroke-width: 2.5;
+
+  --f-button-color: rgb(71 85 105);
+  --f-button-shadow: 0;
+
+  --f-button-bg: rgba(29, 29, 31, 0.25);
+  --f-button-hover-bg: #555555;
+  --f-button-active-bg:#262626;
+  --f-button-border-radius: 0;
+  border: 1px solid rgb(255 255 255 / 5%);
+}
+.f-thumbs.is-classic.is-horizontal {
+  padding: 0 56px;
+  max-width: 640px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.is-horizontal.f-thumbs .f-carousel__nav .f-button {
+  --f-button-width: 37px;
+  --f-button-height: 63px;
+}
+.is-horizontal.f-thumbs .f-carousel__nav .f-button.is-next {
+  --f-button-next-pos: 2px;
+}
+.is-horizontal.f-thumbs .f-carousel__nav .f-button.is-prev {
+  --f-button-prev-pos: 2px;
+}
+.carousel__pager {
+  position: absolute;
+  right: 0;
+  bottom: 4px;
+}
+.carousel-area .f-carousel__nav  {
+  .f-button.is-prev,
+  .f-button.is-next {
+    top: 240px;
+  }
+}
+.album_embed_wrapper .carousel-area .f-carousel__nav  {
+  .f-button.is-prev,
+  .f-button.is-next {
+    top: 170px;
+  }
+}
