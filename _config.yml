@@ -19,9 +19,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-include:
-  - assets/_common
-
 paginate: 9
 paginate_path: "/articles/p:num/"
 
