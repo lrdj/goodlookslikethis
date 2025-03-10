@@ -1,0 +1,57 @@
+For this case study the work is under NDA so:
+
+- The parent company, Lloyds Banking Group (LBG) should be refered to as "Large Banking Group"
+- Scottish Widows is "Trad pension provider"
+- "Embark" is "Pension platform provider"
+
+
+here's some background.
+
+Context for GPT agent.
+
+Embark was purchased by Scottish Widows (part of Lloyds banking group)
+Details here: https://embarkgroup.co.uk/insights/embark-platform-to-rebrand-as-scottish-widows-platform/
+
+My work happened after the merger, when product and proposition teams began to experience friction and the ways to deliver the business outcomes promised by the merger where increasingly understood to be unclear.
+
+I was working in a strategy role in Scottish Widows' 'adviser lab' and was approached to lead a brief futures programme with Embark and scottish widows leadership...
+
+
+Things we started with 
+
+- Lightning talks presentation
+- Sumary of "how we deliver" for CPO strategy
+- Future vision mockup
+
+
+Findings from sessions
+
+
+August/Sept 2024 strategy sessions
+----------------------------------
+
+Objectives:
+- Document how adviser strategy might be delivered
+- Think about futures options and steps to get there
+
+Outcomes:
+We had a useful brainstorms and took actions to make progress. In particular, Redacted challenged us to invent the "iPhone" of the future adviser/LBG relationship.
+
+We considered four actions from the session
+
+1) Accelerate qualitative research (design research) with advisers to learn more about their needs and constraints
+2) Map the as-is adviser service in the round and using the 'service stack' mapping format
+3) Work with CPO to continue writing the "how we deliver" part of her strategy
+4) Run a (limited) strategic foresight sprint to explore options for the future and get Redacted some assets she can share
+
+Current status of those
+
+1) Lab research lead and CPO have coordinated and panel and research are under way
+2) RP, JF, and DF visited Embark and Dug has started mapping current processes and teams onto the service map. Very early days, still loads to do but work paused while we focus on foresight work
+3) CPO has progressed her strategy doc, Dug has been reviewing the many digital and group tech strategy docs. Still to do: connect those dots and write it out
+4) Sprint completed, canditate future experience agreed on. Redacted to feed back whether she wants any further exploration or design assets produced
+
+
+Possible futures
+
+
