@@ -1,0 +1,239 @@
+#
+# Instructions for chatGPT
+#
+# This document contains recommendations from Linkedin. 
+# For the purposes of job applications, cv writing etc, 
+# we can group these into two groups
+# Reports / team members:
+# These will be marked with "relationship" status strings
+#  - "reported directly to Dug"
+#  or
+#  - "Dug was senior to"
+# Everyone else:
+# People who are not marked as reports should be considered senior 
+# stakeholders or influencers
+# Where possible, you should also identify referrers with a 
+# technical background. These may have titles like CTIO, CTO, CIO etc.
+#
+
+recommendations:
+- name: Rose Clarkson
+  title: Design Leader
+  date: July 3, 2024
+  relationship: Rose managed Dug directly
+  recommendation: 'Dug’s greatest strength is his encyclopaedic brain, full of years worth of service design and strategy experience. Combined with his willingness to share techniques and help the people around him. I’ll miss your generous spirit. And the yellow hat. Obvs.'
+- name: Helen Dawson
+  title: I help leaders wrestling with the energy transition to put their innovation dollars to work more effectively
+  date: May 19, 2020
+  relationship: Helen managed Dug directly
+  recommendation: Dug worked on an innovation initiative in my team bringing critical thinking, much needed CX expertise and a flexible approach to bring the clarity and alignment to how a proposition needed to evolve. Would not hesitate to hire him again.
+- name: Joel Gill FRSA
+  title: Head of Experience Design & HCD capability development.
+  date: April 14, 2020
+  relationship: Joel was senior to Dug but didn't manage Dug directly
+  recommendation: "Approachable. Empathetic. knowledgeable.\nThree words that come to mind immediately when I think of Dug. He has that ‘senior practitioner vibe’ about him that commands respect. Dug not only knows the stuff that makes the experiential design world go round and round but, he takes folks with him, like willing satellites all bought-in to whichever task(s) are required to simply make great product. Thank you Dug and hopefully see you the next time around."
+- name: Daniel Sunden
+  title: Leader of Product Design | Driving Strategic Vision and Hands-On Execution. Currently at Workiva, leading work across AI, data, search, structured data, and financial reporting.
+  date: August 10, 2017
+  relationship: Dug was senior to Daniel but didn't manage Daniel directly
+  recommendation: "Few people have the opportunity to work closely with a manager who is also a coach and mentor — fewer still someone as great as Dug. I reported directly into Dug during his time as Head of Consultancy at Nile. We had the privilege to work together with him on a series of strategic initiatives and projects. I was always in awe of his never-ending curiosity and fearless ambition to take on any challenge, greater the better. His rare mix of sensitivity and ambition sets a great example for designers and professionals everywhere. Dug is a treat to work with, with a sensible approach to professional practice, he is perceptive to the team as well as what will make an organisation run smoothly. As a team member or a leader, I could not recommend him enough."
+- name: Magnus Dahlhjelm
+  title: Design leader with nearly 30 years of experience building and scaling teams, driving innovation, and bridging technology with human-centered design for meaningful business impact.
+  date: January 22, 2016
+  relationship: Magnus worked with Dug on the same team
+  recommendation: I have had the pleasure of working together with Dug for the last five years and it has been a truly amazing experience. I have learnt a lot and together we have worked hard towards expanding Digital at Avanade. It has been a rough ride from time to time but due to Dug’s skills, expertise and experience the journey has led to amazing results. I would congratulate anyone who will have the opportunity to work together with Dug and experience his vast capacity to come up with ground breaking ideas and concepts – a true renaissance man if I ever saw one.
+- name: Paul Bowen
+  title: Global Financial Services Lead for the Microsoft Business Group, Accenture
+  date: December 23, 2015
+  relationship: Paul managed Dug directly
+  recommendation: "Dug and I worked together for two years on creating the Avanade Digital business in the UK. This was a really challenging role trying to to take a very technology centric culture and instill a design oriented perspective. During his time Dug did an outstanding job. He built a team from scratch and was clearly seen as a role model and mentor by them. His approach to team building shows empathy and insight. He opened a number of new accounts and developed our credibility with our parents. He also built to develop a pan Global network for the UK business in the company context. Perhaps most importantly despite significant challenges he started the company's journey to think about problems in a different way. He will be a great loss to the organisation and to me personally. I found working on problems with Dug gave me a completely fresh and interesting perspective which enriched my decision making. I have no doubt he will be a great success in his new role and hope I have the good fortune to work with Dug in future, an excellent creative and a good man."
+- name: Chris Brown
+  title: Advertising & Marketing @ Amazon
+  date: March 4, 2011
+  relationship: Chris reported directly to Dug
+  recommendation: Dug is far and away the most inspirational and engaging manager I have ever worked for. His passion and creativity in creating the perfect customer experience is infectious and he entirely remodelled the way I, and everyone in our team, thought about eCommerce. He is also one of the coolest guys I have ever met and I consider him to be an incredible visionary, manager, mentor and friend.
+- name: Chris Howell
+  title: CIO at Ground Control
+  date: February 5, 2011
+  relationship: Chris was senior to Dug but didn't manage Dug directly
+  recommendation: 'Dug is a passionate and innovative advocate for the customer experience. His technical knowledge is a strength in creating agile solutions and engaging with the IT function. I always enjoy the debate and discussion with Dug and believe it results in high quality results.'
+- name: David Walmsley
+  title: Chief Digital & Technology Officer @ Pandora | Board member | NED | Advisor | CDO | CIO
+  date: February 2, 2011
+  relationship: David managed Dug directly
+  recommendation: 'Dug combines several great strengths. First, he is a visionary regarding the holistic customer experience, in particular with regards to pushing forward new forms of interaction and value exchange with customers. Second, Dug lands the detail in the design - he cares about every element of the work. Third, he cares about the people around him, especially his team, their happiness and development. Dug is a truly exceptional experience director.'
+- name: Robert Prior
+  title: Marketing & Communications Professional | President of Sheffield Vulcan Rotary 
+  date: February 2, 2011
+  relationship: Robert worked with Dug on the same team
+  recommendation: Dug has an infectious enthusiasm that drives those around him to achieve more at all times. Truly encyclopaedic knowledge of so many internet matters - a real gem to have in your corner if you are looking to make the very best of your online presence. Thanks Dug for being a real inspiration.
+- name: Damon Clark
+  title: Design Director & Consultant
+  date: January 1, 2010
+  relationship: Damon worked with Dug on the same team
+  recommendation: In a challenging innovation environment, Dug has never ceased to deliver insightful and exceedingly well-articulated solutions to drive Vodafone's thinking to the next level. He provides a great mix of customer empathy, technical implementation-knowledge and personal dedication to the projects he is connected with.
+- name: Julie Roberts
+  title: Customer Strategy Director, HHCX
+  date: October 18, 2009
+  relationship: Julie worked with Dug but on different teams
+  recommendation: I worked with Dug on the T-Mobile account whilst he was at TMW, in the role of UX advisor, providing ideas to develop and enhance their music strategy, particularly related to UGC and social media solutions. Dug's enthusiasm, his total immersion in the subject, his depth and breadth of expertise and his ability to make the topic very accessible to all audiences at all levels made him an invaluable partner.
+- name: Mark Hicks
+  title: Customer-Centric Product & Service Innovation
+  date: September 27, 2009
+  relationship: Mark worked with Dug on the same team
+  recommendation: Dug is a talented digital media designer/communicator/innovator, brimming with ideas, knowhow, focus and a large dollop of perfectionism. He is huge fun to work with and has brough energy and a certain left field inspiration to the team.
+- name: Tory Dunn
+  title: Head of Design, NHS Blood and Transplant
+  date: August 7, 2009
+  relationship: Tory worked with Dug on the same team
+  recommendation: Knowledgable, funny, geeky, articulate, artistic, and passionate - not just about user experience but about changing the world through empowering people to use technology to do what THEY want to do. One of the most remarkable people I have had an opportunity to work with.
+- name: Aaron Savage
+  title: Director at Be Different Limited
+  date: February 18, 2009
+  relationship: Aaron worked with Dug but on different teams
+  recommendation: 'Dug filled the role vacated by me when I moved from our London office to our first US office in New York. As such he was required to grow the role of digital architect in a fast paced, ever changing environment during a period of intense growth in London. Dug managed this admirably and offered a secure level of support to account handlers in planning projects as well as liaising with production staff and project managers to ensure that the finished article was to spec. The role was challenging and required high levels of communication with disparate groups which Dug achieved throughout. The role required technical, creative and strategic skills, all of which Dug demonstrated to meet the high standards expected by Bluewave.'
+- name: James Tait
+  title: FinTech CEO | NED | Business Growth | Leadership | Strategy | Transformation | Turnaround | Product
+  date: November 2, 2008
+  relationship: James was senior to Dug but didn't manage Dug directly
+  recommendation: 'Dug''s passion for user experience was a breath of fresh air and his wide knowledge of e-business was invaluable. A pleasure to work with.'
+- name: Ryan Griffin
+  title: Successfully growing protection businesses for 20+ years
+  date: October 19, 2008
+  relationship: Ryan worked with Dug on the same team
+  recommendation: Dug is an outstandingly knowledgable e-business consultant who adds a terrific amount of value and frequently goes beyond the brief. He's also a great team player and a pleasure to work with.
+- name: Sanni Sorma
+  title: Creative Lead at Visma Group
+  date: July 28, 2008
+  relationship: Dug was senior to Sanni but didn't manage Sanni directly
+  recommendation: Dug was, and is, a visionary in user experience across the digital platform. Dug provided strong leadership and advocacy for user-centered design in a company where the concept was relatively new. At the time of us working together, he was already pushing the boundaries further than most dared go. Working across the disciplines, Dug proposed solutions marrying the strategic goals with technology, business and design. It was a pleasure working with Dug and personally, it got me off to a great start in London!
+- name: Eric Le Van Quyen
+  title: Executive & Organization Coach
+  date: April 22, 2008
+  relationship: Eric worked with Dug on the same team
+  recommendation: Dug has great expert knowledge of User Experience issues throughout the products life cycle. He has a rare blend of anglo-saxon efficiency in delivering designs, and european finesse in client facing situations... and most importantly a very fun and stimulating guy to work with.
+- name: Andre Tyler
+  title: Data and analytics global technology lead for procurement, CRE and CCO
+  date: April 16, 2008
+  relationship: Andre worked with Dug but they were at different companies
+  recommendation: "Dug was one of the senior design assurance specialists at a global telco, and was the point of contact for the Detica creative team tasked with designing a new convergent service. \n \nDug impressed me with his liaison of the key stakeholders, his significant input to the quality of teh final deliverables and his time management (Dug was design assurance on a number of concurrent projects). \n \nI would happily work with Dug again, either as a creative services supplier or as a colleague."
+- name: Richard Calvert
+  title: Founder @ The Thread Team | NED | Speaker | Oxford AI Programme
+  date: April 8, 2008
+  relationship: Richard was senior to Dug but didn't manage Dug directly
+  recommendation: Dug is an inspirational thinker and User Experience practitioner. I found his approach to problem solving refreshing and his enthusiasm infectious. I'd happily recommend Dug.
+- name: Sarah Deitz
+  title: Professional organiser & Interior decorator
+  date: March 28, 2008
+  relationship: Sarah worked with Dug on the same team
+  recommendation: 'I worked with Dug back in the days when our clients just wanted an online presence and user experience was not heard of. Dug came in and turned the focus around. He made great roads in challenging the clients to think about who their users were and what THEY wanted from the website. It was a pleasure to watch Dug at work, obviously passionate about his work, and see the value in the finished product. Always pushing the boundaries, Dug is an inspiration to work with.'
+- name: Neil Churcher
+  title: Design Leader and Innovator. Currently writing "The Event of Innovation"
+  date: March 18, 2008
+  relationship: Neil was Dug’s client
+  recommendation: I found Dug's knowledge on Interface and Rich Applications to be at the highest level, and was invaluable in developing complex environments at the top end of development.
+- name: Valerie SMADJA
+  title: Transformation, Innovation and Marketing Expert
+  date: March 16, 2008
+  relationship: Valerie worked with Dug but on different teams
+  recommendation: "Dug is a great user experience architect. Not only does he understand how to distill the conflicting needs of business and user, but he brings a lot of creativity to even the most humble interface elements. It was great to work with him. He promotes a friendly, but very focussed atmosphere. Additionally, his perfect control of the French language is simply amazing. Highly recommended! :-)"
+- name: Guy Jenkins
+  title: Head of Design, Core Atlassian
+  date: March 15, 2008
+  relationship: Guy worked with Dug on the same team
+  recommendation: 'Dug was tirelessly driven in the pursuit of delivering the the best customer experience possible for Orange customers. His attention to the detail of the final design as well as the most efficient process for managing its creation and communicating his ideas exceeded expectation. A valuable member to any group or team working on cutting edge User Interface and customer experience design across any platform.'
+- name: Rob Carter
+  title: Group Client Managing Director at Next 15 | Integrated Marketing Specialist | 25+ years’ experience combining Strategy, Creativity, Technology & Data | Driving growth through cross-agency collaboration
+  date: March 10, 2008
+  relationship: Rob worked with Dug but on different teams
+  recommendation: "Dug was an inspiration to me and many others at TMW. He opened my eyes to the possibilities of social networking and it's potential impact on my client's business. As an indirect consequence of Dug's influence, the client themselves (T-Mobile UK) were moved to understand and engage with social networks to a much greater extent, and subsequently, TMW were appointed as lead digital agency. I would strongly recommend Dug in the role of a user experience specialist, with a particular focus in mobile telephony."
+- name: Jess Lipson
+  title: UCD and Service Design lead UCD and Service Design lead
+  date: March 9, 2008
+  relationship: Jess worked with Dug but on different teams
+  recommendation: Dug always put the users needs at the center of the projects he was working on. This always created interesting insights and generated exciting ideas on how to deliver solutions that would meet the business requirements as well as creating enjoyable products that customers would want to use. I highly recommend him.
+- name: Annabel Nicholls
+  title: Wellness Manager, Health Republic
+  date: March 6, 2008
+  relationship: Annabel worked with Dug but on different teams
+  recommendation: 'Dug was a sheer pleasure to work with. He has a passion for looking at the issue from a user perspective. At the start of my role I needed a lot of help getting familiar with the technical aspects of the projects and Dug was always on hand for that. As David said, he looks at the problems from the client''s perspective. Dug was always an asset in client meetings.'
+- name: Ben Scott-Robinson
+  title: Ex CEO Small Robot Company. Consultant for hardware startups. Author of the HardTech Funding Playbook.
+  date: March 5, 2008
+  relationship: Ben worked with Dug on the same team
+  recommendation: "Dug is a user experience guru, specialising in cross media products. His work at Orange was exceptional, working with very complex projects and bringing clarity to initially unworkable solutions. His deep experience as an art director gives him an understanding of the consumer than precedes the concept of 'user experience'. I hope to work with him again."
+- name: Stuart Eggleston
+  title: Head of Product at 7Bridges
+  date: March 4, 2008
+  relationship: Dug was Stuart’s client
+  recommendation: Dug is one of those people that likes the details as much as the concept. He has a very strong user centred focus but is also very knowledgeable about current trends and standards. He has the mix of technical and design ability which is so key to people in the User Experience world. It was great working with Dug and I would love to do it again someday.
+- name: Philippe Buhr
+  title: Datacenter Network and Security Team Manager at Enedis
+  date: March 4, 2008
+  relationship: Philippe was Dug’s client
+  recommendation: "Dug is one of those people you won't forget. Working with him was an immense pleasure from both a professional and personal point of view. User experience is key on the product I'm leading and Dug's high-level advice as architect of user experience definitely contributed to the success of the product. He has a great end-user sensitivity and always finds the words (in French or in English) to solve any kind of issue. I've enjoyed working with him immensely, I learnt so much from the months we worked together."
+- name: Raimund Buhr
+  title: Entrepreneur, Business Angel, Strategy Consulting
+  date: March 3, 2008
+  relationship: Raimund worked with Dug on the same team
+  recommendation: "I worked with Dug at TMW where I lead a bid team to win some large new web business. Dug is a brilliant IA and I enjoyed working with him. Dug has extensive knowledge of all things internet and his expertise in the mobile user experience and device software spaces enabled him to add depth and breath to a number of agency new business pitches which led to high profile wins for the agency"
+- name: Matthew Lipson
+  title: Creating low carbon products & services people love
+  date: March 3, 2008
+  relationship: Matthew worked with Dug but on different teams
+  recommendation: Dug was very eager to understand end users' needs and did his best to make sure the design was optimised to meet these. His experience enabled him to diplomatically liaise between different members of a complex matrix organisation so as to satisfy their competing needs at the same time.
+- name: Mark Rivers
+  title: Head of design
+  date: March 2, 2008
+  relationship: Mark was Dug’s client
+  recommendation: It was great to work with Dug. He's one of those rare talents that combine deep expertise, a desire to keep pushing toward excellence, with a friendly and personable manner."
+- name: James Griffin
+  title: Product Director at frog
+  date: March 2, 2008
+  relationship: James worked with Dug but on different teams
+  recommendation: "Dug is a practitioner of User Experience and by this he supports the User Centric Approach to the letter. His multilingual abilities were key to the success of a high profile project within Orange and France Telecom. He managed senior stakeholders in France and third party suppliers in the UK, guiding both teams toward a user-centered approach which led to the success of the product. I would jump at the chance to work with Dug again in future."
+- name: Peter Parkes
+  title: Head of Product, Strategic Portfolio Management Solutions at Miro
+  date: March 2, 2008
+  relationship: Peter was Dug’s client
+  recommendation: Dug's ruthless focus on user-centric design makes him a critical asset to Glasshouse Partnership and our clients. He's able to bring immense clarity and logical structure to design discussions, and his breadth of technical knowledge - typography, user interface, web development and mobile platforms - is invaluable.
+- name: Alex Moore
+  title: Investor and founder of businesses
+  date: March 2, 2008
+  relationship: Alex worked with Dug on the same team
+  recommendation: Dug was a great guy to work with. His knowledge and passion for all things Internet helped inspire the entire department. His ideas formed the digital foundation to all of the company’s best work and he was sorely missed when he left the company. Dug's personal and presentation skills are also excellent. He was a pleasure to deal with on a daily basis and I learned so much from him during the short time we worked together. I would work with him again in an instant.
+- name: Robin Souter
+  title: Founder / Transformation Director at Opogo
+  date: February 29, 2008
+  relationship: Robin worked with Dug on the same team
+  recommendation: "I have worked with Dug on many jobs. We first meet at Circle.com a few years ago and more recently on a project for Orange. Dug is very accurate and methodical in the way he works, making sure that every point has always been covered off. It's always a pleasure to work with people like Dug. His organisation skills let your projects run smoothly and his astute approach guarantees your outputs are innovative."
+- name: Chris Carline
+  title: Senior Product & Engineering Manager
+  date: February 29, 2008
+  relationship: Chris was Dug’s client
+  recommendation: Dug really got to the bottom of how our various types of users interacted with our web-based expert system, and coupled with his analysis and design skills resulted in an amazing version 2.0. Highly recommended.
+- name: Sarah McCartney
+  title: Making Scents in London W6
+  date: July 22, 2007
+  relationship: Dug was Sarah’s client
+  recommendation: Dug is a multi-talented visionary who understands technology and what to do with it to make it more useful and more interesting that mere mortals. He always walks several steps ahead of the pack and it's great to trot along with him, trying to keep up, learning a million new things along the way. When you need to be dragged kicking and screaming into the future - and have it explained to you by a big friendly giant - get Dug.
+- name: Sarah Greig
+  title: Lead Service/UX Designer at LSEG
+  date: April 24, 2007
+  relationship: Sarah worked with Dug on the same team
+  recommendation: "I met Dug for the first time on the Eurostar heading over to Paris, we were properly introduced on the platform at Gare Du Nord. Dug has a real passion for technology and the benefits it gives to users. I learned everything I know about web 2.0 from Dug. He's vastly knowledgeable and a great person to bounce ideas off of. The project's turnaround was tight and Dug helped me considerably, not only did he have the command the French language, he had a perceptive eye for detail, picking up issues that would have ordinarily gone unnoticed."
+- name: Billy Clark
+  title: Professor of English Language and Linguistics at Northumbria University
+  date: December 5, 2006
+  relationship: Billy worked with Dug on the same team
+  recommendation: "Dug employed me as a writer and puzzle-setter at Pumpernickle and then helped me set up <a href=\"http://www.lecturelist.org\">The Lecture List</a> He knows everything and can explain it to anyone. B-)"
+- name: Andy Ward
+  title: Owner, Purple, Manchester | Graphic Design Specialist
+  date: June 13, 2006
+  relationship: Andy reported directly to Dug
+  recommendation: "As a boss I couldn't have asked for better than Dug. Guiding me and teaching me the ways of the internet, helping me avoid the pitfalls and to understand things from the 'users' point of view. Creative-centric and unusually for a boss an Aquarian. I wouldn't hesitate to work for him again or indeed ask him to work for me:-)"
+- name: Jeremy Anderson
+  title: Account, Operations & Project Manager committed to getting it right the first time.
+  date: April 6, 2006
+  relationship: Jeremy worked with Dug on the same team
+  recommendation: Dug is the best user experience architect that I have worked with. A patient and insightful man that understand the challenges of accomodating both user and business needs. Highly recommended.
