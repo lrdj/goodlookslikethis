@@ -45,7 +45,7 @@ Lead IxD (contract) embedded in an agile team via an integrator supplier to HMRC
 
 _(NB there was no service designer on the team. I believe it was felt that we were to 'reskin' an app, so no need...)_
 
-### 2. The challenge / problem
+## 2. The challenge / problem
 
 **HMRC needed to reduce pressure on its call centres and webchat teams overwhelmed by COVID support scheme queries.**
 
@@ -54,7 +54,7 @@ The working hypothesis: We could use an ML-powered conversational assistant prov
 The design challenge: How might we ensure the communication and support provided via the tool is trusted by citizens **while complying with govuk accessibility and usability standards** in an already high-stress user environment.
 
 
-### 3. Your design approach / process
+## 3. Your design approach / process
 
 Work was already in progress when I started. A previous IxD had just left the business and I was expected to progress the interface work without delay and be ready for Beta assessment.
 
