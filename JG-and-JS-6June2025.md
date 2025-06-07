@@ -117,7 +117,7 @@ We recruited for user testing of prototypes. We did sense-making together as a d
 Platform (Nuance) was very inflexible; workarounds were needed for more accessible interactions.
 
 *Trade-offs*
-Prioritised robust, simple flows over wide functionality. Made myself available for pair-programing with the vendor's lead front-end architect. This help defuse misunderstanding and make faster progress
+Prioritised robust, simple flows over wide functionality. Made myself available for pair-programming with the vendor's lead front-end architect. This help defuse misunderstanding and make faster progress
 
 
 ## 9. Socialising the design process
@@ -129,7 +129,7 @@ Prioritised robust, simple flows over wide functionality. Made myself available 
 
 ## 10. Design artefacts (can be visuals)
 
-<img src="/i/cases/cui/study/chat-flow.png" alt="The visual shows a sample user flow, indicating that Dug was analysing the perfromance of the design across multiple user journeys" class="SPA-figure">
+<a href="/i/cases/cui/study/chat-flow.pdf"><img src="/i/cases/cui/study/chat-flow.png" alt="The visual shows a sample user flow, indicating that Dug was analysing the performance of the design across multiple user journeys" class="SPA-figure"></a>
 #### Application user flows on mobile. 
 
 These were used to gain support from the vendor in making adjustments to the product.
