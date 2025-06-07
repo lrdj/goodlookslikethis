@@ -1,13 +1,8 @@
 ---
 layout: 2023/page
+bodyclass: SPA-figures
 title: Case study presentation (15 minutes) Helping HMRC launch a conversational UI during COVID — (GOV.UK Beta assessment)
 ---
-
-<style>
-
-	.SPA-figure { width: 90% }
-
-</style>
 
 <!--
 
@@ -66,7 +61,7 @@ It quickly became apparent that the existing design and prototype had been built
 
 The proposed interface was a Javascript embed using all the standard out-of-the-box 'chatbot' patterns. Simply bolting this on top of the govuk pages would not reinforce user trust. I proposed an interaction concept that manifested **"the govuk website is answering my questions"**.
 
-<img src="/i/cases/cui/saas-v-gov.png" alt="A graphic showing a comparison between a classic SaaS chatbot widget and the design proposed by Dug. The graphic make is clear that Dug's design is more effective at complying with GDS standards." class="SPA-figure">
+[![A graphic showing a comparison between a classic SaaS chatbot widget and the design proposed by Dug. The graphic make is clear that Dug's design is more effective at complying with GDS standards.](/i/cases/cui/saas-v-gov.png)](/i/cases/cui/saas-v-gov.png)
 
 #### Prototyping: 
 I discussed my suggested approach with the design team and product leadership and they agreed this was a more robust solution and more likely to pass service assessment.
@@ -129,12 +124,14 @@ Prioritised robust, simple flows over wide functionality. Made myself available 
 
 ## 10. Design artefacts (can be visuals)
 
-<a href="/i/cases/cui/study/chat-flow.pdf"><img src="/i/cases/cui/study/chat-flow.png" alt="The visual shows a sample user flow, indicating that Dug was analysing the performance of the design across multiple user journeys" class="SPA-figure"></a>
+[![ The visual shows a sample user flow, indicating that Dug was analysing the performance of the design across multiple user journeys ](/i/cases/cui/study/chat-flow.png)](/i/cases/cui/chat-flow.pdf)
+
 #### Application user flows on mobile. 
 
 These were used to gain support from the vendor in making adjustments to the product.
 
-<img src="/i/cases/cui/study/content-AB-testing.png" alt="A critical part of the UI was how it handled the content from govuk. We tested multiple variations to best align with users' need for clarity and confidence that the information was accurate" class="SPA-figure">
+![A critical part of the UI was how it handled the content from govuk. We tested multiple variations to best align with users' need for clarity and confidence that the information was accurate](/i/cases/cui/study/content-AB-testing.png)
+
 #### Materials for user tests.
 
 Testing the impact on user understanding of the content when handled in multiple different ways by the chatbot.

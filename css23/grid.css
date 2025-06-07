@@ -306,6 +306,7 @@ article.case figure {
     /* border:1px solid var(--mc-lightgray); */
 }
 
+body.SPA-figures img { width: 100%; }
 
 
 
