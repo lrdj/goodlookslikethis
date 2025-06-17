@@ -116,6 +116,25 @@ Using service design methods in a policy context is a thing that’s gaining tra
 Similar projects are being scaled and are achieving speed and savings. With any luck, as these policy design tool-kits and methods are shared across policy making teams, there should be positive impacts felt more widely.
 
 
+## Feedback?
+
+I spoke to my client recently and they had this to say about working with me on this project:
+
+>
+> Hey Dug, thanks for following up.
+> 
+> After you left, we continued to work closely with the delivery teams 
+> and things have moved forward albeit slower than I'd have preferred, 
+> but indeed we've come a long way.
+>
+> Im still using the tools you introduced, and actually the design thinking 
+> and developing policies and service from user point-of-view has really changed 
+> the way I think of things these days for the better, I believe 
+>
+> So thank you for all you did in the time you were with us
+>
+
+
 ## Credit
 
 In my work with policy labs I sometimes use workshop tools created by [Anna Whicher](https://www.linkedin.com/in/anna-whicher-86865114), Head of Policy Design at the Centre for Design & Research at Cardiff Metropolitan University. I've adapted them over the years, but I thought I should give credit:-)
