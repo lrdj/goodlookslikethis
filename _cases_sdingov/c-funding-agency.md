@@ -81,33 +81,7 @@ As you can see from the schedule below, the team at this agency was able to prog
   Three of the above challenges had been stalled with the agency's funding policy team. In some cases, progress had all but stopped for more than a year. Once the teams were engaged with this process they made real progress in weeks.
 </p>
 
-<!--
 
-Styles of Govt intervention
-
-Low level
-intervention
-
-- Stewardship
-- Leading, influencing and informing 
-- Procurement, purchasing and buying powers 
-- Providing and commissioning services 
-- Funding, taxes, tariffs and subsidies
-- Regulation 
-- Laws
-
-Larger scale 
-intervention
-
-- Laws
-
-
-![](/i/cases/funding/overall-workshop-schedule.jpg)
-
-overall-workshop-schedule.pdf
-policy-lab-tube-map.png
-
--->
 
 ## Successful outcomes
 
