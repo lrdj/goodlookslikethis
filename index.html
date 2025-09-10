@@ -59,6 +59,15 @@ bodyclass: blogIndex
                     </p>
                     <!-- endif -->
 
+
+                    {%- if post.readit == true -%}
+                        <audio controls="" class="govuk-!-margin-bottom-3" style="position: relative;z-index: 1000;">
+                          <source src="{{site.baseurl}}/readit/{{ post.audiobook }}" type="audio/mpeg">
+                          Your browser does not support the audio element.
+                        </audio>
+                    {%- endif -%}
+
+
                     <!-- if has images -->
                         <figure style="--bg-image: url({%- if post.index_image -%}'{{ post.index_image }}'{%- elsif post.hero_image -%}'{{ post.hero_image }}'{%- endif -%});" aria-label="{{ post.hero_image_alt }}"></figure>
                     <!-- endif -->

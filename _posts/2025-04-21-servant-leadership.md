@@ -25,7 +25,9 @@ tags:
   - Service design
   - org design
   - organisational culture
- 
+
+readit: true 
+audiobook: Leading_with_the_Human_Heart.mp3 
 ---
 
 So I've been a fan of Edgar Schein ever since I had to read ["Humble Enquiry"](https://g.co/kgs/S6pzBt) as part of a training course at work. Through the miracle of the internet I've also somehow landed on [Robert K. Greenleaf's wikipedia page](https://en.wikipedia.org/wiki/Robert_K._Greenleaf).
