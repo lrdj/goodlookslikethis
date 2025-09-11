@@ -27,7 +27,10 @@ tags:
   - Service design
   - Org design
   - Organisational culture
- 
+
+readit: true 
+audiobook: Language_as_Enterprise_Architecture.mp3
+
 ---
 
 <style type="text/css">
