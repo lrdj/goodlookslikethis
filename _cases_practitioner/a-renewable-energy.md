@@ -5,10 +5,6 @@ title: "Helping an oil-and-gas giant align their retail business with their rene
 subtitle: >
   The oil and gas company did not know how to serve B2B e-mobility customers. They needed to learn what service would provide most value to these these fleets while monetising those relationships in a sustainable and ethical way.
 
-index_image: "/i/cases/renewables-e-mobility/story.jpg"
-hero_image: "/i/cases/renewables-e-mobility/story.jpg"
-hero_image_alt: "I plotted out the proposed scenario and mapped required capability in a blueprint."
-
 tags: 
   - energy
   - user research
@@ -17,11 +13,34 @@ tags:
   - downstream
   - Paris
 
+index_image: "/i/cases/renewables-e-mobility/story.jpg"
+hero_image: "/cdn/energy-transition.mp4"
+hero_is_video: true
+hero_image_caption: "You're super busy, so here's a TL;DR explainer video of this case study. The challenge, the pivot, the outcome:-)"
+
+video_autoplay: false
+video_controls: true
+video_muted: false
+video_loop: false
+
+# video_preload:
+# video_loop:
+# video_autoplay:
+# video_playsinline
+
 ---
 
 ## Synopsis
 
 In Paris, a leading oil and gas company faced the challenge of aligning its retail business with a strategic shift towards renewable energy, particularly serving B2B e-mobility customers. Additional pressure and complexity was thrown in by the energy provider being in negotiations for a role as part of the 2024 Paris Olympics.
+
+
+![The story of Bernard and his colleagues, workers in the Paris gig economy](/i/cases/renewables-e-mobility/story.jpg)
+
+<p class="imagecaption">
+  I tracked the stories of gig-economy workers in Paris, from scooter jockeys to minicab operators. Shadowing and interviewing them in their own spaces challenged many of the client's starting assumptions. 
+</p>
+
 
 This case study encapsulates the journey of discovering, strategising, and implementing a sustainable and profitable business model amidst the evolving landscape of energy consumption and distribution.
 
