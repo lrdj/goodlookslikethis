@@ -22,6 +22,9 @@ tags:
  - "service design"
  - "business design"
 
+readit: true 
+audiobook: Value_prop_and_positioning.mp3
+
 ---
 
 <style type="text/css">
