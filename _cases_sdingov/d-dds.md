@@ -14,6 +14,15 @@ hero_image_alt: >
 hero_image_caption: >
   Design a Data-Share (wizard concept). Prototype flows for all user-types.
 
+
+challenge: >
+  Cross-government data sharing was slow, inconsistent, and hampered by legal, technical and ethical misalignment.
+approach: >
+  Pivoted from a top-down system to prototyping unmet user needs through wizards, flows, and research stimulus.
+result: >
+  Prototype identified genuine needs, supported Alpha assessment, and laid groundwork for community-driven, collaborative data sharing.
+
+
 tags: 
   - systems
   - gov.uk
