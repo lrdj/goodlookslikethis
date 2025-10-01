@@ -9,6 +9,13 @@ index_image: "/i/cases/dsp/as-is-journey.jpg"
 hero_image: "/i/cases/dsp/dsp.jpg"
 hero_image_alt: "Rapid service development with a team of senior users"
 
+challenge: >
+  Over-60 inspector team resisted digital change, seeing new tools as alien and training too burdensome.
+approach: >
+  Used co-design, shadowing and cultural probe tools to involve inspectors throughout and reduce resistance.
+result: >
+  Built trust, encouraged uptake, and turned reluctant inspectors into active service partners.
+
 categories: 
   - enterprise software
   - user research
