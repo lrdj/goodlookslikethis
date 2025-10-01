@@ -18,7 +18,7 @@ subtitle: >
 # hero_video:
 
 hero_image: /i/cases/nhs/as-is-with-lego-bricks-alpha.png
-hero_image_zoom: 1.2
+# hero_image_zoom: 1.2
 hero_image_caption: >
   In an environment where it seemed everything was broken, the challenge for my customer was to understand both what was possible, and where to start. By focusing on the overlap between different types of screening journeys, and qualifying that with data and technical architecture choices, it was possible to identify the four innitiatives that would generate the most value inside realistic time and cost parameters.
 #
@@ -28,6 +28,15 @@ hero_image_caption: >
 # activity: >
 # result: >
 #
+
+
+challenge: >
+  NHS screening services were suffering from a fragmented patient experience and failing legacy technology. The goal was to identify what's next.
+approach: >
+  Synthesize user insights, map patient journeys, and lead collaborative workshops with leadership to develop an "extensible service" blueprint based on reusable "lego pieces".
+result: >
+  The identified strategic themes enabled leadership to successfully build a business case and secure funding for digital investment with an MVP which is now in production.
+
 
 # what did I do?
 
@@ -66,7 +75,7 @@ The NHS screening services for breast, cervical and bowel cancer are all support
 
 ## My challenge
 
-**Essentially, my role was to uncover and synthesise the user insights enough to allow my customer to make difficult decisions about what to do next.**
+**My role was to uncover and synthesise the user insights enough to allow my customer to make difficult decisions about what to do next.**
 
 ![Beginning to understand patient journeys in context.](/i/cases/nhs/NHS-screening-BP.png)
 
@@ -94,7 +103,9 @@ The NHS screening services for breast, cervical and bowel cancer are all support
 - Role play these experiences with all stakeholders and SMEs
 - Develop an 'extensible' journey that will support a plan to build once and reuse across different screening pathways.
 
-![Cross-journey service.](/i/cases/nhs/human-centred-journey-cross-service.png){:.zoomable-image}
+<!-- {:.zoomable-image} -->
+
+![Cross-journey service.](/i/cases/nhs/human-centred-journey-cross-service.png)
 
 <p class="imagecaption">
   The task was to examine the twelve processes and find overlaps and similarities. The objective was to reuse as much data and technology as possible while minimising disruption to patients and support cohort managers in the trust.

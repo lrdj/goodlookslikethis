@@ -1,0 +1,40 @@
+
+<style>
+
+    .project-details {
+      list-style: none;
+      margin: 1em 0 1.5em 0;
+      padding: 0 0 1.25rem 0;
+      display: grid;
+      gap: 0;
+      grid-template-columns: 1fr; /* mobile: stack */
+      background: var(--mc-lightgray);
+      border-bottom: 0.5rem solid var(--haud-darkgold);
+    }
+    @media (min-width: 769px) {
+      .project-details { grid-template-columns: repeat(3, 1fr); }
+    }
+
+    .case-highlight {
+      background: #fff;
+      background: var(--mc-lightgray);
+      padding: 1rem;
+    }
+
+    .case-highlight h3 { margin-top: 0.25rem; }
+    .case-highlight p { margin: 0; }
+
+</style>
+
+      <ul class="project-details" aria-label="Case highlights">
+        <li class="case-highlight">
+          <h3>Challenge</h3><p>{{page.challenge}}</p>
+        </li>
+        <li class="case-highlight">
+          <h3>Approach</h3><p>{{page.approach}}</p>
+        </li>
+        <li class="case-highlight">
+          <h3>Result</h3><p>{{page.result}}</p>
+        </li>
+      </ul>
+

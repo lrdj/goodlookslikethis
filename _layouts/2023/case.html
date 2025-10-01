@@ -65,6 +65,14 @@ layout: default
 }
     </style>
 
+
+<h1 id="headTitle">{{ page.title }}</h1>
+<p id="siteSubtitle">{{ page.subtitle }}</p>
+
+{%- if page.challenge -%}
+  {% include 2023/3-box-sumary.html %}
+{%- endif -%}
+
 {% if page.hero_image %}
 
     {% if page.hero_image_zoom %}
@@ -110,10 +118,12 @@ layout: default
 
 {% endif %}
 
+<!--
         <h1 id="headTitle">
             {{ page.title }}
         </h1>
         <p id="siteSubtitle">{{ page.subtitle }}</p>
+-->
 
         <article class="case">
             <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>

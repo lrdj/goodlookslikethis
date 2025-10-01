@@ -7,9 +7,10 @@ layout: default
     <section class="wrapper">
 
       <figure id="postHeroImage">
-        {%- if page.target -%}<a href="{{- page.target -}}">{%- endif -%}<img src="{{ page.hero_image }}">{%- if page.target -%}</a>{%- endif -%}
+        {%- if page.target -%}<a href="{{- page.target -}}">{%- endif -%}<img src="{{ page.hero_image }}" alt="{%- if page.hero_image_alt -%}{{ page.hero_image_alt }}{%- endif -%}">{%- if page.target -%}</a>{%- endif -%}
         {%- if page.hero_image_alt -%}<figcaption>{{ page.hero_image_alt }}</figcaption>{%- endif -%}
       </figure>
+
 
           <article class="post df-width-two-thirds">
 
@@ -18,6 +19,29 @@ layout: default
               <p class="post-intro" style="font-size: 1.33em;">
               {{ page.intro }}
               </p>
+
+
+{% if page.hero_alt and page.hero_caption %}
+  <figure>
+    <img src="" alt="{{ page.hero_image_alt }}">
+    <figcaption>{{ page.hero_image_caption }}</figcaption>
+  </figure>
+
+{% elsif page.hero_alt %}
+  <figure>
+    <img src="" alt="{{ page.hero_image_alt }}">
+    <figcaption>{{ page.hero_image_alt }}</figcaption>
+  </figure>
+
+{% elsif page.hero_caption %}
+  <figure>
+    <img src="" alt="{{ page.hero_image_caption }}">
+    <figcaption>{{ page.hero_image_caption }}</figcaption>
+  </figure>
+
+{% else %}
+  <img src="" alt="">
+{% endif %}
 
               {{ content }}
 
