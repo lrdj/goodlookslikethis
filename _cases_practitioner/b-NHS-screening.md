@@ -33,7 +33,7 @@ hero_image_caption: >
 challenge: >
   NHS screening services were suffering from a fragmented patient experience and failing legacy technology. The goal was to identify what's next.
 approach: >
-  Synthesize user insights, map patient journeys, and lead collaborative workshops with leadership to develop an "extensible service" blueprint based on reusable "lego pieces".
+  synthesise user insights, map patient journeys, and lead collaborative workshops with leadership to develop an "extensible service" blueprint based on reusable "lego pieces".
 result: >
   The identified strategic themes enabled leadership to successfully build a business case and secure funding for digital investment with an MVP which is now in production.
 
