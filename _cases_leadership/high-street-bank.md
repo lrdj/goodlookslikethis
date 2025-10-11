@@ -26,6 +26,17 @@ tags:
   - inhouse
 
 bXXXodyclass: cases
+
+challenge: >
+  Design was undervalued, brought in late, and lacked influence on strategy and in the decisive early project phases.
+
+approach: >
+  Built trust via delivery, introduced problem-space workshops, upskilled my team, and engaged stakeholders earlier.
+
+result: >
+  Design is now a strategic partner with earlier involvement, greater visibility, and influence across business initiatives.
+
+
 ---
 
 ## Spotting the problem

@@ -22,6 +22,14 @@ tags:
   - IPO
 
 bXXXodyclass: cases
+
+challenge: >
+  Teams worked in silos, focusing on delivery over discovery, with little shared understanding or leadership alignment.
+approach: >
+  Introduced collaborative frameworks, cross-functional workshops, and rituals that brought strategy, design, and engineering together.
+result: >
+  Shifted culture from reactive delivery to coordinated, insight-led collaboration — enabling faster decisions and clearer shared goals.
+
 ---
 
 ### Executive summary 
