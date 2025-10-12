@@ -25,10 +25,13 @@ tags:
   - mentoring
   - coaching
 
+
 challenge: >
   Policy and delivery teams worked apart, stalling progress on funding reforms for months or years.
+
 approach: >
   Set up a policy lab that merged policy design and digital delivery in a fast, collaborative workshop cycle.
+
 result: >
 Unblocked three long-stalled projects in weeks, embedded design methods across policy work, and shifted mindset.
 
