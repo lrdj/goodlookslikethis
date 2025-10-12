@@ -17,14 +17,6 @@ hero_image_alt: >
 hero_image_caption: >
   This agency's role was to use the levers at their disposal in an integrated and coordinated way to support a diverse portfolio of outstanding research and innovation.
 
-tags: 
-  - policy
-  - delivery
-  - consulting
-  - gov.uk
-  - mentoring
-  - coaching
-
 
 challenge: >
   Policy and delivery teams worked apart, stalling progress on funding reforms for months or years.
@@ -33,7 +25,15 @@ approach: >
   Set up a policy lab that merged policy design and digital delivery in a fast, collaborative workshop cycle.
 
 result: >
-Unblocked three long-stalled projects in weeks, embedded design methods across policy work, and shifted mindset.
+  Unblocked three long-stalled projects in weeks, embedded design methods across policy work, and shifted mindset.
+
+tags: 
+  - policy
+  - delivery
+  - consulting
+  - gov.uk
+  - mentoring
+  - coaching
 
 ---
 
