@@ -33,7 +33,13 @@ tags:
   - design
   - technology
 
-bXXXodyclass: cases
+challenge: >
+  Agency parent company’s process risked diluting culture, causing team churn, and mismatched expectations threatened growth.
+approach: >
+  Enabled emotional safety by challenging and advocating publicly for design in bizdev. Embedded agency practices into enterprise workflows.
+result: >
+  Design became a growth driver, winning new clients, easing recruitment, and influencing parent structure and strategy.
+
 ---
 
 ## Background

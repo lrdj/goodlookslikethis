@@ -25,7 +25,13 @@ tags:
   - inhouse
   - technology
 
-bXXXodyclass: cases
+challenge: >
+  Business lacked design maturity — no design offering, weak processes, difficulty hiring, and low visibility.
+approach: >
+  Listened deeply, set practice strategy, embedded design into sales & tech, and built repeatable processes.
+result: >
+  Grew to a 35-person practice, drove performance to £5M revenue, and made design integral to business growth.
+
 ---
 
 ## The challenge

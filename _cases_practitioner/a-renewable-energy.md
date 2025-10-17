@@ -28,6 +28,13 @@ video_loop: false
 # video_autoplay:
 # video_playsinline
 
+challenge: >
+  Early strategy focused on retail revenue, overlooking user diversity, equity, and long-term sustainability.
+approach: >
+  Enabled teams to challenge assumptions, co-create solutions, and re-orient strategy toward an inclusive, sustainable model.
+result: >
+  Shifted executive thinking toward sustainable mobility — a strategic pivot that informed the org's first European EV hub.
+
 ---
 
 ## Synopsis
