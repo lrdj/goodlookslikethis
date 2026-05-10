@@ -12,7 +12,8 @@ tags:
   - methods
   - practice
 
-category: design
+category:
+  - Design
 
 date: 2025-10-10
 ---
