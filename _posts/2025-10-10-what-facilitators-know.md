@@ -88,11 +88,11 @@ And [Lana Kristine Jelenjev](https://www.linkedin.com/in/ACoAAAwiqYcBagEiYdr0NFh
 
 [Célynne Shipley](https://www.linkedin.com/in/ACoAAAhz8PUBJo7viomw-9hc7mc0DBj5J8p4iHM): *Don't fear the silent gaps. Someone will fill it and ideally it isn't you.*
 
-[Teresa Bassma](https://www.linkedin.com/in/ACoAAATTnaMB0CI8VHFOoYbCIfo4TLR_--tbMFg): *Ask one question at a time. I hear so many people ask questions like 'should we have this event and if so when and what theme.' It makes for pretty confusing conversations.*
+Teresa Bassma: *Ask one question at a time. I hear so many people ask questions like 'should we have this event and if so when and what theme.' It makes for pretty confusing conversations.*
 
 [Robin Funsten](https://www.linkedin.com/in/ACoAAAotDvsBwkpdi7F3WEcd-h62Xp-CkBSOtXE): *Talk less and ask more questions. If the questions aren't being answered in the big group — make small groups.* Meg highlighted this one too: *so simple, so helpful.*
 
-David Warren: *Be comfortable being a mirror back to the group, even when the mirror sees things that might not be pretty.*
+[David Warren](https://www.linkedin.com/in/david-warren1/): *Be comfortable being a mirror back to the group, even when the mirror sees things that might not be pretty.*
 
 ---
 
@@ -102,7 +102,7 @@ The most-repeated structural tension in the thread was between preparation and a
 
 [Whitney Thoren](https://www.linkedin.com/in/ACoAAA2eCdEBvOg8j4Y2tdtv00oFZ2j7_MOyHsk): *Design right, run loose. Be prepared for it all, but be willing to ditch it along the way if that's what the group needs.*
 
-Jodie Rogers: *Have a rough plan for sessions — but don't be a slave to the plan.*
+[Jodie Rogers](https://www.linkedin.com/in/jodie-rogers-symbia/): *Have a rough plan for sessions — but don't be a slave to the plan.*
 
 [Martina Gobec](https://www.linkedin.com/in/ACoAAAAl4MUBKvTm1Tife3YKgqwLnl-y9RPONmk): *Be understructured and overprepared. Be willing to change the agenda on the fly, if the process requires it.* I called this the best advice in the thread, and I stand by it.
 
@@ -112,7 +112,7 @@ Jodie Rogers: *Have a rough plan for sessions — but don't be a slave to the pl
 
 ## How you get better
 
-[Chad Littlefield](https://www.linkedin.com/in/ACoAAAtjyzoBH6PMXZbVm3FrncjCLPu2WKNay94): *Want to run or swim better? Run and swim more. Same logic applies.* Meg agreed: she spent her early years doing free sessions, which lowered the stakes for herself and got her reps in.
+[Chad Littlefield](https://www.linkedin.com/in/chadlittlefield/): *Want to run or swim better? Run and swim more. Same logic applies.* Meg agreed: she spent her early years doing free sessions, which lowered the stakes for herself and got her reps in.
 
 [Kerri Price](https://www.linkedin.com/in/ACoAAAbQdvMBmRJMFUnvJLvKRZuEagWweSYKcBs): *Go watch other facilitators in action. Participate in lots of workshops, even if you're not particularly interested in the topic. Find a facilitator you admire and ask to shadow them for a day.* [Jes Smith](https://www.linkedin.com/in/ACoAAAGji70B4f3icbZ9ge08FKKl_2m4E-_-ZqQ) adds the harder version: *watch yourself. Force yourself to watch those Zoom recordings. Ask someone to record your face-to-face sessions.*
 
