@@ -4,7 +4,7 @@ title: What facilitators know
 subtitle: Meg Bolger asked one question. A hundred and fifty-seven practitioners answered.
 hero_image: /i/facilitation.jpg
 intro: >
-  Meg Bolger put a single question into a LinkedIn thread: what's one random-but-impactful piece of advice you'd give a new facilitator? One hundred and fifty-seven people answered. I saved the whole thing. Here's what the crowd knows.
+  <a href="https://www.linkedin.com/in/megbolger/">Meg Bolger</a> put a single question into a LinkedIn thread: what's one random-but-impactful piece of advice you'd give a new facilitator? One hundred and fifty-seven people answered. I saved the whole thing. Here's what the crowd knows.
 tags:
   - facilitation
   - service design
@@ -13,7 +13,7 @@ tags:
 date: 2025-10-10
 ---
 
-In late 2023, Meg Bolger — Head of [Facilitator Cards](https://www.facilitatorcards.com/) — posted an ask on LinkedIn:
+In late 2023, Meg Bolger — Head of [Facilitator Cards](https://facilitator.cards/) — posted an ask on LinkedIn:
 
 > What is a random-but-impactful piece of advice that you would give a new facilitator?
 
@@ -127,4 +127,4 @@ The things that experienced practitioners converge on, apparently, are: the phys
 
 ---
 
-*Meg Bolger is Head of [Facilitator Cards](https://www.facilitatorcards.com/), which is exactly what it sounds like and worth a look.*
+*Meg Bolger is Head of [Facilitator Cards](https://facilitator.cards/), which is exactly what it sounds like and worth a look.*
