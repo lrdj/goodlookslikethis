@@ -1,7 +1,7 @@
 ---
 layout: 2023/post
 title: What facilitators know
-subtitle: Meg Bolger asked one question. A hundred and fifty-seven practitioners answered.
+subtitle: Meg Bolger asked one question. A hundred and fifty-seven practitioners answered (so I collated what they said and dropped it here).
 hero_image: /i/facilitation.jpg
 intro: >
   <a href="https://www.linkedin.com/in/megbolger/">Meg Bolger</a> put a single question into a LinkedIn thread: what's one random-but-impactful piece of advice you'd give a new facilitator? One hundred and fifty-seven people answered. So I saved the whole thing.
