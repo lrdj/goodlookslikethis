@@ -13,13 +13,13 @@ tags:
 date: 2025-10-10
 ---
 
-In late 2023, Meg Bolger — Head of [Facilitator Cards](https://www.facilitatorcards.com/) — posted a deceptively simple question to LinkedIn:
+In late 2023, Meg Bolger — Head of [Facilitator Cards](https://www.facilitatorcards.com/) — posted an ask on LinkedIn:
 
-> *What is a random-but-impactful piece of advice that you would give a new facilitator?*
+> What is a random-but-impactful piece of advice that you would give a new facilitator?
 
 One hundred and fifty-seven people replied. Coaches, OD consultants, service designers, L&D professionals, workshop facilitators from Kenya, New Zealand, Germany, the US. Meg jumped into the replies, asked follow-up questions, pushed people to say more. The thread ran for days.
 
-I contributed one piece of advice: *Bring enough pens?*
+I contributed one piece of advice: _Bring enough pens?_
 
 Meg said it was one of her favourites in the thread. Which tells you something about what this community thinks good facilitation is actually made of.
 
