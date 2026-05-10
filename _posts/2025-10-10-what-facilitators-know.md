@@ -4,12 +4,16 @@ title: What facilitators know
 subtitle: Meg Bolger asked one question. A hundred and fifty-seven practitioners answered.
 hero_image: /i/facilitation.jpg
 intro: >
-  <a href="https://www.linkedin.com/in/megbolger/">Meg Bolger</a> put a single question into a LinkedIn thread: what's one random-but-impactful piece of advice you'd give a new facilitator? One hundred and fifty-seven people answered. I saved the whole thing. Here's what the crowd knows.
+  <a href="https://www.linkedin.com/in/megbolger/">Meg Bolger</a> put a single question into a LinkedIn thread: what's one random-but-impactful piece of advice you'd give a new facilitator? One hundred and fifty-seven people answered. So I saved the whole thing.
+
 tags:
   - facilitation
   - service design
   - methods
   - practice
+
+category: design
+
 date: 2025-10-10
 ---
 
@@ -35,7 +39,7 @@ A surprising amount of the wisdom in this thread is about the room itself — an
 
 **The physical logistics are not beneath you.** Yes, bring enough pens. Check that your flipchart markers actually work. Know where the bathrooms are relative to the room. Know how long the coffee queue takes. Know whether lunch arrives in the room (Meg: "you have five minutes before you totally lose the group's attention") or somewhere else. Know whether it's hybrid. Catherine Simpson adds: check participants' sensory and mobility requirements, not just dietary ones — and remember that sound, temperature, and smell all affect what's possible in the room.
 
-**Arrive early.** Rachna Verma: *arrive early if onsite, set up the space and familiarise with amenities.* This is boring advice and it is correct.
+**Arrive early.** Rachna Verma: *arrive early if onsite, set up the space and familiarise with amenities.* This is boring advice and it is correct:-)
 
 ---
 
@@ -72,8 +76,6 @@ Emanuele Mazzanti: *Check your ego at the door. It is about letting their wisdom
 Mike Cardus offered two connected observations:
 1. You don't need to see learning for it to happen.
 2. When you are working harder than the team to solve their problem, you are now a part of the problem.
-
-Meg's response to the second one: *#2 is super interesting, would you say more?* — which is itself a demonstration of the principle in action.
 
 Josh Cox: *Fight the temptation to be anything else but yourself.* Katerina Kupenga: *Don't think you have to impersonate a great facilitator — find your own natural talent and stand in it.*
 
