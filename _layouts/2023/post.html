@@ -59,9 +59,9 @@ layout: default
   {% assign postyear = page.date | date: '%Y' | plus: 0 %}
   {% if postyear > site.commentcutoff %}
     {% include 2023/comments.html %}
-  {% else %}
-    <p class="info-others"><span id="postComments"><i>(comments disabled)</i></span></p>
   {% endif %}
+{% else %}
+  <p class="info-others"><span id="postComments"><i>(comments disabled)</i></span></p>
 {% endif %}
 
               <!-- endif -->

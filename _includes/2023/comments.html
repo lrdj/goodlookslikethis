@@ -2,10 +2,32 @@
 <style type="text/css">
 .utterances { border: none; }
 .utterances-frame { border: none; margin-bottom: 2em; }
+
+/* override css in default script */
+.utterances {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 760px;
+  margin-left: 0;
+  margin-right: 0;
+  }
+
+.utterances-frame {
+  color-scheme: light;
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 1px;
+  min-width: 100%;
+  max-width: 100%;
+  height: 100%;
+  border: 0;
+  }
 </style>
 
 <section class="comments" id="comment-section">
-  <hr>
+<h2>What do you think?</h2>
   <script src="https://utteranc.es/client.js"
     repo="lrdj/utterances-donkey"
     issue-term="pathname"
