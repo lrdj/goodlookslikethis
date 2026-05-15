@@ -24,6 +24,8 @@ paginate_path: "/articles/p:num/"
 
 blogIndexSubtitles: true
 
+commentcutoff: 1900
+
 # set link structure for blog posts
 
 defaults:
