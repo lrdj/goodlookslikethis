@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ruby -ryaml -e 'c=YAML.load_file\\(\"_config.yml\"\\); puts \"YAML OK\"; puts \"exclude => #{c[\"exclude\"].inspect}\"; puts \"collections => #{c[\"collections\"].keys.inspect}\"')"
+    ]
+  }
+}

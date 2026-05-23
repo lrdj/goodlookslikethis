@@ -18,6 +18,7 @@ linkedinRecoms: https://www.linkedin.com/in/goodlookslikethis/details/recommenda
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-relative-links   # rewrites relative .md links to their built URLs (e.g. in docs/)
 
 paginate: 9
 paginate_path: "/articles/p:num/"

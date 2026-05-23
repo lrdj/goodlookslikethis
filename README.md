@@ -2,6 +2,21 @@
 
 Personal portfolio and blog. Jekyll static site hosted on GitHub Pages.
 
+## Documentation
+
+Full maintenance docs are in [`docs/`](docs/) — browsable on GitHub (links below) and
+published on the live site at **<https://goodlookslikethis.com/docs/>**:
+
+- **[docs/README.md](docs/README.md)** — start here; 60-second mental model + map.
+- **[docs/maintenance.md](docs/maintenance.md)** — run locally, deploy, add/reorder/hide
+  content, troubleshooting.
+- **[docs/case-studies.md](docs/case-studies.md)** — how the case section works (ordering,
+  hiding, the nav data file).
+- **[docs/architecture.md](docs/architecture.md)** — structure, old/new front matter, data
+  files, known messy bits.
+
+The quick-reference below covers the most common tasks.
+
 ## Running locally
 
 ```bash
@@ -57,10 +72,15 @@ Full case study content.
 
 For strategy cases, add `noCallOut: "true"` to suppress the default CTA footer.
 
+Cases in a section are ordered **alphabetically by filename** (use `a-`, `b-`, `c-`
+prefixes to control order), and a case is hidden from its section index by adding
+`exception` to its `tags`. Full details in [docs/case-studies.md](docs/case-studies.md).
+
 ## Collections
 
 | Directory | URL | Use for |
 |---|---|---|
+| `_cases/` | `/cases/` | Base collection; its `index.html` lists the *categories* |
 | `_cases_leadership/` | `/cases/leadership/` | Design leadership, people management |
 | `_cases_sdingov/` | `/cases/sdingov/` | Service design in government |
 | `_cases_strategy/` | `/cases/strategy/` | Strategy, direction-setting |
