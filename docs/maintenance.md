@@ -34,7 +34,7 @@ If `bundle install` complains, you probably changed Ruby versions. The Gemfile p
 There is no manual deploy and no GitHub Actions workflow.
 
 1. Commit your changes.
-2. `git push origin master`.
+2. `git push origin main`.
 3. GitHub Pages rebuilds automatically. Live within ~1–2 minutes at
    **goodlookslikethis.com** (the custom domain is set by the `CNAME` file).
 
@@ -42,7 +42,7 @@ If a build fails, GitHub emails the commit author. Builds fail most often becaus
 a YAML front-matter typo, or a Jekyll plugin that GitHub Pages doesn't allow (only the
 plugins in `_config.yml` — `jekyll-feed`, `jekyll-paginate` — are on the allowlist).
 
-> **Tip:** `master` *is* production. There's no staging. Preview locally before pushing.
+> **Tip:** `main` *is* production. There's no staging. Preview locally before pushing.
 
 ---
 

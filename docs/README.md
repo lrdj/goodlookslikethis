@@ -18,7 +18,7 @@ doc you need.
 ## The 60-second mental model
 
 - It's a **Jekyll** static site, **no theme**, hosted on **GitHub Pages**. Push to
-  `master` → GitHub rebuilds → live in a minute or two. There is no build server to babysit.
+  `main` → GitHub rebuilds → live in a minute or two. There is no build server to babysit.
 - **Posts** (blog/articles) live in `_posts/`, named `YYYY-MM-DD-slug.md`.
 - **Case studies** live in `_cases_*/` folders. Each folder is a Jekyll **collection** and
   maps to a URL like `/cases/leadership/`. A case study is just a markdown file dropped in
