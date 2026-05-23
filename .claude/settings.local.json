@@ -7,7 +7,9 @@
       "Bash(gh api *)",
       "Bash(gh run *)",
       "Bash(git fetch *)",
-      "Bash(git branch *)"
+      "Bash(git branch *)",
+      "Bash(curl -s -o /dev/null -w '%{http_code}' https://goodlookslikethis.com__TRACKED_VAR__)",
+      "Bash(curl -s \"https://goodlookslikethis.com/docs/\")"
     ]
   }
 }
