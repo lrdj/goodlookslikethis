@@ -1,10 +1,25 @@
 ---
-layout: default
+layout: 2023/post
 title: "Case study sample templates"
----
+subtitle: "Draft - how to write a case study?"
 
-<main>
-<section class="wrapper">
+index_image: /i/address-book-metaphor.png
+hero_image:  /i/address-book-metaphor.png
+hero_image_alt: ""
+
+categories:
+  - Design
+
+tags:
+ - UX
+ - consulting
+ - strategy
+ - "service design"
+
+intro: >
+  Found these notes in a tidy up need to reqrite or bin this:-)
+
+---
 
 # How to write a case study
 
@@ -93,6 +108,3 @@ Today, Currigate’s unique subscription model is as strong as ever. It’s even
 Finish off with a CTA to contact your business and/or a link to view more case studies.
 
 
-</section>
-
-</main>
