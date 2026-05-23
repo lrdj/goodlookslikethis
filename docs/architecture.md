@@ -172,6 +172,26 @@ See [maintenance.md › Collections](maintenance.md#collections) for the table a
 
 ---
 
+## Local build ≠ GitHub build
+
+The hosted GitHub Pages build **force-enables plugins that local `jekyll serve` does
+not**: `jekyll-optional-front-matter`, `jekyll-readme-index`, `jekyll-default-layout`,
+`jekyll-titles-from-headings`, `jekyll-seo-tag` (plus `jekyll-relative-links`, which we
+also list in `_config.yml` so it runs locally too).
+
+The one that bites: **`jekyll-optional-front-matter` renders every loose `.md` file through
+Liquid** — even ones with no front matter, like `README.md` and `CLAUDE.md`. Locally those
+are copied verbatim, so a stray Liquid expression (the curly-brace or percent syntax) in
+them passes local builds and then **fails the GitHub build**. (This exact thing happened: a
+literal Liquid `raw` tag written in `CLAUDE.md` prose took the live build down.)
+
+To test the way GitHub actually builds, run with those plugins enabled, e.g.:
+
+```bash
+# _gh-overlay.yml lists the forced plugins; build to a throwaway dir
+bundle exec jekyll build --config _config.yml,_gh-overlay.yml -d /tmp/ghtest --trace
+```
+
 ## Known messy bits / unfinished work
 
 A running inventory so you don't waste time "discovering" these:

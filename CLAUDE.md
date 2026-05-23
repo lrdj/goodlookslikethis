@@ -2,7 +2,7 @@
 
 Personal portfolio/blog site. Jekyll, hosted on GitHub Pages, no theme. Migrated from Moveable Type via MySQL dump; the site has grown organically and the data is intentionally messy. Read this before touching anything.
 
-> Human-facing maintenance docs live in `docs/` and are published at `/docs/` on the live site (rendered via `layout: 2023/page`): `docs/maintenance.md` (runbook), `docs/case-studies.md` (case section deep dive), `docs/architecture.md` (structure + known messy bits). They use relative `.md` links (rewritten on the live site by the `jekyll-relative-links` plugin) and `{% raw %}` around Liquid code samples. Keep them in sync with this file when things change.
+> Human-facing maintenance docs live in `docs/` and are published at `/docs/` on the live site (rendered via `layout: 2023/page`): `docs/maintenance.md` (runbook), `docs/case-studies.md` (case section deep dive), `docs/architecture.md` (structure + known messy bits). They use relative `.md` links (rewritten on the live site by the `jekyll-relative-links` plugin), and Liquid code samples are wrapped in raw/endraw tags so Jekyll doesn't execute them. Keep them in sync with this file when things change.
 
 ## Running locally
 

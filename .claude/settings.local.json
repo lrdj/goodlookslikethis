@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ruby -ryaml -e 'c=YAML.load_file\\(\"_config.yml\"\\); puts \"YAML OK\"; puts \"exclude => #{c[\"exclude\"].inspect}\"; puts \"collections => #{c[\"collections\"].keys.inspect}\"')"
+      "Bash(ruby -ryaml -e 'c=YAML.load_file\\(\"_config.yml\"\\); puts \"YAML OK\"; puts \"exclude => #{c[\"exclude\"].inspect}\"; puts \"collections => #{c[\"collections\"].keys.inspect}\"')",
+      "Read(//private/tmp/gh_site/docs/**)",
+      "Bash(rm -rf /tmp/gh_site /tmp/gh-overlay.yml)"
     ]
   }
 }
