@@ -12,6 +12,7 @@ tags:
   - oil and gas
   - downstream
   - Paris
+  - exception
 
 index_image: "/i/cases/renewables-e-mobility/story.jpg"
 hero_image: "/cdn/energy-transition.mp4"
