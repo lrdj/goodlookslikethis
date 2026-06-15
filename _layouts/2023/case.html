@@ -104,7 +104,7 @@ layout: default
         >
             <source src="{{ page.hero_image }}" type="video/mp4">
             {% assign captions_path = page.hero_image | replace: '.mp4', '.vtt' %}
-            <track src="{{ captions_path }}" kind="captions" srclang="en" label="English">
+            <track src="{{ captions_path }}" kind="captions" srclang="en" label="English" default>    
             Your browser does not support the video tag.
         </video>
 
