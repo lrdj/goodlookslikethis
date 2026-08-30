@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-30T12:00:00Z",
+  "title": "Design System: Good looks like this",
+  "extensions": {
+    "colorMeta": {
+      "haud-gold": {
+        "role": "primary",
+        "displayName": "Haud Gold",
+        "canonical": "#af9568",
+        "tonalRamp": ["oklch(15% 0.045 85)", "oklch(26% 0.045 85)", "oklch(38% 0.045 85)", "oklch(49% 0.045 85)", "oklch(60% 0.045 85)", "oklch(72% 0.045 85)", "oklch(83% 0.045 85)", "oklch(95% 0.045 85)"]
+      },
+      "echo-blue": {
+        "role": "secondary",
+        "displayName": "Echo Blue",
+        "canonical": "#BFD6E9",
+        "tonalRamp": ["oklch(15% 0.035 240)", "oklch(26% 0.035 240)", "oklch(38% 0.035 240)", "oklch(49% 0.035 240)", "oklch(60% 0.035 240)", "oklch(72% 0.035 240)", "oklch(83% 0.035 240)", "oklch(95% 0.035 240)"]
+      },
+      "govuk-blue": {
+        "role": "secondary",
+        "displayName": "GOV.UK Blue",
+        "canonical": "#1d70b8",
+        "tonalRamp": ["oklch(15% 0.13 252)", "oklch(26% 0.13 252)", "oklch(38% 0.13 252)", "oklch(49% 0.13 252)", "oklch(60% 0.13 252)", "oklch(72% 0.13 252)", "oklch(83% 0.11 252)", "oklch(95% 0.04 252)"]
+      },
+      "ink-black": {
+        "role": "neutral",
+        "displayName": "Ink Black",
+        "canonical": "#0b0c0c",
+        "tonalRamp": ["oklch(15% 0 0)", "oklch(26% 0 0)", "oklch(38% 0 0)", "oklch(49% 0 0)", "oklch(60% 0 0)", "oklch(72% 0 0)", "oklch(83% 0 0)", "oklch(95% 0 0)"]
+      },
+      "light-grey": {
+        "role": "neutral",
+        "displayName": "Light Grey",
+        "canonical": "#eaeaea",
+        "tonalRamp": ["oklch(15% 0 0)", "oklch(26% 0 0)", "oklch(38% 0 0)", "oklch(49% 0 0)", "oklch(60% 0 0)", "oklch(72% 0 0)", "oklch(83% 0 0)", "oklch(95% 0 0)"]
+      },
+      "hairline-grey": {
+        "role": "neutral",
+        "displayName": "Hairline Grey",
+        "canonical": "#e0e0e0",
+        "tonalRamp": ["oklch(15% 0 0)", "oklch(26% 0 0)", "oklch(38% 0 0)", "oklch(49% 0 0)", "oklch(60% 0 0)", "oklch(72% 0 0)", "oklch(83% 0 0)", "oklch(95% 0 0)"]
+      },
+      "platinum": {
+        "role": "neutral",
+        "displayName": "Platinum",
+        "canonical": "#E5E4E2",
+        "tonalRamp": ["oklch(15% 0.002 80)", "oklch(26% 0.002 80)", "oklch(38% 0.002 80)", "oklch(49% 0.002 80)", "oklch(60% 0.002 80)", "oklch(72% 0.002 80)", "oklch(83% 0.002 80)", "oklch(95% 0.002 80)"]
+      },
+      "text-black": { "role": "neutral", "displayName": "Text Black", "canonical": "#000000", "tonalRamp": ["oklch(15% 0 0)", "oklch(26% 0 0)", "oklch(38% 0 0)", "oklch(49% 0 0)", "oklch(60% 0 0)", "oklch(72% 0 0)", "oklch(83% 0 0)", "oklch(95% 0 0)"] },
+      "text-dark": { "role": "neutral", "displayName": "Text Dark", "canonical": "#333333", "tonalRamp": ["oklch(15% 0 0)", "oklch(26% 0 0)", "oklch(38% 0 0)", "oklch(49% 0 0)", "oklch(60% 0 0)", "oklch(72% 0 0)", "oklch(83% 0 0)", "oklch(95% 0 0)"] },
+      "text-mid": { "role": "neutral", "displayName": "Text Mid", "canonical": "#666666", "tonalRamp": ["oklch(15% 0 0)", "oklch(26% 0 0)", "oklch(38% 0 0)", "oklch(49% 0 0)", "oklch(60% 0 0)", "oklch(72% 0 0)", "oklch(83% 0 0)", "oklch(95% 0 0)"] },
+      "text-muted": { "role": "neutral", "displayName": "Text Muted", "canonical": "#999999", "tonalRamp": ["oklch(15% 0 0)", "oklch(26% 0 0)", "oklch(38% 0 0)", "oklch(49% 0 0)", "oklch(60% 0 0)", "oklch(72% 0 0)", "oklch(83% 0 0)", "oklch(95% 0 0)"] },
+      "paper-white": { "role": "neutral", "displayName": "Paper White", "canonical": "#ffffff", "tonalRamp": ["oklch(15% 0 0)", "oklch(26% 0 0)", "oklch(38% 0 0)", "oklch(49% 0 0)", "oklch(60% 0 0)", "oklch(72% 0 0)", "oklch(83% 0 0)", "oklch(95% 0 0)"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Page titles only (h1#headTitle). The only serif on the site; 2em mobile, 3em from 769px." },
+      "headline": { "displayName": "Headline", "purpose": "h2–h6 in body copy; index-tile headings run 1.25em/800 (1.5em from 769px) in Haud Gold." },
+      "intro": { "displayName": "Intro", "purpose": "The post-intro standfirst under a page title." },
+      "body": { "displayName": "Body", "purpose": "All prose at weight 200; steps from large to x-large at 1600px; 66% measure on desktop." },
+      "label": { "displayName": "Label", "purpose": "Buttons, case prev/next nav, tags, callout headers, figcaptions — uppercase, small, bold." }
+    },
+    "shadows": [
+      { "name": "zoom-hover", "value": "0 4px 10px rgba(0, 0, 0, 0.2)", "purpose": "The sole shadow in the system: feedback on the zoomable case-image hover. Never used at rest." }
+    ],
+    "motion": [
+      { "name": "link-transition", "value": "color 0.1s ease-in-out, background 0.1s ease-in-out", "purpose": "Text links, Haud Gold to black." },
+      { "name": "button-transition", "value": "background-color 0.25s ease-out, color 0.25s ease-out", "purpose": "Declared on .button; no hover rule currently applies it." },
+      { "name": "zoom-transition", "value": "transform 0.3s ease, box-shadow 0.3s ease", "purpose": "Zoomable case-image hover scale." },
+      { "name": "tile-reveal", "value": "all 0.5s ease", "purpose": "Index-tile gold flood and greyscale image fade-in." }
+    ],
+    "breakpoints": [
+      { "name": "desktop", "value": "769px" },
+      { "name": "large-type", "value": "1600px" },
+      { "name": "large-wrapper", "value": "1760px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Button",
+      "kind": "button",
+      "refersTo": "button",
+      "description": "The stamp: bordered, uppercase, square. No hover state is applied in the incumbent CSS (a transition is declared but unused).",
+      "html": "<a href=\"#\" class=\"ds-button\">View the cases</a>",
+      "css": ".ds-button { color: #0b0c0c; text-decoration: none; text-transform: uppercase; font-family: system-ui, sans-serif; font-size: small; font-weight: bold; background-color: #fff; display: inline-block; line-height: 1; padding: 0.5em 1em; border: 2px solid #0b0c0c; border-radius: 0; transition: background-color 0.25s ease-out, color 0.25s ease-out; } .ds-button:focus-visible { outline: 2px solid #af9568; outline-offset: 2px; }"
+    },
+    {
+      "name": "Text link",
+      "kind": "custom",
+      "refersTo": "haud-gold",
+      "description": "Prose links: Haud Gold at rest, black on hover.",
+      "html": "<p class=\"ds-prose\">Read the <a href=\"#\" class=\"ds-link\">full case study</a> for the detail.</p>",
+      "css": ".ds-prose { font-family: system-ui, sans-serif; font-weight: 200; font-size: large; line-height: 1.5; color: #000; margin: 0; } .ds-link { color: #af9568; transition: color 0.1s ease-in-out, background 0.1s ease-in-out; } .ds-link:hover, .ds-link:focus-visible { color: #000; }"
+    },
+    {
+      "name": "Index tile",
+      "kind": "card",
+      "refersTo": "index-tile",
+      "description": "The signature component: a hairline-ruled ledger cell that floods Haud Gold on hover while the case image fades in greyscaled behind inverted text.",
+      "html": "<article class=\"ds-tile\"><figure class=\"ds-tile-figure\"></figure><h2 class=\"ds-tile-title\"><a href=\"#\" class=\"ds-tile-link\">Redesigning a tax service</a></h2><p class=\"ds-tile-excerpt\">How a cross-government team rebuilt the journey around what users actually needed.</p></article>",
+      "css": ".ds-tile { position: relative; overflow: hidden; box-sizing: border-box; padding: 1em 1em 2em 2.5em; background-color: #fff; border: 1px solid #e0e0e0; border-radius: 0; transition: background-color 0.5s ease; font-family: system-ui, sans-serif; min-height: 180px; } .ds-tile-figure { position: static; margin: 0; } .ds-tile-figure::before { content: \"\"; position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(135deg, #777 0%, #bbb 60%, #999 100%); background-size: cover; background-position: 50% 50%; opacity: 0; filter: grayscale(1); mix-blend-mode: multiply; transform: scale(1.05); transition: all 0.5s ease; z-index: 1; } .ds-tile-title { position: relative; z-index: 2; margin: 0.5em 0 0.25em 0; font-size: 1.5em; font-weight: 800; line-height: 1.3; } .ds-tile-link { color: #af9568; text-decoration: none; } .ds-tile-excerpt { position: relative; z-index: 2; margin: 0.25em 0 0 0; font-weight: 200; line-height: 1.5; color: #000; } .ds-tile:hover { background-color: #af9568; } .ds-tile:hover .ds-tile-figure::before { opacity: 0.8; transform: scale(1); } .ds-tile:hover .ds-tile-title, .ds-tile:hover .ds-tile-link, .ds-tile:hover .ds-tile-excerpt { color: #fff; }"
+    },
+    {
+      "name": "Case summary",
+      "kind": "custom",
+      "refersTo": "case-highlight",
+      "description": "The Challenge / Approach / Result block: three Light Grey boxes certified by a thick Haud Gold underline.",
+      "html": "<ul class=\"ds-summary\" aria-label=\"Case highlights\"><li class=\"ds-summary-box\"><h3 class=\"ds-summary-head\">Challenge</h3><p class=\"ds-summary-text\">A paper process failing the people who needed it most.</p></li><li class=\"ds-summary-box\"><h3 class=\"ds-summary-head\">Approach</h3><p class=\"ds-summary-text\">Research-led redesign with the operational team in the room.</p></li><li class=\"ds-summary-box\"><h3 class=\"ds-summary-head\">Result</h3><p class=\"ds-summary-text\">A live service, measurably faster and adopted by the department.</p></li></ul>",
+      "css": ".ds-summary { list-style: none; margin: 0; padding: 0 0 1.25rem 0; display: grid; gap: 0; grid-template-columns: repeat(3, 1fr); background: #eaeaea; border-bottom: 0.5rem solid #af9568; font-family: system-ui, sans-serif; } .ds-summary-box { background: #eaeaea; padding: 1rem; } .ds-summary-head { margin: 0.25rem 0 0.25em 0; font-size: 1em; font-weight: 700; line-height: 1.3; color: #000; } .ds-summary-text { margin: 0; font-weight: 200; line-height: 1.5; color: #000; }"
+    },
+    {
+      "name": "Testimonial quote",
+      "kind": "custom",
+      "refersTo": "haud-gold",
+      "description": "The <q> treatment for quoted praise: a 1px Haud Gold left border marking the citation.",
+      "html": "<q class=\"ds-quote\">Dug is one of the few people I have worked with who can hold the strategy and the detail at the same time.</q>",
+      "css": ".ds-quote { display: block; padding: 0 0 0 1em; margin: 0.75em 0 0.5em 1em; line-height: 150%; border-left: 1px solid #af9568; font-family: system-ui, sans-serif; font-weight: 200; font-size: large; color: #000; quotes: \"\\201C\" \"\\201D\"; }"
+    },
+    {
+      "name": "Callout box",
+      "kind": "custom",
+      "refersTo": "echo-blue",
+      "description": "The floated themes/tags aside: an Echo Blue header strip over stacked Light Grey items — an index card stapled to the page.",
+      "html": "<aside class=\"ds-callout\"><h3 class=\"ds-callout-head\">Themes / tags</h3><ul class=\"ds-callout-list\"><li class=\"ds-callout-item\">service design</li><li class=\"ds-callout-item\">org design</li><li class=\"ds-callout-item\">delivery</li></ul></aside>",
+      "css": ".ds-callout { padding: 0; font-family: system-ui, sans-serif; font-weight: bold; font-size: x-small; text-transform: uppercase; max-width: 240px; } .ds-callout-head { margin: 0; padding: 0.7em 1.5em; color: #666; background-color: #BFD6E9; font-size: 1em; border-bottom: 4px solid #fff; } .ds-callout-list { list-style: none; padding: 0; margin: 0; } .ds-callout-item { background-color: #eaeaea; padding: 0.6em 1em; margin: 0; border-bottom: 1px solid #fff; }"
+    },
+    {
+      "name": "Role timeline",
+      "kind": "custom",
+      "refersTo": "govuk-blue",
+      "description": "The HMRC-style timeline: a GOV.UK Blue spine with tick markers — the only component quoting the government blue.",
+      "html": "<ul class=\"ds-timeline\"><li class=\"ds-timeline-event\"><span class=\"ds-timeline-title\">Head of design, HMRC</span><p class=\"ds-timeline-body\">Led the design community across three delivery centres.</p></li><li class=\"ds-timeline-event\"><span class=\"ds-timeline-title\">Service design lead, Defra</span><p class=\"ds-timeline-body\">Shaped the farm payments service through assessment.</p></li></ul>",
+      "css": ".ds-timeline { border-left: 5px solid #1d70b8; margin: 0; padding-left: 0; list-style: none; font-family: system-ui, sans-serif; } .ds-timeline-event { padding-bottom: 20px; padding-left: 15px; position: relative; margin: 0 0 0.5em 0; } .ds-timeline-title { font-weight: 700; display: block; } .ds-timeline-title::before { background-color: #1d70b8; content: \"\"; height: 5px; left: 0; position: absolute; top: 0.5em; width: 7px; } .ds-timeline-body { margin: 0.25em 0 0 0; font-weight: 200; line-height: 1.5; }"
+    },
+    {
+      "name": "Header nav",
+      "kind": "nav",
+      "refersTo": "light-grey",
+      "description": "The 51px Light Grey site band with the Echo Blue rule beneath: identity left, three nav items right separated by 2px Ink Black rules. The live site uses SVG word-mark assets from /i/headernav/; this snippet approximates them typographically.",
+      "html": "<header class=\"ds-siteheader\"><a href=\"#\" class=\"ds-siteheader-identity\"><svg class=\"ds-siteheader-logo\" width=\"40\" height=\"40\" viewBox=\"0 0 40 40\" role=\"img\" aria-label=\"dug (company logo)\"><text x=\"20\" y=\"27\" text-anchor=\"middle\" font-family=\"system-ui, sans-serif\" font-weight=\"800\" font-size=\"17\" fill=\"#000000\">dug</text></svg><span class=\"ds-siteheader-banner\">Good looks like this.</span></a><nav class=\"ds-siteheader-nav\"><a href=\"#\" class=\"ds-siteheader-navlink\">about</a><a href=\"#\" class=\"ds-siteheader-navlink\">blog</a><a href=\"#\" class=\"ds-siteheader-navlink\">cases</a></nav></header><nav class=\"ds-siteheader-band\" aria-hidden=\"true\"></nav>",
+      "css": ".ds-siteheader { height: 51px; background-color: #eaeaea; display: flex; justify-content: space-between; align-items: center; padding: 0 1em; font-family: system-ui, sans-serif; box-sizing: border-box; } .ds-siteheader-identity { display: flex; align-items: center; text-decoration: none; color: #000; } .ds-siteheader-logo { margin: 0 1em 0 0; } .ds-siteheader-banner { height: 20px; font-size: 14px; font-weight: 800; line-height: 20px; } .ds-siteheader-nav { display: flex; align-items: center; padding: 0.4em 0; } .ds-siteheader-navlink { background-color: transparent; padding: 0 0.5em; font-size: 14px; font-weight: 800; line-height: 19px; color: #000; text-decoration: none; } .ds-siteheader-navlink:first-child { border-right: 2px solid #0b0c0c; } .ds-siteheader-navlink:last-child { border-left: 2px solid #0b0c0c; } .ds-siteheader-navlink:focus-visible { outline: 2px solid #af9568; outline-offset: 2px; } .ds-siteheader-band { border-top: 10px solid #BFD6E9; margin: 0 1em; }"
+    },
+    {
+      "name": "Social list",
+      "kind": "custom",
+      "refersTo": "text-muted",
+      "description": "Footer social links: 20px icons with 14px bold labels, Text Muted at rest darkening to Text Dark on hover. The live site pulls icons from the minima sprite; this snippet inlines equivalent SVGs with currentColor fills.",
+      "html": "<ul class=\"ds-social\"><li><a href=\"#\" class=\"ds-social-link\"><svg class=\"ds-social-icon\" viewBox=\"0 0 16 16\" width=\"20\" height=\"20\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z\"/></svg><span class=\"ds-social-name\">duggregory</span></a></li><li><a href=\"#\" class=\"ds-social-link\"><svg class=\"ds-social-icon\" viewBox=\"0 0 16 16\" width=\"20\" height=\"20\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z\"/></svg><span class=\"ds-social-name\">lrdj</span></a></li><li><a href=\"#\" class=\"ds-social-link\"><svg class=\"ds-social-icon\" viewBox=\"0 0 16 16\" width=\"20\" height=\"20\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M2 12.732a1.634 1.634 0 1 1 0 3.268 1.634 1.634 0 0 1 0-3.268zM.75 6.55a.75.75 0 0 0 0 1.5 7.2 7.2 0 0 1 7.2 7.2.75.75 0 0 0 1.5 0A8.7 8.7 0 0 0 .75 6.55zm0-5.05a.75.75 0 0 0 0 1.5c6.765 0 12.25 5.485 12.25 12.25a.75.75 0 0 0 1.5 0C14.5 8.216 8.284 1.5.75 1.5z\"/></svg><span class=\"ds-social-name\">subscribe</span></a></li></ul>",
+      "css": ".ds-social { display: flex; flex-direction: column; align-items: flex-start; list-style-type: none; padding: 0; margin: 0; font-family: system-ui, sans-serif; } .ds-social li { margin: 0; } .ds-social-link { background: none; text-decoration: none; color: #999; display: flex; align-items: center; transition: color 0.3s; } .ds-social-icon { width: 20px; height: 20px; margin-right: 8px; } .ds-social-name { font-size: 14px; font-weight: bold; } .ds-social-link:hover, .ds-social-link:focus-visible { color: #333; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Annotated White Paper",
+    "overview": "The site reads as a serious government document that someone with taste has marked up. The bones are GOV.UK's — ink-black borders, flat surfaces, disciplined measure, uppercase labels — and the annotations are personal: a Palatino-family serif for page titles, gold marginalia for links and highlights, a pale blue rule across the top of every page. The register is institutional with a wink: the gravity a minister expects of a supplier, carried lightly enough that the quirk is clearly deliberate.\n\nThe echo of GOV.UK is a credential, not a costume. Two of its exact palette values are quoted (#0b0c0c for button ink, #1d70b8 for the role timeline), but the system never impersonates it — most visibly, the brandmark and top nav are deliberately not set in New Transport, respecting that typeface's usage restrictions. The confirmed anti-reference is the me-too consultancy site: nothing here performs, gradients, or borrows another supplier's visual language.\n\nThe build is part of the aesthetic: custom CSS only, no JavaScript for effects, no external fonts, no divs. Depth is drawn with borders and fills, motion is CSS transitions, and every visual decision should survive being read in the page source.",
+    "keyCharacteristics": [
+      "Flat, square, and border-structured — a document, not an app",
+      "One serif (page titles only) against a light-weight system-ui body",
+      "Haud Gold as the single annotation colour; Echo Blue as the ambient rule colour",
+      "Uppercase, small, bold labels — components feel stamped and certain",
+      "System fonts, keyword font sizes, em-based rhythm — the browser's own defaults, disciplined"
+    ],
+    "rules": [
+      { "name": "The Marginalia Rule", "body": "Haud Gold is annotation: links, highlights, underlines, hover fills. It never sets body copy and never fills a surface at rest — the index-tile hover is the one moment it floods, and that flood is the payoff.", "section": "colors" },
+      { "name": "The Echo Rule", "body": "GOV.UK values are quoted, not cloned: #0b0c0c stays on buttons, #1d70b8 stays on the timeline. New accent colours are not added to this palette.", "section": "colors" },
+      { "name": "The One Serif Rule", "body": "The serif stack appears in exactly one place: the page title. Everything else — headings included — is system-ui.", "section": "typography" },
+      { "name": "The No-Transport Rule", "body": "The brandmark and top nav are deliberately not set in New Transport, and it is never introduced. The site evokes GOV.UK; it does not wear its typeface.", "section": "typography" },
+      { "name": "The Keyword Rule", "body": "Font sizes are CSS keywords (small, medium, large, x-large) or em multiples — never px. The type scale belongs to the browser.", "section": "typography" },
+      { "name": "The Flat-By-Doctrine Rule", "body": "Surfaces are flat. Depth and hierarchy are drawn with borders and fills — never with shadows or layering. The sole shadow on the site is the zoomable case-image hover, and it exists only as feedback for a user action. Any new shadow is a violation, not a variation.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do draw structure with borders: 2px Ink Black for interactive emphasis, 1px Hairline Grey for grids, 1px left borders for citations and asides.",
+      "Do keep desktop prose at the 66% measure inside the wrapper.",
+      "Do set labels uppercase, small, weight 700 — the stamped register is the component voice.",
+      "Do use CSS keyword font sizes and em-based spacing; let the browser own the scale.",
+      "Do build all motion as CSS transitions (0.1s links, 0.25s buttons, 0.3s zooms, 0.5s tile reveals) — no JavaScript, no keyframe spectacle.",
+      "Do keep alt text discipline on every hero and nav image; the site targets WCAG AAA where possible, AA as the floor."
+    ],
+    "donts": [
+      "Don't add border-radius anywhere — the system is square by doctrine.",
+      "Don't add shadows at rest; the zoom-hover shadow is the documented sole exception.",
+      "Don't download or link external fonts, and never set anything in New Transport.",
+      "Don't introduce new accent colours, spread GOV.UK Blue beyond the timeline, or use Haud Gold for body text or resting backgrounds.",
+      "Don't write divs; keep spans to a minimum — markup describes the content semantically (this constrains what visual structures are buildable, by design).",
+      "Don't touch the legacy generation (_layouts/ root, root _includes/, old posts) — this system governs _layouts/2023/ and new work only."
+    ]
+  }
+}
