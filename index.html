@@ -59,9 +59,10 @@ bodyclass: blogIndex
                     </p>
                     <!-- endif -->
 
+<!-- class="removed govuk-!-margin-bottom-3" -->
 
                     {%- if post.readit == true -%}
-                        <audio controls="" class="govuk-!-margin-bottom-3" style="position: relative;z-index: 1000;">
+                        <audio controls="" style="position: relative;z-index: 1000;">
                           <source src="{{site.baseurl}}/readit/{{ post.audiobook }}" type="audio/mpeg">
                           Your browser does not support the audio element.
                         </audio>
