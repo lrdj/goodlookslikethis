@@ -25,6 +25,18 @@ paginate_path: "/articles/p:num/"
 
 blogIndexSubtitles: true
 
+# keep these out of the built site (list replaces Jekyll's defaults, so the defaults are repeated here)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - PRODUCT.md
+  - CLAUDE.md
+
 commentcutoff: 1900
 
 # set link structure for blog posts
