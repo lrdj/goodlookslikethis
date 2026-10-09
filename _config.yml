@@ -36,6 +36,9 @@ exclude:
   - vendor/ruby/
   - PRODUCT.md
   - CLAUDE.md
+  - MIGRATION.md
+  - migration-prep-goodlookslikethis.md
+  - _gh-overlay.yml
 
 commentcutoff: 1900
 
