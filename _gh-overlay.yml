@@ -1,0 +1,12 @@
+# GitHub-faithful build overlay. Not published; recreated 9 Oct 2026 from MIGRATION.md section 5.
+# GitHub Pages force-enables these plugins; local `jekyll serve` does not. Use:
+#   bundle exec jekyll build --config _config.yml,_gh-overlay.yml -d /tmp/ghtest --trace
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-seo-tag
