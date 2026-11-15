@@ -147,7 +147,11 @@ p { margin: 0.25em 0 1em 0;line-height: 1.5em; }
 
 ul { margin-top: 0.25em; }
 th, td, li { line-height: 1.5em; }
-sup {vertical-align: super; line-height: 0; font-size: x-small;font-weight: bold;}
+sup {vertical-align: super; line-height: 0; font-size: small;font-weight: bold;}
+/* Large screens: step up with the body copy */
+@media (min-width: 1600px) {
+  sup { font-size: medium; }
+}
 hr { border: none; background: transparent;border-top: 1px solid var(--mc-lightblue); margin:2em 0 2em 0; }
 
 /* callout tag boxes on strategy pages */

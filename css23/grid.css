@@ -357,5 +357,6 @@ body.SPA-figures img { width: 100%; }
 .gallery3 {padding:0;width: 100%;margin-bottom: 1em;}
 .gallery3 img {padding:0;margin: 0 1px 1px 0;width: 32%;}
 
-.footnotes { font-size: small; }
+/* one keyword step below the body copy, at any body size */
+.footnotes { font-size: smaller; }
 
