@@ -37,7 +37,7 @@ They aren't, so I haven't.
 
 _(I'm guessing that I'm in bigger company than the "agentic everything" headlines suggest. Surveys say most large enterprises now have agents in production. Look closer and most of those are assistants following prescribed paths, with a human finishing the job.)_
 
-There are two surveys on this issue (links below): in Sinequa's, half of large enterprises said they had agents in production, yet only 29% described their most advanced deployment as a true agent. In Zapier's, 71% had agents in production, but only 30% said those agents complete most tasks without human intervention.
+There are two surveys on this issue (links below): in Sinequa's, half of large enterprises said they had agents in production, yet only 29% described their most advanced deployment as a true agent.[^1] In Zapier's, 71% had agents in production, but only 30% said those agents complete most tasks without human intervention.[^2]
 
 That doesn't make me a sceptic. I use these tools daily and my observation is simply that we may be pointing them at the wrong jobs.
 
@@ -54,13 +54,15 @@ It seems to me the single question "who absorbs the errors" sorts the good uses 
 
 Then there's the part I really don't understand. We spent years trying to stamp out hallucinations. In a game character, a brainstorm or a rehearsal, making things up is the whole point. We've been focusing on suppressing the thing these models are really really good at.
 
-The transformer was invented for translation (Google Translate itself now runs a Gemini model). The best uses still are translation: jargon to plain English, policy to person, idea to prototype.
+The transformer was invented for translation[^3] (Google Translate itself now runs a Gemini model). The best uses still are translation: jargon to plain English, policy to person, idea to prototype.
 
 Are you exploring using these tools in a way where being wrong is cheap, or even useful? [Happy to chat](mailto:dug@goodlookslikethis.com) if you think it might be helpful.
 
 
 ## Notes:
 
-- Sinequa, [The State of Enterprise Agentic AI in 2026](https://www.sinequa.com/wp-content/uploads/ChapsVision-The-State-of-Enterprise-Agentic-AI-in-2026-Report.pdf) (PDF)
-- Zapier, [AI agents survey 2026](https://zapier.com/blog/ai-agents-survey/)
-- Google blog post from a contributor to "Attention Is All You Need": [Transformer: a novel neural network architecture for language understanding](https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/)
+[^1]: Sinequa, [The State of Enterprise Agentic AI in 2026](https://www.sinequa.com/wp-content/uploads/ChapsVision-The-State-of-Enterprise-Agentic-AI-in-2026-Report.pdf) (PDF)
+
+[^2]: Zapier, [AI agents survey 2026](https://zapier.com/blog/ai-agents-survey/)
+
+[^3]: Google blog post from a contributor to "Attention Is All You Need": [Transformer: a novel neural network architecture for language understanding](https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/)
