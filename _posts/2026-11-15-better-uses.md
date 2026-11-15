@@ -45,7 +45,9 @@ The question I now ask of any use is: if there is always at least a bit of wrong
 
 When Copilot or ChatGPT drafts three replies and I pick one, I absorb it, at a cost in effort and risk that I decide I can afford. When that same model sends the reply for me (ie as an agent), someone else has to do the work, and I find out later.
 
-It seems to me the single question "who absorbs the errors" sorts the good uses from the worrying ones. So for example:
+It seems to me the single question "who absorbs the errors" sorts the good uses from the worrying ones. 
+
+So, for example:
 
 - _Don't automate the process._ <br>Generate the edge cases the process forgot.
 - _Don't book my trip._ <br>Sketch five itineraries I'd never have thought of.
