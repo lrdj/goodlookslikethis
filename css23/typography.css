@@ -1,44 +1,6 @@
 
 /* Fonts and basic element styling */
 
-/*  
-SYSTEM-UI stacks: 
-
-Didone
-font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
-
-Industrial
-font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
-
-Old style
-font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
-
-@font-face {
-  font-family: 'gilroy-extrabold';
-  src: url('/fonts/gilroy/gilroy-extrabold-webfont.woff2') format('woff2'),
-       url('/fonts/gilroy/gilroy-extrabold-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'source sans pro';
-  src: url('/fonts/source-sans/sourcesanspro-bold-webfont.woff2') format('woff2'),
-       url('/fonts/source-sans/sourcesanspro-bold-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'montserrat';
-  src: url('/fonts/Montserrat/Montserrat-Light.ttf') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-*/
-
-
 body {
   font-family: system-ui, sans-serif;
   font-weight: 200;
@@ -89,15 +51,16 @@ h1#headTitle {
   margin: 1em 0 0 0;
   font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
-/* Posts, mobile only: half an em of air between title and intro */
-article.post h1#headTitle { margin-bottom: 0.5em; }
+/* Posts, mobile only: title at 2.25em (about golden against the 1.33em intro),
+   with half an em of air before the intro */
+article.post h1#headTitle { font-size: 2.25em; margin-bottom: 0.5em; }
 /* Desktop */
 @media (min-width: 769px) {
   .emphasisBlock { margin:1.25em 0 0.25em 0; width:66%; }
   h1#headTitle {
   font-size: 3em;
   }
-  article.post h1#headTitle { margin-bottom: 0; }
+  article.post h1#headTitle { font-size: 3em; margin-bottom: 0; }
 }
 
 #siteSubtitle {
