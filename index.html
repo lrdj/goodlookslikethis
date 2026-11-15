@@ -55,7 +55,11 @@ bodyclass: blogIndex
                         {%- endif -%}
 
                         </span>
+                        {%- comment -%} same two checks as _layouts/2023/post.html {%- endcomment -%}
+                        {%- assign postyear = post.date | date: '%Y' | plus: 0 -%}
+                        {%- if post.comments == false or postyear <= site.commentcutoff %}
                         <span id="postComments"><i>(comments disabled)</i></span>
+                        {%- endif %}
                     </p>
                     <!-- endif -->
 
