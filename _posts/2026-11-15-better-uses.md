@@ -47,8 +47,8 @@ When Copilot or ChatGPT drafts three replies and I pick one, I absorb it, at a c
 
 It seems to me the single question "who absorbs the errors" sorts the good uses from the worrying ones. So for example:
 
-- _Don't automate the process._ Generate the edge cases the process forgot.
-- _Don't book my trip._ Sketch five itineraries I'd never have thought of.
+- _Don't automate the process._ <br>Generate the edge cases the process forgot.
+- _Don't book my trip._ <br>Sketch five itineraries I'd never have thought of.
 - _Don't run customer service._ Play the angry customer so teams can rehearse.
 - _Don't decide the case._ Explain the policy in the citizen's own words.
 
