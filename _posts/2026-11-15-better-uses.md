@@ -31,13 +31,13 @@ audiobook:
 comments: true
 ---
 
-We all want to be Tony Stark with Jarvis. If a model's actions were traceable, repeatable, predictable, and accountable, (thanks [Joel](https://www.experienceartisan.com)) I'd wire one into everything tomorrow.
+We all want to be Tony Stark with Jarvis. If a model's actions were traceable, repeatable, predictable, and accountable (thanks [Joel](https://www.experienceartisan.com)) I'd wire one into everything tomorrow.
 
 They aren't, so I haven't.
 
-_(I'm guessing that I'm in bigger company than the "agentic everything" headlines suggest.  Surveys say most large enterprises now have agents in production. Look closer and most of those are assistants following prescribed paths, with a human finishing the job)._
+_(I'm guessing that I'm in bigger company than the "agentic everything" headlines suggest. Surveys say most large enterprises now have agents in production. Look closer and most of those are assistants following prescribed paths, with a human finishing the job.)_
 
-There are two surveys on this issue (links below): in Sinequa’s, half of large enterprises said they had agents in production, yet only 29% described their most advanced deployment as a true agent. In Zapier’s, 71% had agents in production, but only 30% said those agents complete most tasks without human intervention.
+There are two surveys on this issue (links below): in Sinequa's, half of large enterprises said they had agents in production, yet only 29% described their most advanced deployment as a true agent. In Zapier's, 71% had agents in production, but only 30% said those agents complete most tasks without human intervention.
 
 That doesn't make me a sceptic. I use these tools daily and my observation is simply that we may be pointing them at the wrong jobs.
 
@@ -47,16 +47,16 @@ When Copilot or ChatGPT drafts three replies and I pick one, I absorb it, at a c
 
 It seems to me the single question "who absorbs the errors" sorts the good uses from the worrying ones. So for example:
 
-- _Don't automate the process._ Generate the edge cases the process forgot
+- _Don't automate the process._ Generate the edge cases the process forgot.
 - _Don't book my trip._ Sketch five itineraries I'd never have thought of.
 - _Don't run customer service._ Play the angry customer so teams can rehearse.
 - _Don't decide the case._ Explain the policy in the citizen's own words.
 
-Then there's the part I really don't understand. We spent years trying to stamp out hallucinations. In a game character, a brainstorm or a rehearsal, making things up is the whole point. We've been focussing on suppressing the thing these models are really really good at.
+Then there's the part I really don't understand. We spent years trying to stamp out hallucinations. In a game character, a brainstorm or a rehearsal, making things up is the whole point. We've been focusing on suppressing the thing these models are really really good at.
 
 The transformer was invented for translation (Google Translate itself now runs a Gemini model). The best uses still are translation: jargon to plain English, policy to person, idea to prototype.
 
-Are you exploring using these tools in a way where being wrong is cheap, or even useful? [Happy to chat](mailto:dug@goodlookslikethis.com) if you think it might be helpful
+Are you exploring using these tools in a way where being wrong is cheap, or even useful? [Happy to chat](mailto:dug@goodlookslikethis.com) if you think it might be helpful.
 
 
 ## Notes:
