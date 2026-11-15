@@ -49,8 +49,8 @@ It seems to me the single question "who absorbs the errors" sorts the good uses 
 
 - _Don't automate the process._ <br>Generate the edge cases the process forgot.
 - _Don't book my trip._ <br>Sketch five itineraries I'd never have thought of.
-- _Don't run customer service._ Play the angry customer so teams can rehearse.
-- _Don't decide the case._ Explain the policy in the citizen's own words.
+- _Don't run customer service._ <br>Play the angry customer so teams can rehearse.
+- _Don't decide the case._ <br>Explain the policy in the citizen's own words.
 
 Then there's the part I really don't understand. We spent years trying to stamp out hallucinations. In a game character, a brainstorm or a rehearsal, making things up is the whole point. We've been focusing on suppressing the thing these models are really really good at.
 
