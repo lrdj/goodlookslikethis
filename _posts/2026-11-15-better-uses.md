@@ -24,9 +24,7 @@ tags:
   - Technology
   - Service design
 
-related:
-  - https://goodlookslikethis.com/better-uses.html
-  - https://goodlookslikethis.com/missing-accountability.html
+series: ai-accountability
 
 date: 2026-11-15
 

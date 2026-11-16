@@ -63,6 +63,7 @@ date: YYYY-MM-DD
 ```yaml
 readit: true            # marks post for reading list feature
 audiobook: filename.mp3 # links to audio version
+series: some-key        # groups posts into a series (see Data files)
 ```
 
 **Case studies (2023/case.html):**
@@ -119,6 +120,7 @@ Active collections and their slugs:
 - `_data/constants.yml` and `_data/constants-rev.yml` — case category slug definitions; two versions exist, purpose of the difference is unclear
 - `_data/linkedin-recommendations.yml` and `_data/LI-recommendations-formatted.yaml` — same LinkedIn data in two files
 - `_data/roles.json` — role/experience data
+- `_data/series.yml` — title and synopsis per post series, keyed by the `series:` front matter value; rendered by `_includes/2023/series.html` (included from `2023/post.html`) once two posts share a key
 
 ## Layout conditionals to know about
 

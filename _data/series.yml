@@ -1,0 +1,7 @@
+# Post series. The key matches `series:` in a post's front matter.
+# Both fields are optional: without an entry here, the series box shows the key as its title.
+
+ai-accountability:
+  title: Who answers for the AI?
+  synopsis: >
+    What happens when genAI arrives in a team and nobody decides who answers for what it produces.

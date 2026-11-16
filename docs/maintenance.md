@@ -72,6 +72,7 @@ Body content in markdown.
 - The filename date and the `date:` field should match.
 - Posts are date-ordered automatically — no need to manage their order by hand.
 - Optional newer keys: `audiobook: filename.mp3`, `readit: true` (reading-list feature).
+- To group posts into a series, give each one the same `series: some-key`. Once two posts share a key, a box at the foot of each lists the series oldest first and marks the current post. Add a title and synopsis for the key in `_data/series.yml` (optional; without one the key itself is shown).
 
 ### Add a case study
 

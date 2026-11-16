@@ -29,9 +29,7 @@ tags:
   - Service design
   - Organisational culture
 
-related:
-  - https://goodlookslikethis.com/better-uses.html
-  - https://goodlookslikethis.com/missing-accountability.html
+series: ai-accountability
 
 readit: false
 audiobook:
@@ -48,29 +46,42 @@ I've blended the project details as this isn't about pointing fingers. All three
 
 ## We dropped user research
 
-On the first programme, user research was dropped in favour of asking a chatbot. This made things happen more quickly, but what went missing was research's paper-trail: the discussion guide, the recruitment screeners, the anonymised sensemaking on the Sharepoint. 
+On the first programme, user research was dropped in favour of asking a chatbot. This made things happen more quickly, but what went missing was research's paper trail: the discussion guide, the recruitment screeners, the anonymised sensemaking on the SharePoint. With that, the institutional learning from the process of product development was lost. 
 
-Nobody met a user, so nobody could say where an insight originated. I didn't see where the decisions based on those non-insights ultimately went, but [I argued previously](/better-uses.html) that they almost certainly move downstream to hit the people using the service.
+Nobody met a user, so nobody could say where an insight originated. I didn't see where the decisions based on those non-insights ultimately went, but [I argued previously](/better-uses.html) that any resulting errors caused by those decisions would almost certainly move downstream to hit the people using the service.
 
 ## We didn't have time for sensemaking so we gave it to Copilot
 
-On the second, workshop transcripts went straight into an AI assistant and came out as documents that early-stage teams were then told to build on. The output was plausible enough to keep, but uncertain enough that we couldn't really rely on it. 
+On the second, workshop transcripts went straight into an AI assistant and came out as documents that early-stage teams were then told to build on. The output was plausible enough to keep, but uncertain enough that we couldn't 100% rely on it. 
 
-The most frequent failure of an AI summary is not inventing things but leaving them out, which sucks because you can't proofread what isn't there.[^1] The end result of this process was very competent business analysts, under pressure to deliver, raising issues that turned out not to be issues, and time-strapped subject-matter experts confirming, again, that they weren't. This created an environment where escalations about wasting important people's time became common.
+The most frequent failure of an AI summary is not inventing things but leaving them out, which sucks because you can't proofread what isn't there.[^1] The end result of this process was very competent business analysts, under pressure to deliver, raising issues that turned out not to be issues, and time-strapped subject-matter experts confirming, again, that they weren't. This ended up with frequent escalations about wasting senior people's time.
 
-## Someone vibe-coded all the answers
+## Someone vibe-coded our design reference
 
-In this last scenario, the team maintained a master design Figma file by hand, but the de-facto master was elsewhere: the logic lived in configuration files and every word of content sat in a single data file. 
+In this last scenario, the team maintained an enormous master design Figma file by hand, but the de facto master was elsewhere: the logic lived in configuration files and every word of content sat in a single data file. 
 
 A contractor asked an LLM to read all those files and build a working twin of the live service, one the team could test with users and change in minutes. The twin matched exactly, because it was built from the same source. 
 
-With a mandate and an owner it could have been the team's own tool. It had neither: nobody had decided who would own it or what the team's work would become once it existed. When the team saw it, their first reaction was "but Figma…" So their first taste of a change that may well come anyway was an undermining one. The technology worked, the team turned it down, and the way the service was maintained did not improve at all.
+With a mandate and an owner it could have been the team's own tool. 
+
+It had neither: nobody had decided who would own it or what the team's work would become once it existed. When the team saw it, their first reaction was "but Figma…" So their first taste of a change that may well come anyway was an undermining one.
+
+<!--
+ The technology worked, the team turned it down, and the way the service was maintained did not improve at all.
+-->
 
 ## What am I seeing here?
 
 What these three teams never got was a decision about who answers for the output. That decision was leadership's to make and it didn't happen. 
 
-The decision needs to come in two halves. Someone has to answer for whether it's right and someone has to answer for what it's for. On none of these programmes did anyone in charge treat it as a decision at all.
+The decision needs to come in two halves. 
+
+- Someone has to answer for whether it's right 
+- and someone has to answer for what it's for
+
+The second half is the easy one to forget. The genrated twin was right, but being right wasn't enough.
+
+On none of these programmes did anyone in charge treat it as a decision at all.
 
 The result is organisations undermining their own assets and skills, and wasting the effort of the dedicated and talented humans they already have.
 
@@ -78,7 +89,7 @@ The result is organisations undermining their own assets and skills, and wasting
 
 I have no performance metrics for any of these observations. What I do have is months of Teams calls, watching the same things happen to capable people. 
 
-The unmanaged use of genAI tools is moving teams' mastery from making things to judging outcomes. We are currently messing about with the making without formally naming judging as the job, and without giving people the authority to do it.
+The unmanaged use of genAI tools is moving teams' mastery from making things to judging outcomes. We are currently messing about with the making without formally naming the judging as the job, and without giving people the authority to do it.
 
 While this may seem a little abstract, it's worth remembering Daniel Pink's work on innate motivation.[^2] He rates "mastery" and "autonomy" as two of the three main drivers, and what we're doing is putting a question mark next to both of those.
 
@@ -87,8 +98,6 @@ While this may seem a little abstract, it's worth remembering Daniel Pink's work
 This is a leadership gap, and it's cultural before it's technical. 
 
 None of the three teams mentioned above could have closed it themselves, because deciding who answers for something takes authority they didn't have. Service designers have a question for it: where does the human sit, and what do they see before something happens? That belongs on the blueprint before a new tool is introduced, with two names next to it: who vouches for the output, and who decides what it's for. As [Joel](https://www.experienceartisan.com) put it after the last post, "I want a name against whoever answers for the miss."
-
-_[Dug: this is the section to build out. What else goes in the practice?]_
 
 These are digital leadership issues but they are really a smaller part of something bigger. As a society we're surrendering a lot of our autonomy to the people who build these tools, but that's for another post.
 

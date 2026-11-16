@@ -242,3 +242,20 @@ a:hover {
 /* footer */
 #siteFooterSlug { font-size: smaller; }
 
+
+
+/* Series box at the foot of a post (_includes/2023/series.html) */
+
+.post-series {
+  margin: 2.5em 0 1.5em 0;
+  padding: 0.25em 0 0.25em 1rem;
+  border-left: 4px solid var(--mc-lightgray);
+}
+.df-width-two-thirds .post-series h2 { width: auto; font-size: 1.1em; margin: 0 0 0.5em 0; }
+.df-width-two-thirds .post-series p { width: auto; margin: 0 0 0.5em 0; }
+.df-width-two-thirds .post-series p.post-series-label { font-size: small; margin: 0 0 0.25em 0; }
+.post-series ol { margin: 0; padding-left: 1.25em; }
+.post-series li { margin: 0.25em 0; }
+@media (min-width: 769px) {
+  .post-series { width: 66%; box-sizing: border-box; }
+}

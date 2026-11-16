@@ -81,6 +81,7 @@ date: YYYY-MM-DD
 # newer optional keys:
 readit: true          # reading-list feature
 audiobook: file.mp3   # links an audio version
+series: some-key      # groups posts; see _data/series.yml
 ```
 
 ### Case study front matter
@@ -168,6 +169,7 @@ See [maintenance.md › Collections](maintenance.md#collections) for the table a
 | `cases.yml` | partial | Portfolio theme labels. Contains `portfolio_themesA` and `portfolio_themesB` which are **identical** — an unresolved A/B test. |
 | `linkedin-recommendations.yml` | dup | Same LinkedIn data as `LI-recommendations-formatted.yaml`. Two formats of one dataset. |
 | `LI-recommendations-formatted.yaml` | dup | See above. |
+| `series.yml` | **LIVE** | Title and synopsis per post series, keyed by the `series:` front matter value. Read by `_includes/2023/series.html`, which `2023/post.html` includes after the post body. |
 | `roles.json` | live | Role / experience data. |
 
 ---

@@ -1,0 +1,27 @@
+{%- comment -%}
+  Series box for posts that share a `series:` key in front matter.
+  Title and synopsis come from _data/series.yml (optional; falls back to the key).
+  Posts are listed oldest first. Nothing renders until the series has two posts.
+{%- endcomment -%}
+{%- if page.series -%}
+  {%- assign series_meta = site.data.series[page.series] -%}
+  {%- assign series_posts = site.posts | where: "series", page.series | sort: "date" -%}
+  {%- if series_posts.size > 1 -%}
+<aside class="post-series" aria-labelledby="postSeriesTitle">
+  <p class="post-series-label">This post is part of a series</p>
+  <h2 id="postSeriesTitle">{{ series_meta.title | default: page.series }}</h2>
+  {%- if series_meta.synopsis %}
+  <p>{{ series_meta.synopsis }}</p>
+  {%- endif %}
+  <ol>
+    {%- for series_post in series_posts %}
+    {%- if series_post.url == page.url %}
+    <li aria-current="page"><strong>{{ series_post.title }}</strong> (this post)</li>
+    {%- else %}
+    <li><a href="{{ series_post.url | relative_url }}">{{ series_post.title }}</a></li>
+    {%- endif %}
+    {%- endfor %}
+  </ol>
+</aside>
+  {%- endif -%}
+{%- endif -%}
