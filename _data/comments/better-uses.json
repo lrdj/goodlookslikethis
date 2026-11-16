@@ -1,0 +1,170 @@
+{
+  "post": "better-uses",
+  "post_file": "_posts/2026-11-15-better-uses.md",
+  "source": "linkedin",
+  "source_url": null,
+  "captured": "2026-11-15",
+  "notes": "Pasted by hand from the LinkedIn comment thread. Times are relative to the moment of capture; LinkedIn showed no absolute timestamps. Text is verbatim, including typos and the commenters' spelling of names. Tracking parameters removed from profile URLs. Order is as LinkedIn displayed it. had_more_marker means the paste ended with LinkedIn's '… more' expander text, so check the comment is complete before quoting. Not yet cleared with the commenters for republishing.",
+  "permission": {
+    "Matt Desmier": null,
+    "Nicola Cooper": null,
+    "Joel Gill FRSA": null,
+    "Miles Cheverton": null
+  },
+  "comments": [
+    {
+      "id": "matt-1",
+      "author": {
+        "name": "Matt Desmier",
+        "profile_url": "https://www.linkedin.com/in/mattdesmier/",
+        "headline": "Business & Innovation. Helping leaders and teams solve complex problems, spot what’s next, and actually make it happen"
+      },
+      "is_post_author": false,
+      "posted_relative": "3h",
+      "edited": false,
+      "reactions": 1,
+      "had_more_marker": false,
+      "text": "Perhaps it's my training as a designer Dug, and the years spent applying design thinking methodology to everyday business problems; or\n\nMy post-graduate studying of corporate communications, and the idea that a corporate brand built on strong reputational management is a massive value-adding differentiator; or\n\nWorking with large organisations, those with slow-moving bureaucratic systems and processes, and helping them become more innovative in the way they think and act...\n\nThis race to hand over control of our data and our work, to an unaccountable and untested third party, in a bid to commoditise our offer as quickly as possible and strip out any intangible benefits a customer or client might relish, seems maddening to me.\n\nBut hey, who am I and what do I know?",
+      "replies": [
+        {
+          "id": "matt-1-dug-1",
+          "author": {
+            "name": "Dug Falby",
+            "profile_url": null,
+            "headline": "Service Designer and Strategic Advisor"
+          },
+          "is_post_author": true,
+          "posted_relative": "2h",
+          "edited": true,
+          "reactions": 1,
+          "had_more_marker": false,
+          "text": "Matt Desmier my training as a design leader and design thinking (yes, I said it. Problem space hackers and all) practitioner says: Group hug. Asap.",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nicola-1",
+      "author": {
+        "name": "Nicola Cooper",
+        "profile_url": "https://www.linkedin.com/in/nicola-m-cooper/",
+        "headline": "Head of Digital Futures at Scottish Care. Interested in where we are going and how we get there. Making things work better now by Design. Substack @nicolacooper1"
+      },
+      "is_post_author": false,
+      "posted_relative": "7h",
+      "edited": false,
+      "reactions": 0,
+      "had_more_marker": false,
+      "text": "This really resonates, Doug, particularly the distinction between using AI to replace an interaction and using it to help people become better equipped to manage that interaction themselves.\n\nWe’re exploring something similar in adult social care, where relationships, trust and professional judgement are fundamental to good care. I’m increasingly interested in how we distinguish between AI use cases and genuine value cases. There’s no shortage of applications being proposed, but I’m less convinced we’re asking the right questions about where AI could make the greatest contribution.\n\nYour example of coaching rather than replacing the customer service team is a really useful way of reframing that conversation. It would be good to connect and explore some of the read across to social care.",
+      "replies": [
+        {
+          "id": "nicola-1-dug-1",
+          "author": {
+            "name": "Dug Falby",
+            "profile_url": null,
+            "headline": "Service Designer and Strategic Advisor"
+          },
+          "is_post_author": true,
+          "posted_relative": "5h",
+          "edited": false,
+          "reactions": 1,
+          "had_more_marker": false,
+          "text": "Nicola Cooper Hey Nicola, sounds like you're already exploring in the right direction:-) I think a catch up sounds like a great idea. I'll DM you.\nAlso, I'm stealing \"use case vs value case\"!",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "joel-1",
+      "author": {
+        "name": "Joel Gill FRSA",
+        "profile_url": "https://www.linkedin.com/in/joelgillfrsa/",
+        "headline": "Catalyst. Design, Product & Transformation Executive | Making experience and AI workable at enterprise scale"
+      },
+      "is_post_author": false,
+      "posted_relative": "8h",
+      "edited": false,
+      "reactions": 1,
+      "had_more_marker": false,
+      "text": "Dug Falby\n\nDoug, this is the right question, and it sorts the field better than most frameworks I have seen.\n\nDrafting is cheap because the human is the control. Acting is expensive because the control has gone, and the error lands on someone who never agreed to carry it.\n\nThat is not a model problem. It is a governance problem.\n\nI spent years watching enterprises mistake activity for assurance.\nAn agent in production with a person finishing the job is still an assistant. Your two surveys say as much.\n\nSo, if I may...  I would add one word to your list: traceable, repeatable, predictable, and accountable.\nBefore anything acts on my behalf, I want a name against whoever answers for the miss.\n\nWhere wrong is cheap, I am with you.\nRehearsal, edge cases, translation, the first ugly draft.\nThere, making things up is not a defect. It is the raw material.",
+      "replies": [
+        {
+          "id": "joel-1-dug-1",
+          "author": {
+            "name": "Dug Falby",
+            "profile_url": null,
+            "headline": "Service Designer and Strategic Advisor"
+          },
+          "is_post_author": true,
+          "posted_relative": "6h",
+          "edited": false,
+          "reactions": 0,
+          "had_more_marker": false,
+          "text": "Joel Gill FRSA 100% text updated!",
+          "replies": []
+        },
+        {
+          "id": "joel-1-dug-2",
+          "author": {
+            "name": "Dug Falby",
+            "profile_url": null,
+            "headline": "Service Designer and Strategic Advisor"
+          },
+          "is_post_author": true,
+          "posted_relative": "5h",
+          "edited": false,
+          "reactions": 1,
+          "had_more_marker": false,
+          "text": "Joel Gill FRSA I actually had to break this in two as it got too long. This bit builds on the early \"helpful trumps accurate\" understanding of LLMs in business contexts. I wrote up the impact of management not providing \"accountable\" on some recent projects I worked on, will post that in a separate post:-)",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "miles-1",
+      "author": {
+        "name": "Miles Cheverton",
+        "profile_url": "https://www.linkedin.com/in/thetalldesigner/",
+        "headline": "Senior Service Designer"
+      },
+      "is_post_author": false,
+      "posted_relative": "9h",
+      "edited": false,
+      "reactions": 0,
+      "had_more_marker": true,
+      "text": "I'm all in whilst keeping the human in the loop.\n\nJust today it returned faulty sub woofer for me without me typing a word, and that was after fault checking it for me to make sure it really was broken\n\nMy calendar agent reminded me to get cover for the dog for a work trip\n\nAnd I set a robot towards setting up a retro gaming PC I could not be bothered to spend 5 hours on\n\nI've got a robot sucking out all my kids homework from 4 different sources, dating it, linking it, providing support revision materials, and dumping it into their Apple Reminders lists\n\nI've got one that looks at a folder for pictures and then automatically lists it on eBay for me, writes the title, price, description\n\nThere are a dozen more as well TBH.\n\nFor me it's a balance. All the things you mention - true.  But can I do all the things I want to do right now? No. I am out of time and energy constantly, so can I hand over less risky things to a robot and be able to spend time on the things I need to use my human brain for? Yes. I always will.",
+      "replies": [
+        {
+          "id": "miles-1-dug-1",
+          "author": {
+            "name": "Dug Falby",
+            "profile_url": null,
+            "headline": "Service Designer and Strategic Advisor"
+          },
+          "is_post_author": true,
+          "posted_relative": "5h",
+          "edited": false,
+          "reactions": 1,
+          "had_more_marker": true,
+          "text": "Miles Cheverton Fair challenge:-) Let's see... a broken eBay listing or a missed dog-sitter? That impacts you personally. You gave your consent and in exchange you get your evenings back. That sounds like an equitable trade. I guess where I get worried is when the consent isn't explicitely informed. What happens when it goes wrong and it lands on someone who didn’t choose it.\nCool you've found a happy place where you can agent up but still manage the risk the way you want to. How do you decide what to check, what to let run? How do you call the \"risky\" ?",
+          "replies": []
+        },
+        {
+          "id": "miles-1-miles-2",
+          "author": {
+            "name": "Miles Cheverton",
+            "profile_url": "https://www.linkedin.com/in/thetalldesigner/",
+            "headline": "Senior Service Designer"
+          },
+          "is_post_author": false,
+          "posted_relative": "5h",
+          "edited": false,
+          "reactions": 0,
+          "had_more_marker": true,
+          "text": "Dug Falby Hey it's early days, I am finding my way in the dark as much as anyone! Sure there is risk, but I missed the dog cover far more previously than I do now (then lean on my poor mother) and with ebay, I have so much to list that I just won't do without help, this is better than the alternative. If it's something worth £500, I'll do it, if it's a bit of vinyl worth £30? I can run that risk.\n\nI suppose I am making a risk assessment each time and considering the risk of the thing not getting done, as I don;t have the time to do it, compared to the seemingly smaller chance it goes wrong and I have to pick up the pieces.\n\nI designed a agent/robot to look after my smart home, that has taken a huge risk out of the equation, too many pieces meant it kept having holes in it, now the light switches work when I press them and the house warms up when it's cold!",
+          "replies": []
+        }
+      ]
+    }
+  ]
+}
