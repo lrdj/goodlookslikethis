@@ -31,6 +31,8 @@ tags:
 
 series: ai-accountability
 
+date: 2026-11-16
+
 readit: false
 audiobook:
 comments: true
