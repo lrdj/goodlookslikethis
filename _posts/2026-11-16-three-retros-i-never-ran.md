@@ -14,7 +14,7 @@ hero_image_caption: >
   Change is hard, and working in teams is hard, and sharing what we feel when things aren't working is also hard. Retros can help.
 
 intro: >
-  Recently I worked with three teams who all had AI stuff (LLM-powered chatbots like Claude and Copilot) turn up in their work. This post is about what happens to people's work when a tool arrives: whose job changes? What care gets lost? What gets compromised or cut across? and the fact that in each case, nobody treated those questions as important.
+  Recently I worked with three teams who all had AI stuff (LLM-powered chatbots like Claude and Copilot) turn up in their work. This post is about what happens to people's work when a tool arrives: whose job changes? What care gets lost? What gets compromised or cut across? In each case, nobody treated those questions as important.
 
 categories:
   - Leadership
@@ -69,6 +69,8 @@ The team's retro board:
 Discovery workshop transcripts went straight into an AI assistant and came out as documents that alpha teams were told to use as evidence. 
 
 The most frequent failure of an AI summary is actually leaving things out, which sucks because you can't proofread what isn't there.[^1] In this project, we ended up with very competent business analysts raising issues that turned out not to be issues, and time-strapped subject-matter experts confirming, again, that they weren't.
+
+The team's retro board:
 
 - **Stop:** handing summaries on as evidence.
 - **Start:** budgeting time to check the genAI outputs against the transcripts, as a group.
