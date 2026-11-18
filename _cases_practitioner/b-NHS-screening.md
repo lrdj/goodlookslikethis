@@ -17,7 +17,7 @@ subtitle: >
 # index_video:
 # hero_video:
 
-hero_image: /i/cases/nhs/as-is-with-lego-bricks-alpha.png
+hero_image: /i/cases/nhs/as-is-with-lego-bricks-alpha.webp
 hero_image_alt: Screening journey blueprint with the four prioritised initiatives marked a to d
 # hero_image_zoom: 1.2
 hero_image_caption: >
@@ -132,8 +132,8 @@ The NHS screening services, including those for breast, cervical and bowel cance
 
 
 <figure style="display:flex;">
-  <img style="width:48%;" src="/i/cases/nhs/as-is-with-lego-bricks-base.png" alt="Using the DART framework as workshop stimulus" />
-  <img style="width:48%;border-left:10px solid white;" src="/i/cases/nhs/as-is-with-lego-bricks-alpha.png" alt="Brainstorming opportunities using identified problems as stimulus" class="zoomable-image"/>
+  <img style="width:48%;" src="/i/cases/nhs/as-is-with-lego-bricks-base.webp" alt="Using the DART framework as workshop stimulus" />
+  <img style="width:48%;border-left:10px solid white;" src="/i/cases/nhs/as-is-with-lego-bricks-alpha.webp" alt="Brainstorming opportunities using identified problems as stimulus" class="zoomable-image"/>
 </figure>
 
 <p class="imagecaption">
@@ -144,6 +144,13 @@ The NHS screening services, including those for breast, cervical and bowel cance
 ## Results
 
 **Across the multiple screening patient journeys, four strategic themes or areas of focus emerged and I produced a blueprint document showing the elements to focus on in each of the four themes. Product leadership were then able to build my findings and recommendations into the business case for digital investment.** 
+
+The four themes, marked a to d in the blueprint at the top of this page, were:
+
+- **a. Targeted outreach:** more relevant, personalised communications, with outreach prototyped and tested via social media
+- **b. Self-service booking:** letting participants book for themselves and choose their channel
+- **c. Reminders:** a reminder service via SMS and other channels
+- **d. Reporting:** co-designed reports and a new reporting and management information service
 
 My stakeholder was successful in their application and the extensible service MVP is in production with further screening journeys going live over the coming months.
 
