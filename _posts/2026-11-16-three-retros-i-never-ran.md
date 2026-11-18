@@ -8,13 +8,13 @@ subtitle: >
 hero_image: /i/three-retros.webp
 
 hero_image_alt: >
-  TBC
+  A black-and-white line-screen image of Dug in his home-made exoskeleton suit, visor pushed up over round glasses, reaching towards a glass wall covered in sticky notes while a colleague in glasses looks on beside him.
 
 hero_image_caption: >
   Change is hard, and working in teams is hard, and sharing what we feel when things aren't working is also hard. Retros can help.
 
 intro: >
-  Recently I worked with three teams who all had AI stuff (LLM-powered chatbots like Claude and Copilot) turn up in their work. This post is about what happens to people's work when a tool arrives: whose job changes? What care gets lost? What gets compromised or cut across? In each case, nobody treated those questions as important.
+  Recently I worked with three teams who all had AI stuff (LLM-powered chatbots like Claude and Copilot) turn up in their work so I thought I'd write about what happens to people's work when a tool arrives. Whose job changes? What care gets lost? What gets compromised or cut across? In each case, nobody treated those questions as important.
 
 categories:
   - Leadership
