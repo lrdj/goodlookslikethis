@@ -1,0 +1,105 @@
+---
+layout: 2023/post
+title: "Three retros I never ran"
+
+subtitle: >
+  GenAI turned up in the work of three teams I worked with. If I could wind back the clock and run a retro with each, what would end up on the board?
+
+hero_image: /i/the-accountability-gap-lighter.webp
+
+hero_image_alt: >
+  A blue-tinted detail of William Blake's Newton: a naked, muscular figure sits on a lichen-covered rock, bent double over a scroll, measuring a diagram with a pair of compasses.
+
+hero_image_caption: >
+  William Blake, Newton (1795). Back turned to what you're supposed to be describing.
+
+intro: >
+  Recently I worked with three teams who all had genAI turn up in their work. This post is about what happens to people's work when a tool arrives: whose job changes, what care gets lost or cut across, and the fact that nobody treated that as the question.
+
+categories:
+  - Leadership
+  - Transformation
+  - Culture
+
+tags:
+  - AI
+  - LLM
+  - Leadership
+  - Retrospectives
+  - Service design
+  - Organisational culture
+
+series: ai-accountability
+
+date: 2026-11-16
+
+readit: false
+audiobook:
+comments: true
+
+# Kept for possible posts of their own:
+#
+#   There's a longer-term cost too. Judgement is learned by making. When we
+#   stop hiring juniors and apprentices who learn to make things, we close the
+#   place where our future judges are trained.
+#
+#   The accountability post: where does the human sit, and what do they see
+#   before something happens? Two names on the blueprint: who vouches for the
+#   output, and who decides what it's for. The earlier version of this post
+#   ("The accountability gap", series: ai-accountability) is in git at c97d3e3.
+
+---
+
+While I was busy playing with LLMs with a web dev or service design hat on, the rest of the world was trying to adopt them. I've blended the details of what I saw, as this isn't about pointing fingers. But I keep wondering: if I could wind back the clock and run a retro with each team, what would end up on the board?
+
+## We dropped user research
+
+User research was dropped in favour of asking a chatbot. This made things happen more quickly, but what went missing was research's paper trail: the discussion guide, the recruitment screeners, the anonymised sensemaking on the SharePoint. Nobody met a user, so nobody could say where an insight originated.
+
+- **Stop:** treating chatbot answers as findings.
+- **Start:** keeping the paper trail, whatever the tool.
+- **Continue:** using the model for exploration support and workshop stimulus.
+
+## We didn't have time for sensemaking so we gave it to Copilot
+
+Discovery workshop transcripts went straight into an AI assistant and came out as documents that alpha teams were told to use as evidence. The most frequent failure of an AI summary is not inventing things but leaving them out, which sucks because you can't proofread what isn't there.[^1] We ended up with very competent business analysts raising issues that turned out not to be issues, and time-strapped subject-matter experts confirming, again, that they weren't.
+
+- **Stop:** handing summaries on as evidence.
+- **Start:** budgeting time to check the summary against the transcripts, as a group.
+- **Continue:** using the tools to track and query the linkages between services and policies.
+
+## Someone vibe-coded our design reference
+
+This team had a process. The design lead owned a static prototype and, with a dedicated interaction designer, updated it on a release schedule to keep it in step with live. The content designers owned a single Figma file as the reference. It didn't work 100%, but the people and the intention were there.
+
+All of it was synced by hand. The suggestion was to pull dynamically from the same sources as the live service, and an LLM built a working twin that did just that: one the team could test with users and change in minutes.
+
+What goes on this board depends on who's in the room.
+
+The design team:
+
+- **Stop:** breaking our Figma workflow.
+- **Start:** fixing how this is going to work before it lands on us. We're super busy and under pressure to deliver, the workslop isn't helping, and we don't want to design in code. We use design tools.
+
+Product leadership and the developers, I think:
+
+- **Start:** making it official. Make it someone's job to own and maintain it.
+- **Continue:** pulling from the same sources as live, with more time for the interactions themselves.
+
+Both asks are reasonable. They were never on the same board.
+
+## Reading across
+
+There isn't much in the continue column. What's there looks the same each time: the model supporting someone's thinking, with a person still doing the judging. That's where I [ended up last time](/better-uses.html).
+
+What the three boards share is this. Each time, a tool changed whose job something was, and it was handled as a delivery question. On the first two teams the work went away and the care went with it. On the third the care was already there, and the tool cut across it.
+
+So it's cultural before it's technical. The twin was the right way to go, and it still wasn't right for that team.
+
+Which is why I keep coming back to the retro. It's a small piece of accountability: the place where a team says what a change is doing to their work, and where each action leaves the room with a name against it. It keeps the people leading the work answerable to the people doing it. All three teams did tonnes of retros. AI never came up in them.
+
+I don't know yet what good looks like here, but I'm going to keep looking. If your team has found it, [happy to chat](mailto:dug@goodlookslikethis.com).
+
+## Notes:
+
+[^1]: Dave Saunders, [Your AI Meeting Summary Is Probably Missing Something](https://hackernoon.com/your-ai-meeting-summary-is-probably-missing-something), HackerNoon, 4 August 2026. He draws on a study of 35 meetings summarised by an earlier generation of model, so treat it as indicative.
