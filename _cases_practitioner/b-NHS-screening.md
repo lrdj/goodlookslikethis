@@ -5,7 +5,7 @@ title: Transforming NHS screening services for patients and healthcare staff
 # title: NHS digital transformation of screening services
 
 subtitle: >
-  To drive the transformation of NHS-mandated screening services, I led an end-to-end redesign to improve both patient experience and operational efficiency, working across multiple stakeholder groups – including policy, technology, and clinical teams.
+  I led the service design work that helped NHS screening leadership decide where to invest next, working across policy, technology and clinical teams.
 
 # subtitle: >
 #  Guiding teams at the NHS to deliver the digital transformation 
@@ -88,7 +88,7 @@ The NHS screening services, including those for breast, cervical and bowel cance
 
 ### Understanding the ecosystem constraints
 
-- Unravel the stakeholder spaghetti (NHS/PHE/others)
+- Unravel the stakeholder spaghetti (NHS, public health bodies and others)
 - Desk research, onboarding with data, review user interviews
 - Primary service design research (role-play workshops with SMEs and stakeholders)
 - Policy safari, meeting stakeholders across policy, digital and clinical. How the pieces fit together
@@ -152,5 +152,5 @@ The four themes, marked a to d in the blueprint at the top of this page, were:
 - **c. Reminders:** a reminder service via SMS and other channels
 - **d. Reporting:** co-designed reports and a new reporting and management information service
 
-My stakeholder was successful in their application and the extensible service MVP is in production with further screening journeys going live over the coming months.
+My stakeholder was successful in their application and the extensible service MVP went into production, with further screening journeys planned to follow.
 
