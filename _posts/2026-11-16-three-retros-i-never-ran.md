@@ -52,7 +52,7 @@ comments: true
 
 While I was getting busy experimenting with LLMs with my web-dev and service design hats on, the rest of the world was trying to fit them into their workplace. 
 
-In this story, I've blended the details of what I saw, as this isn't about pointing fingers. But I keep wondering: if I could wind back the clock and run a retro with each team, what would end up on the board?
+All three teams did retros. AI never came up in them. So I keep wondering: if I could wind back the clock and run one with each team, what would end up on the board? (I've blended the details of what I saw, as this isn't about pointing fingers.)
 
 ## We dropped user research
 
@@ -106,7 +106,7 @@ What the three boards share is that each time, a tool changed whose job somethin
 
 So it's cultural before it's technical. The twin might have been the right way to go, but it wasn't right for that team.
 
-Which is why I keep coming back to the retro. It's a small piece of accountability: the place where a team says what a change is doing to their work, and where each action has a name assigned to it. It keeps the people leading the work answerable to the people doing it. All three teams did retros. AI never came up in them.
+Which is why I keep coming back to the retro. It's a small piece of accountability: the place where a team says what a change is doing to their work, and where each action has a name assigned to it. It keeps the people leading the work answerable to the people doing it.
 
 I don't know yet what good looks like here, but I'm going to keep looking. If your team has found it, [happy to chat](mailto:dug@goodlookslikethis.com).
 
