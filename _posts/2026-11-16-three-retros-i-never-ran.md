@@ -3,7 +3,7 @@ layout: 2023/post
 title: "Three retros I never ran"
 
 subtitle: >
-  GenAI turned up in the work of three teams I worked with. If I could wind back the clock and run a retro with each, what would end up on the board?
+  GenAI tools turned up in the work of three teams I worked with recently. We experienced mixed results. If I could wind back the clock and run a retro with each, what would end up on the board?
 
 hero_image: /i/the-accountability-gap-lighter.webp
 
