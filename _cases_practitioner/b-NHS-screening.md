@@ -147,10 +147,10 @@ The NHS screening services, including those for breast, cervical and bowel cance
 
 The four themes, marked a to d in the blueprint at the top of this page, were:
 
-- **a. Targeted outreach:** more relevant, personalised communications, with outreach prototyped and tested via social media
-- **b. Self-service booking:** letting participants book for themselves and choose their channel
-- **c. Reminders:** a reminder service via SMS and other channels
-- **d. Reporting:** co-designed reports and a new reporting and management information service
+- Targeted outreach: more relevant, personalised communications, with outreach prototyped and tested via social media
+- Self-service booking: letting participants book for themselves and choose their channel
+- Reminders: a reminder service via SMS and other channels
+- Reporting: co-designed reports and a new reporting and management information service
 
 My stakeholder was successful in their application and the extensible service MVP went into production, with further screening journeys planned to follow.
 
