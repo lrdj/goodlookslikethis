@@ -52,7 +52,7 @@ comments: true
 
 While I was getting busy experimenting with LLMs with my web-dev and service design hats on, the rest of the world was trying to fit them into their workplace. 
 
-All three teams did retros. AI never came up in them. So I keep wondering: if I could wind back the clock and run one with each team, what would end up on the board? (I've blended the details of what I saw, as this isn't about pointing fingers.)
+All three teams did retros. AI never came up in them. So I keep wondering: if I could wind back the clock and run one with each team, what would end up on the board? _(I've blended the details of what I saw, as this isn't about pointing fingers.)_
 
 ## We dropped user research
 
