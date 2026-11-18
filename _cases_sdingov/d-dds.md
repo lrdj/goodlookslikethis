@@ -70,10 +70,10 @@ The speculations were ideated after reviewing discovery phase outputs and perfor
 
 The prototype acts as stimulus for user research. It was designed to test the following speculations:
 
-- **What if we created an online community hub** where the data community could learn about sharing best practice, search for data sets, and find contact details of relevant data owners
-- **What if we didn't build an end-to-end service**, but instead provided wizards that helped data acquirers and data suppliers write better responses and better requests? What would happen if those wizards positioned the information that is most often missing from submissions nearer to the start of the flow?
-- **What if we took the impact assessment and the contract that are normally handled at the conclusion of the negotiation process, and moved them to the beginning** in a starter-for-ten format? How would civil servants react to that?
-- **What if we created a space that would allow supplier and acquirer to collaborate and manage their documentation in one, secure, shared space?** Specifically, would the benefits of an audit trail, centralised storage etc. outweigh the cost of complexity and the overhead of learning a new system?
+- **What if** we created an online community hub where the data community could learn about sharing best practice, search for data sets, and find contact details of relevant data owners
+- **What if** we didn't build an end-to-end service, but instead provided wizards that helped data acquirers and data suppliers write better responses and better requests? What would happen if those wizards positioned the information that is most often missing from submissions nearer to the start of the flow?
+- **What if** we took the impact assessment and the contract that are normally handled at the conclusion of the negotiation process, and moved them to the beginning in a starter-for-ten format? How would civil servants react to that?
+- **What if** we created a space that would allow supplier and acquirer to collaborate and manage their documentation in one, secure, shared space? Specifically, would the benefits of an audit trail, centralised storage etc. outweigh the cost of complexity and the overhead of learning a new system?
 
 The interaction concept at the centre of the prototype was the memorandum of understanding as a social object: a shared draft that supplier, acquirer and their advisers use to build and grow consensus around the rules of the share.
 
